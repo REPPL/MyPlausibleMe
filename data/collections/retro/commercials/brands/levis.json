@@ -1,0 +1,19 @@
+{
+  "id": "levis",
+  "title": "Levi's",
+  "shortTitle": "Levi's",
+  "summary": "American denim brand whose 501 jeans became cultural icons, supported by groundbreaking TV campaigns throughout the 1980s and 1990s.",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Levi_Strauss_%26_Co.",
+      "source": "Wikipedia"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Levi%27s_Storefront_%2848105830541%29.jpg",
+      "type": "logo",
+      "alt": "Levi's logo"
+    }
+  ]
+}

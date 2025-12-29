@@ -1,0 +1,63 @@
+{
+  "id": "adventures-of-huckleberry-finn-1884",
+  "title": "Adventures of Huckleberry Finn",
+  "author": "mark-twain",
+  "year": 1884,
+  "genres": [
+    "Adventure",
+    "Picaresque",
+    "Satire"
+  ],
+  "pages": 366,
+  "publisher": "Chatto & Windus",
+  "language": "English",
+  "country": "United States",
+  "summary": "Huck Finn escapes his abusive father and travels down the Mississippi River with Jim, an escaped slave. Called 'the Great American Novel' by Ernest Hemingway, it remains controversial for its language and themes.",
+  "sales": {
+    "copiesSold": 10000000,
+    "languages": 60,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 3.84,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 3.91,
+      "max": 5,
+      "count": 229
+    }
+  },
+  "rank": 97,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/8157718-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Adventures of Huckleberry Finn cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL53908W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL53908W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 2552,
+  "isbn": "9781981779376",
+  "description": "Adventures of Huckleberry Finn or as it is known in more recent editions, The Adventures of Huckleberry Finn, is a novel by American author Mark Twain, which was first published in the United Kingdom in December 1884 and in the United States in February 1885.\r\n\r\nCommonly named among the Great American Novels, the work is among the first in major American literature to be written throughout in vernacular English, characterized by local color regionalism. It is told in the first person by Hucklebe...",
+  "_openlibrary_work_key": "/works/OL53908W"
+}

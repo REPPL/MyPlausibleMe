@@ -1,0 +1,64 @@
+{
+  "id": "the-da-vinci-code-2003",
+  "title": "The Da Vinci Code",
+  "author": "dan-brown",
+  "year": 2003,
+  "genres": [
+    "Mystery",
+    "Thriller",
+    "Conspiracy fiction"
+  ],
+  "pages": 454,
+  "publisher": "Doubleday",
+  "language": "English",
+  "country": "USA",
+  "series": "Robert Langdon",
+  "summary": "Harvard symbologist Robert Langdon investigates a murder in the Louvre and uncovers a secret protected by a society for two thousand years. A controversial thriller exploring alternative religious history.",
+  "sales": {
+    "copiesSold": 80000000,
+    "languages": 44,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Da_Vinci_Code"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 3.9,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 3.91,
+      "max": 5,
+      "count": 174
+    }
+  },
+  "rank": 11,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/9255229-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "The Da Vinci Code cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL76837W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Da_Vinci_Code",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL76837W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 197,
+  "isbn": "0552171344",
+  "description": "The Da Vinci Code is a 2003 mystery thriller novel by Dan Brown. It is Brown's second novel to include the character Robert Langdon: the first was his 2000 novel Angels & Demons. The Da Vinci Code follows \"symbologist\" Robert Langdon and cryptologist Sophie Neveu after a murder in the Louvre Museum in Paris causes them to become involved in a battle between the Priory of Sion and Opus Dei over the possibility of Jesus Christ and Mary Magdalene having had a child together.\r\n\r\n\r\n----------\r\nSee al...",
+  "_openlibrary_work_key": "/works/OL76837W"
+}

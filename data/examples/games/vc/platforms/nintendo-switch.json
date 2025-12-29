@@ -1,0 +1,29 @@
+{
+  "id": "nintendo-switch",
+  "title": "Nintendo Switch",
+  "type": "hybrid",
+  "manufacturer": "Nintendo",
+  "year": 2017,
+  "generation": 8,
+  "unitsSold": 146000000,
+  "summary": "Nintendo's hybrid home/portable video game console. Can be used as a home console connected to a TV or as a portable handheld device.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Nintendo_Switch_logo.svg",
+      "type": "logo",
+      "isPrimary": true,
+      "alt": "Nintendo Switch logo",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Nintendo_Switch_logo.svg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Nintendo_Switch",
+      "source": "Wikipedia"
+    }
+  ]
+}

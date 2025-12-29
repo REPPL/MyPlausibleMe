@@ -1,0 +1,46 @@
+{
+  "id": "24-2001",
+  "title": "24",
+  "network": "fox",
+  "year": 2001,
+  "endYear": 2014,
+  "seasons": 9,
+  "episodes": 204,
+  "genres": ["Action", "Drama", "Thriller"],
+  "creators": ["Joel Surnow", "Robert Cochran"],
+  "cast": ["Kiefer Sutherland", "Mary Lynn Rajskub", "Carlos Bernard", "Dennis Haysbert", "Elisha Cuthbert"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 43,
+  "summary": "Each season covers 24 hours in the life of CTU agent Jack Bauer, shown in real time, as he fights terrorism. Revolutionary for its real-time format and split-screen editing.",
+  "viewership": {
+    "peakViewers": 17380000,
+    "averageViewers": 12000000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/24_(TV_series)"
+  },
+  "ratings": {
+    "imdb": { "score": 8.4, "max": 10 },
+    "rottenTomatoes": { "critics": 87, "audience": 91 }
+  },
+  "rank": 47,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/0d/24_Season_1_DVD_Cover.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "24 season 1 DVD cover",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:24_Season_1_DVD_Cover.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/24_(TV_series)",
+      "source": "Wikipedia"
+    }
+  ]
+}

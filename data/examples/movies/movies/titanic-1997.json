@@ -1,0 +1,73 @@
+{
+  "id": "titanic-1997",
+  "title": "Titanic",
+  "studio": "paramount",
+  "year": 1997,
+  "director": "James Cameron",
+  "cast": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane", "Kathy Bates", "Bill Paxton"],
+  "genres": ["Romance", "Drama", "Disaster"],
+  "runtime": 195,
+  "language": "English",
+  "country": "USA",
+  "summary": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic. James Cameron's epic romance became a cultural phenomenon, holding the record as the highest-grossing film for 12 years and winning 11 Academy Awards.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 2264743305,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 674292608,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 1590450697,
+      "currency": "USD"
+    },
+    "budget": 200000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Titanic_(1997_film)"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 11,
+      "nominations": 14
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 7.9, "max": 10 },
+    "rottenTomatoes": { "critics": 88, "audience": 69 },
+    "metacritic": { "score": 75, "max": 100 }
+  },
+  "rank": 4,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/18/Titanic_%281997_film%29_poster.png",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Titanic movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Titanic_(1997_film)_poster.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=kVrqfYjkTdQ",
+      "title": "Titanic Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Titanic_(1997_film)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0120338/",
+      "source": "IMDB"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "harry-potter-and-the-order-of-the-phoenix-2007",
+  "title": "Harry Potter and the Order of the Phoenix",
+  "studio": "warner-bros",
+  "year": 2007,
+  "director": "David Yates",
+  "cast": [
+    "Daniel Radcliffe",
+    "Rupert Grint",
+    "Emma Watson",
+    "Gary Oldman",
+    "Imelda Staunton"
+  ],
+  "genres": [
+    "Fantasy",
+    "Adventure",
+    "Mystery"
+  ],
+  "runtime": 138,
+  "language": "English",
+  "country": "UK",
+  "summary": "With their warning about Lord Voldemort's return scoffed at, Harry and Dumbledore are targeted by the Wizard authorities as an idealistic ministry combatant combats seizes power at Hogwarts. Imelda Staunton's portrayal of Dolores Umbridge became iconic.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 942011527,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 292004738,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 650006789,
+      "currency": "USD"
+    },
+    "budget": 150000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": {
+      "score": 7.5,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 78,
+      "audience": 81
+    },
+    "metacritic": {
+      "score": 71,
+      "max": 100
+    }
+  },
+  "rank": 89,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/e7/Harry_Potter_and_the_Order_of_the_Phoenix_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Harry Potter and the Order of the Phoenix movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Theatrical_poster_for_Harry_Potter_and_the_Order_of_the_Phoenix.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=47pDW_ZOeNE",
+      "title": "Harry Potter and the Order of the Phoenix Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0373889/",
+      "source": "IMDB"
+    }
+  ]
+}

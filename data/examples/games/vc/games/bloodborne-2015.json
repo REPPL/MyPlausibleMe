@@ -1,0 +1,39 @@
+{
+  "id": "bloodborne-2015",
+  "title": "Bloodborne",
+  "publisher": "sony",
+  "developer": "FromSoftware",
+  "year": 2015,
+  "platforms": ["PlayStation 4", "PC"],
+  "genres": ["Action RPG", "Souls-like", "Horror"],
+  "modes": ["Single-player", "Multiplayer"],
+  "summary": "A hunter explores the Gothic, Victorian city of Yharnam plagued by a blood-borne disease. Known for its Lovecraftian horror atmosphere and aggressive combat.",
+  "sales": {
+    "unitsSold": 3000000,
+    "source": "Wikipedia/Sony",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Bloodborne"
+  },
+  "ratings": {
+    "metacritic": { "score": 92, "max": 100 }
+  },
+  "rank": 48,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/68/Bloodborne_Cover_Wallpaper.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Bloodborne cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Bloodborne_Cover_Wallpaper.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Bloodborne",
+      "source": "Wikipedia"
+    }
+  ]
+}

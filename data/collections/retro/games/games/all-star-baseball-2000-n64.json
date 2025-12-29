@@ -1,0 +1,43 @@
+{
+  "id": "all-star-baseball-2000-n64",
+  "title": "All-Star Baseball 2000",
+  "platform": "n64",
+  "myRank": 5,
+  "year": 1999,
+  "summary": "A baseball simulation game featuring official Major League Baseball licensing and realistic player physics for the era.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/ca/All_Star_Baseball_2000.jpg",
+      "type": "boxart",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:All_Star_Baseball_2000.jpg",
+        "licence": "fair-use"
+      },
+      "isPrimary": true,
+      "alt": "All-Star Baseball 2000 cover art"
+    }
+  ],
+  "myStartYear": 1999,
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/All-Star_Baseball_2000",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/game/13401/",
+      "source": "MobyGames"
+    }
+  ],
+  "originalReleaseDate": "1999",
+  "genres": [
+    "Sports"
+  ],
+  "myVerdict": "Having played this says more about the console",
+  "averageRating": {
+    "score": 4.5,
+    "sourceCount": 12,
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/All-Star_Baseball_2000#Reception"
+  }
+}

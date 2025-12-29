@@ -1,0 +1,42 @@
+{
+  "id": "fire-emblem-the-sacred-stones-gba",
+  "title": "Fire Emblem: The Sacred Stones",
+  "platform": "gba",
+  "myRank": null,
+  "year": 2004,
+  "summary": "A tactical role-playing game featuring a branching class system and a compelling narrative of two royal siblings.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/1e/Fire_Emblem_The_Sacred_Stones.JPG",
+      "type": "boxart",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Fire_Emblem_The_Sacred_Stones.JPG",
+        "licence": "fair-use"
+      },
+      "isPrimary": true,
+      "alt": "Fire Emblem: The Sacred Stones cover art"
+    }
+  ],
+  "myVerdict": "How?!? Why?!",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Fire_Emblem:_The_Sacred_Stones",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/game/18412/",
+      "source": "MobyGames"
+    }
+  ],
+  "originalReleaseDate": "2004",
+  "genres": [
+    "RPG"
+  ],
+  "averageRating": {
+    "score": 4.5,
+    "sourceCount": 20,
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fire_Emblem:_The_Sacred_Stones#Reception"
+  }
+}

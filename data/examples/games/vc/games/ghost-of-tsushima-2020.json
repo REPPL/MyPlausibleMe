@@ -1,0 +1,39 @@
+{
+  "id": "ghost-of-tsushima-2020",
+  "title": "Ghost of Tsushima",
+  "publisher": "sony",
+  "developer": "Sucker Punch Productions",
+  "year": 2020,
+  "platforms": ["PlayStation 4", "PlayStation 5", "PC"],
+  "genres": ["Action-adventure", "Open world", "Stealth"],
+  "modes": ["Single-player", "Multiplayer"],
+  "summary": "A samurai must abandon traditional warfare to defend Tsushima Island from a Mongol invasion. Features stunning visuals and fluid combat inspired by samurai cinema.",
+  "sales": {
+    "unitsSold": 13000000,
+    "source": "Wikipedia/Sony",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ghost_of_Tsushima"
+  },
+  "ratings": {
+    "metacritic": { "score": 83, "max": 100 }
+  },
+  "rank": 36,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/b6/Ghost_of_Tsushima.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Ghost of Tsushima cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Ghost_of_Tsushima.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ghost_of_Tsushima",
+      "source": "Wikipedia"
+    }
+  ]
+}

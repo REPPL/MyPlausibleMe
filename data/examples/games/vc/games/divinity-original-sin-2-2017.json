@@ -1,0 +1,39 @@
+{
+  "id": "divinity-original-sin-2-2017",
+  "title": "Divinity: Original Sin 2",
+  "publisher": "larian-studios",
+  "developer": "Larian Studios",
+  "year": 2017,
+  "platforms": ["PC", "Mac", "PlayStation 4", "Xbox One", "Nintendo Switch"],
+  "genres": ["RPG", "Turn-based tactics"],
+  "modes": ["Single-player", "Multiplayer"],
+  "summary": "Sourcerers must escape Fort Joy and master their powers. A critically acclaimed CRPG that established Larian's reputation before Baldur's Gate 3.",
+  "sales": {
+    "unitsSold": 7000000,
+    "source": "Wikipedia/Larian Studios",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Divinity:_Original_Sin_II"
+  },
+  "ratings": {
+    "metacritic": { "score": 93, "max": 100 }
+  },
+  "rank": 70,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/12/Divinity_Original_Sin_2_cover_art.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Divinity: Original Sin 2 cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Divinity_Original_Sin_2_cover_art.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Divinity:_Original_Sin_II",
+      "source": "Wikipedia"
+    }
+  ]
+}

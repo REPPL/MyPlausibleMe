@@ -1,0 +1,43 @@
+{
+  "id": "turok-n64",
+  "title": "Turok",
+  "platform": "n64",
+  "myRank": 3,
+  "year": 1997,
+  "summary": "A first-person shooter involving combat against dinosaurs and other creatures, based on the comic book character Turok.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/86/Turok-dinosaur_hunter_n64_cover.png",
+      "type": "boxart",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Turok-dinosaur_hunter_n64_cover.png",
+        "licence": "fair-use"
+      },
+      "isPrimary": true,
+      "alt": "Turok cover art"
+    }
+  ],
+  "myStartYear": 1998,
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Turok:_Dinosaur_Hunter",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/game/3592/",
+      "source": "MobyGames"
+    }
+  ],
+  "originalReleaseDate": "1997",
+  "genres": [
+    "FPS"
+  ],
+  "myVerdict": "Having played this says more about the console",
+  "averageRating": {
+    "score": 4.5,
+    "sourceCount": 10,
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Turok:_Dinosaur_Hunter#Reception"
+  }
+}

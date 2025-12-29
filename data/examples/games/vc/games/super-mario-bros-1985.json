@@ -1,0 +1,39 @@
+{
+  "id": "super-mario-bros-1985",
+  "title": "Super Mario Bros.",
+  "publisher": "nintendo",
+  "developer": "Nintendo R&D4",
+  "year": 1985,
+  "platforms": ["NES", "Game Boy Color", "Virtual Console"],
+  "genres": ["Platformer"],
+  "modes": ["Single-player", "Multiplayer"],
+  "summary": "Mario must rescue Princess Toadstool from Bowser by traversing the Mushroom Kingdom. Credited with revitalising the video game industry after the 1983 crash.",
+  "sales": {
+    "unitsSold": 58000000,
+    "source": "Wikipedia/Nintendo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Super_Mario_Bros."
+  },
+  "ratings": {
+    "metacritic": { "score": 89, "max": 100 }
+  },
+  "rank": 7,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/03/Super_Mario_Bros._box.png",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Super Mario Bros. box art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Super_Mario_Bros._box.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+      "source": "Wikipedia"
+    }
+  ]
+}

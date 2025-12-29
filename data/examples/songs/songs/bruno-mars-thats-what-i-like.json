@@ -1,0 +1,100 @@
+{
+  "id": "bruno-mars-thats-what-i-like",
+  "title": "That's What I Like",
+  "artist": "bruno-mars",
+  "year": 2016,
+  "album": "24K Magic",
+  "writers": [
+    "Bruno Mars",
+    "Philip Lawrence",
+    "James Fauntleroy",
+    "Ray Charles McCullough II",
+    "Christopher Brody Brown",
+    "Jeremy Reeves",
+    "Ray Romulus",
+    "Jonathan Yip"
+  ],
+  "producers": [
+    "Bruno Mars",
+    "Shampoo Press & Curl",
+    "The Stereotypes"
+  ],
+  "genres": [
+    "R&B",
+    "Funk",
+    "Pop"
+  ],
+  "duration": 206,
+  "label": "Atlantic Records",
+  "summary": "A smooth R&B track about spoiling a romantic partner that won the Grammy for Record of the Year. Its retro sound pays homage to 1990s R&B while maintaining a modern feel.",
+  "sales": {
+    "totalUnits": 8000000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/That%27s_What_I_Like_(Bruno_Mars_song)"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 1,
+      "weeks": 1,
+      "chart": "Billboard Hot 100",
+      "year": 2017
+    },
+    "UK": {
+      "peak": 4,
+      "chart": "UK Singles Chart",
+      "year": 2017
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "7x Platinum",
+      "units": 7000000
+    },
+    {
+      "region": "UK",
+      "certification": "2x Platinum",
+      "units": 1200000
+    }
+  ],
+  "rank": 74,
+  "images": [
+    {
+      "url": "https://coverartarchive.org/release/d0bc89a0-53dd-40a7-8bf7-4fd4332cda52/15443612034-500.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Album cover",
+      "attribution": {
+        "source": "Cover Art Archive",
+        "licence": "CC BY-NC-SA 3.0",
+        "licenceUrl": "https://wiki.musicbrainz.org/Cover_Art_Archive",
+        "note": "Cover art copyrighted by respective owners. Non-commercial use only.",
+        "sourceUrl": "https://musicbrainz.org/release/d0bc89a0-53dd-40a7-8bf7-4fd4332cda52"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=PMivT7MJ41M",
+      "title": "Bruno Mars - That's What I Like (Official Music Video)",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/That%27s_What_I_Like_(Bruno_Mars_song)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/661e19b7-5c69-48af-bee9-9c2110495d45",
+      "source": "MusicBrainz"
+    },
+    {
+      "url": "https://musicbrainz.org/release/d0bc89a0-53dd-40a7-8bf7-4fd4332cda52",
+      "source": "MusicBrainz (Release)"
+    }
+  ],
+  "_musicbrainz_recording_id": "661e19b7-5c69-48af-bee9-9c2110495d45",
+  "_musicbrainz_release_id": "d0bc89a0-53dd-40a7-8bf7-4fd4332cda52"
+}

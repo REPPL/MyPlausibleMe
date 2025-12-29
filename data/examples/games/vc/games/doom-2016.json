@@ -1,0 +1,39 @@
+{
+  "id": "doom-2016",
+  "title": "Doom",
+  "publisher": "bethesda",
+  "developer": "id Software",
+  "year": 2016,
+  "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "Stadia"],
+  "genres": ["First-person shooter"],
+  "modes": ["Single-player", "Multiplayer"],
+  "summary": "The Doom Slayer battles demons on Mars. A reboot of the classic franchise featuring brutal combat, glory kills, and a heavy metal soundtrack.",
+  "sales": {
+    "unitsSold": 5000000,
+    "source": "Wikipedia/Bethesda",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Doom_(2016_video_game)"
+  },
+  "ratings": {
+    "metacritic": { "score": 85, "max": 100 }
+  },
+  "rank": 71,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/57/Doom_cover_art.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Doom cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Doom_cover_art.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Doom_(2016_video_game)",
+      "source": "Wikipedia"
+    }
+  ]
+}

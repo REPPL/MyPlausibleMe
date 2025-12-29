@@ -1,0 +1,39 @@
+{
+  "id": "hi-fi-rush-2023",
+  "title": "Hi-Fi Rush",
+  "publisher": "bethesda",
+  "developer": "Tango Gameworks",
+  "year": 2023,
+  "platforms": ["PC", "Xbox Series X/S", "PlayStation 5"],
+  "genres": ["Action", "Rhythm"],
+  "modes": ["Single-player"],
+  "summary": "Chai battles robots with rhythm-based combat where the entire world moves to the beat. A surprise shadow-drop that won praise for its style and gameplay.",
+  "sales": {
+    "unitsSold": 3000000,
+    "source": "Wikipedia/Bethesda",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hi-Fi_Rush"
+  },
+  "ratings": {
+    "metacritic": { "score": 89, "max": 100 }
+  },
+  "rank": 93,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/87/Hi-Fi_Rush_key_art.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Hi-Fi Rush cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Hi-Fi_Rush_key_art.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Hi-Fi_Rush",
+      "source": "Wikipedia"
+    }
+  ]
+}

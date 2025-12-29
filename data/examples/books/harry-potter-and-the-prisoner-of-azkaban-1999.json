@@ -1,0 +1,64 @@
+{
+  "id": "harry-potter-and-the-prisoner-of-azkaban-1999",
+  "title": "Harry Potter and the Prisoner of Azkaban",
+  "author": "j-k-rowling",
+  "year": 1999,
+  "genres": [
+    "Fantasy",
+    "Young adult",
+    "Children's literature"
+  ],
+  "pages": 317,
+  "publisher": "Bloomsbury",
+  "language": "English",
+  "country": "United Kingdom",
+  "series": "Harry Potter",
+  "summary": "Harry's third year introduces Sirius Black, an escaped prisoner believed to be hunting Harry, and the mysterious Dementors. Often considered the series' turning point into darker themes.",
+  "sales": {
+    "copiesSold": 55000000,
+    "languages": 79,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.58,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.25,
+      "max": 5,
+      "count": 611
+    }
+  },
+  "rank": 16,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/10580435-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Harry Potter and the Prisoner of Azkaban cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL82536W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL82536W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 263,
+  "isbn": "0606215840",
+  "description": "For Harry Potter, it’s the start of another far-from-ordinary year at Hogwarts when the Knight Bus crashes through the darkness and comes to an abrupt halt in front of him.\r\n\r\nIt turns out that Sirius Black, mass-murderer and follower of Lord Voldemort, has escaped – and they say he is coming after Harry.\r\n\r\nIn his first Divination class, Professor Trelawney sees an omen of death in Harry’s tea leaves.\r\n\r\nAnd perhaps most frightening of all are the Dementors patrolling the school grounds with th...",
+  "_openlibrary_work_key": "/works/OL82536W"
+}

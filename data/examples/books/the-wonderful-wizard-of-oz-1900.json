@@ -1,0 +1,63 @@
+{
+  "id": "the-wonderful-wizard-of-oz-1900",
+  "title": "The Wonderful Wizard of Oz",
+  "author": "l-frank-baum",
+  "year": 1900,
+  "genres": [
+    "Fantasy",
+    "Children's literature",
+    "Adventure"
+  ],
+  "pages": 259,
+  "publisher": "George M. Hill Company",
+  "language": "English",
+  "country": "United States",
+  "summary": "Dorothy Gale and her dog Toto are swept away to the Land of Oz, where they join the Scarecrow, Tin Man, and Cowardly Lion on a quest to meet the Wizard. The inspiration for the iconic 1939 film.",
+  "sales": {
+    "copiesSold": 10000000,
+    "languages": 50,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 3.99,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 3.95,
+      "max": 5,
+      "count": 122
+    }
+  },
+  "rank": 98,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/552443-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "The Wonderful Wizard of Oz cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL18417W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL18417W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 2052,
+  "isbn": "0749800577",
+  "description": "Over a century after its initial publication, The Wonderful Wizard of Oz is still captivating the hearts of countless readers. Come adventure with Dorothy and her three friends: the Scarecrow, the Tin Woodman, and the Cowardly Lion, as they follow the Yellow Brick Road to the Emerald City for an audience with the Great Oz, the mightiest Wizard in the land, and the only one that can return Dorothy to her home in Kansas.",
+  "_openlibrary_work_key": "/works/OL18417W"
+}

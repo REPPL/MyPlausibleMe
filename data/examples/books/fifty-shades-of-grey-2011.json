@@ -1,0 +1,63 @@
+{
+  "id": "fifty-shades-of-grey-2011",
+  "title": "Fifty Shades of Grey",
+  "author": "e-l-james",
+  "year": 2011,
+  "genres": [
+    "Erotic romance",
+    "Novel"
+  ],
+  "pages": 514,
+  "publisher": "Vintage Books",
+  "language": "English",
+  "country": "United Kingdom",
+  "series": "Fifty Shades",
+  "summary": "The story of college student Anastasia Steele's relationship with young businessman Christian Grey. Originally Twilight fan fiction, it became a publishing phenomenon and was adapted into a film trilogy.",
+  "sales": {
+    "copiesSold": 15000000,
+    "languages": 52,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fifty_Shades_of_Grey"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 3.67,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 3.94,
+      "max": 5,
+      "count": 309
+    }
+  },
+  "rank": 64,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/12648183-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "50 Fifty Shades of Grey cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL16336633W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Fifty_Shades_of_Grey",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL16336633W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 138,
+  "isbn": "1529198240",
+  "description": "When literature student Anastasia Steele goes to interview young entrepreneur Christian Grey, she encounters a man who is beautiful, brilliant, and intimidating. The unworldly, innocent Ana is startled to realize she wants this man and, despite his enigmatic reserve, finds she is desperate to get close to him. Unable to resist Ana’s quiet beauty, wit, and independent spirit, Grey admits he wants her, too—but on his own terms.\r\n \r\nShocked yet thrilled by Grey’s singular erotic tastes, Ana hesitat...",
+  "_openlibrary_work_key": "/works/OL16336633W"
+}

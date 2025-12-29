@@ -1,0 +1,73 @@
+{
+  "id": "it-2017",
+  "title": "It",
+  "studio": "warner-bros",
+  "year": 2017,
+  "director": "Andy Muschietti",
+  "cast": ["Jaeden Martell", "Bill Skarsgård", "Finn Wolfhard", "Sophia Lillis", "Jack Dylan Grazer"],
+  "genres": ["Horror", "Thriller"],
+  "runtime": 135,
+  "language": "English",
+  "country": "USA",
+  "summary": "In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town. The adaptation became the highest-grossing horror film of all time.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 701796444,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 328874981,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 372921463,
+      "currency": "USD"
+    },
+    "budget": 35000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/It_(2017_film)"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 7.3, "max": 10 },
+    "rottenTomatoes": { "critics": 86, "audience": 84 },
+    "metacritic": { "score": 69, "max": 100 }
+  },
+  "rank": 78,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/5a/It_%282017%29_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "It movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:It_(2017)_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=xKJmEC5ieOk",
+      "title": "It Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/It_(2017_film)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt1396484/",
+      "source": "IMDB"
+    }
+  ]
+}

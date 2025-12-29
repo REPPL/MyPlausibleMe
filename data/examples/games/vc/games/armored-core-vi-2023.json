@@ -1,0 +1,39 @@
+{
+  "id": "armored-core-vi-2023",
+  "title": "Armored Core VI: Fires of Rubicon",
+  "publisher": "bandai-namco",
+  "developer": "FromSoftware",
+  "year": 2023,
+  "platforms": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S"],
+  "genres": ["Action", "Mech simulation"],
+  "modes": ["Single-player", "Multiplayer"],
+  "summary": "FromSoftware's return to the mech action series. Features deep mech customisation and the studio's signature challenging gameplay.",
+  "sales": {
+    "unitsSold": 3000000,
+    "source": "Wikipedia/Bandai Namco",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Armored_Core_VI:_Fires_of_Rubicon"
+  },
+  "ratings": {
+    "metacritic": { "score": 87, "max": 100 }
+  },
+  "rank": 91,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/92/Armored_Core_VI_cover_art.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Armored Core VI cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Armored_Core_VI_cover_art.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Armored_Core_VI:_Fires_of_Rubicon",
+      "source": "Wikipedia"
+    }
+  ]
+}

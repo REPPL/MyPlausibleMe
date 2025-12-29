@@ -1,0 +1,64 @@
+{
+  "id": "wednesday-2022",
+  "title": "Wednesday",
+  "network": "netflix",
+  "year": 2022,
+  "endYear": null,
+  "seasons": 1,
+  "episodes": 8,
+  "genres": [
+    "Comedy horror",
+    "Mystery",
+    "Supernatural"
+  ],
+  "creators": [
+    "Alfred Gough",
+    "Miles Millar"
+  ],
+  "cast": [
+    "Jenna Ortega",
+    "Gwendoline Christie",
+    "Riki Lindhome",
+    "Christina Ricci",
+    "Catherine Zeta-Jones"
+  ],
+  "country": "United States",
+  "language": "English",
+  "runtime": 48,
+  "summary": "Wednesday Addams investigates a murder mystery while navigating her new school, Nevermore Academy. The series broke Netflix records with over 1 billion hours viewed in its first month.",
+  "viewership": {
+    "hoursWatched": 1237650000,
+    "source": "Netflix",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Wednesday_(TV_series)"
+  },
+  "ratings": {
+    "imdb": {
+      "score": 8.1,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 73,
+      "audience": 82
+    }
+  },
+  "rank": 11,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Cantacuzino_Castle_%28April_2023%29_01.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Wednesday poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Wednesday_TV_series_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Wednesday_(TV_series)",
+      "source": "Wikipedia"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "supernatural-2005",
+  "title": "Supernatural",
+  "network": "the-cw",
+  "year": 2005,
+  "endYear": 2020,
+  "seasons": 15,
+  "episodes": 327,
+  "genres": ["Fantasy", "Horror", "Drama"],
+  "creators": ["Eric Kripke"],
+  "cast": ["Jared Padalecki", "Jensen Ackles", "Misha Collins", "Mark Sheppard", "Jim Beaver"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 42,
+  "summary": "Two brothers hunt demons, ghosts, and other supernatural creatures while uncovering dark secrets about their family. The longest-running American fantasy series.",
+  "viewership": {
+    "peakViewers": 4750000,
+    "averageViewers": 2500000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Supernatural_(American_TV_series)"
+  },
+  "ratings": {
+    "imdb": { "score": 8.4, "max": 10 },
+    "rottenTomatoes": { "critics": 93, "audience": 90 }
+  },
+  "rank": 53,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/2/21/Supernatural_Season_6_DVD.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Supernatural poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Supernatural_Season_6_DVD.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Supernatural_(American_TV_series)",
+      "source": "Wikipedia"
+    }
+  ]
+}

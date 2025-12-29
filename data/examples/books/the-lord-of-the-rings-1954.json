@@ -1,0 +1,42 @@
+{
+  "id": "the-lord-of-the-rings-1954",
+  "title": "The Lord of the Rings",
+  "author": "j-r-r-tolkien",
+  "year": 1954,
+  "genres": ["Fantasy", "Adventure", "Epic"],
+  "pages": 1178,
+  "publisher": "Allen & Unwin",
+  "language": "English",
+  "country": "United Kingdom",
+  "series": "The Lord of the Rings",
+  "summary": "An epic high fantasy following hobbit Frodo Baggins on his quest to destroy the One Ring and defeat the Dark Lord Sauron. Published in three volumes, it defined modern fantasy literature.",
+  "sales": {
+    "copiesSold": 150000000,
+    "languages": 38,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings"
+  },
+  "ratings": {
+    "goodreads": { "score": 4.53, "max": 5 }
+  },
+  "rank": 3,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/e9/First_Single_Volume_Edition_of_The_Lord_of_the_Rings.gif",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "The Lord of the Rings first single volume edition",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:First_Single_Volume_Edition_of_The_Lord_of_the_Rings.gif",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings",
+      "source": "Wikipedia"
+    }
+  ]
+}

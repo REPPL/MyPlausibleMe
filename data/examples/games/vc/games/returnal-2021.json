@@ -1,0 +1,39 @@
+{
+  "id": "returnal-2021",
+  "title": "Returnal",
+  "publisher": "sony",
+  "developer": "Housemarque",
+  "year": 2021,
+  "platforms": ["PlayStation 5", "PC"],
+  "genres": ["Roguelike", "Third-person shooter"],
+  "modes": ["Single-player", "Multiplayer"],
+  "summary": "Selene is trapped in a time loop on an alien planet after a crash landing. A AAA roguelike with bullet-hell combat and psychological horror elements.",
+  "sales": {
+    "unitsSold": 4000000,
+    "source": "Wikipedia/Sony",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Returnal_(video_game)"
+  },
+  "ratings": {
+    "metacritic": { "score": 86, "max": 100 }
+  },
+  "rank": 83,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/6f/Returnal_cover_art.png",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Returnal cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Returnal_cover_art.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Returnal_(video_game)",
+      "source": "Wikipedia"
+    }
+  ]
+}

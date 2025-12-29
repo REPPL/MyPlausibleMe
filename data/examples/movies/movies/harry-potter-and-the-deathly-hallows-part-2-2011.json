@@ -1,0 +1,73 @@
+{
+  "id": "harry-potter-and-the-deathly-hallows-part-2-2011",
+  "title": "Harry Potter and the Deathly Hallows – Part 2",
+  "studio": "warner-bros",
+  "year": 2011,
+  "director": "David Yates",
+  "cast": ["Daniel Radcliffe", "Rupert Grint", "Emma Watson", "Ralph Fiennes", "Alan Rickman"],
+  "genres": ["Fantasy", "Adventure", "Drama"],
+  "runtime": 130,
+  "language": "English",
+  "country": "UK",
+  "summary": "Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts. The epic conclusion to the Harry Potter film series became the franchise's highest-grossing entry.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1342511219,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 381193157,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 961318062,
+      "currency": "USD"
+    },
+    "budget": 125000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 3
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 8.1, "max": 10 },
+    "rottenTomatoes": { "critics": 96, "audience": 89 },
+    "metacritic": { "score": 85, "max": 100 }
+  },
+  "rank": 19,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/df/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Harry Potter and the Deathly Hallows – Part 2 movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=5NYt1qirBWg",
+      "title": "Harry Potter and the Deathly Hallows Part 2 Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt1201607/",
+      "source": "IMDB"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "cuphead-2017",
+  "title": "Cuphead",
+  "publisher": "studio-mdhr",
+  "developer": "Studio MDHR",
+  "year": 2017,
+  "platforms": [
+    "PC",
+    "Mac",
+    "PlayStation 4",
+    "Xbox One",
+    "Nintendo Switch"
+  ],
+  "genres": [
+    "Run and gun",
+    "Platformer"
+  ],
+  "modes": [
+    "Single-player",
+    "Multiplayer"
+  ],
+  "summary": "Cuphead and Mugman must defeat bosses to repay a debt to the Devil. Features hand-drawn animation inspired by 1930s cartoons.",
+  "sales": {
+    "unitsSold": 8000000,
+    "source": "Wikipedia/Studio MDHR",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Cuphead"
+  },
+  "ratings": {
+    "metacritic": {
+      "score": 88,
+      "max": 100
+    }
+  },
+  "rank": 65,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/eb/Cuphead_%28artwork%29.png",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Cuphead cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Cuphead_(artwork).jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Cuphead",
+      "source": "Wikipedia"
+    }
+  ]
+}

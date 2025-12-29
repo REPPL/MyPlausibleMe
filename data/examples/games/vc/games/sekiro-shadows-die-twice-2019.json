@@ -1,0 +1,39 @@
+{
+  "id": "sekiro-shadows-die-twice-2019",
+  "title": "Sekiro: Shadows Die Twice",
+  "publisher": "activision",
+  "developer": "FromSoftware",
+  "year": 2019,
+  "platforms": ["PC", "PlayStation 4", "Xbox One", "Stadia"],
+  "genres": ["Action-adventure", "Souls-like"],
+  "modes": ["Single-player"],
+  "summary": "A shinobi in Sengoku-era Japan seeks revenge for his master's abduction. Won Game of the Year 2019 and features a unique posture-based combat system.",
+  "sales": {
+    "unitsSold": 10000000,
+    "source": "Wikipedia/Activision",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice"
+  },
+  "ratings": {
+    "metacritic": { "score": 90, "max": 100 }
+  },
+  "rank": 47,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/6e/Sekiro_art.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Sekiro: Shadows Die Twice cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Sekiro_art.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice",
+      "source": "Wikipedia"
+    }
+  ]
+}

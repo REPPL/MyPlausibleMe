@@ -1,0 +1,73 @@
+{
+  "id": "skyfall-2012",
+  "title": "Skyfall",
+  "studio": "sony",
+  "year": 2012,
+  "director": "Sam Mendes",
+  "cast": ["Daniel Craig", "Javier Bardem", "Ralph Fiennes", "Judi Dench", "Naomie Harris"],
+  "genres": ["Action", "Spy", "Thriller"],
+  "runtime": 143,
+  "language": "English",
+  "country": "UK",
+  "summary": "James Bond's loyalty to M is tested when her past comes back to haunt her. When MI6 comes under attack, 007 must track down and destroy the threat, no matter how personal the cost. Released on the franchise's 50th anniversary, it became the highest-grossing Bond film ever.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1142471295,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 304360277,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 838111018,
+      "currency": "USD"
+    },
+    "budget": 150000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Skyfall"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 2,
+      "nominations": 5
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 7.8, "max": 10 },
+    "rottenTomatoes": { "critics": 92, "audience": 86 },
+    "metacritic": { "score": 81, "max": 100 }
+  },
+  "rank": 31,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/c8/Skyfall_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Skyfall movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Skyfall_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=6kw1UVovByw",
+      "title": "Skyfall Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Skyfall",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt1074638/",
+      "source": "IMDB"
+    }
+  ]
+}

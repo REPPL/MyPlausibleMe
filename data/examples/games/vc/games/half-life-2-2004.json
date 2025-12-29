@@ -1,0 +1,39 @@
+{
+  "id": "half-life-2-2004",
+  "title": "Half-Life 2",
+  "publisher": "valve",
+  "developer": "Valve",
+  "year": 2004,
+  "platforms": ["PC", "Mac", "Linux", "Xbox", "Xbox 360", "PlayStation 3"],
+  "genres": ["First-person shooter"],
+  "modes": ["Single-player"],
+  "summary": "Gordon Freeman fights the alien Combine occupation of Earth. Revolutionised physics-based gameplay and narrative in first-person shooters.",
+  "sales": {
+    "unitsSold": 12000000,
+    "source": "Wikipedia/Valve",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Half-Life_2"
+  },
+  "ratings": {
+    "metacritic": { "score": 96, "max": 100 }
+  },
+  "rank": 56,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/2/25/Half-Life_2_cover.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Half-Life 2 cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Half-Life_2_cover.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Half-Life_2",
+      "source": "Wikipedia"
+    }
+  ]
+}

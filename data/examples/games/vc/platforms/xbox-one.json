@@ -1,0 +1,30 @@
+{
+  "id": "xbox-one",
+  "title": "Xbox One",
+  "type": "console",
+  "manufacturer": "Microsoft",
+  "year": 2013,
+  "endYear": 2020,
+  "generation": 8,
+  "unitsSold": 58000000,
+  "summary": "Microsoft's eighth-generation home video game console. Featured an emphasis on entertainment and multimedia capabilities.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Xbox_one_logo.svg",
+      "type": "logo",
+      "isPrimary": true,
+      "alt": "Xbox One logo",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Xbox_one_logo.svg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Xbox_One",
+      "source": "Wikipedia"
+    }
+  ]
+}

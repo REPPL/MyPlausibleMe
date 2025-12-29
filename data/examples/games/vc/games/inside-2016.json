@@ -1,0 +1,39 @@
+{
+  "id": "inside-2016",
+  "title": "Inside",
+  "publisher": "playdead",
+  "developer": "Playdead",
+  "year": 2016,
+  "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "Mobile"],
+  "genres": ["Puzzle-platformer", "Adventure"],
+  "modes": ["Single-player"],
+  "summary": "A boy infiltrates a mysterious facility in a dark, atmospheric world. The spiritual successor to Limbo, praised for its haunting visuals and puzzles.",
+  "sales": {
+    "unitsSold": 3000000,
+    "source": "Wikipedia/Playdead",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Inside_(video_game)"
+  },
+  "ratings": {
+    "metacritic": { "score": 93, "max": 100 }
+  },
+  "rank": 68,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/59/Inside_%28video_game%29_cover_art.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Inside cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Inside_(video_game)_cover_art.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Inside_(video_game)",
+      "source": "Wikipedia"
+    }
+  ]
+}

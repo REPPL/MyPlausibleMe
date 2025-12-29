@@ -1,0 +1,26 @@
+{
+  "id": "levis-wonderful-world",
+  "title": "Bath",
+  "brand": "levis",
+  "year": 1985,
+  "personalRank": 8,
+  "agency": "BBH",
+  "director": "Roger Lyons",
+  "music": "Sam Cooke - Wonderful World",
+  "duration": 60,
+  "summary": "A young man shrinks his 501s in the bath to get the perfect fit. Set to Sam Cooke's 'Wonderful World', this iconic BBH ad helped revive Levi's in the UK and launched a trend for shrink-to-fit jeans.",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Levi%27s_advertising",
+      "source": "Wikipedia"
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=vNmZOJaJJAg",
+      "title": "Bath",
+      "source": "YouTube",
+      "type": "commercial"
+    }
+  ]
+}

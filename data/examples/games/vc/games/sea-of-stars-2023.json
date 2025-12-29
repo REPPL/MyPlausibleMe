@@ -1,0 +1,39 @@
+{
+  "id": "sea-of-stars-2023",
+  "title": "Sea of Stars",
+  "publisher": "sabotage-studio",
+  "developer": "Sabotage Studio",
+  "year": 2023,
+  "platforms": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "Nintendo Switch"],
+  "genres": ["RPG", "Turn-based"],
+  "modes": ["Single-player", "Multiplayer"],
+  "summary": "Two Children of the Solstice combine sun and moon powers to fight an alchemist. A love letter to 90s JRPGs with stunning pixel art and music.",
+  "sales": {
+    "unitsSold": 5000000,
+    "source": "Wikipedia/Sabotage Studio",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sea_of_Stars_(video_game)"
+  },
+  "ratings": {
+    "metacritic": { "score": 89, "max": 100 }
+  },
+  "rank": 94,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/f6/Sea_of_Stars_cover_art.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Sea of Stars cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Sea_of_Stars_cover_art.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sea_of_Stars_(video_game)",
+      "source": "Wikipedia"
+    }
+  ]
+}

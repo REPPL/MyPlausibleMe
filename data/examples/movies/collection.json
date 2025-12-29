@@ -1,0 +1,73 @@
+{
+  "$schema": "https://itemdeck.app/schemas/v2/collection.json",
+  "id": "bestof-movies",
+  "name": "100 Highest-Grossing Films",
+  "description": "The 100 most successful films of all time by worldwide box office revenue.",
+  "schemaVersion": "v2",
+  "version": "1.0.0",
+  "entityTypes": {
+    "movie": {
+      "primary": true,
+      "label": "Film",
+      "labelPlural": "Films",
+      "description": "A highest-grossing film.",
+      "fields": {
+        "title": { "type": "string", "required": true },
+        "studio": { "type": "string", "ref": "studio", "required": true },
+        "year": { "type": "number", "description": "Release year", "required": true },
+        "director": { "type": "string", "description": "Director name", "required": true },
+        "cast": { "type": "array", "description": "Lead actors" },
+        "genres": { "type": "array", "description": "Film genres", "required": true },
+        "runtime": { "type": "number", "description": "Runtime in minutes", "required": true },
+        "language": { "type": "string", "description": "Original language" },
+        "country": { "type": "string", "description": "Production country" },
+        "summary": { "type": "text", "description": "Plot and significance", "required": true },
+        "boxOffice": { "type": "object", "description": "Box office revenue data", "required": true },
+        "awards": { "type": "object", "description": "Oscar wins/nominations" },
+        "ratings": { "type": "object", "description": "Aggregated ratings", "required": true },
+        "rank": { "type": "number", "description": "Box office ranking (1-100)", "required": true },
+        "images": { "type": "images", "required": true },
+        "videos": { "type": "videos" },
+        "detailUrls": { "type": "detailUrls", "required": true }
+      }
+    },
+    "studio": {
+      "label": "Studio",
+      "labelPlural": "Studios",
+      "description": "A film production/distribution studio.",
+      "fields": {
+        "title": { "type": "string", "required": true },
+        "shortTitle": { "type": "string" },
+        "founded": { "type": "number", "description": "Year founded" },
+        "headquarters": { "type": "string", "description": "Headquarters location" },
+        "parent": { "type": "string", "description": "Parent company" },
+        "summary": { "type": "text", "description": "Studio description", "required": true },
+        "images": { "type": "images" },
+        "detailUrls": { "type": "detailUrls" }
+      }
+    }
+  },
+  "relationships": {
+    "movie.studio": {
+      "target": "studio",
+      "cardinality": "many-to-one",
+      "required": true
+    },
+    "movie.rank": {
+      "type": "ordinal"
+    }
+  },
+  "display": {
+    "primaryEntity": "movie",
+    "groupBy": "studio",
+    "sortWithinGroup": ["rank", "asc"],
+    "card": {
+      "front": {
+        "title": "title",
+        "subtitle": "year",
+        "badge": "rank",
+        "footer": ["director", "boxOffice.worldwide.gross"]
+      }
+    }
+  }
+}

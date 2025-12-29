@@ -1,0 +1,39 @@
+{
+  "id": "super-smash-bros-ultimate-2018",
+  "title": "Super Smash Bros. Ultimate",
+  "publisher": "nintendo",
+  "developer": "Bandai Namco Studios / Sora Ltd.",
+  "year": 2018,
+  "platforms": ["Nintendo Switch"],
+  "genres": ["Fighting", "Platform fighter"],
+  "modes": ["Single-player", "Multiplayer"],
+  "summary": "A crossover fighting game featuring characters from Nintendo and third-party franchises. Features the largest roster in the series with over 80 playable fighters.",
+  "sales": {
+    "unitsSold": 33670000,
+    "source": "Wikipedia/Nintendo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Super_Smash_Bros._Ultimate"
+  },
+  "ratings": {
+    "metacritic": { "score": 93, "max": 100 }
+  },
+  "rank": 21,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/50/Super_Smash_Bros._Ultimate.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Super Smash Bros. Ultimate cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Super_Smash_Bros._Ultimate.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Super_Smash_Bros._Ultimate",
+      "source": "Wikipedia"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "pokemon-red-blue-1996",
+  "title": "Pokémon Red / Blue / Green / Yellow",
+  "publisher": "nintendo",
+  "developer": "Game Freak",
+  "year": 1996,
+  "platforms": ["Game Boy", "Game Boy Color"],
+  "genres": ["RPG", "Adventure"],
+  "modes": ["Single-player", "Multiplayer"],
+  "summary": "The original Pokémon games where players catch, train, and battle creatures. Launched a global multimedia franchise worth billions.",
+  "sales": {
+    "unitsSold": 47520000,
+    "source": "Wikipedia/Nintendo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Red_and_Blue"
+  },
+  "ratings": {
+    "metacritic": { "score": 89, "max": 100 }
+  },
+  "rank": 18,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/af/Pok%C3%A9mon_Red_and_Blue_cover_art.webp",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Pokémon Red and Blue cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Pok%C3%A9mon_Red_and_Blue_cover_art.webp",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Red_and_Blue",
+      "source": "Wikipedia"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "maroon-5-moves-like-jagger",
+  "title": "Moves Like Jagger",
+  "artist": "maroon-5",
+  "year": 2011,
+  "album": "Hands All Over (re-release)",
+  "writers": [
+    "Adam Levine",
+    "Benny Blanco",
+    "Ammar Malik",
+    "Shellback"
+  ],
+  "producers": [
+    "Benny Blanco",
+    "Shellback"
+  ],
+  "genres": [
+    "Dance-pop",
+    "Funk pop"
+  ],
+  "duration": 201,
+  "label": "A&M Octone Records",
+  "summary": "A dance-pop collaboration with Christina Aguilera paying tribute to Mick Jagger's stage presence. It spent four weeks at number one and revitalised Maroon 5's commercial appeal.",
+  "sales": {
+    "totalUnits": 11000000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Moves_like_Jagger"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 1,
+      "weeks": 4,
+      "chart": "Billboard Hot 100",
+      "year": 2011
+    },
+    "UK": {
+      "peak": 2,
+      "chart": "UK Singles Chart",
+      "year": 2011
+    },
+    "Australia": {
+      "peak": 1,
+      "chart": "ARIA Charts",
+      "year": 2011
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "7x Platinum",
+      "units": 7000000
+    },
+    {
+      "region": "UK",
+      "certification": "2x Platinum",
+      "units": 1200000
+    }
+  ],
+  "rank": 78,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/d9/Maroon_5_-_Moves_Like_Jagger.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Moves Like Jagger single cover",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Maroon_5_-_Moves_Like_Jagger.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=iEPTlhBmwRg",
+      "title": "Maroon 5 - Moves Like Jagger ft. Christina Aguilera (Official Music Video)",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Moves_like_Jagger",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/aee43ced-a72b-4e1d-9b70-bfa41a991302",
+      "source": "MusicBrainz"
+    }
+  ],
+  "_musicbrainz_recording_id": "aee43ced-a72b-4e1d-9b70-bfa41a991302"
+}

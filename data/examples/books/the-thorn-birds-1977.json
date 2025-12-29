@@ -1,0 +1,63 @@
+{
+  "id": "the-thorn-birds-1977",
+  "title": "The Thorn Birds",
+  "author": "colleen-mccullough",
+  "year": 1977,
+  "genres": [
+    "Family saga",
+    "Romance",
+    "Historical fiction"
+  ],
+  "pages": 692,
+  "publisher": "Harper & Row",
+  "language": "English",
+  "country": "Australia",
+  "summary": "The epic saga of the Cleary family spanning three generations on a sheep station in the Australian Outback, centered on the forbidden love between Meggie and a Catholic priest. Adapted into a hugely successful television miniseries.",
+  "sales": {
+    "copiesSold": 33000000,
+    "languages": 20,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Thorn_Birds"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.11,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 3.58,
+      "max": 5,
+      "count": 12
+    }
+  },
+  "rank": 42,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/8293225-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "The Thorn Birds cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL1882556W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Thorn_Birds",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL1882556W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 79,
+  "isbn": "9780380637355",
+  "description": "The Thorn Birds is a 1977 best-selling novel by Australian author Colleen McCullough. Set primarily on Drogheda – a fictional sheep station in the Australian Outback named after Drogheda, Ireland – the story focuses on the Cleary family and spans the years 1915 to 1969.",
+  "_openlibrary_work_key": "/works/OL1882556W"
+}

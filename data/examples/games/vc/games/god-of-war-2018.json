@@ -1,0 +1,39 @@
+{
+  "id": "god-of-war-2018",
+  "title": "God of War",
+  "publisher": "sony",
+  "developer": "Santa Monica Studio",
+  "year": 2018,
+  "platforms": ["PlayStation 4", "PlayStation 5", "PC"],
+  "genres": ["Action-adventure", "Hack and slash"],
+  "modes": ["Single-player"],
+  "summary": "Kratos and his son Atreus journey through Norse mythology. A soft reboot of the series that won Game of the Year 2018.",
+  "sales": {
+    "unitsSold": 23000000,
+    "source": "Wikipedia/Sony",
+    "sourceUrl": "https://en.wikipedia.org/wiki/God_of_War_(2018_video_game)"
+  },
+  "ratings": {
+    "metacritic": { "score": 94, "max": 100 }
+  },
+  "rank": 27,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/a7/God_of_War_4_cover.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "God of War cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:God_of_War_4_cover.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/God_of_War_(2018_video_game)",
+      "source": "Wikipedia"
+    }
+  ]
+}

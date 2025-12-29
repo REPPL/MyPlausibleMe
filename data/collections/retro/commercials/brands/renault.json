@@ -1,0 +1,18 @@
+{
+  "id": "renault",
+  "title": "Renault",
+  "summary": "French automotive manufacturer whose sporty 1980s advertising campaigns, particularly for the 5 GT Turbo, captured the spirit of the hot hatch era.",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Renault",
+      "source": "Wikipedia"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Renault_2009_logo.svg",
+      "type": "logo",
+      "alt": "Renault logo"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "killing-eve-2018",
+  "title": "Killing Eve",
+  "network": "bbc-america",
+  "year": 2018,
+  "endYear": 2022,
+  "seasons": 4,
+  "episodes": 32,
+  "genres": ["Spy thriller", "Drama", "Black comedy"],
+  "creators": ["Phoebe Waller-Bridge"],
+  "cast": ["Sandra Oh", "Jodie Comer", "Fiona Shaw", "Kim Bodnia", "Owen McDonnell"],
+  "country": "United Kingdom",
+  "language": "English",
+  "runtime": 42,
+  "summary": "A British intelligence investigator becomes obsessed with a talented assassin, beginning a deadly game of cat and mouse. Jodie Comer won an Emmy for her role as Villanelle.",
+  "viewership": {
+    "peakViewers": 1200000,
+    "averageViewers": 800000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Killing_Eve"
+  },
+  "ratings": {
+    "imdb": { "score": 8.1, "max": 10 },
+    "rottenTomatoes": { "critics": 89, "audience": 79 }
+  },
+  "rank": 65,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/e5/Killing_Eve_Title_Card.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Killing Eve title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Killing_Eve_Title_Card.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Killing_Eve",
+      "source": "Wikipedia"
+    }
+  ]
+}

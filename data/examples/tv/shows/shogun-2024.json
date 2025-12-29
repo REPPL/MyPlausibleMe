@@ -1,0 +1,44 @@
+{
+  "id": "shogun-2024",
+  "title": "Shogun",
+  "network": "fx",
+  "year": 2024,
+  "endYear": null,
+  "seasons": 1,
+  "episodes": 10,
+  "genres": ["Historical drama", "Period drama"],
+  "creators": ["Rachel Kondo", "Justin Marks"],
+  "cast": ["Hiroyuki Sanada", "Cosmo Jarvis", "Anna Sawai", "Tadanobu Asano", "Takehiro Hira"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 60,
+  "summary": "A shipwrecked English navigator becomes embroiled in political intrigue in feudal Japan. Based on James Clavell's novel, the series won a record 18 Emmy Awards.",
+  "viewership": {
+    "source": "FX/Hulu",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sh%C5%8Dgun_(2024_miniseries)"
+  },
+  "ratings": {
+    "imdb": { "score": 9.0, "max": 10 },
+    "rottenTomatoes": { "critics": 99, "audience": 93 }
+  },
+  "rank": 78,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/2/24/Shogun_2024_TV_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Shogun 2024 poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Shogun_2024_TV_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sh%C5%8Dgun_(2024_miniseries)",
+      "source": "Wikipedia"
+    }
+  ]
+}

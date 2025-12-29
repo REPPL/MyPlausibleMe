@@ -1,0 +1,97 @@
+{
+  "id": "bon-jovi-livin-on-a-prayer",
+  "title": "Livin' on a Prayer",
+  "artist": "bon-jovi",
+  "year": 1986,
+  "album": "Slippery When Wet",
+  "writers": [
+    "Jon Bon Jovi",
+    "Richie Sambora",
+    "Desmond Child"
+  ],
+  "producers": [
+    "Bruce Fairbairn"
+  ],
+  "genres": [
+    "Hard rock",
+    "Glam metal"
+  ],
+  "duration": 249,
+  "label": "Mercury Records",
+  "summary": "The iconic 1980s rock anthem about Tommy and Gina, a working-class couple struggling through hard times. Known for its talk box guitar effect and key change, it became Bon Jovi's signature song.",
+  "sales": {
+    "totalUnits": 10000000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Livin%27_on_a_Prayer"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 1,
+      "weeks": 4,
+      "chart": "Billboard Hot 100",
+      "year": 1987
+    },
+    "UK": {
+      "peak": 4,
+      "chart": "UK Singles Chart",
+      "year": 1986
+    },
+    "Australia": {
+      "peak": 3,
+      "chart": "Australian Singles Chart",
+      "year": 1987
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "4x Platinum",
+      "units": 4000000
+    },
+    {
+      "region": "UK",
+      "certification": "2x Platinum",
+      "units": 1200000
+    }
+  ],
+  "rank": 28,
+  "images": [
+    {
+      "url": "https://coverartarchive.org/release/eda23449-4776-3e2e-a622-3419a7763b0f/23463241245-500.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Album cover",
+      "attribution": {
+        "source": "Cover Art Archive",
+        "licence": "CC BY-NC-SA 3.0",
+        "licenceUrl": "https://wiki.musicbrainz.org/Cover_Art_Archive",
+        "note": "Cover art copyrighted by respective owners. Non-commercial use only.",
+        "sourceUrl": "https://musicbrainz.org/release/eda23449-4776-3e2e-a622-3419a7763b0f"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=lDK9QqIzhwk",
+      "title": "Bon Jovi - Livin' On A Prayer (Official Music Video)",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Livin%27_on_a_Prayer",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/0a301285-4b71-4c99-8f7e-ad5ec9c85aa2",
+      "source": "MusicBrainz"
+    },
+    {
+      "url": "https://musicbrainz.org/release/eda23449-4776-3e2e-a622-3419a7763b0f",
+      "source": "MusicBrainz (Release)"
+    }
+  ],
+  "_musicbrainz_recording_id": "0a301285-4b71-4c99-8f7e-ad5ec9c85aa2",
+  "_musicbrainz_release_id": "eda23449-4776-3e2e-a622-3419a7763b0f"
+}

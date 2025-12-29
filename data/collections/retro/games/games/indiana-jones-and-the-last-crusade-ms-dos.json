@@ -1,0 +1,52 @@
+{
+  "id": "indiana-jones-and-the-last-crusade-ms-dos",
+  "title": "Indiana Jones and the Last Crusade",
+  "platform": "ms-dos",
+  "myRank": 4,
+  "year": 1989,
+  "summary": "A point-and-click adventure based on the film, featuring a verb-based interface and inventory-driven puzzles.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/07/Indiana_Jones_and_the_Last_Crusade_-_The_Graphic_Adventure_Coverart.png",
+      "type": "boxart",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Indiana_Jones_and_the_Last_Crusade_-_The_Graphic_Adventure_Coverart.png",
+        "licence": "fair-use"
+      },
+      "isPrimary": true,
+      "alt": "Indiana Jones and the Last Crusade cover art"
+    }
+  ],
+  "myStartYear": 1989,
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Last_Crusade:_The_Graphic_Adventure",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/game/418/",
+      "source": "MobyGames"
+    }
+  ],
+  "originalPlatform": "PC",
+  "originalReleaseDate": "1989",
+  "genres": [
+    "Adventure"
+  ],
+  "myVerdict": "Close second to Maniac Mansion",
+  "averageRating": {
+    "score": 4.5,
+    "sourceCount": 5,
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Last_Crusade:_The_Graphic_Adventure#Reception"
+  },
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=pIqXmi9FnoQ",
+      "title": "Indiana Jones and the Last Crusade: The Graphic Adventure (VGA Version) - PC Longplay",
+      "source": "World of Longplays",
+      "type": "gameplay"
+    }
+  ]
+}

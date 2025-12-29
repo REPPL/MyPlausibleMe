@@ -1,0 +1,46 @@
+{
+  "id": "curb-your-enthusiasm-2000",
+  "title": "Curb Your Enthusiasm",
+  "network": "hbo",
+  "year": 2000,
+  "endYear": 2024,
+  "seasons": 12,
+  "episodes": 120,
+  "genres": ["Comedy", "Improvisational comedy"],
+  "creators": ["Larry David"],
+  "cast": ["Larry David", "Jeff Garlin", "Cheryl Hines", "Susie Essman", "J.B. Smoove"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 36,
+  "summary": "Seinfeld co-creator Larry David plays a fictionalized version of himself in various awkward social situations. Largely improvised, the series ran for 24 years.",
+  "viewership": {
+    "peakViewers": 4000000,
+    "averageViewers": 1500000,
+    "source": "Wikipedia/HBO",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm"
+  },
+  "ratings": {
+    "imdb": { "score": 8.7, "max": 10 },
+    "rottenTomatoes": { "critics": 93, "audience": 89 }
+  },
+  "rank": 86,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/01/Curb_Your_Enthusiasm_title_card.png",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Curb Your Enthusiasm title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Curb_Your_Enthusiasm_title_card.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm",
+      "source": "Wikipedia"
+    }
+  ]
+}

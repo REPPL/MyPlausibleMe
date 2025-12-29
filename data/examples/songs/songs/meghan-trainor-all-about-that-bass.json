@@ -1,0 +1,98 @@
+{
+  "id": "meghan-trainor-all-about-that-bass",
+  "title": "All About That Bass",
+  "artist": "meghan-trainor",
+  "year": 2014,
+  "album": "Title",
+  "writers": [
+    "Meghan Trainor",
+    "Kevin Kadish"
+  ],
+  "producers": [
+    "Kevin Kadish"
+  ],
+  "genres": [
+    "Pop",
+    "Doo-wop",
+    "Blue-eyed soul"
+  ],
+  "duration": 187,
+  "label": "Epic Records",
+  "summary": "A doo-wop-influenced body positivity anthem that spent eight weeks at number one. It launched Trainor's career and sparked both praise and debate about its body image message.",
+  "sales": {
+    "totalUnits": 11000000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/All_About_That_Bass"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 1,
+      "weeks": 8,
+      "chart": "Billboard Hot 100",
+      "year": 2014
+    },
+    "UK": {
+      "peak": 1,
+      "weeks": 4,
+      "chart": "UK Singles Chart",
+      "year": 2014
+    },
+    "Australia": {
+      "peak": 1,
+      "chart": "ARIA Charts",
+      "year": 2014
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "Diamond",
+      "units": 10000000
+    },
+    {
+      "region": "UK",
+      "certification": "2x Platinum",
+      "units": 1200000
+    }
+  ],
+  "rank": 70,
+  "images": [
+    {
+      "url": "https://coverartarchive.org/release/d234ff95-b8f3-4b7a-bcae-0a44370b3ac2/41360784806-500.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Album cover",
+      "attribution": {
+        "source": "Cover Art Archive",
+        "licence": "CC BY-NC-SA 3.0",
+        "licenceUrl": "https://wiki.musicbrainz.org/Cover_Art_Archive",
+        "note": "Cover art copyrighted by respective owners. Non-commercial use only.",
+        "sourceUrl": "https://musicbrainz.org/release/d234ff95-b8f3-4b7a-bcae-0a44370b3ac2"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=7PCkvCPvDXk",
+      "title": "Meghan Trainor - All About That Bass (Official Video)",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/All_About_That_Bass",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/759edfb8-0b3c-4d4b-9538-a4e20f21f1e3",
+      "source": "MusicBrainz"
+    },
+    {
+      "url": "https://musicbrainz.org/release/d234ff95-b8f3-4b7a-bcae-0a44370b3ac2",
+      "source": "MusicBrainz (Release)"
+    }
+  ],
+  "_musicbrainz_recording_id": "759edfb8-0b3c-4d4b-9538-a4e20f21f1e3",
+  "_musicbrainz_release_id": "d234ff95-b8f3-4b7a-bcae-0a44370b3ac2"
+}

@@ -1,0 +1,95 @@
+{
+  "id": "onerepublic-counting-stars",
+  "title": "Counting Stars",
+  "artist": "onerepublic",
+  "year": 2013,
+  "album": "Native",
+  "writers": [
+    "Ryan Tedder"
+  ],
+  "producers": [
+    "Ryan Tedder"
+  ],
+  "genres": [
+    "Pop rock",
+    "Dance-pop"
+  ],
+  "duration": 257,
+  "label": "Interscope Records",
+  "summary": "A pop rock anthem about trading materialism for authenticity, featuring a memorable bassline and gospel-influenced chorus. It became one of the most-streamed songs in history and spent months on global charts.",
+  "sales": {
+    "totalUnits": 11000000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Counting_Stars"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 2,
+      "chart": "Billboard Hot 100",
+      "year": 2014
+    },
+    "UK": {
+      "peak": 1,
+      "weeks": 2,
+      "chart": "UK Singles Chart",
+      "year": 2014
+    },
+    "Australia": {
+      "peak": 1,
+      "chart": "ARIA Charts",
+      "year": 2013
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "6x Platinum",
+      "units": 6000000
+    },
+    {
+      "region": "UK",
+      "certification": "4x Platinum",
+      "units": 2400000
+    }
+  ],
+  "rank": 40,
+  "images": [
+    {
+      "url": "https://coverartarchive.org/release/d75775da-c400-4b88-a78b-eef7bb87cce6/3676989730-500.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Album cover",
+      "attribution": {
+        "source": "Cover Art Archive",
+        "licence": "CC BY-NC-SA 3.0",
+        "licenceUrl": "https://wiki.musicbrainz.org/Cover_Art_Archive",
+        "note": "Cover art copyrighted by respective owners. Non-commercial use only.",
+        "sourceUrl": "https://musicbrainz.org/release/d75775da-c400-4b88-a78b-eef7bb87cce6"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=hT_nvWreIhg",
+      "title": "OneRepublic - Counting Stars (Official Music Video)",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Counting_Stars",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/d006e56a-6886-42ee-a9dd-3d3e6a3e80ec",
+      "source": "MusicBrainz"
+    },
+    {
+      "url": "https://musicbrainz.org/release/d75775da-c400-4b88-a78b-eef7bb87cce6",
+      "source": "MusicBrainz (Release)"
+    }
+  ],
+  "_musicbrainz_recording_id": "d006e56a-6886-42ee-a9dd-3d3e6a3e80ec",
+  "_musicbrainz_release_id": "d75775da-c400-4b88-a78b-eef7bb87cce6"
+}

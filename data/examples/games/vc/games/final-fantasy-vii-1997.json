@@ -1,0 +1,39 @@
+{
+  "id": "final-fantasy-vii-1997",
+  "title": "Final Fantasy VII",
+  "publisher": "square-enix",
+  "developer": "Square",
+  "year": 1997,
+  "platforms": ["PlayStation", "PC", "Nintendo Switch", "Xbox One", "PlayStation 4", "Mobile"],
+  "genres": ["RPG", "JRPG"],
+  "modes": ["Single-player"],
+  "summary": "Cloud Strife joins an eco-terrorist group to battle the Shinra megacorporation. One of the most influential RPGs ever made, popularising the genre in the West.",
+  "sales": {
+    "unitsSold": 14000000,
+    "source": "Wikipedia/Square Enix",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Final_Fantasy_VII"
+  },
+  "ratings": {
+    "metacritic": { "score": 92, "max": 100 }
+  },
+  "rank": 51,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/c2/Final_Fantasy_VII_Box_Art.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Final Fantasy VII cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Final_Fantasy_VII_Box_Art.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Final_Fantasy_VII",
+      "source": "Wikipedia"
+    }
+  ]
+}

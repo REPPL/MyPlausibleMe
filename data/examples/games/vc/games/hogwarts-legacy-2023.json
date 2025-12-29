@@ -1,0 +1,39 @@
+{
+  "id": "hogwarts-legacy-2023",
+  "title": "Hogwarts Legacy",
+  "publisher": "warner-bros",
+  "developer": "Avalanche Software",
+  "year": 2023,
+  "platforms": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "Nintendo Switch"],
+  "genres": ["Action RPG", "Open world"],
+  "modes": ["Single-player"],
+  "summary": "An open-world action RPG set in the wizarding world of Harry Potter. Players attend Hogwarts School in the 1800s and uncover an ancient secret.",
+  "sales": {
+    "unitsSold": 24000000,
+    "source": "Wikipedia/Warner Bros.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hogwarts_Legacy"
+  },
+  "ratings": {
+    "metacritic": { "score": 84, "max": 100 }
+  },
+  "rank": 23,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/e6/Hogwarts_Legacy_cover_art.png",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Hogwarts Legacy cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Hogwarts_Legacy_cover_art.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Hogwarts_Legacy",
+      "source": "Wikipedia"
+    }
+  ]
+}

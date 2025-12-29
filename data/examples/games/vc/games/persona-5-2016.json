@@ -1,0 +1,39 @@
+{
+  "id": "persona-5-2016",
+  "title": "Persona 5 / Royal",
+  "publisher": "atlus",
+  "developer": "Atlus",
+  "year": 2016,
+  "platforms": ["PlayStation 3", "PlayStation 4", "PlayStation 5", "PC", "Nintendo Switch", "Xbox One", "Xbox Series X/S"],
+  "genres": ["RPG", "JRPG", "Social simulation"],
+  "modes": ["Single-player"],
+  "summary": "Tokyo high schoolers form the Phantom Thieves to change the hearts of corrupt adults. Features stylish aesthetics and deep social simulation mechanics.",
+  "sales": {
+    "unitsSold": 8000000,
+    "source": "Wikipedia/Atlus",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Persona_5"
+  },
+  "ratings": {
+    "metacritic": { "score": 93, "max": 100 }
+  },
+  "rank": 53,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/b0/Persona_5_cover_art.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Persona 5 cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Persona_5_cover_art.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Persona_5",
+      "source": "Wikipedia"
+    }
+  ]
+}

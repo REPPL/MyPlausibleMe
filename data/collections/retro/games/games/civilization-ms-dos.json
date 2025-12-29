@@ -1,0 +1,44 @@
+{
+  "id": "civilization-ms-dos",
+  "title": "Civilization",
+  "platform": "ms-dos",
+  "myRank": 5,
+  "year": 1991,
+  "summary": "A 4X strategy game where the player leads a civilisation from prehistory to the near future through exploration, expansion, exploitation, and extermination.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/ec/Civilizationboxart.jpg",
+      "type": "boxart",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Civilizationboxart.jpg",
+        "licence": "fair-use"
+      },
+      "isPrimary": true,
+      "alt": "Civilization cover art"
+    }
+  ],
+  "myStartYear": 1991,
+  "myVerdict": "The beginning of an era; yet, I prefer Railroad Tycoon.",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Civilization_(video_game)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/game/585/",
+      "source": "MobyGames"
+    }
+  ],
+  "originalPlatform": "PC",
+  "originalReleaseDate": "1991",
+  "genres": [
+    "Strategy"
+  ],
+  "averageRating": {
+    "score": 5,
+    "sourceCount": 9,
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Civilization_(video_game)#Reception"
+  }
+}

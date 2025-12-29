@@ -1,0 +1,63 @@
+{
+  "id": "angels-and-demons-2000",
+  "title": "Angels & Demons",
+  "author": "dan-brown",
+  "year": 2000,
+  "genres": [
+    "Thriller",
+    "Mystery",
+    "Conspiracy fiction"
+  ],
+  "pages": 713,
+  "publisher": "Pocket Books",
+  "language": "English",
+  "country": "United States",
+  "summary": "The first novel featuring symbologist Robert Langdon, who investigates a murder at CERN that leads to a confrontation with the Illuminati in Vatican City. Initially a modest success, sales exploded after The Da Vinci Code.",
+  "sales": {
+    "copiesSold": 39000000,
+    "languages": 52,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Angels_%26_Demons"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 3.93,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 3.65,
+      "max": 5,
+      "count": 252
+    }
+  },
+  "rank": 36,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/11408459-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Angels & Demons cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL76833W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Angels_%26_Demons",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL76833W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 168,
+  "isbn": "9788389779007",
+  "description": "Angels & Demons is a 2000 bestselling mystery-thriller novel written by American author Dan Brown and published by Pocket Books and then by Corgi Books. The novel introduces the character Robert Langdon, who recurs as the protagonist of Brown's subsequent novels. Angels & Demons shares many stylistic literary elements with its sequels, such as conspiracies of secret societies, a single-day time frame, and the Catholic Church. Ancient history, architecture, and symbology are also heavily referenc...",
+  "_openlibrary_work_key": "/works/OL76833W"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "it-takes-two-2021",
+  "title": "It Takes Two",
+  "publisher": "ea-sports",
+  "developer": "Hazelight Studios",
+  "year": 2021,
+  "platforms": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "Nintendo Switch"],
+  "genres": ["Action-adventure", "Platformer"],
+  "modes": ["Multiplayer"],
+  "summary": "A couple transformed into dolls must work together to save their relationship. Won Game of the Year 2021 with innovative co-op mechanics throughout.",
+  "sales": {
+    "unitsSold": 16000000,
+    "source": "Wikipedia/EA",
+    "sourceUrl": "https://en.wikipedia.org/wiki/It_Takes_Two_(video_game)"
+  },
+  "ratings": {
+    "metacritic": { "score": 88, "max": 100 }
+  },
+  "rank": 81,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/f6/It_Takes_Two_cover_art.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "It Takes Two cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:It_Takes_Two_cover_art.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/It_Takes_Two_(video_game)",
+      "source": "Wikipedia"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "money-heist-2017",
+  "title": "Money Heist",
+  "network": "netflix",
+  "year": 2017,
+  "endYear": 2021,
+  "seasons": 5,
+  "episodes": 41,
+  "genres": ["Crime", "Drama", "Thriller"],
+  "creators": ["Álex Pina"],
+  "cast": ["Álvaro Morte", "Úrsula Corberó", "Itziar Ituño", "Pedro Alonso", "Miguel Herrán"],
+  "country": "Spain",
+  "language": "Spanish",
+  "runtime": 50,
+  "summary": "A criminal mastermind known as 'The Professor' recruits a group to carry out ambitious heists on Spanish institutions. Originally titled 'La Casa de Papel', it became Netflix's most-watched non-English series.",
+  "viewership": {
+    "hoursWatched": 1000000000,
+    "source": "Netflix",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Money_Heist"
+  },
+  "ratings": {
+    "imdb": { "score": 8.2, "max": 10 },
+    "rottenTomatoes": { "critics": 90, "audience": 77 }
+  },
+  "rank": 56,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/91/Money_Heist_title_card.png",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Money Heist title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Money_Heist_title_card.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Money_Heist",
+      "source": "Wikipedia"
+    }
+  ]
+}

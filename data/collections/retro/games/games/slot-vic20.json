@@ -1,0 +1,59 @@
+{
+  "id": "slot-vic20",
+  "title": "Super Slot",
+  "platform": "vic20",
+  "myRank": 4,
+  "year": 1982,
+  "summary": "A simulation of a slot machine, providing a digital representation of traditional gambling mechanics.",
+  "images": [
+    {
+      "url": "https://www.mobygames.com/images/shots/l/1071716-superslot-vic-20-screenshot-title-screen.png",
+      "type": "screenshot",
+      "isPrimary": true,
+      "alt": "Super Slot title screen",
+      "attribution": {
+        "source": "MobyGames",
+        "sourceUrl": "https://www.mobygames.com/game/173834/superslot/screenshots/vic-20/",
+        "licence": "fair-use"
+      }
+    },
+    {
+      "url": "https://www.mobygames.com/images/shots/l/1071717-superslot-vic-20-screenshot-rewards.png",
+      "type": "screenshot",
+      "isPrimary": false,
+      "alt": "Super Slot rewards screen",
+      "attribution": {
+        "source": "MobyGames",
+        "sourceUrl": "https://www.mobygames.com/game/173834/superslot/screenshots/vic-20/",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "myStartYear": 1982,
+  "myVerdict": "Yes, at the time I thought it was a fun game. I really did.",
+  "detailUrls": [
+    {
+      "url": "https://www.video-games-museum.com/en/game/VIC-Super-Slot/161/3/76712",
+      "source": "Video Games Museum"
+    }
+  ],
+  "originalPlatform": "VIC-20",
+  "originalReleaseDate": "1982",
+  "genres": [
+    "Simulation"
+  ],
+  "averageRating": {
+    "score": 2.5,
+    "sourceCount": 1,
+    "source": "User Note",
+    "url": null
+  },
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=NQpygCwv49o",
+      "title": "Super Slot - VIC-20 Gameplay",
+      "source": "YouTube",
+      "type": "gameplay"
+    }
+  ]
+}

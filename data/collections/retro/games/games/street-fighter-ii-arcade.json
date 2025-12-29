@@ -1,0 +1,43 @@
+{
+  "id": "street-fighter-ii-arcade",
+  "title": "Street Fighter II",
+  "platform": "arcade",
+  "myRank": 4,
+  "year": 1991,
+  "summary": "A competitive fighting game that introduced a diverse roster of playable characters, each with distinct martial arts styles and special moves.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/46/Street_Fighter_II_%28arcade%29_screenshot.png",
+      "type": "screenshot",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Street_Fighter_II_%28arcade%29_screenshot.png",
+        "licence": "fair-use"
+      },
+      "isPrimary": true,
+      "alt": "Street Fighter II gameplay screenshot"
+    }
+  ],
+  "myStartYear": 1992,
+  "myVerdict": "Still playing whenever I see one",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Street_Fighter_II",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/game/6239/",
+      "source": "MobyGames"
+    }
+  ],
+  "originalReleaseDate": "1991",
+  "genres": [
+    "Fighting"
+  ],
+  "averageRating": {
+    "score": 5,
+    "sourceCount": 10,
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Street_Fighter_II#Reception"
+  }
+}

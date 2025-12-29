@@ -1,0 +1,51 @@
+{
+  "id": "lemmings-amiga",
+  "title": "Lemmings",
+  "platform": "amiga",
+  "myRank": 4,
+  "year": 1991,
+  "summary": "A puzzle game where the player must guide a group of creatures through various hazards by assigning them specific skills.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/0c/Lemmings-BoxScan.jpg",
+      "type": "boxart",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Lemmings-BoxScan.jpg",
+        "licence": "fair-use"
+      },
+      "isPrimary": true,
+      "alt": "Lemmings cover art"
+    }
+  ],
+  "myStartYear": 1991,
+  "myVerdict": "Dundeeeee",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Lemmings_(video_game)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/game/683/",
+      "source": "MobyGames"
+    }
+  ],
+  "originalReleaseDate": "1991",
+  "genres": [
+    "Puzzle"
+  ],
+  "averageRating": {
+    "score": 4.5,
+    "sourceCount": 6,
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lemmings_(video_game)#Reception"
+  },
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=7SgDS-16UFA",
+      "title": "Amiga Longplay Lemmings (Part 1 of 2)",
+      "source": "World of Longplays",
+      "type": "gameplay"
+    }
+  ]
+}

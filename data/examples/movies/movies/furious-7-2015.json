@@ -1,0 +1,73 @@
+{
+  "id": "furious-7-2015",
+  "title": "Furious 7",
+  "studio": "universal",
+  "year": 2015,
+  "director": "James Wan",
+  "cast": ["Vin Diesel", "Paul Walker", "Dwayne Johnson", "Michelle Rodriguez", "Jason Statham"],
+  "genres": ["Action", "Thriller", "Crime"],
+  "runtime": 137,
+  "language": "English",
+  "country": "USA",
+  "summary": "Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother. The film serves as a tribute to Paul Walker, who died during production, and features an emotional farewell sequence.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1515341399,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 353007020,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 1162334379,
+      "currency": "USD"
+    },
+    "budget": 190000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Furious_7"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 7.1, "max": 10 },
+    "rottenTomatoes": { "critics": 81, "audience": 83 },
+    "metacritic": { "score": 67, "max": 100 }
+  },
+  "rank": 12,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/b8/Furious_7_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Furious 7 movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Furious_7_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=Skpu5HaVkOc",
+      "title": "Furious 7 Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Furious_7",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt2820852/",
+      "source": "IMDB"
+    }
+  ]
+}

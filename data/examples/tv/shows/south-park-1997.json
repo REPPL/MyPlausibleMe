@@ -1,0 +1,64 @@
+{
+  "id": "south-park-1997",
+  "title": "South Park",
+  "network": "comedy-central",
+  "year": 1997,
+  "endYear": null,
+  "seasons": 26,
+  "episodes": 328,
+  "genres": [
+    "Animated sitcom",
+    "Satire",
+    "Dark comedy"
+  ],
+  "creators": [
+    "Trey Parker",
+    "Matt Stone"
+  ],
+  "cast": [
+    "Trey Parker",
+    "Matt Stone",
+    "April Stewart",
+    "Mona Marshall"
+  ],
+  "country": "United States",
+  "language": "English",
+  "runtime": 22,
+  "summary": "Four foul-mouthed boys navigate the absurdities of modern life in their small Colorado town. Known for its crude language and satirical take on current events produced within days of airing.",
+  "viewership": {
+    "peakViewers": 7700000,
+    "averageViewers": 3000000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/South_Park"
+  },
+  "ratings": {
+    "imdb": {
+      "score": 8.7,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 80,
+      "audience": 88
+    }
+  },
+  "rank": 21,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/59/South_Park.png",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "South Park logo",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:South_Park_Logo.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/South_Park",
+      "source": "Wikipedia"
+    }
+  ]
+}

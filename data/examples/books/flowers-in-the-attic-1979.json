@@ -1,0 +1,63 @@
+{
+  "id": "flowers-in-the-attic-1979",
+  "title": "Flowers in the Attic",
+  "author": "v-c-andrews",
+  "year": 1979,
+  "genres": [
+    "Gothic fiction",
+    "Horror",
+    "Family saga"
+  ],
+  "pages": 389,
+  "publisher": "Simon & Schuster",
+  "language": "English",
+  "country": "United States",
+  "summary": "Four children are imprisoned in their grandparents' attic after their father's death. A dark tale of family secrets, abuse, and forbidden love that became a cult classic and spawned multiple sequels and adaptations.",
+  "sales": {
+    "copiesSold": 40000000,
+    "languages": 20,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Flowers_in_the_Attic"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 3.91,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.01,
+      "max": 5,
+      "count": 68
+    }
+  },
+  "rank": 41,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/14598487-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Flowers in the Attic cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL134834W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Flowers_in_the_Attic",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL134834W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 73,
+  "isbn": "9781476704173",
+  "description": "Flowers in the Attic is a 1979 Gothic novel by V. C. Andrews. It is the first book in the Dollanganger Series. The novel is written in the first-person, from the point of view of Cathy Dollanganger. In 1993, Flowers in the Attic was awarded the Secondary BILBY Award. In 2003 the book was listed on the BBC's The Big Read poll of the UK's 200 \"best-loved novels.\"\r\n\r\n\r\n----------\r\nAlso contained in:\r\n[Flowers in the Attic / Petals on the Wind](https://openlibrary.org/works/OL16524231W)",
+  "_openlibrary_work_key": "/works/OL134834W"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "westworld-2016",
+  "title": "Westworld",
+  "network": "hbo",
+  "year": 2016,
+  "endYear": 2022,
+  "seasons": 4,
+  "episodes": 36,
+  "genres": ["Science fiction", "Drama", "Dystopian"],
+  "creators": ["Jonathan Nolan", "Lisa Joy"],
+  "cast": ["Evan Rachel Wood", "Thandiwe Newton", "Jeffrey Wright", "Ed Harris", "Anthony Hopkins"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 62,
+  "summary": "A futuristic Wild West-themed amusement park populated by android 'hosts' begins to malfunction. Based on the 1973 Michael Crichton film.",
+  "viewership": {
+    "peakViewers": 3300000,
+    "averageViewers": 1800000,
+    "source": "Wikipedia/HBO",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Westworld_(TV_series)"
+  },
+  "ratings": {
+    "imdb": { "score": 8.5, "max": 10 },
+    "rottenTomatoes": { "critics": 85, "audience": 74 }
+  },
+  "rank": 70,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/51/Westworld_title_card.png",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Westworld title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Westworld_title_card.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Westworld_(TV_series)",
+      "source": "Wikipedia"
+    }
+  ]
+}

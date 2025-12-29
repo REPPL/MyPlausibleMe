@@ -1,0 +1,53 @@
+{
+  "id": "black-max-vic20",
+  "title": "Black Max",
+  "platform": "vic20",
+  "myRank": 1,
+  "year": 1982,
+  "summary": "An early action title for the VIC-20 noted for its focused gameplay design.",
+  "images": [
+    {
+      "url": "https://www.myabandonware.com/media/screenshots/b/black-max-13pw/black-max_3.png",
+      "type": "screenshot",
+      "attribution": {
+        "source": "MyAbandonware",
+        "sourceUrl": "https://www.myabandonware.com/game/black-max-pxr",
+        "licence": "fair-use",
+        "licenceNote": "MyAbandonware does not specify redistribution rights; used under fair-use assumption for demo purposes"
+      },
+      "isPrimary": true,
+      "alt": "Black Max gameplay screenshot"
+    }
+  ],
+  "myStartYear": 1982,
+  "myVerdict": "My - absolute - favourite on the VIC-20",
+  "detailUrls": [
+    {
+      "url": "https://www.myabandonware.com/game/black-max-pxr",
+      "source": "Detail Source"
+    },
+    {
+      "url": "https://www.mobygames.com/game/20435/",
+      "source": "MobyGames"
+    }
+  ],
+  "originalPlatform": "VIC-20",
+  "originalReleaseDate": "1982",
+  "genres": [
+    "Action"
+  ],
+  "averageRating": {
+    "score": 4,
+    "sourceCount": 1,
+    "source": "User Recommendation",
+    "url": "https://www.myabandonware.com/game/black-max-pxr"
+  },
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=jFrYBm64b1M",
+      "title": "Black Max - VIC-20 Gameplay",
+      "source": "YouTube",
+      "type": "gameplay"
+    }
+  ]
+}

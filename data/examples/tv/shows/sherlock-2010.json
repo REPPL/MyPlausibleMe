@@ -1,0 +1,47 @@
+{
+  "id": "sherlock-2010",
+  "title": "Sherlock",
+  "network": "bbc",
+  "year": 2010,
+  "endYear": 2017,
+  "seasons": 4,
+  "episodes": 15,
+  "genres": ["Crime", "Drama", "Mystery"],
+  "creators": ["Mark Gatiss", "Steven Moffat"],
+  "cast": ["Benedict Cumberbatch", "Martin Freeman", "Una Stubbs", "Rupert Graves", "Andrew Scott"],
+  "country": "United Kingdom",
+  "language": "English",
+  "runtime": 88,
+  "summary": "A modern update of Sir Arthur Conan Doyle's Sherlock Holmes detective stories, set in present-day London. Launched the careers of stars Benedict Cumberbatch and Martin Freeman.",
+  "viewership": {
+    "peakViewers": 11820000,
+    "peakEpisode": "The Empty Hearse",
+    "averageViewers": 9000000,
+    "source": "Wikipedia/BARB",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sherlock_(TV_series)"
+  },
+  "ratings": {
+    "imdb": { "score": 9.1, "max": 10 },
+    "rottenTomatoes": { "critics": 78, "audience": 91 }
+  },
+  "rank": 32,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/4b/Sherlock_titlecard.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Sherlock title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Sherlock_titlecard.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sherlock_(TV_series)",
+      "source": "Wikipedia"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "the-bear-2022",
+  "title": "The Bear",
+  "network": "fx",
+  "year": 2022,
+  "endYear": null,
+  "seasons": 3,
+  "episodes": 28,
+  "genres": ["Comedy-drama"],
+  "creators": ["Christopher Storer"],
+  "cast": ["Jeremy Allen White", "Ebon Moss-Bachrach", "Ayo Edebiri", "Lionel Boyce", "Abby Elliott"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 30,
+  "summary": "A young chef returns to Chicago to run his family's sandwich shop after his brother's death. Won multiple Emmy Awards including Outstanding Comedy Series.",
+  "viewership": {
+    "source": "FX/Hulu",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Bear_(TV_series)"
+  },
+  "ratings": {
+    "imdb": { "score": 8.6, "max": 10 },
+    "rottenTomatoes": { "critics": 98, "audience": 87 }
+  },
+  "rank": 76,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/47/The_Bear_%28TV_series%29_Title_Card.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Bear title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:The_Bear_(TV_series)_Title_Card.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Bear_(TV_series)",
+      "source": "Wikipedia"
+    }
+  ]
+}

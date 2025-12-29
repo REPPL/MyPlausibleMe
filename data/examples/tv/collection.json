@@ -1,0 +1,75 @@
+{
+  "$schema": "https://itemdeck.app/schemas/v2/collection.json",
+  "id": "bestof-tv",
+  "name": "100 Greatest TV Shows",
+  "description": "The 100 highest-rated television series of all time.",
+  "schemaVersion": "v2",
+  "version": "1.0.0",
+  "entityTypes": {
+    "show": {
+      "primary": true,
+      "label": "Show",
+      "labelPlural": "Shows",
+      "description": "A top-rated television series.",
+      "fields": {
+        "title": { "type": "string", "required": true },
+        "network": { "type": "string", "ref": "network", "required": true },
+        "year": { "type": "number", "description": "Premiere year", "required": true },
+        "endYear": { "type": "number", "description": "Final year (if ended)" },
+        "seasons": { "type": "number", "description": "Number of seasons", "required": true },
+        "episodes": { "type": "number", "description": "Total episodes", "required": true },
+        "genres": { "type": "array", "description": "Show genres", "required": true },
+        "creators": { "type": "array", "description": "Show creators" },
+        "cast": { "type": "array", "description": "Main cast members" },
+        "country": { "type": "string", "description": "Country of origin" },
+        "language": { "type": "string", "description": "Original language" },
+        "runtime": { "type": "number", "description": "Episode runtime in minutes" },
+        "summary": { "type": "text", "description": "Show description", "required": true },
+        "viewership": { "type": "object", "description": "Viewership data" },
+        "ratings": { "type": "object", "description": "Aggregated ratings", "required": true },
+        "rank": { "type": "number", "description": "Ranking (1-100)", "required": true },
+        "images": { "type": "images", "required": true },
+        "detailUrls": { "type": "detailUrls", "required": true }
+      }
+    },
+    "network": {
+      "label": "Network",
+      "labelPlural": "Networks",
+      "description": "A television network or streaming service.",
+      "fields": {
+        "title": { "type": "string", "required": true },
+        "shortTitle": { "type": "string" },
+        "type": { "type": "string", "description": "broadcast, cable, or streaming" },
+        "founded": { "type": "number", "description": "Year founded" },
+        "country": { "type": "string", "description": "Country of origin" },
+        "parent": { "type": "string", "description": "Parent company" },
+        "summary": { "type": "text", "description": "Network description", "required": true },
+        "images": { "type": "images" },
+        "detailUrls": { "type": "detailUrls" }
+      }
+    }
+  },
+  "relationships": {
+    "show.network": {
+      "target": "network",
+      "cardinality": "many-to-one",
+      "required": true
+    },
+    "show.rank": {
+      "type": "ordinal"
+    }
+  },
+  "display": {
+    "primaryEntity": "show",
+    "groupBy": "network",
+    "sortWithinGroup": ["rank", "asc"],
+    "card": {
+      "front": {
+        "title": "title",
+        "subtitle": "year",
+        "badge": "rank",
+        "footer": ["seasons", "ratings.imdb.score"]
+      }
+    }
+  }
+}

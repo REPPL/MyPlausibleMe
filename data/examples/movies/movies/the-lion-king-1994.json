@@ -1,0 +1,73 @@
+{
+  "id": "the-lion-king-1994",
+  "title": "The Lion King",
+  "studio": "disney",
+  "year": 1994,
+  "director": "Roger Allers, Rob Minkoff",
+  "cast": ["Matthew Broderick", "James Earl Jones", "Jeremy Irons", "Moira Kelly", "Nathan Lane"],
+  "genres": ["Animation", "Musical", "Drama"],
+  "runtime": 88,
+  "language": "English",
+  "country": "USA",
+  "summary": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself. A beloved Disney classic featuring iconic songs and one of cinema's most memorable villains.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1083736186,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 422783777,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 660952409,
+      "currency": "USD"
+    },
+    "budget": 45000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Lion_King"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 2,
+      "nominations": 4
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 8.5, "max": 10 },
+    "rottenTomatoes": { "critics": 93, "audience": 93 },
+    "metacritic": { "score": 88, "max": 100 }
+  },
+  "rank": 73,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/3d/The_Lion_King_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Lion King movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:The_Lion_King_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=4sj1MT05lAA",
+      "title": "The Lion King Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Lion_King",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0110357/",
+      "source": "IMDB"
+    }
+  ]
+}

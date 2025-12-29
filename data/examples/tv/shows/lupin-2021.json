@@ -1,0 +1,45 @@
+{
+  "id": "lupin-2021",
+  "title": "Lupin",
+  "network": "netflix",
+  "year": 2021,
+  "endYear": null,
+  "seasons": 3,
+  "episodes": 17,
+  "genres": ["Crime", "Mystery", "Drama"],
+  "creators": ["George Kay", "François Uzan"],
+  "cast": ["Omar Sy", "Ludivine Sagnier", "Clotilde Hesme", "Nicole Garcia", "Antoine Gouy"],
+  "country": "France",
+  "language": "French",
+  "runtime": 50,
+  "summary": "Inspired by the adventures of Arsène Lupin, a gentleman thief seeks revenge for his father's death, framed by a wealthy family. Became one of Netflix's most-watched series globally.",
+  "viewership": {
+    "hoursWatched": 500000000,
+    "source": "Netflix",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Lupin_(French_TV_series)"
+  },
+  "ratings": {
+    "imdb": { "score": 7.5, "max": 10 },
+    "rottenTomatoes": { "critics": 98, "audience": 78 }
+  },
+  "rank": 59,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/4f/Lupin_%28TV_series%29.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Lupin poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Lupin_(TV_series).jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Lupin_(French_TV_series)",
+      "source": "Wikipedia"
+    }
+  ]
+}

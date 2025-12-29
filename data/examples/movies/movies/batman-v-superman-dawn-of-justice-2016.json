@@ -1,0 +1,92 @@
+{
+  "id": "batman-v-superman-dawn-of-justice-2016",
+  "title": "Batman v Superman: Dawn of Justice",
+  "studio": "warner-bros",
+  "year": 2016,
+  "director": "Zack Snyder",
+  "cast": [
+    "Ben Affleck",
+    "Henry Cavill",
+    "Amy Adams",
+    "Jesse Eisenberg",
+    "Gal Gadot"
+  ],
+  "genres": [
+    "Superhero",
+    "Action",
+    "Adventure"
+  ],
+  "runtime": 151,
+  "language": "English",
+  "country": "USA",
+  "summary": "Fearing that the actions of Superman are left unchecked, Batman takes on the Man of Steel, while the world wrestles with what kind of hero it really needs. The film introduced Wonder Woman and set up the Justice League.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 873637528,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 330360194,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 543277334,
+      "currency": "USD"
+    },
+    "budget": 250000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Batman_v_Superman:_Dawn_of_Justice"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": {
+      "score": 6.5,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 29,
+      "audience": 63
+    },
+    "metacritic": {
+      "score": 44,
+      "max": 100
+    }
+  },
+  "rank": 61,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/31/Batman_v_Superman_Dawn_of_Justice_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Batman v Superman: Dawn of Justice movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Batman_v_Superman_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=0WWzgGyAH6Y",
+      "title": "Batman v Superman: Dawn of Justice Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Batman_v_Superman:_Dawn_of_Justice",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt2975590/",
+      "source": "IMDB"
+    }
+  ]
+}

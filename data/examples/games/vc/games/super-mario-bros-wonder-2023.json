@@ -1,0 +1,39 @@
+{
+  "id": "the-super-mario-bros-wonder-2023",
+  "title": "Super Mario Bros. Wonder",
+  "publisher": "nintendo",
+  "developer": "Nintendo EPD",
+  "year": 2023,
+  "platforms": ["Nintendo Switch"],
+  "genres": ["Platformer"],
+  "modes": ["Single-player", "Multiplayer"],
+  "summary": "A 2D side-scrolling platformer featuring Wonder Flowers that transform the world in surprising ways. Won Best Family Game at The Game Awards 2023.",
+  "sales": {
+    "unitsSold": 12000000,
+    "source": "Wikipedia/Nintendo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Super_Mario_Bros._Wonder"
+  },
+  "ratings": {
+    "metacritic": { "score": 92, "max": 100 }
+  },
+  "rank": 26,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/80/Super_Mario_Bros._Wonder_box_art.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Super Mario Bros. Wonder cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Super_Mario_Bros._Wonder_box_art.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros._Wonder",
+      "source": "Wikipedia"
+    }
+  ]
+}

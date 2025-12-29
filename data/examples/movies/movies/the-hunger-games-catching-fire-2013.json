@@ -1,0 +1,92 @@
+{
+  "id": "the-hunger-games-catching-fire-2013",
+  "title": "The Hunger Games: Catching Fire",
+  "studio": "lionsgate",
+  "year": 2013,
+  "director": "Francis Lawrence",
+  "cast": [
+    "Jennifer Lawrence",
+    "Josh Hutcherson",
+    "Liam Hemsworth",
+    "Philip Seymour Hoffman",
+    "Woody Harrelson"
+  ],
+  "genres": [
+    "Science fiction",
+    "Action",
+    "Adventure"
+  ],
+  "runtime": 146,
+  "language": "English",
+  "country": "USA",
+  "summary": "Katniss Everdeen and Peeta Mellark become targets of the Capitol after their victory in the 74th Hunger Games sparks a rebellion in the Districts of Panem. The sequel expanded the scope and stakes of the dystopian franchise.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 865011746,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 424668047,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 440343699,
+      "currency": "USD"
+    },
+    "budget": 130000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Catching_Fire"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": {
+      "score": 7.5,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 90,
+      "audience": 89
+    },
+    "metacritic": {
+      "score": 76,
+      "max": 100
+    }
+  },
+  "rank": 64,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/12/Catching-Fire_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Hunger Games: Catching Fire movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Catching_Fire_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=EAzGXqJSDJ8",
+      "title": "The Hunger Games: Catching Fire Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Catching_Fire",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt1951264/",
+      "source": "IMDB"
+    }
+  ]
+}

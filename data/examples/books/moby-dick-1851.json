@@ -1,0 +1,63 @@
+{
+  "id": "moby-dick-1851",
+  "title": "Moby-Dick",
+  "author": "herman-melville",
+  "year": 1851,
+  "genres": [
+    "Novel",
+    "Adventure",
+    "Epic"
+  ],
+  "pages": 635,
+  "publisher": "Richard Bentley",
+  "language": "English",
+  "country": "United States",
+  "summary": "Captain Ahab's obsessive quest to kill the white whale that maimed him. A commercial failure in its time, it is now considered one of the greatest American novels ever written.",
+  "sales": {
+    "copiesSold": 10000000,
+    "languages": 50,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Moby-Dick"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 3.55,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 3.96,
+      "max": 5,
+      "count": 180
+    }
+  },
+  "rank": 99,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/10544254-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Moby Dick cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL102749W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Moby-Dick",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL102749W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 1118,
+  "isbn": "9780870865121",
+  "description": "\"Command the murderous chalices! Drink ye harpooners! Drink and swear, ye men that man the deathful whaleboat's bow -- Death to Moby Dick!\" So Captain Ahab binds his crew to fulfil his obsession -- the destruction of the great white whale. Under his lordly but maniacal command the Pequod's commercial mission is perverted to one of vengeance. To Ahab, the monster that destroyed his body is not a creature, but the symbol of \"some unknown but still reasoning thing.\" Uncowed by natural disasters, il...",
+  "_openlibrary_work_key": "/works/OL102749W"
+}

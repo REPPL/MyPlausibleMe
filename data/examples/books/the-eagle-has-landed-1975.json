@@ -1,0 +1,63 @@
+{
+  "id": "the-eagle-has-landed-1975",
+  "title": "The Eagle Has Landed",
+  "author": "jack-higgins",
+  "year": 1975,
+  "genres": [
+    "Thriller",
+    "War fiction",
+    "Historical fiction"
+  ],
+  "pages": 352,
+  "publisher": "Collins",
+  "language": "English",
+  "country": "United Kingdom",
+  "summary": "A World War II thriller about a German plot to kidnap Winston Churchill. The novel became an international bestseller and was adapted into a successful 1976 film starring Michael Caine.",
+  "sales": {
+    "copiesSold": 50000000,
+    "languages": 30,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Eagle_Has_Landed"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.02,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.5,
+      "max": 5,
+      "count": 12
+    }
+  },
+  "rank": 28,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/271801-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "The Eagle Has Landed cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL157363W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Eagle_Has_Landed",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL157363W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 61,
+  "isbn": "1453215107",
+  "description": "In November of 1943, an elite team of Nazi paratroopers descends on British soil with a diabolical goal: to abduct Winston Churchill and cripple the Allied war effort. The mission, ordered by Hitler himself and planned by Heinrich Himmler, is led by ace agent Kurt Steiner and aided on the ground by IRA gunman Liam Devlin",
+  "_openlibrary_work_key": "/works/OL157363W"
+}

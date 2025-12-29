@@ -1,0 +1,53 @@
+{
+  "id": "railroad-tycoon-ms-dos",
+  "title": "Railroad Tycoon",
+  "platform": "ms-dos",
+  "myRank": 1,
+  "year": 1990,
+  "summary": "Build a railroad empire; Sid Meier's business simulation masterpiece.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/ba/Railroad_Tycoon_screenshot.png",
+      "type": "boxart",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Railroad_Tycoon_screenshot.png",
+        "licence": "Fair use"
+      },
+      "isPrimary": true,
+      "alt": "Railroad Tycoon cover"
+    }
+  ],
+  "myStartYear": 1990,
+  "status": "completed",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Railroad_Tycoon_(video_game)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/game/70/",
+      "source": "MobyGames"
+    }
+  ],
+  "originalPlatform": "PC",
+  "originalReleaseDate": "1990",
+  "genres": [
+    "Simulation"
+  ],
+  "myVerdict": "I could play that for the rest of my life I think",
+  "averageRating": {
+    "score": 5,
+    "sourceCount": 6,
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Railroad_Tycoon_(video_game)#Reception"
+  },
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=bekpo1o6rh4",
+      "title": "Railroad Tycoon - MS-DOS Gameplay",
+      "source": "YouTube",
+      "type": "gameplay"
+    }
+  ]
+}

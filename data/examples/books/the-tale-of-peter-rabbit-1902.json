@@ -1,0 +1,62 @@
+{
+  "id": "the-tale-of-peter-rabbit-1902",
+  "title": "The Tale of Peter Rabbit",
+  "author": "beatrix-potter",
+  "year": 1902,
+  "genres": [
+    "Children's literature",
+    "Picture book"
+  ],
+  "pages": 56,
+  "publisher": "Frederick Warne & Co",
+  "language": "English",
+  "country": "United Kingdom",
+  "summary": "The story of a mischievous rabbit who disobeys his mother and sneaks into Mr. McGregor's garden. One of the best-selling children's books of all time, it launched Beatrix Potter's career as an author-illustrator.",
+  "sales": {
+    "copiesSold": 45000000,
+    "languages": 35,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Tale_of_Peter_Rabbit"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.18,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 3.93,
+      "max": 5,
+      "count": 45
+    }
+  },
+  "rank": 33,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/2557658-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "The Tale of Peter Rabbit cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL26460746W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Tale_of_Peter_Rabbit",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL26460746W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 102,
+  "isbn": "9780785701514",
+  "description": "One of the best known and loved children's stories is the story of naughty Peter Rabbit and his misadventures as he is chased around a garden.",
+  "_openlibrary_work_key": "/works/OL26460746W"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "george-michael-careless-whisper",
+  "title": "Careless Whisper",
+  "artist": "george-michael",
+  "year": 1984,
+  "album": "Make It Big",
+  "writers": [
+    "George Michael",
+    "Andrew Ridgeley"
+  ],
+  "producers": [
+    "George Michael"
+  ],
+  "genres": [
+    "Soft rock",
+    "Adult contemporary"
+  ],
+  "duration": 308,
+  "label": "Columbia Records",
+  "summary": "Famous for its instantly recognisable saxophone intro, this ballad about guilt and infidelity became George Michael's signature song. It reached number one in 25 countries.",
+  "sales": {
+    "totalUnits": 6000000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Careless_Whisper"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 1,
+      "weeks": 3,
+      "chart": "Billboard Hot 100",
+      "year": 1985
+    },
+    "UK": {
+      "peak": 1,
+      "weeks": 3,
+      "chart": "UK Singles Chart",
+      "year": 1984
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "4x Platinum",
+      "units": 4000000
+    },
+    {
+      "region": "UK",
+      "certification": "2x Platinum",
+      "units": 1200000
+    }
+  ],
+  "rank": 95,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/10/Careless_Whisper_UK_single.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Careless Whisper single cover",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Careless_Whisper.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=izGwDsrQ1eQ",
+      "title": "George Michael - Careless Whisper (Official Video)",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Careless_Whisper",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/1473829f-acf0-4d4e-8346-40f94d0d6f3d",
+      "source": "MusicBrainz"
+    }
+  ],
+  "_musicbrainz_recording_id": "1473829f-acf0-4d4e-8346-40f94d0d6f3d"
+}

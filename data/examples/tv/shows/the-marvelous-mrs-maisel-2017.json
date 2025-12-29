@@ -1,0 +1,61 @@
+{
+  "id": "the-marvelous-mrs-maisel-2017",
+  "title": "The Marvelous Mrs. Maisel",
+  "network": "amazon-prime",
+  "year": 2017,
+  "endYear": 2023,
+  "seasons": 5,
+  "episodes": 43,
+  "genres": [
+    "Comedy-drama",
+    "Period drama"
+  ],
+  "creators": [
+    "Amy Sherman-Palladino"
+  ],
+  "cast": [
+    "Rachel Brosnahan",
+    "Alex Borstein",
+    "Michael Zegen",
+    "Marin Hinkle",
+    "Tony Shalhoub"
+  ],
+  "country": "United States",
+  "language": "English",
+  "runtime": 57,
+  "summary": "A 1950s housewife discovers she has a talent for stand-up comedy and pursues a career in it. Won multiple Emmy and Golden Globe Awards.",
+  "viewership": {
+    "source": "Amazon Prime Video",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Marvelous_Mrs._Maisel"
+  },
+  "ratings": {
+    "imdb": {
+      "score": 8.7,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 89,
+      "audience": 86
+    }
+  },
+  "rank": 75,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/The_Marvelous_Mrs._Maisel.svg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Marvelous Mrs. Maisel title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:The_Marvelous_Mrs._Maisel_Title_Card.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Marvelous_Mrs._Maisel",
+      "source": "Wikipedia"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "survivor-eye-of-the-tiger",
+  "title": "Eye of the Tiger",
+  "artist": "survivor",
+  "year": 1982,
+  "album": "Eye of the Tiger",
+  "writers": [
+    "Jim Peterik",
+    "Frankie Sullivan"
+  ],
+  "producers": [
+    "Jim Peterik",
+    "Frankie Sullivan"
+  ],
+  "genres": [
+    "Hard rock",
+    "Arena rock"
+  ],
+  "duration": 246,
+  "label": "Scotti Brothers Records",
+  "summary": "Written at the request of Sylvester Stallone for Rocky III after Queen declined to license 'Another One Bites the Dust'. The song spent six weeks at number one and became an enduring motivational anthem.",
+  "sales": {
+    "totalUnits": 9000000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Eye_of_the_Tiger"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 1,
+      "weeks": 6,
+      "chart": "Billboard Hot 100",
+      "year": 1982
+    },
+    "UK": {
+      "peak": 1,
+      "weeks": 4,
+      "chart": "UK Singles Chart",
+      "year": 1982
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "4x Platinum",
+      "units": 4000000
+    },
+    {
+      "region": "UK",
+      "certification": "Platinum",
+      "units": 600000
+    }
+  ],
+  "rank": 33,
+  "images": [
+    {
+      "url": "https://coverartarchive.org/release/11104a50-c0ea-4338-9e8d-2cab53e86062/15474252730-500.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Album cover",
+      "attribution": {
+        "source": "Cover Art Archive",
+        "licence": "CC BY-NC-SA 3.0",
+        "licenceUrl": "https://wiki.musicbrainz.org/Cover_Art_Archive",
+        "note": "Cover art copyrighted by respective owners. Non-commercial use only.",
+        "sourceUrl": "https://musicbrainz.org/release/11104a50-c0ea-4338-9e8d-2cab53e86062"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=btPJPFnesV4",
+      "title": "Survivor - Eye Of The Tiger (Official HD Video)",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Eye_of_the_Tiger",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/e5bb8ea0-d054-4dd1-a738-000595e151fb",
+      "source": "MusicBrainz"
+    },
+    {
+      "url": "https://musicbrainz.org/release/11104a50-c0ea-4338-9e8d-2cab53e86062",
+      "source": "MusicBrainz (Release)"
+    }
+  ],
+  "_musicbrainz_recording_id": "e5bb8ea0-d054-4dd1-a738-000595e151fb",
+  "_musicbrainz_release_id": "11104a50-c0ea-4338-9e8d-2cab53e86062"
+}

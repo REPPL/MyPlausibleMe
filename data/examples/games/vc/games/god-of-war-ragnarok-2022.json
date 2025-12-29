@@ -1,0 +1,39 @@
+{
+  "id": "god-of-war-ragnarok-2022",
+  "title": "God of War Ragnarök",
+  "publisher": "sony",
+  "developer": "Santa Monica Studio",
+  "year": 2022,
+  "platforms": ["PlayStation 4", "PlayStation 5", "PC"],
+  "genres": ["Action-adventure", "Hack and slash"],
+  "modes": ["Single-player"],
+  "summary": "Kratos and Atreus prepare for Ragnarök while pursuing answers about Atreus's true nature. The conclusion to the Norse saga of God of War.",
+  "sales": {
+    "unitsSold": 15000000,
+    "source": "Wikipedia/Sony",
+    "sourceUrl": "https://en.wikipedia.org/wiki/God_of_War_Ragnar%C3%B6k"
+  },
+  "ratings": {
+    "metacritic": { "score": 94, "max": 100 }
+  },
+  "rank": 87,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/ee/God_of_War_Ragnar%C3%B6k_cover.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "God of War Ragnarök cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:God_of_War_Ragnar%C3%B6k_cover.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/God_of_War_Ragnar%C3%B6k",
+      "source": "Wikipedia"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "saab-900-side",
+  "title": "Side",
+  "brand": "saab",
+  "year": 1988,
+  "personalRank": 1,
+  "duration": 30,
+  "summary": "Classic 1988 SAAB 900 advertisement showcasing the distinctive Swedish engineering and safety features that made SAAB unique in the automotive world.",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Saab_900",
+      "source": "Wikipedia"
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=X5pQLspJAWI",
+      "title": "SAAB 900 Side",
+      "source": "YouTube",
+      "type": "commercial"
+    }
+  ]
+}

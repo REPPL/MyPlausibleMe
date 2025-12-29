@@ -1,0 +1,64 @@
+{
+  "id": "harry-potter-and-the-philosophers-stone-1997",
+  "title": "Harry Potter and the Philosopher's Stone",
+  "author": "j-k-rowling",
+  "year": 1997,
+  "genres": [
+    "Fantasy",
+    "Young adult",
+    "Children's literature"
+  ],
+  "pages": 223,
+  "publisher": "Bloomsbury",
+  "language": "English",
+  "country": "United Kingdom",
+  "series": "Harry Potter",
+  "summary": "The first novel in the Harry Potter series, introducing the young wizard who discovers his magical heritage on his eleventh birthday and begins his education at Hogwarts School of Witchcraft and Wizardry.",
+  "sales": {
+    "copiesSold": 120000000,
+    "languages": 80,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.47,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.23,
+      "max": 5,
+      "count": 949
+    }
+  },
+  "rank": 5,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/10521270-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Harry Potter and the Philosopher's Stone cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL82563W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL82563W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 362,
+  "isbn": "9781408894620",
+  "description": "Turning the envelope over, his hand trembling, Harry saw a purple wax seal bearing a coat of arms; a lion, an eagle, a badger and a snake surrounding a large letter 'H'.\r\n\r\nHARRY POTTER has never even heard of Hogwarts when the LETTERS start dropping on the doormat at number four, Privet Drive. Addressed in GREEN INK on yellowish parchment with a PURPLE SEAL, they are swiftly confiscated by his GRISLY aunt and uncle. Then, on Harry's eleventh birthday, a great beetle-eyed giant of a man called R...",
+  "_openlibrary_work_key": "/works/OL82563W"
+}

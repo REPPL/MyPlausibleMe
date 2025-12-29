@@ -1,0 +1,73 @@
+{
+  "id": "jurassic-world-fallen-kingdom-2018",
+  "title": "Jurassic World: Fallen Kingdom",
+  "studio": "universal",
+  "year": 2018,
+  "director": "J. A. Bayona",
+  "cast": ["Chris Pratt", "Bryce Dallas Howard", "Rafe Spall", "Justice Smith", "Daniella Pineda"],
+  "genres": ["Science fiction", "Action", "Adventure"],
+  "runtime": 128,
+  "language": "English",
+  "country": "USA",
+  "summary": "When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event. The sequel expanded the franchise into new territory with darker themes.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1310466296,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 417719760,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 892746536,
+      "currency": "USD"
+    },
+    "budget": 170000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Jurassic_World:_Fallen_Kingdom"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 6.1, "max": 10 },
+    "rottenTomatoes": { "critics": 47, "audience": 48 },
+    "metacritic": { "score": 51, "max": 100 }
+  },
+  "rank": 21,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/c6/Jurassic_World_Fallen_Kingdom.png",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Jurassic World: Fallen Kingdom movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Jurassic_World_Fallen_Kingdom.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=vn9mMeWcgoM",
+      "title": "Jurassic World: Fallen Kingdom Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Jurassic_World:_Fallen_Kingdom",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt4881806/",
+      "source": "IMDB"
+    }
+  ]
+}

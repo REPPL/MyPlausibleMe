@@ -1,0 +1,51 @@
+{
+  "id": "super-mario-bros-3-nes",
+  "title": "Super Mario Bros. 3",
+  "platform": "nes",
+  "myRank": 3,
+  "year": 1988,
+  "summary": "A platform game that introduced a map screen, varied power-ups, and multiple themed worlds.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/a5/Super_Mario_Bros._3_coverart.png",
+      "type": "boxart",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Super_Mario_Bros._3_coverart.png",
+        "licence": "fair-use"
+      },
+      "isPrimary": true,
+      "alt": "Super Mario Bros. 3 cover art"
+    }
+  ],
+  "myStartYear": 1990,
+  "myVerdict": "Yes, it's that good",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros._3",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/game/7300/",
+      "source": "MobyGames"
+    }
+  ],
+  "originalReleaseDate": "1988",
+  "genres": [
+    "Platform"
+  ],
+  "averageRating": {
+    "score": 5,
+    "sourceCount": 6,
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Super_Mario_Bros._3#Reception"
+  },
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=7i9omPUt9iQ",
+      "title": "Super Mario Bros. 3 - NES Longplay",
+      "source": "World of Longplays",
+      "type": "gameplay"
+    }
+  ]
+}

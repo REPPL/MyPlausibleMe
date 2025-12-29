@@ -1,0 +1,92 @@
+{
+  "id": "black-panther-2018",
+  "title": "Black Panther",
+  "studio": "disney",
+  "year": 2018,
+  "director": "Ryan Coogler",
+  "cast": [
+    "Chadwick Boseman",
+    "Michael B. Jordan",
+    "Lupita Nyong'o",
+    "Danai Gurira",
+    "Letitia Wright"
+  ],
+  "genres": [
+    "Superhero",
+    "Science fiction",
+    "Action"
+  ],
+  "runtime": 134,
+  "language": "English",
+  "country": "USA",
+  "summary": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past. The film became a cultural phenomenon and received historic Oscar recognition.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1349926083,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 700426566,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 649499517,
+      "currency": "USD"
+    },
+    "budget": 200000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Black_Panther_(film)"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 3,
+      "nominations": 7
+    }
+  },
+  "ratings": {
+    "imdb": {
+      "score": 7.3,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 96,
+      "audience": 79
+    },
+    "metacritic": {
+      "score": 88,
+      "max": 100
+    }
+  },
+  "rank": 18,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/d6/Black_Panther_%28film%29_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Black Panther movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Black_Panther_film_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=xjDjIWPwcPU",
+      "title": "Black Panther Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Black_Panther_(film)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt1825683/",
+      "source": "IMDB"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "the-legend-of-zelda-breath-of-the-wild-2017",
+  "title": "The Legend of Zelda: Breath of the Wild",
+  "publisher": "nintendo",
+  "developer": "Nintendo EPD",
+  "year": 2017,
+  "platforms": ["Nintendo Switch", "Wii U"],
+  "genres": ["Action-adventure", "Open world"],
+  "modes": ["Single-player"],
+  "summary": "Link awakens from a 100-year slumber to defeat Calamity Ganon. Revolutionised open-world design and won numerous Game of the Year awards.",
+  "sales": {
+    "unitsSold": 31690000,
+    "source": "Wikipedia/Nintendo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild"
+  },
+  "ratings": {
+    "metacritic": { "score": 97, "max": 100 }
+  },
+  "rank": 16,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/c6/The_Legend_of_Zelda_Breath_of_the_Wild.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "The Legend of Zelda: Breath of the Wild cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:The_Legend_of_Zelda_Breath_of_the_Wild.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild",
+      "source": "Wikipedia"
+    }
+  ]
+}

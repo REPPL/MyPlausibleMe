@@ -1,0 +1,54 @@
+{
+  "id": "the-hobbit-1937",
+  "title": "The Hobbit",
+  "author": "j-r-r-tolkien",
+  "year": 1937,
+  "genres": [
+    "Fantasy",
+    "Children's literature",
+    "Adventure"
+  ],
+  "pages": 310,
+  "publisher": "Allen & Unwin",
+  "language": "English",
+  "country": "United Kingdom",
+  "summary": "The prequel to The Lord of the Rings, following Bilbo Baggins as he joins a company of dwarves on a quest to reclaim their homeland from the dragon Smaug. It established Middle-earth and modern fantasy conventions.",
+  "sales": {
+    "copiesSold": 100000000,
+    "languages": 50,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Hobbit"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.28,
+      "max": 5
+    }
+  },
+  "rank": 6,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/4a/TheHobbit_FirstEdition.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "The Hobbit first edition cover",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:TheHobbit_FirstEdition.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Hobbit",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL44119043W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 1,
+  "_openlibrary_work_key": "/works/OL44119043W"
+}

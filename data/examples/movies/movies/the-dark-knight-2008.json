@@ -1,0 +1,73 @@
+{
+  "id": "the-dark-knight-2008",
+  "title": "The Dark Knight",
+  "studio": "warner-bros",
+  "year": 2008,
+  "director": "Christopher Nolan",
+  "cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart", "Michael Caine", "Gary Oldman"],
+  "genres": ["Superhero", "Action", "Crime"],
+  "runtime": 152,
+  "language": "English",
+  "country": "USA",
+  "summary": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice. Heath Ledger's iconic performance earned a posthumous Oscar.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1004934033,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 533345358,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 471588675,
+      "currency": "USD"
+    },
+    "budget": 185000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Dark_Knight_(film)"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 2,
+      "nominations": 8
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 9.0, "max": 10 },
+    "rottenTomatoes": { "critics": 94, "audience": 94 },
+    "metacritic": { "score": 84, "max": 100 }
+  },
+  "rank": 50,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/1c/The_Dark_Knight_%282008_film%29.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Dark Knight movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:The_Dark_Knight_(2008_film).jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=EXeTwQWrcwY",
+      "title": "The Dark Knight Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Dark_Knight_(film)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0468569/",
+      "source": "IMDB"
+    }
+  ]
+}

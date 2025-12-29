@@ -1,0 +1,46 @@
+{
+  "id": "mr-robot-2015",
+  "title": "Mr. Robot",
+  "network": "usa-network",
+  "year": 2015,
+  "endYear": 2019,
+  "seasons": 4,
+  "episodes": 45,
+  "genres": ["Thriller", "Drama", "Cyberpunk"],
+  "creators": ["Sam Esmail"],
+  "cast": ["Rami Malek", "Christian Slater", "Carly Chaikin", "Portia Doubleday", "Martin Wallström"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 45,
+  "summary": "A cybersecurity engineer and hacker is recruited by a mysterious anarchist to destroy all debt records. Rami Malek won an Emmy and Golden Globe for his performance.",
+  "viewership": {
+    "peakViewers": 2800000,
+    "averageViewers": 1200000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Mr._Robot"
+  },
+  "ratings": {
+    "imdb": { "score": 8.5, "max": 10 },
+    "rottenTomatoes": { "critics": 94, "audience": 91 }
+  },
+  "rank": 72,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/af/Mr._Robot_Logo.svg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Mr. Robot logo",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Mr._Robot_Logo.svg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mr._Robot",
+      "source": "Wikipedia"
+    }
+  ]
+}

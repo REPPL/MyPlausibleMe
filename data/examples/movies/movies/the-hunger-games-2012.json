@@ -1,0 +1,73 @@
+{
+  "id": "the-hunger-games-2012",
+  "title": "The Hunger Games",
+  "studio": "lionsgate",
+  "year": 2012,
+  "director": "Gary Ross",
+  "cast": ["Jennifer Lawrence", "Josh Hutcherson", "Liam Hemsworth", "Woody Harrelson", "Elizabeth Banks"],
+  "genres": ["Science fiction", "Action", "Adventure"],
+  "runtime": 142,
+  "language": "English",
+  "country": "USA",
+  "summary": "Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games: a televised competition in which two teenagers from each of the twelve Districts of Panem are chosen to fight to the death. The film launched a major franchise.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 694394724,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 408010692,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 286384032,
+      "currency": "USD"
+    },
+    "budget": 78000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Hunger_Games_(film)"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 7.2, "max": 10 },
+    "rottenTomatoes": { "critics": 84, "audience": 81 },
+    "metacritic": { "score": 68, "max": 100 }
+  },
+  "rank": 79,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/42/HunsThe_Hunger_Games_Poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Hunger Games movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:The_Hunger_Games_Poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=mfmrPu43DF8",
+      "title": "The Hunger Games Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Hunger_Games_(film)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt1392170/",
+      "source": "IMDB"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "mindhunter-2017",
+  "title": "Mindhunter",
+  "network": "netflix",
+  "year": 2017,
+  "endYear": 2019,
+  "seasons": 2,
+  "episodes": 19,
+  "genres": ["Crime", "Drama", "Thriller"],
+  "creators": ["Joe Penhall"],
+  "cast": ["Jonathan Groff", "Holt McCallany", "Anna Torv", "Cameron Britton", "Hannah Gross"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 55,
+  "summary": "FBI agents Holden Ford and Bill Tench interview imprisoned serial killers to understand criminal psychology and apply it to solving ongoing cases. Based on the true-crime book by John E. Douglas.",
+  "viewership": {
+    "source": "Netflix",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Mindhunter_(TV_series)"
+  },
+  "ratings": {
+    "imdb": { "score": 8.6, "max": 10 },
+    "rottenTomatoes": { "critics": 97, "audience": 89 }
+  },
+  "rank": 61,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/b5/Mindhunter_Title_Card.jpeg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Mindhunter title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Mindhunter_Title_Card.jpeg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mindhunter_(TV_series)",
+      "source": "Wikipedia"
+    }
+  ]
+}

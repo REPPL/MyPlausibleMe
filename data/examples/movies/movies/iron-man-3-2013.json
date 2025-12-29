@@ -1,0 +1,73 @@
+{
+  "id": "iron-man-3-2013",
+  "title": "Iron Man 3",
+  "studio": "disney",
+  "year": 2013,
+  "director": "Shane Black",
+  "cast": ["Robert Downey Jr.", "Gwyneth Paltrow", "Don Cheadle", "Guy Pearce", "Ben Kingsley"],
+  "genres": ["Superhero", "Science fiction", "Action"],
+  "runtime": 130,
+  "language": "English",
+  "country": "USA",
+  "summary": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution. The first MCU film released after The Avengers continued the franchise's momentum.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1214811252,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 409013994,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 805797258,
+      "currency": "USD"
+    },
+    "budget": 200000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Iron_Man_3"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 1
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 7.1, "max": 10 },
+    "rottenTomatoes": { "critics": 79, "audience": 78 },
+    "metacritic": { "score": 62, "max": 100 }
+  },
+  "rank": 26,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/19/Iron_Man_3_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Iron Man 3 movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Iron_Man_3_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=Ke1Y3P9D0Bc",
+      "title": "Iron Man 3 Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Iron_Man_3",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt1300854/",
+      "source": "IMDB"
+    }
+  ]
+}

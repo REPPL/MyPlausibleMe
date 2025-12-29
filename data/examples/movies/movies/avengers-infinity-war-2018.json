@@ -1,0 +1,73 @@
+{
+  "id": "avengers-infinity-war-2018",
+  "title": "Avengers: Infinity War",
+  "studio": "disney",
+  "year": 2018,
+  "director": "Anthony Russo, Joe Russo",
+  "cast": ["Robert Downey Jr.", "Chris Hemsworth", "Mark Ruffalo", "Chris Evans", "Scarlett Johansson"],
+  "genres": ["Superhero", "Science fiction", "Action"],
+  "runtime": 149,
+  "language": "English",
+  "country": "USA",
+  "summary": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation puts an end to the universe. The film brought together characters from across the MCU in an unprecedented crossover event.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 2052415039,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 678815482,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 1373599557,
+      "currency": "USD"
+    },
+    "budget": 316000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Avengers:_Infinity_War"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 1
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 8.4, "max": 10 },
+    "rottenTomatoes": { "critics": 85, "audience": 91 },
+    "metacritic": { "score": 68, "max": 100 }
+  },
+  "rank": 6,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/4d/Avengers_Infinity_War_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Avengers: Infinity War movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Avengers_Infinity_War_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=6ZfuNTqbHE8",
+      "title": "Avengers: Infinity War Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Avengers:_Infinity_War",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt4154756/",
+      "source": "IMDB"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "anne-of-green-gables-1908",
+  "title": "Anne of Green Gables",
+  "author": "l-m-montgomery",
+  "year": 1908,
+  "genres": [
+    "Children's literature",
+    "Coming-of-age",
+    "Novel"
+  ],
+  "pages": 320,
+  "publisher": "L.C. Page & Co.",
+  "language": "English",
+  "country": "Canada",
+  "summary": "The story of Anne Shirley, an imaginative orphan girl sent by mistake to live with siblings Matthew and Marilla Cuthbert on Prince Edward Island. A beloved classic that spawned numerous sequels and adaptations.",
+  "sales": {
+    "copiesSold": 50000000,
+    "languages": 36,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Anne_of_Green_Gables"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.28,
+      "max": 5
+    }
+  },
+  "rank": 25,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Montgomery_Anne_of_Green_Gables.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Anne of Green Gables original cover",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anne_of_Green_Gables_(1908)_cover.jpg",
+        "licence": "public-domain"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Anne_of_Green_Gables",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL39218625W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 1,
+  "isbn": "9781453063132",
+  "_openlibrary_work_key": "/works/OL39218625W"
+}

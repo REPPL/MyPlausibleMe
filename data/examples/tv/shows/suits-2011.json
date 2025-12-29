@@ -1,0 +1,46 @@
+{
+  "id": "suits-2011",
+  "title": "Suits",
+  "network": "usa-network",
+  "year": 2011,
+  "endYear": 2019,
+  "seasons": 9,
+  "episodes": 134,
+  "genres": ["Drama", "Legal drama", "Comedy-drama"],
+  "creators": ["Aaron Korsh"],
+  "cast": ["Gabriel Macht", "Patrick J. Adams", "Meghan Markle", "Rick Hoffman", "Sarah Rafferty"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 44,
+  "summary": "A brilliant college dropout becomes a law associate at a top Manhattan law firm, hiding his lack of a degree. Became a massive hit on streaming platforms years after its original run.",
+  "viewership": {
+    "peakViewers": 4640000,
+    "averageViewers": 3500000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Suits_(American_TV_series)"
+  },
+  "ratings": {
+    "imdb": { "score": 8.5, "max": 10 },
+    "rottenTomatoes": { "critics": 90, "audience": 87 }
+  },
+  "rank": 50,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/ab/Suits_Logo.svg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Suits logo",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Suits_Logo.svg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Suits_(American_TV_series)",
+      "source": "Wikipedia"
+    }
+  ]
+}

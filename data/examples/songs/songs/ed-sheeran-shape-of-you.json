@@ -1,0 +1,97 @@
+{
+  "id": "ed-sheeran-shape-of-you",
+  "title": "Shape of You",
+  "artist": "ed-sheeran",
+  "year": 2017,
+  "album": "÷ (Divide)",
+  "writers": [
+    "Ed Sheeran",
+    "Steve Mac",
+    "Johnny McDaid"
+  ],
+  "producers": [
+    "Steve Mac"
+  ],
+  "genres": [
+    "Pop",
+    "Dancehall"
+  ],
+  "duration": 234,
+  "label": "Asylum Records",
+  "summary": "A dancehall-infused pop song that became the best-selling digital single of 2017 and one of the most-streamed songs in history. It topped charts in over 30 countries and spent 12 weeks at number one in the US.",
+  "sales": {
+    "totalUnits": 41500000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Shape_of_You"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 1,
+      "weeks": 12,
+      "chart": "Billboard Hot 100",
+      "year": 2017
+    },
+    "UK": {
+      "peak": 1,
+      "weeks": 14,
+      "chart": "UK Singles Chart",
+      "year": 2017
+    },
+    "Australia": {
+      "peak": 1,
+      "weeks": 15,
+      "chart": "ARIA Charts",
+      "year": 2017
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "Diamond",
+      "units": 14000000
+    },
+    {
+      "region": "UK",
+      "certification": "7x Platinum",
+      "units": 4200000
+    }
+  ],
+  "rank": 9,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/b4/Shape_Of_You_%28Official_Single_Cover%29_by_Ed_Sheeran.png",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Shape of You single cover",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Ed_Sheeran_-_Shape_of_You_(Official_Single_Cover).png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=JGwWNGJdvx8",
+      "title": "Ed Sheeran - Shape of You (Official Music Video)",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Shape_of_You",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/c664a576-f0e5-4725-8d52-05ecfe4822d8",
+      "source": "MusicBrainz"
+    },
+    {
+      "url": "https://musicbrainz.org/release/9de16509-fc55-4622-821d-fe02da2857a0",
+      "source": "MusicBrainz (Release)"
+    }
+  ],
+  "_musicbrainz_recording_id": "c664a576-f0e5-4725-8d52-05ecfe4822d8",
+  "_musicbrainz_release_id": "9de16509-fc55-4622-821d-fe02da2857a0"
+}

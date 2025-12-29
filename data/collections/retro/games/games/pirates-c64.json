@@ -1,0 +1,51 @@
+{
+  "id": "pirates-c64",
+  "title": "Pirates!",
+  "platform": "c64",
+  "myRank": 4,
+  "year": 1987,
+  "summary": "An open-world simulation of the 17th-century Caribbean, allowing players to pursue careers in piracy, trade, and diplomacy.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/46/Sid_Meier%27s_Pirates%21_%281987%29_Coverart.png",
+      "type": "boxart",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Sid_Meier%27s_Pirates%21_%281987%29_Coverart.png",
+        "licence": "fair-use"
+      },
+      "isPrimary": true,
+      "alt": "Pirates! cover art"
+    }
+  ],
+  "myStartYear": 1988,
+  "myVerdict": "Learning geography",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sid_Meier%27s_Pirates!",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/game/214/",
+      "source": "MobyGames"
+    }
+  ],
+  "originalReleaseDate": "1987",
+  "genres": [
+    "Action-adventure"
+  ],
+  "averageRating": {
+    "score": 5,
+    "sourceCount": 8,
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Sid_Meier%27s_Pirates!#Reception"
+  },
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=KQE2OHhtBQQ",
+      "title": "Pirates! - C64 Gameplay",
+      "source": "YouTube",
+      "type": "gameplay"
+    }
+  ]
+}

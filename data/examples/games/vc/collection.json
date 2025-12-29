@@ -1,0 +1,82 @@
+{
+  "$schema": "https://itemdeck.app/schemas/v2/collection.json",
+  "id": "bestof-games",
+  "name": "100 Best Video Games",
+  "description": "The 100 highest-rated and best-selling video games of all time.",
+  "schemaVersion": "v2",
+  "version": "1.0.0",
+  "entityTypes": {
+    "game": {
+      "primary": true,
+      "label": "Game",
+      "labelPlural": "Games",
+      "description": "A top-rated video game.",
+      "fields": {
+        "title": { "type": "string", "required": true },
+        "publisher": { "type": "string", "ref": "publisher", "required": true },
+        "developer": { "type": "string", "description": "Development studio" },
+        "year": { "type": "number", "description": "Release year", "required": true },
+        "platforms": { "type": "array", "description": "Available platforms", "required": true },
+        "genres": { "type": "array", "description": "Game genres", "required": true },
+        "modes": { "type": "array", "description": "Game modes (single-player, multiplayer)" },
+        "summary": { "type": "text", "description": "Game description", "required": true },
+        "sales": { "type": "object", "description": "Sales data" },
+        "ratings": { "type": "object", "description": "Aggregated ratings", "required": true },
+        "rank": { "type": "number", "description": "Ranking (1-100)", "required": true },
+        "images": { "type": "images", "required": true },
+        "detailUrls": { "type": "detailUrls", "required": true }
+      }
+    },
+    "publisher": {
+      "label": "Publisher",
+      "labelPlural": "Publishers",
+      "description": "A video game publisher.",
+      "fields": {
+        "title": { "type": "string", "required": true },
+        "shortTitle": { "type": "string" },
+        "founded": { "type": "number", "description": "Year founded" },
+        "headquarters": { "type": "string", "description": "Headquarters location" },
+        "summary": { "type": "text", "description": "Publisher description", "required": true },
+        "images": { "type": "images" },
+        "detailUrls": { "type": "detailUrls" }
+      }
+    },
+    "platform": {
+      "label": "Platform",
+      "labelPlural": "Platforms",
+      "description": "A gaming platform.",
+      "fields": {
+        "title": { "type": "string", "required": true },
+        "shortTitle": { "type": "string" },
+        "manufacturer": { "type": "string", "description": "Platform manufacturer" },
+        "year": { "type": "number", "description": "Release year" },
+        "summary": { "type": "text", "description": "Platform description", "required": true },
+        "images": { "type": "images" },
+        "detailUrls": { "type": "detailUrls" }
+      }
+    }
+  },
+  "relationships": {
+    "game.publisher": {
+      "target": "publisher",
+      "cardinality": "many-to-one",
+      "required": true
+    },
+    "game.rank": {
+      "type": "ordinal"
+    }
+  },
+  "display": {
+    "primaryEntity": "game",
+    "groupBy": "publisher",
+    "sortWithinGroup": ["rank", "asc"],
+    "card": {
+      "front": {
+        "title": "title",
+        "subtitle": "year",
+        "badge": "rank",
+        "footer": ["developer", "ratings.metacritic.score"]
+      }
+    }
+  }
+}

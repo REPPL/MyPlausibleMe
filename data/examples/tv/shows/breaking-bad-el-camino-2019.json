@@ -1,0 +1,63 @@
+{
+  "id": "breaking-bad-el-camino-2019",
+  "title": "El Camino: A Breaking Bad Movie",
+  "network": "netflix",
+  "year": 2019,
+  "endYear": 2019,
+  "seasons": 1,
+  "episodes": 1,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "creators": [
+    "Vince Gilligan"
+  ],
+  "cast": [
+    "Aaron Paul",
+    "Jesse Plemons",
+    "Charles Baker",
+    "Matt Jones",
+    "Robert Forster"
+  ],
+  "country": "United States",
+  "language": "English",
+  "runtime": 122,
+  "summary": "Jesse Pinkman's escape from captivity and his journey to freedom following the events of Breaking Bad. A feature-length epilogue to the critically acclaimed series.",
+  "viewership": {
+    "peakViewers": 6500000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/El_Camino:_A_Breaking_Bad_Movie"
+  },
+  "ratings": {
+    "imdb": {
+      "score": 7.3,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 79,
+      "audience": 65
+    }
+  },
+  "rank": 91,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/4e/El_camino_bb_film_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "El Camino poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:El_Camino-_A_Breaking_Bad_Movie.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/El_Camino:_A_Breaking_Bad_Movie",
+      "source": "Wikipedia"
+    }
+  ]
+}

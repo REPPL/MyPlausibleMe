@@ -1,0 +1,62 @@
+{
+  "id": "the-common-sense-book-of-baby-and-child-care-1946",
+  "title": "The Common Sense Book of Baby and Child Care",
+  "author": "benjamin-spock",
+  "year": 1946,
+  "genres": [
+    "Parenting",
+    "Childcare",
+    "Non-fiction"
+  ],
+  "pages": 527,
+  "publisher": "Duell, Sloan and Pearce",
+  "language": "English",
+  "country": "United States",
+  "summary": "Revolutionary childcare guide that encouraged parents to trust their instincts. One of the best-selling non-fiction books of the 20th century, it influenced generations of parents worldwide.",
+  "sales": {
+    "copiesSold": 50000000,
+    "languages": 42,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Common_Sense_Book_of_Baby_and_Child_Care"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 3.8,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 5.0,
+      "max": 5,
+      "count": 1
+    }
+  },
+  "rank": 24,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/6924878-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Common sense book of baby and child care cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL99188W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Common_Sense_Book_of_Baby_and_Child_Care",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL99188W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 19,
+  "isbn": "9785170065325",
+  "_openlibrary_work_key": "/works/OL99188W"
+}

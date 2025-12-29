@@ -1,0 +1,73 @@
+{
+  "id": "the-twilight-saga-eclipse-2010",
+  "title": "The Twilight Saga: Eclipse",
+  "studio": "lionsgate",
+  "year": 2010,
+  "director": "David Slade",
+  "cast": ["Kristen Stewart", "Robert Pattinson", "Taylor Lautner", "Bryce Dallas Howard", "Xavier Samuel"],
+  "genres": ["Fantasy", "Romance", "Drama"],
+  "runtime": 124,
+  "language": "English",
+  "country": "USA",
+  "summary": "As a string of mysterious killings grips Seattle, Bella, whose high school graduation is fast approaching, is forced to choose between her love for vampire Edward and her friendship with werewolf Jacob.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 698491347,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 300531751,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 397959596,
+      "currency": "USD"
+    },
+    "budget": 68000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Twilight_Saga:_Eclipse"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 5.0, "max": 10 },
+    "rottenTomatoes": { "critics": 48, "audience": 66 },
+    "metacritic": { "score": 58, "max": 100 }
+  },
+  "rank": 97,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/d4/The_Twilight_Saga-_Eclipse.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Twilight Saga: Eclipse movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:The_Twilight_Saga-_Eclipse.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=DbZnEsI6wKo",
+      "title": "The Twilight Saga: Eclipse Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Twilight_Saga:_Eclipse",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt1325004/",
+      "source": "IMDB"
+    }
+  ]
+}

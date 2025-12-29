@@ -1,0 +1,46 @@
+{
+  "id": "parks-and-recreation-2009",
+  "title": "Parks and Recreation",
+  "network": "nbc",
+  "year": 2009,
+  "endYear": 2015,
+  "seasons": 7,
+  "episodes": 125,
+  "genres": ["Comedy", "Mockumentary"],
+  "creators": ["Greg Daniels", "Michael Schur"],
+  "cast": ["Amy Poehler", "Nick Offerman", "Rashida Jones", "Aziz Ansari", "Chris Pratt"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 22,
+  "summary": "The absurd antics of an Indiana Parks Department as they pursue various projects to beautify their city. Amy Poehler stars as the eternally optimistic Leslie Knope.",
+  "viewership": {
+    "peakViewers": 6400000,
+    "averageViewers": 4500000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Parks_and_Recreation"
+  },
+  "ratings": {
+    "imdb": { "score": 8.6, "max": 10 },
+    "rottenTomatoes": { "critics": 93, "audience": 90 }
+  },
+  "rank": 66,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/a6/Parks_and_recreation_logo.png",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Parks and Recreation logo",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Parks_and_recreation_logo.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Parks_and_Recreation",
+      "source": "Wikipedia"
+    }
+  ]
+}

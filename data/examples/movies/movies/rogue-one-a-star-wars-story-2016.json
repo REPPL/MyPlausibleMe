@@ -1,0 +1,73 @@
+{
+  "id": "rogue-one-a-star-wars-story-2016",
+  "title": "Rogue One: A Star Wars Story",
+  "studio": "disney",
+  "year": 2016,
+  "director": "Gareth Edwards",
+  "cast": ["Felicity Jones", "Diego Luna", "Ben Mendelsohn", "Donnie Yen", "Forest Whitaker"],
+  "genres": ["Science fiction", "Action", "Adventure"],
+  "runtime": 133,
+  "language": "English",
+  "country": "USA",
+  "summary": "In a time of conflict, a group of unlikely heroes band together on a mission to steal the plans to the Death Star, the Empire's ultimate weapon of destruction. The first Star Wars anthology film was praised for its gritty war movie approach.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1058682142,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 532177324,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 526504818,
+      "currency": "USD"
+    },
+    "budget": 200000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Rogue_One"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 2
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 7.8, "max": 10 },
+    "rottenTomatoes": { "critics": 84, "audience": 86 },
+    "metacritic": { "score": 65, "max": 100 }
+  },
+  "rank": 41,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/d4/Rogue_One%2C_A_Star_Wars_Story_poster.png",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Rogue One: A Star Wars Story movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Rogue_One,_A_Star_Wars_Story_poster.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=frdj1zb9sMY",
+      "title": "Rogue One: A Star Wars Story Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Rogue_One",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt3748528/",
+      "source": "IMDB"
+    }
+  ]
+}

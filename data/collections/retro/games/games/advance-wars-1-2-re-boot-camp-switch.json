@@ -1,0 +1,43 @@
+{
+  "id": "advance-wars-1-2-re-boot-camp-switch",
+  "title": "Advance Wars 1+2: Re-Boot Camp",
+  "platform": "switch",
+  "year": 2023,
+  "myRank": 5,
+  "summary": "A reimagined collection of the first two Advance Wars games, featuring updated 3D graphics and modern features for the Nintendo Switch.",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Advance_Wars_1%2B2:_Re-Boot_Camp",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/game/200633/",
+      "source": "MobyGames"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/7/71/Advance_Wars_1-2_Re-Boot_Camp.jpg",
+      "type": "boxart",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Advance_Wars_1%2B2_Re-Boot_Camp_cover.jpg",
+        "licence": "fair-use"
+      },
+      "isPrimary": true,
+      "alt": "Advance Wars 1+2: Re-Boot Camp cover art"
+    }
+  ],
+  "myVerdict": "The graphics never worked for me",
+  "originalReleaseDate": "2023",
+  "genres": [
+    "Strategy"
+  ],
+  "averageRating": {
+    "score": 8.1,
+    "max": 10,
+    "sourceCount": 14,
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Advance_Wars_1%2B2:_Re-Boot_Camp#Reception"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "vikings-2013",
+  "title": "Vikings",
+  "network": "history-channel",
+  "year": 2013,
+  "endYear": 2020,
+  "seasons": 6,
+  "episodes": 89,
+  "genres": ["Drama", "Action", "Historical"],
+  "creators": ["Michael Hirst"],
+  "cast": ["Travis Fimmel", "Katheryn Winnick", "Gustaf Skarsgård", "Alexander Ludwig", "Clive Standen"],
+  "country": "Ireland",
+  "language": "English",
+  "runtime": 44,
+  "summary": "The saga of legendary Viking chieftain Ragnar Lothbrok and his Norse adventures across Europe. Became the History Channel's highest-rated scripted series.",
+  "viewership": {
+    "peakViewers": 6000000,
+    "averageViewers": 4000000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Vikings_(TV_series)"
+  },
+  "ratings": {
+    "imdb": { "score": 8.5, "max": 10 },
+    "rottenTomatoes": { "critics": 93, "audience": 89 }
+  },
+  "rank": 40,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/f6/Vikings_title_card.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Vikings title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Vikings_title_card.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Vikings_(TV_series)",
+      "source": "Wikipedia"
+    }
+  ]
+}

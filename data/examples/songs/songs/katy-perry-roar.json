@@ -1,0 +1,102 @@
+{
+  "id": "katy-perry-roar",
+  "title": "Roar",
+  "artist": "katy-perry",
+  "year": 2013,
+  "album": "Prism",
+  "writers": [
+    "Katy Perry",
+    "Lukasz Gottwald",
+    "Max Martin",
+    "Bonnie McKee",
+    "Henry Walter"
+  ],
+  "producers": [
+    "Dr. Luke",
+    "Max Martin",
+    "Cirkut"
+  ],
+  "genres": [
+    "Power pop",
+    "Pop rock"
+  ],
+  "duration": 223,
+  "label": "Capitol Records",
+  "summary": "An empowerment anthem with a jungle-themed music video that spent four weeks at number one. The song was part of a chart battle with Lady Gaga's 'Applause' and became one of Perry's biggest hits.",
+  "sales": {
+    "totalUnits": 12000000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Roar_(Katy_Perry_song)"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 1,
+      "weeks": 4,
+      "chart": "Billboard Hot 100",
+      "year": 2013
+    },
+    "UK": {
+      "peak": 1,
+      "weeks": 1,
+      "chart": "UK Singles Chart",
+      "year": 2013
+    },
+    "Australia": {
+      "peak": 1,
+      "chart": "ARIA Charts",
+      "year": 2013
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "Diamond",
+      "units": 10000000
+    },
+    {
+      "region": "UK",
+      "certification": "3x Platinum",
+      "units": 1800000
+    }
+  ],
+  "rank": 35,
+  "images": [
+    {
+      "url": "https://coverartarchive.org/release/b3eeba03-438c-4f30-a1a3-24c04dd05256/15474540500-500.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Album cover",
+      "attribution": {
+        "source": "Cover Art Archive",
+        "licence": "CC BY-NC-SA 3.0",
+        "licenceUrl": "https://wiki.musicbrainz.org/Cover_Art_Archive",
+        "note": "Cover art copyrighted by respective owners. Non-commercial use only.",
+        "sourceUrl": "https://musicbrainz.org/release/b3eeba03-438c-4f30-a1a3-24c04dd05256"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=CevxZvSJLk8",
+      "title": "Katy Perry - Roar (Official)",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Roar_(Katy_Perry_song)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/2f65bf28-67a8-4a4a-83ed-f19dafc70b87",
+      "source": "MusicBrainz"
+    },
+    {
+      "url": "https://musicbrainz.org/release/b3eeba03-438c-4f30-a1a3-24c04dd05256",
+      "source": "MusicBrainz (Release)"
+    }
+  ],
+  "_musicbrainz_recording_id": "2f65bf28-67a8-4a4a-83ed-f19dafc70b87",
+  "_musicbrainz_release_id": "b3eeba03-438c-4f30-a1a3-24c04dd05256"
+}

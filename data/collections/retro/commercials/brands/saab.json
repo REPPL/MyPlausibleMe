@@ -1,0 +1,18 @@
+{
+  "id": "saab",
+  "title": "SAAB",
+  "summary": "Swedish automotive manufacturer known for innovative engineering and distinctive advertising that emphasised safety and Scandinavian design.",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Saab_Automobile",
+      "source": "Wikipedia"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/9e/Saab_Automobile_logo.svg",
+      "type": "logo",
+      "alt": "SAAB logo"
+    }
+  ]
+}

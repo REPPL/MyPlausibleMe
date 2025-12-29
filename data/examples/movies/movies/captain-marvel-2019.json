@@ -1,0 +1,73 @@
+{
+  "id": "captain-marvel-2019",
+  "title": "Captain Marvel",
+  "studio": "disney",
+  "year": 2019,
+  "director": "Anna Boden, Ryan Fleck",
+  "cast": ["Brie Larson", "Samuel L. Jackson", "Ben Mendelsohn", "Jude Law", "Annette Bening"],
+  "genres": ["Superhero", "Action", "Science fiction"],
+  "runtime": 123,
+  "language": "English",
+  "country": "USA",
+  "summary": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. The MCU's first female-led superhero film proved a major success.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1131416446,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 426829839,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 704586607,
+      "currency": "USD"
+    },
+    "budget": 152000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Captain_Marvel_(film)"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 6.8, "max": 10 },
+    "rottenTomatoes": { "critics": 79, "audience": 45 },
+    "metacritic": { "score": 64, "max": 100 }
+  },
+  "rank": 53,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/4e/Captain_Marvel_%28film%29_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Captain Marvel movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Captain_Marvel_(film)_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=Z1BCujX3pw8",
+      "title": "Captain Marvel Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Captain_Marvel_(film)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt4154664/",
+      "source": "IMDB"
+    }
+  ]
+}

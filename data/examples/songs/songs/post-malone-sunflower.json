@@ -1,0 +1,94 @@
+{
+  "id": "post-malone-sunflower",
+  "title": "Sunflower",
+  "artist": "post-malone",
+  "year": 2018,
+  "album": "Spider-Man: Into the Spider-Verse (soundtrack)",
+  "writers": [
+    "Post Malone",
+    "Swae Lee",
+    "Carl Rosen",
+    "Billy Walsh",
+    "Carter Lang",
+    "Louis Bell"
+  ],
+  "producers": [
+    "Carter Lang",
+    "Louis Bell"
+  ],
+  "genres": [
+    "Pop",
+    "Hip hop"
+  ],
+  "duration": 158,
+  "label": "Republic Records",
+  "summary": "A collaboration with Swae Lee featured in the animated film Spider-Man: Into the Spider-Verse. It became one of the longest-charting songs in Billboard Hot 100 history, spending 166 weeks on the chart.",
+  "sales": {
+    "totalUnits": 16000000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sunflower_(Post_Malone_and_Swae_Lee_song)"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 1,
+      "weeks": 1,
+      "chart": "Billboard Hot 100",
+      "year": 2019
+    },
+    "UK": {
+      "peak": 3,
+      "chart": "UK Singles Chart",
+      "year": 2019
+    },
+    "Australia": {
+      "peak": 1,
+      "chart": "ARIA Charts",
+      "year": 2019
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "Diamond",
+      "units": 13000000
+    },
+    {
+      "region": "UK",
+      "certification": "3x Platinum",
+      "units": 1800000
+    }
+  ],
+  "rank": 50,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/d0/Sunflower_promo.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Sunflower single cover",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Post_Malone_and_Swae_Lee_-_Sunflower.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=ApXoWvfEYVU",
+      "title": "Post Malone, Swae Lee - Sunflower (Spider-Man: Into the Spider-Verse)",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sunflower_(Post_Malone_and_Swae_Lee_song)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/ad4bf5e7-963a-4070-b675-9588e0dcc48c",
+      "source": "MusicBrainz"
+    }
+  ],
+  "_musicbrainz_recording_id": "ad4bf5e7-963a-4070-b675-9588e0dcc48c"
+}

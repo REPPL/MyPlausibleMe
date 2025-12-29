@@ -1,0 +1,63 @@
+{
+  "id": "brave-new-world-1932",
+  "title": "Brave New World",
+  "author": "aldous-huxley",
+  "year": 1932,
+  "genres": [
+    "Dystopian fiction",
+    "Science fiction",
+    "Satire"
+  ],
+  "pages": 311,
+  "publisher": "Chatto & Windus",
+  "language": "English",
+  "country": "United Kingdom",
+  "summary": "Set in a futuristic World State of genetically modified citizens, the novel explores a society governed by pleasure, consumption, and conformity. Regularly ranked among the greatest English-language novels of the 20th century.",
+  "sales": {
+    "copiesSold": 15000000,
+    "languages": 50,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Brave_New_World"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 3.99,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 3.96,
+      "max": 5,
+      "count": 446
+    }
+  },
+  "rank": 69,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/8231823-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Brave New World cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL64365W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Brave_New_World",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL64365W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 697,
+  "isbn": "9789734619597",
+  "description": "Originally published in 1932, this outstanding work of literature is more crucial and relevant today than ever before. Cloning, feel-good drugs, antiaging programs, and total social control through politics, programming, and media -- has Aldous Huxley accurately predicted our future? With a storyteller's genius, he weaves these ethical controversies in a compelling narrative that dawns in the year 632 AF (After Ford, the deity). When Lenina and Bernard visit a savage reservation, we experience h...",
+  "_openlibrary_work_key": "/works/OL64365W"
+}

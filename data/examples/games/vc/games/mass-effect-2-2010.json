@@ -1,0 +1,39 @@
+{
+  "id": "mass-effect-2-2010",
+  "title": "Mass Effect 2",
+  "publisher": "ea-sports",
+  "developer": "BioWare",
+  "year": 2010,
+  "platforms": ["PC", "PlayStation 3", "PlayStation 4", "Xbox 360", "Xbox One"],
+  "genres": ["Action RPG", "Third-person shooter"],
+  "modes": ["Single-player"],
+  "summary": "Commander Shepard assembles a team for a suicide mission against the Collectors. Considered one of the greatest RPGs and often the pinnacle of the Mass Effect series.",
+  "sales": {
+    "unitsSold": 6000000,
+    "source": "Wikipedia/EA",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Mass_Effect_2"
+  },
+  "ratings": {
+    "metacritic": { "score": 94, "max": 100 }
+  },
+  "rank": 60,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/05/MassEffect2_cover.PNG",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Mass Effect 2 cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:MassEffect2_cover.PNG",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mass_Effect_2",
+      "source": "Wikipedia"
+    }
+  ]
+}

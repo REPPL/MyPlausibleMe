@@ -1,0 +1,63 @@
+{
+  "id": "where-the-wild-things-are-1963",
+  "title": "Where the Wild Things Are",
+  "author": "maurice-sendak",
+  "year": 1963,
+  "genres": [
+    "Children's literature",
+    "Picture book",
+    "Fantasy"
+  ],
+  "pages": 48,
+  "publisher": "Harper & Row",
+  "language": "English",
+  "country": "United States",
+  "summary": "Max, sent to bed without supper, imagines sailing to an island of Wild Things where he becomes king. Won the Caldecott Medal and is considered one of the most influential picture books ever created.",
+  "sales": {
+    "copiesSold": 19000000,
+    "languages": 32,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Where_the_Wild_Things_Are"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.22,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.16,
+      "max": 5,
+      "count": 102
+    }
+  },
+  "rank": 83,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/50842-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Where the Wild Things Are cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL2568879W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Where_the_Wild_Things_Are",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL2568879W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 125,
+  "isbn": "0060282231",
+  "description": "This is an inspired children's book about a boy's passage through tempestuous aspects of life.\r\n\r\nMax, a naughty little boy, sent to bed without his supper, sails to the land of the wild things, where he becomes their king.",
+  "_openlibrary_work_key": "/works/OL2568879W"
+}

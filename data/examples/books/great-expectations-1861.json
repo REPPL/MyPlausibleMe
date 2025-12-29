@@ -1,0 +1,63 @@
+{
+  "id": "great-expectations-1861",
+  "title": "Great Expectations",
+  "author": "charles-dickens",
+  "year": 1861,
+  "genres": [
+    "Novel",
+    "Coming-of-age",
+    "Social commentary"
+  ],
+  "pages": 544,
+  "publisher": "Chapman & Hall",
+  "language": "English",
+  "country": "United Kingdom",
+  "summary": "Orphan Pip receives mysterious funding to become a gentleman in London, while harbouring unrequited love for the cold Estella. Considered one of Dickens's finest works and a masterpiece of English literature.",
+  "sales": {
+    "copiesSold": 10000000,
+    "languages": 45,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Great_Expectations"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 3.79,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 3.74,
+      "max": 5,
+      "count": 151
+    }
+  },
+  "rank": 90,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/13322313-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Great Expectations cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL8721462W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Great_Expectations",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL8721462W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 1489,
+  "isbn": "9798474666433",
+  "description": "Great Expectations is the thirteenth novel by Charles Dickens and his penultimate completed novel. It depicts the education of an orphan nicknamed Pip (the book is a bildungsroman; a coming-of-age story). It is Dickens' second novel, after David Copperfield, to be fully narrated in the first person. The novel was first published as a serial in Dickens's weekly periodical All the Year Round, from 1 December 1860 to August 1861. In October 1861, Chapman and Hall published the novel in three volume...",
+  "_openlibrary_work_key": "/works/OL8721462W"
+}

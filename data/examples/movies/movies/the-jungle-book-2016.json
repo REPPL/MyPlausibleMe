@@ -1,0 +1,73 @@
+{
+  "id": "the-jungle-book-2016",
+  "title": "The Jungle Book",
+  "studio": "disney",
+  "year": 2016,
+  "director": "Jon Favreau",
+  "cast": ["Neel Sethi", "Bill Murray", "Ben Kingsley", "Idris Elba", "Scarlett Johansson"],
+  "genres": ["Adventure", "Drama", "Family"],
+  "runtime": 106,
+  "language": "English",
+  "country": "USA",
+  "summary": "After a threat from the tiger Shere Khan forces him to flee the jungle, a man-cub named Mowgli embarks on a journey of self discovery with the help of panther Bagheera and free-spirited bear Baloo. The photorealistic remake was a critical and commercial triumph.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 966550600,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 364001123,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 602549477,
+      "currency": "USD"
+    },
+    "budget": 175000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Jungle_Book_(2016_film)"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 1,
+      "nominations": 1
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 7.4, "max": 10 },
+    "rottenTomatoes": { "critics": 94, "audience": 86 },
+    "metacritic": { "score": 77, "max": 100 }
+  },
+  "rank": 55,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/a4/The_Jungle_Book_%282016%29.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Jungle Book movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:The_Jungle_Book_(2016).jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=5mkm22yO-bs",
+      "title": "The Jungle Book Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Jungle_Book_(2016_film)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt3040964/",
+      "source": "IMDB"
+    }
+  ]
+}

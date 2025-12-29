@@ -1,0 +1,73 @@
+{
+  "id": "harry-potter-and-the-half-blood-prince-2009",
+  "title": "Harry Potter and the Half-Blood Prince",
+  "studio": "warner-bros",
+  "year": 2009,
+  "director": "David Yates",
+  "cast": ["Daniel Radcliffe", "Rupert Grint", "Emma Watson", "Michael Gambon", "Jim Broadbent"],
+  "genres": ["Fantasy", "Adventure", "Mystery"],
+  "runtime": 153,
+  "language": "English",
+  "country": "UK",
+  "summary": "As Harry Potter begins his sixth year at Hogwarts, he discovers an old book marked as 'the property of the Half-Blood Prince' and begins to learn more about Lord Voldemort's dark past. The film balanced dark themes with teenage romance.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 934416487,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 302089278,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 632327209,
+      "currency": "USD"
+    },
+    "budget": 250000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 1
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 7.6, "max": 10 },
+    "rottenTomatoes": { "critics": 84, "audience": 84 },
+    "metacritic": { "score": 78, "max": 100 }
+  },
+  "rank": 94,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/b4/Half-Blood_Prince_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Harry Potter and the Half-Blood Prince movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Half-Blood_Prince_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=jaJuwKCmJbY",
+      "title": "Harry Potter and the Half-Blood Prince Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0417741/",
+      "source": "IMDB"
+    }
+  ]
+}

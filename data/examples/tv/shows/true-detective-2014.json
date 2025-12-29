@@ -1,0 +1,46 @@
+{
+  "id": "true-detective-2014",
+  "title": "True Detective",
+  "network": "hbo",
+  "year": 2014,
+  "endYear": null,
+  "seasons": 4,
+  "episodes": 30,
+  "genres": ["Crime", "Drama", "Mystery"],
+  "creators": ["Nic Pizzolatto"],
+  "cast": ["Matthew McConaughey", "Woody Harrelson", "Colin Farrell", "Mahershala Ali", "Jodie Foster"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 55,
+  "summary": "An anthology crime drama where each season tells a new story with new characters investigating a crime. The first season was praised for its performances and cinematography.",
+  "viewership": {
+    "peakViewers": 3500000,
+    "averageViewers": 2500000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/True_Detective"
+  },
+  "ratings": {
+    "imdb": { "score": 8.9, "max": 10 },
+    "rottenTomatoes": { "critics": 77, "audience": 86 }
+  },
+  "rank": 25,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/9b/TrueDetective_S1_Poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "True Detective season 1 poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:TrueDetective_S1_Poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/True_Detective",
+      "source": "Wikipedia"
+    }
+  ]
+}

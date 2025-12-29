@@ -1,0 +1,73 @@
+{
+  "id": "avengers-age-of-ultron-2015",
+  "title": "Avengers: Age of Ultron",
+  "studio": "disney",
+  "year": 2015,
+  "director": "Joss Whedon",
+  "cast": ["Robert Downey Jr.", "Chris Hemsworth", "Mark Ruffalo", "Chris Evans", "Scarlett Johansson"],
+  "genres": ["Superhero", "Science fiction", "Action"],
+  "runtime": 141,
+  "language": "English",
+  "country": "USA",
+  "summary": "When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's mightiest heroes to stop the villainous Ultron from enacting his terrible plan.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1405018048,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 459005868,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 946012180,
+      "currency": "USD"
+    },
+    "budget": 365000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Avengers:_Age_of_Ultron"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 7.3, "max": 10 },
+    "rottenTomatoes": { "critics": 76, "audience": 83 },
+    "metacritic": { "score": 66, "max": 100 }
+  },
+  "rank": 16,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/ff/Avengers_Age_of_Ultron_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Avengers: Age of Ultron movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Avengers_Age_of_Ultron_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=tmeOjFno6Do",
+      "title": "Avengers: Age of Ultron Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Avengers:_Age_of_Ultron",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt2395427/",
+      "source": "IMDB"
+    }
+  ]
+}

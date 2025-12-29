@@ -1,0 +1,45 @@
+{
+  "id": "sharp-objects-2018",
+  "title": "Sharp Objects",
+  "network": "hbo",
+  "year": 2018,
+  "endYear": 2018,
+  "seasons": 1,
+  "episodes": 8,
+  "genres": ["Mystery", "Psychological thriller", "Drama"],
+  "creators": ["Marti Noxon"],
+  "cast": ["Amy Adams", "Patricia Clarkson", "Chris Messina", "Eliza Scanlen", "Matt Craven"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 55,
+  "summary": "A reporter returns to her hometown to cover the murders of two young girls while confronting her own troubled past. Based on Gillian Flynn's novel.",
+  "viewership": {
+    "peakViewers": 2500000,
+    "source": "Wikipedia/HBO",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sharp_Objects_(miniseries)"
+  },
+  "ratings": {
+    "imdb": { "score": 8.1, "max": 10 },
+    "rottenTomatoes": { "critics": 92, "audience": 79 }
+  },
+  "rank": 93,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/e9/Sharp_Objects_Title_Card.png",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Sharp Objects title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Sharp_Objects_Title_Card.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sharp_Objects_(miniseries)",
+      "source": "Wikipedia"
+    }
+  ]
+}

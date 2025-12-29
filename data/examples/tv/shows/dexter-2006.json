@@ -1,0 +1,64 @@
+{
+  "id": "dexter-2006",
+  "title": "Dexter",
+  "network": "showtime",
+  "year": 2006,
+  "endYear": 2013,
+  "seasons": 8,
+  "episodes": 96,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "creators": [
+    "James Manos Jr."
+  ],
+  "cast": [
+    "Michael C. Hall",
+    "Jennifer Carpenter",
+    "David Zayas",
+    "James Remar",
+    "C.S. Lee"
+  ],
+  "country": "United States",
+  "language": "English",
+  "runtime": 55,
+  "summary": "A forensic analyst for the Miami police secretly leads a double life as a vigilante serial killer. Based on the novel 'Darkly Dreaming Dexter' by Jeff Lindsay.",
+  "viewership": {
+    "peakViewers": 2960000,
+    "averageViewers": 2000000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Dexter_(TV_series)"
+  },
+  "ratings": {
+    "imdb": {
+      "score": 8.7,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 71,
+      "audience": 83
+    }
+  },
+  "rank": 42,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Dexter_Logo.svg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Dexter title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Dexter_TV_Series_Title_Card.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Dexter_(TV_series)",
+      "source": "Wikipedia"
+    }
+  ]
+}

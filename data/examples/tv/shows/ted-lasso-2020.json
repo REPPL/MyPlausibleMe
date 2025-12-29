@@ -1,0 +1,44 @@
+{
+  "id": "ted-lasso-2020",
+  "title": "Ted Lasso",
+  "network": "apple-tv-plus",
+  "year": 2020,
+  "endYear": 2023,
+  "seasons": 3,
+  "episodes": 34,
+  "genres": ["Comedy", "Drama", "Sports"],
+  "creators": ["Jason Sudeikis", "Bill Lawrence", "Brendan Hunt", "Joe Kelly"],
+  "cast": ["Jason Sudeikis", "Hannah Waddingham", "Brett Goldstein", "Juno Temple", "Brendan Hunt"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 40,
+  "summary": "An American college football coach is hired to manage a struggling English Premier League football team despite having no experience with the sport. Won multiple Emmy Awards for Outstanding Comedy Series.",
+  "viewership": {
+    "source": "Apple TV+",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ted_Lasso"
+  },
+  "ratings": {
+    "imdb": { "score": 8.8, "max": 10 },
+    "rottenTomatoes": { "critics": 91, "audience": 88 }
+  },
+  "rank": 14,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/8b/Ted_Lasso_title_card.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Ted Lasso title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Ted_Lasso_title_card.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ted_Lasso",
+      "source": "Wikipedia"
+    }
+  ]
+}

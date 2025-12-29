@@ -1,0 +1,92 @@
+{
+  "id": "u2-with-or-without-you",
+  "title": "With or Without You",
+  "artist": "u2",
+  "year": 1987,
+  "album": "The Joshua Tree",
+  "writers": [
+    "Bono",
+    "The Edge",
+    "Adam Clayton",
+    "Larry Mullen Jr."
+  ],
+  "producers": [
+    "Brian Eno",
+    "Daniel Lanois"
+  ],
+  "genres": [
+    "Rock",
+    "Post-punk"
+  ],
+  "duration": 296,
+  "label": "Island Records",
+  "summary": "U2's first number-one single in the United States, featuring The Edge's innovative use of the infinite guitar sustain effect. The song explores the tensions of romantic relationships with spiritual undertones.",
+  "sales": {
+    "totalUnits": 4000000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/With_or_Without_You"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 1,
+      "weeks": 3,
+      "chart": "Billboard Hot 100",
+      "year": 1987
+    },
+    "UK": {
+      "peak": 4,
+      "chart": "UK Singles Chart",
+      "year": 1987
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "3x Platinum",
+      "units": 3000000
+    },
+    {
+      "region": "UK",
+      "certification": "Silver",
+      "units": 200000
+    }
+  ],
+  "rank": 44,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/60/U2_-_With_or_Without_You.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "With or Without You single cover",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:U2_-_With_or_Without_You.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=ujNeHIo7oTE",
+      "title": "U2 - With Or Without You (Official Music Video)",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/With_or_Without_You",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/b1cd6f27-40f1-491a-97de-60eb6b2abdc7",
+      "source": "MusicBrainz"
+    },
+    {
+      "url": "https://musicbrainz.org/release/e08f21bf-e63e-31f7-9cc3-6aac550a382a",
+      "source": "MusicBrainz (Release)"
+    }
+  ],
+  "_musicbrainz_recording_id": "b1cd6f27-40f1-491a-97de-60eb6b2abdc7",
+  "_musicbrainz_release_id": "e08f21bf-e63e-31f7-9cc3-6aac550a382a"
+}

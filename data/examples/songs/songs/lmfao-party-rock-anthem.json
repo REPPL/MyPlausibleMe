@@ -1,0 +1,100 @@
+{
+  "id": "lmfao-party-rock-anthem",
+  "title": "Party Rock Anthem",
+  "artist": "lmfao",
+  "year": 2011,
+  "album": "Sorry for Party Rocking",
+  "writers": [
+    "Redfoo",
+    "SkyBlu",
+    "GoonRock"
+  ],
+  "producers": [
+    "Redfoo",
+    "GoonRock"
+  ],
+  "genres": [
+    "EDM",
+    "Electro house",
+    "Dance-pop"
+  ],
+  "duration": 274,
+  "label": "Interscope Records",
+  "summary": "An electro house anthem featuring Lauren Bennett and GoonRock that spent six weeks at number one. Its shuffling dance craze went viral and the song became one of the best-selling digital singles ever.",
+  "sales": {
+    "totalUnits": 10000000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Party_Rock_Anthem"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 1,
+      "weeks": 6,
+      "chart": "Billboard Hot 100",
+      "year": 2011
+    },
+    "UK": {
+      "peak": 1,
+      "weeks": 4,
+      "chart": "UK Singles Chart",
+      "year": 2011
+    },
+    "Australia": {
+      "peak": 1,
+      "chart": "ARIA Charts",
+      "year": 2011
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "7x Platinum",
+      "units": 7000000
+    },
+    {
+      "region": "UK",
+      "certification": "2x Platinum",
+      "units": 1200000
+    }
+  ],
+  "rank": 53,
+  "images": [
+    {
+      "url": "https://coverartarchive.org/release/15804658-f932-43a4-a50b-fc0151c62cb7/8010207592-500.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Album cover",
+      "attribution": {
+        "source": "Cover Art Archive",
+        "licence": "CC BY-NC-SA 3.0",
+        "licenceUrl": "https://wiki.musicbrainz.org/Cover_Art_Archive",
+        "note": "Cover art copyrighted by respective owners. Non-commercial use only.",
+        "sourceUrl": "https://musicbrainz.org/release/15804658-f932-43a4-a50b-fc0151c62cb7"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=KQ6zr6kCPj8",
+      "title": "LMFAO - Party Rock Anthem ft. Lauren Bennett, GoonRock",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Party_Rock_Anthem",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/744790a5-fae2-4b87-822a-cfc93e42a5c7",
+      "source": "MusicBrainz"
+    },
+    {
+      "url": "https://musicbrainz.org/release/15804658-f932-43a4-a50b-fc0151c62cb7",
+      "source": "MusicBrainz (Release)"
+    }
+  ],
+  "_musicbrainz_recording_id": "744790a5-fae2-4b87-822a-cfc93e42a5c7",
+  "_musicbrainz_release_id": "15804658-f932-43a4-a50b-fc0151c62cb7"
+}

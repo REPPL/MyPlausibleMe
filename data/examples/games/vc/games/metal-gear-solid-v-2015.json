@@ -1,0 +1,39 @@
+{
+  "id": "metal-gear-solid-v-2015",
+  "title": "Metal Gear Solid V: The Phantom Pain",
+  "publisher": "konami",
+  "developer": "Kojima Productions",
+  "year": 2015,
+  "platforms": ["PC", "PlayStation 3", "PlayStation 4", "Xbox 360", "Xbox One"],
+  "genres": ["Action-adventure", "Stealth"],
+  "modes": ["Single-player", "Multiplayer"],
+  "summary": "Big Boss builds a private military force while seeking revenge. Hideo Kojima's final Metal Gear game features open-world stealth gameplay.",
+  "sales": {
+    "unitsSold": 7000000,
+    "source": "Wikipedia/Konami",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Metal_Gear_Solid_V:_The_Phantom_Pain"
+  },
+  "ratings": {
+    "metacritic": { "score": 95, "max": 100 }
+  },
+  "rank": 55,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/8f/Metal_Gear_Solid_V_The_Phantom_Pain_cover.png",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Metal Gear Solid V: The Phantom Pain cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Metal_Gear_Solid_V_The_Phantom_Pain_cover.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Metal_Gear_Solid_V:_The_Phantom_Pain",
+      "source": "Wikipedia"
+    }
+  ]
+}

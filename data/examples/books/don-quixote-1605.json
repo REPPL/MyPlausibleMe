@@ -1,0 +1,63 @@
+{
+  "id": "don-quixote-1605",
+  "title": "Don Quixote",
+  "author": "miguel-de-cervantes",
+  "year": 1605,
+  "genres": [
+    "Novel",
+    "Satire",
+    "Adventure"
+  ],
+  "pages": 863,
+  "publisher": "Francisco de Robles",
+  "language": "Spanish",
+  "country": "Spain",
+  "summary": "Considered the first modern novel, this satirical masterpiece follows an ageing nobleman who becomes obsessed with chivalric romances and sets out as a knight-errant with his squire Sancho Panza.",
+  "sales": {
+    "copiesSold": 500000000,
+    "languages": 140,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Don_Quixote"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 3.88,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 3.79,
+      "max": 5,
+      "count": 52
+    }
+  },
+  "rank": 1,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/14428305-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Don Quijote de la Mancha cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL503666W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Don_Quixote",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL503666W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 1591,
+  "isbn": "9781441613745",
+  "description": "*Don Quijote de la Mancha* es una novela escrita por el español Miguel de Cervantes Saavedra. Publicada su primera parte con el título de *El ingenioso hidalgo don Quijote de la Mancha* a comienzos de 1605, es la obra más destacada de la literatura española y una de las principales de la literatura universal. En 1615 apareció su continuación con el título de *Segunda parte del ingenioso caballero don Quijote de la Mancha.* Es la primera obra genuinamente desmitificadora de la tradición caballere...",
+  "_openlibrary_work_key": "/works/OL503666W"
+}

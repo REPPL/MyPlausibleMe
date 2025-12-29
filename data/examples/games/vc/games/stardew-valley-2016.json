@@ -1,0 +1,39 @@
+{
+  "id": "stardew-valley-2016",
+  "title": "Stardew Valley",
+  "publisher": "concernedape",
+  "developer": "ConcernedApe",
+  "year": 2016,
+  "platforms": ["PC", "Mac", "Linux", "PlayStation 4", "PlayStation Vita", "Xbox One", "Nintendo Switch", "Mobile"],
+  "genres": ["Simulation", "RPG", "Farming"],
+  "modes": ["Single-player", "Multiplayer"],
+  "summary": "A farming simulation RPG where players inherit a run-down farm. Created entirely by one developer, it became one of the best-selling indie games ever.",
+  "sales": {
+    "unitsSold": 30000000,
+    "source": "Wikipedia/ConcernedApe",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Stardew_Valley"
+  },
+  "ratings": {
+    "metacritic": { "score": 89, "max": 100 }
+  },
+  "rank": 61,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/fd/Logo_of_Stardew_Valley.png",
+      "type": "logo",
+      "isPrimary": true,
+      "alt": "Stardew Valley logo",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Logo_of_Stardew_Valley.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Stardew_Valley",
+      "source": "Wikipedia"
+    }
+  ]
+}

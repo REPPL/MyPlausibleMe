@@ -1,0 +1,73 @@
+{
+  "id": "jurassic-world-2015",
+  "title": "Jurassic World",
+  "studio": "universal",
+  "year": 2015,
+  "director": "Colin Trevorrow",
+  "cast": ["Chris Pratt", "Bryce Dallas Howard", "Vincent D'Onofrio", "Ty Simpkins", "Nick Robinson"],
+  "genres": ["Science fiction", "Action", "Adventure"],
+  "runtime": 124,
+  "language": "English",
+  "country": "USA",
+  "summary": "A new theme park, built on the original site of Jurassic Park, creates a genetically modified hybrid dinosaur, the Indominus Rex, which escapes containment and goes on a killing spree. The film revitalized the franchise after a 14-year hiatus.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1671537444,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 653406625,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 1018130819,
+      "currency": "USD"
+    },
+    "budget": 150000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Jurassic_World"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 6.9, "max": 10 },
+    "rottenTomatoes": { "critics": 71, "audience": 78 },
+    "metacritic": { "score": 59, "max": 100 }
+  },
+  "rank": 9,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/6e/Jurassic_World_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Jurassic World movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Jurassic_World_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=RFinNxS5KN4",
+      "title": "Jurassic World Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Jurassic_World",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0369610/",
+      "source": "IMDB"
+    }
+  ]
+}

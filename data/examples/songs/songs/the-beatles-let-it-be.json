@@ -1,0 +1,92 @@
+{
+  "id": "the-beatles-let-it-be",
+  "title": "Let It Be",
+  "artist": "the-beatles",
+  "year": 1970,
+  "album": "Let It Be",
+  "writers": [
+    "John Lennon",
+    "Paul McCartney"
+  ],
+  "producers": [
+    "George Martin",
+    "Phil Spector"
+  ],
+  "genres": [
+    "Rock",
+    "Gospel"
+  ],
+  "duration": 243,
+  "label": "Apple Records",
+  "summary": "Inspired by a dream Paul McCartney had about his mother Mary, this gospel-influenced ballad became one of The Beatles' final releases. Its message of comfort and acceptance resonates across generations.",
+  "sales": {
+    "totalUnits": 4000000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Let_It_Be_(song)"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 1,
+      "weeks": 2,
+      "chart": "Billboard Hot 100",
+      "year": 1970
+    },
+    "UK": {
+      "peak": 2,
+      "chart": "UK Singles Chart",
+      "year": 1970
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "3x Platinum",
+      "units": 3000000
+    },
+    {
+      "region": "UK",
+      "certification": "Gold",
+      "units": 400000
+    }
+  ],
+  "rank": 92,
+  "images": [
+    {
+      "url": "https://coverartarchive.org/release/3851c29d-3c1a-3359-8af3-2d630efae40a/15451807756-500.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Album cover",
+      "attribution": {
+        "source": "Cover Art Archive",
+        "licence": "CC BY-NC-SA 3.0",
+        "licenceUrl": "https://wiki.musicbrainz.org/Cover_Art_Archive",
+        "note": "Cover art copyrighted by respective owners. Non-commercial use only.",
+        "sourceUrl": "https://musicbrainz.org/release/3851c29d-3c1a-3359-8af3-2d630efae40a"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=QDYfEBY9NM4",
+      "title": "The Beatles - Let It Be",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Let_It_Be_(song)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/b925d2a3-3bd3-4dee-b342-8b9d27ecaebc",
+      "source": "MusicBrainz"
+    },
+    {
+      "url": "https://musicbrainz.org/release/3851c29d-3c1a-3359-8af3-2d630efae40a",
+      "source": "MusicBrainz (Release)"
+    }
+  ],
+  "_musicbrainz_recording_id": "b925d2a3-3bd3-4dee-b342-8b9d27ecaebc",
+  "_musicbrainz_release_id": "3851c29d-3c1a-3359-8af3-2d630efae40a"
+}

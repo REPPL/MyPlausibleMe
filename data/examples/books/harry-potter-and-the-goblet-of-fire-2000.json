@@ -1,0 +1,64 @@
+{
+  "id": "harry-potter-and-the-goblet-of-fire-2000",
+  "title": "Harry Potter and the Goblet of Fire",
+  "author": "j-k-rowling",
+  "year": 2000,
+  "genres": [
+    "Fantasy",
+    "Young adult",
+    "Children's literature"
+  ],
+  "pages": 636,
+  "publisher": "Bloomsbury",
+  "language": "English",
+  "country": "United Kingdom",
+  "series": "Harry Potter",
+  "summary": "Harry is mysteriously entered into the Triwizard Tournament, a dangerous magical competition between three wizarding schools. The novel marks the return of Lord Voldemort.",
+  "sales": {
+    "copiesSold": 55000000,
+    "languages": 79,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Goblet_of_Fire"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.57,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.27,
+      "max": 5,
+      "count": 329
+    }
+  },
+  "rank": 17,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/12059372-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Harry Potter and the Goblet of Fire cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL82560W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Goblet_of_Fire",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL82560W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 231,
+  "isbn": "9788983925404",
+  "description": "The fourth book in the Harry Potter franchise sees Harry returning for his fourth year at Hogwarts School of Witchcraft and Wizardry, along with his friends, Ron and Hermione . There is an upcoming tournament between the three major schools of magic, with one participant selected from each school by the Goblet of Fire. When Harry's name is drawn, even though he is not eligible and is a fourth player, he must compete in the dangerous contest.\r\n\r\n\r\n----------\r\nContains:\r\n\r\n - [Harry Potter and the...",
+  "_openlibrary_work_key": "/works/OL82560W"
+}

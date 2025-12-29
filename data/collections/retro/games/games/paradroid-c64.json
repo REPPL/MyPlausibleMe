@@ -1,0 +1,51 @@
+{
+  "id": "paradroid-c64",
+  "title": "Paradroid",
+  "platform": "c64",
+  "myRank": 6,
+  "year": 1985,
+  "summary": "A shooter with strategic elements where the player controls a droid capable of taking over others on a derelict spaceship.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/85/Paradroid_cover.jpg",
+      "type": "boxart",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Paradroid_cover.jpg",
+        "licence": "fair-use"
+      },
+      "isPrimary": true,
+      "alt": "Paradroid cover art"
+    }
+  ],
+  "myStartYear": 1986,
+  "myVerdict": "Simple yet compelling",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Paradroid",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/game/9272/",
+      "source": "MobyGames"
+    }
+  ],
+  "originalReleaseDate": "1985",
+  "genres": [
+    "Action"
+  ],
+  "averageRating": {
+    "score": 5,
+    "sourceCount": 5,
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Paradroid#Reception"
+  },
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=4EXsfYQOFpI",
+      "title": "Paradroid - C64 Longplay",
+      "source": "C64 Longplays",
+      "type": "gameplay"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "bioshock-infinite-2013",
+  "title": "BioShock Infinite",
+  "publisher": "2k-games",
+  "developer": "Irrational Games",
+  "year": 2013,
+  "platforms": ["PC", "PlayStation 3", "PlayStation 4", "Xbox 360", "Xbox One", "Nintendo Switch", "Mac", "Linux"],
+  "genres": ["First-person shooter"],
+  "modes": ["Single-player"],
+  "summary": "Booker DeWitt rescues Elizabeth from the floating city of Columbia. Features mind-bending multiverse storytelling and companion AI.",
+  "sales": {
+    "unitsSold": 11000000,
+    "source": "Wikipedia/2K Games",
+    "sourceUrl": "https://en.wikipedia.org/wiki/BioShock_Infinite"
+  },
+  "ratings": {
+    "metacritic": { "score": 94, "max": 100 }
+  },
+  "rank": 59,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/a3/Official_cover_art_for_Bioshock_Infinite.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "BioShock Infinite cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Official_cover_art_for_Bioshock_Infinite.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/BioShock_Infinite",
+      "source": "Wikipedia"
+    }
+  ]
+}

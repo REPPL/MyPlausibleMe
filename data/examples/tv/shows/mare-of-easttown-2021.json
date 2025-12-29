@@ -1,0 +1,45 @@
+{
+  "id": "mare-of-easttown-2021",
+  "title": "Mare of Easttown",
+  "network": "hbo",
+  "year": 2021,
+  "endYear": 2021,
+  "seasons": 1,
+  "episodes": 7,
+  "genres": ["Crime", "Drama", "Mystery"],
+  "creators": ["Brad Ingelsby"],
+  "cast": ["Kate Winslet", "Julianne Nicholson", "Jean Smart", "Angourie Rice", "Evan Peters"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 57,
+  "summary": "A detective investigates a murder in a small Pennsylvania town while dealing with her own personal troubles. Kate Winslet won an Emmy for her performance.",
+  "viewership": {
+    "peakViewers": 4000000,
+    "source": "Wikipedia/HBO",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Mare_of_Easttown"
+  },
+  "ratings": {
+    "imdb": { "score": 8.4, "max": 10 },
+    "rottenTomatoes": { "critics": 95, "audience": 85 }
+  },
+  "rank": 95,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/d9/Mare_of_Easttown_Title_Card.png",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Mare of Easttown title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Mare_of_Easttown_Title_Card.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mare_of_Easttown",
+      "source": "Wikipedia"
+    }
+  ]
+}

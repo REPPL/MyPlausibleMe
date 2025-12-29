@@ -1,0 +1,100 @@
+{
+  "id": "rihanna-umbrella",
+  "title": "Umbrella",
+  "artist": "rihanna",
+  "year": 2007,
+  "album": "Good Girl Gone Bad",
+  "writers": [
+    "Terius Nash",
+    "Christopher Stewart",
+    "Shawn Carter",
+    "Thaddis Harrell"
+  ],
+  "producers": [
+    "Tricky Stewart",
+    "The-Dream"
+  ],
+  "genres": [
+    "Pop",
+    "R&B"
+  ],
+  "duration": 276,
+  "label": "Def Jam Recordings",
+  "summary": "Featuring Jay-Z, this song marked Rihanna's transformation into a global superstar. It spent 10 consecutive weeks at number one in the UK and its 'Ella, ella' hook became instantly iconic.",
+  "sales": {
+    "totalUnits": 8000000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Umbrella_(song)"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 1,
+      "weeks": 7,
+      "chart": "Billboard Hot 100",
+      "year": 2007
+    },
+    "UK": {
+      "peak": 1,
+      "weeks": 10,
+      "chart": "UK Singles Chart",
+      "year": 2007
+    },
+    "Australia": {
+      "peak": 1,
+      "chart": "ARIA Charts",
+      "year": 2007
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "6x Platinum",
+      "units": 6000000
+    },
+    {
+      "region": "UK",
+      "certification": "3x Platinum",
+      "units": 1800000
+    }
+  ],
+  "rank": 38,
+  "images": [
+    {
+      "url": "https://coverartarchive.org/release/e0d582b5-5f0b-4dda-b1c2-3c34b7ecab8c/14541378138-500.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Album cover",
+      "attribution": {
+        "source": "Cover Art Archive",
+        "licence": "CC BY-NC-SA 3.0",
+        "licenceUrl": "https://wiki.musicbrainz.org/Cover_Art_Archive",
+        "note": "Cover art copyrighted by respective owners. Non-commercial use only.",
+        "sourceUrl": "https://musicbrainz.org/release/e0d582b5-5f0b-4dda-b1c2-3c34b7ecab8c"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=CvBfHwUxHIk",
+      "title": "Rihanna - Umbrella ft. JAY-Z (Official Music Video)",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Umbrella_(song)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/b6b9f687-e0ed-483a-93b8-e8c3cb22299b",
+      "source": "MusicBrainz"
+    },
+    {
+      "url": "https://musicbrainz.org/release/e0d582b5-5f0b-4dda-b1c2-3c34b7ecab8c",
+      "source": "MusicBrainz (Release)"
+    }
+  ],
+  "_musicbrainz_recording_id": "b6b9f687-e0ed-483a-93b8-e8c3cb22299b",
+  "_musicbrainz_release_id": "e0d582b5-5f0b-4dda-b1c2-3c34b7ecab8c"
+}

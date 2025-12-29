@@ -1,0 +1,73 @@
+{
+  "id": "avatar-2009",
+  "title": "Avatar",
+  "studio": "20th-century",
+  "year": 2009,
+  "director": "James Cameron",
+  "cast": ["Sam Worthington", "Zoe Saldaña", "Sigourney Weaver", "Stephen Lang", "Michelle Rodriguez"],
+  "genres": ["Science fiction", "Action", "Adventure"],
+  "runtime": 162,
+  "language": "English",
+  "country": "USA",
+  "summary": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home. James Cameron's groundbreaking film pioneered modern 3D cinema and held the record as the highest-grossing film for nearly a decade.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 2923706026,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 785221649,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 2138484377,
+      "currency": "USD"
+    },
+    "budget": 237000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Avatar_(2009_film)"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 3,
+      "nominations": 9
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 7.9, "max": 10 },
+    "rottenTomatoes": { "critics": 81, "audience": 82 },
+    "metacritic": { "score": 83, "max": 100 }
+  },
+  "rank": 1,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/d6/Avatar_%282009_film%29_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Avatar movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Avatar_(2009_film)_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=5PSNL1qE6VY",
+      "title": "Avatar Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Avatar_(2009_film)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0499549/",
+      "source": "IMDB"
+    }
+  ]
+}

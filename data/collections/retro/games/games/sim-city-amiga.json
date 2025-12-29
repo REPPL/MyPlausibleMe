@@ -1,0 +1,44 @@
+{
+  "id": "sim-city-amiga",
+  "title": "Sim City",
+  "platform": "amiga",
+  "myRank": 3,
+  "year": 1989,
+  "summary": "A city-building simulation where players design and manage an urban environment, balancing infrastructure, zoning, and public services.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/7/7b/SimCity_Classic_cover_art.jpg",
+      "type": "boxart",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:SimCity_Classic_cover_art.jpg",
+        "licence": "fair-use"
+      },
+      "isPrimary": true,
+      "alt": "Sim City cover art"
+    }
+  ],
+  "myStartYear": 1989,
+  "myVerdict": "Foundational",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/SimCity_(1989_video_game)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/game/848/",
+      "source": "MobyGames"
+    }
+  ],
+  "originalPlatform": "Macintosh",
+  "originalReleaseDate": "1989",
+  "genres": [
+    "City-building simulation"
+  ],
+  "averageRating": {
+    "score": 5,
+    "sourceCount": 8,
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/SimCity_(1989_video_game)#Reception"
+  }
+}

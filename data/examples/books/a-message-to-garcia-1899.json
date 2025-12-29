@@ -1,0 +1,62 @@
+{
+  "id": "a-message-to-garcia-1899",
+  "title": "A Message to Garcia",
+  "author": "elbert-hubbard",
+  "year": 1899,
+  "genres": [
+    "Essay",
+    "Non-fiction",
+    "Inspirational"
+  ],
+  "pages": 16,
+  "publisher": "Philistine",
+  "language": "English",
+  "country": "United States",
+  "summary": "A short essay about taking initiative and getting things done without making excuses. Based on a true story from the Spanish-American War, it became one of the best-selling publications in history.",
+  "sales": {
+    "copiesSold": 40000000,
+    "languages": 37,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/A_Message_to_Garcia"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 3.78,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 3.0,
+      "max": 5,
+      "count": 1
+    }
+  },
+  "rank": 35,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/779431-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "A message to Garcia cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL1113702W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/A_Message_to_Garcia",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL1113702W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 18,
+  "isbn": "9781440685392",
+  "_openlibrary_work_key": "/works/OL1113702W"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "undertale-2015",
+  "title": "Undertale",
+  "publisher": "toby-fox",
+  "developer": "Toby Fox",
+  "year": 2015,
+  "platforms": [
+    "PC",
+    "Mac",
+    "Linux",
+    "PlayStation 4",
+    "PlayStation Vita",
+    "Nintendo Switch",
+    "Xbox One"
+  ],
+  "genres": [
+    "RPG",
+    "Bullet hell"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "summary": "A child falls into an underground world of monsters where every encounter can be resolved without violence. Known for its subversive storytelling and memorable characters.",
+  "sales": {
+    "unitsSold": 3000000,
+    "source": "Wikipedia/Toby Fox",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Undertale"
+  },
+  "ratings": {
+    "metacritic": {
+      "score": 92,
+      "max": 100
+    }
+  },
+  "rank": 67,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Dragon-149393.svg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Undertale cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Undertale_cover.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Undertale",
+      "source": "Wikipedia"
+    }
+  ]
+}

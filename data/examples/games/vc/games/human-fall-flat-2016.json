@@ -1,0 +1,57 @@
+{
+  "id": "human-fall-flat-2016",
+  "title": "Human: Fall Flat",
+  "publisher": "curve-digital",
+  "developer": "No Brakes Games",
+  "year": 2016,
+  "platforms": [
+    "PC",
+    "PlayStation 4",
+    "PlayStation 5",
+    "Xbox One",
+    "Xbox Series X/S",
+    "Nintendo Switch",
+    "Mobile"
+  ],
+  "genres": [
+    "Puzzle",
+    "Platformer",
+    "Physics"
+  ],
+  "modes": [
+    "Single-player",
+    "Multiplayer"
+  ],
+  "summary": "A physics-based puzzle platformer where players control a customisable human who must navigate surreal dreamscapes. Known for its ragdoll physics.",
+  "sales": {
+    "unitsSold": 40000000,
+    "source": "Wikipedia/No Brakes Games",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Human:_Fall_Flat"
+  },
+  "ratings": {
+    "metacritic": {
+      "score": 67,
+      "max": 100
+    }
+  },
+  "rank": 11,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/e5/Human_Fall_Flat_cover_art.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Human: Fall Flat cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Human_Fall_Flat_cover_art.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Human:_Fall_Flat",
+      "source": "Wikipedia"
+    }
+  ]
+}

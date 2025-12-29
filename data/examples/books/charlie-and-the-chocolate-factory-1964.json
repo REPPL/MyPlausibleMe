@@ -1,0 +1,63 @@
+{
+  "id": "charlie-and-the-chocolate-factory-1964",
+  "title": "Charlie and the Chocolate Factory",
+  "author": "roald-dahl",
+  "year": 1964,
+  "genres": [
+    "Children's literature",
+    "Fantasy",
+    "Comedy"
+  ],
+  "pages": 155,
+  "publisher": "Alfred A. Knopf",
+  "language": "English",
+  "country": "United Kingdom",
+  "summary": "Poor Charlie Bucket wins a golden ticket to tour Willy Wonka's magical chocolate factory. One of the most popular children's books ever written, adapted into two major films and a stage musical.",
+  "sales": {
+    "copiesSold": 20000000,
+    "languages": 55,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Charlie_and_the_Chocolate_Factory"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.14,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.03,
+      "max": 5,
+      "count": 265
+    }
+  },
+  "rank": 60,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/12459564-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Charlie and the Chocolate Factory cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL45790W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Charlie_and_the_Chocolate_Factory",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL45790W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 220,
+  "isbn": "9780833573261",
+  "description": "Charlie and the Chocolate Factory is a 1964 children's novel by British author Roald Dahl. The story features the adventures of young Charlie Bucket inside the chocolate factory of eccentric chocolatier Willy Wonka.\r\n\r\nCharlie and the Chocolate Factory was first published in the United States by Alfred A. Knopf, Inc. in 1964 and in the United Kingdom by George Allen & Unwin 11 months later. \r\n\r\nIn the 2012 survey published by SLJ, a monthly with primarily US audience, Charlie was the second of f...",
+  "_openlibrary_work_key": "/works/OL45790W"
+}

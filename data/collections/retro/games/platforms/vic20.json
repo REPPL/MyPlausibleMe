@@ -1,0 +1,68 @@
+{
+  "id": "vic20",
+  "title": "VIC-20",
+  "shortTitle": "VIC-20",
+  "year": 1980,
+  "manufacturer": "Commodore",
+  "generation": "2nd (8-bit)",
+  "mediaFormat": "Cartridge / Cassette",
+  "unitsSold": "2.5 million",
+  "bestSellingGame": "Omega Race",
+  "summary": "An 8-bit home computer that introduced many to programming through BASIC, often using code published in contemporary magazines.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Commodore_VIC_20_logo.svg/400px-Commodore_VIC_20_logo.svg.png",
+      "type": "logo",
+      "isPrimary": true,
+      "alt": "Commodore VIC-20 logo",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Commodore_VIC_20_logo.svg",
+        "licence": "public-domain"
+      }
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Commodore-VIC-20-FL.jpg",
+      "type": "console",
+      "isPrimary": false,
+      "alt": "Commodore VIC-20 computer",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Commodore-VIC-20-FL.jpg",
+        "licence": "cc-by-sa-3.0"
+      }
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/VIC-20_Display.jpg",
+      "type": "console",
+      "isPrimary": false,
+      "alt": "VIC-20 with peripherals",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:VIC-20_Display.jpg",
+        "licence": "cc-by-sa-4.0"
+      }
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/VIC_20_Splash_Screen_Screenshot.gif",
+      "type": "screenshot",
+      "isPrimary": false,
+      "alt": "VIC-20 startup screen screenshot",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:VIC_20_Splash_Screen_Screenshot.gif",
+        "licence": "cc-by-sa-4.0"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Commodore_VIC-20",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/platform/vic-20/",
+      "source": "MobyGames"
+    }
+  ]
+}

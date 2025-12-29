@@ -1,0 +1,92 @@
+{
+  "id": "the-police-every-breath-you-take",
+  "title": "Every Breath You Take",
+  "artist": "the-police",
+  "year": 1983,
+  "album": "Synchronicity",
+  "writers": [
+    "Sting"
+  ],
+  "producers": [
+    "Hugh Padgham",
+    "The Police"
+  ],
+  "genres": [
+    "Soft rock",
+    "Pop rock"
+  ],
+  "duration": 253,
+  "label": "A&M Records",
+  "summary": "Often mistaken for a romantic song, it's actually about surveillance and jealousy. It won the Grammy for Song of the Year and remained one of the most-played songs on American radio for decades.",
+  "sales": {
+    "totalUnits": 6000000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Every_Breath_You_Take"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 1,
+      "weeks": 8,
+      "chart": "Billboard Hot 100",
+      "year": 1983
+    },
+    "UK": {
+      "peak": 1,
+      "weeks": 4,
+      "chart": "UK Singles Chart",
+      "year": 1983
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "4x Platinum",
+      "units": 4000000
+    },
+    {
+      "region": "UK",
+      "certification": "Platinum",
+      "units": 600000
+    }
+  ],
+  "rank": 51,
+  "images": [
+    {
+      "url": "https://coverartarchive.org/release/f1755af7-9da2-4a78-8edd-5ba1ea53ba1c/12060593372-500.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Album cover",
+      "attribution": {
+        "source": "Cover Art Archive",
+        "licence": "CC BY-NC-SA 3.0",
+        "licenceUrl": "https://wiki.musicbrainz.org/Cover_Art_Archive",
+        "note": "Cover art copyrighted by respective owners. Non-commercial use only.",
+        "sourceUrl": "https://musicbrainz.org/release/f1755af7-9da2-4a78-8edd-5ba1ea53ba1c"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=OMOGaugKpzs",
+      "title": "The Police - Every Breath You Take (Official Video)",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Every_Breath_You_Take",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/ac1a0727-8797-43ca-bd92-643276b946bd",
+      "source": "MusicBrainz"
+    },
+    {
+      "url": "https://musicbrainz.org/release/f1755af7-9da2-4a78-8edd-5ba1ea53ba1c",
+      "source": "MusicBrainz (Release)"
+    }
+  ],
+  "_musicbrainz_recording_id": "ac1a0727-8797-43ca-bd92-643276b946bd",
+  "_musicbrainz_release_id": "f1755af7-9da2-4a78-8edd-5ba1ea53ba1c"
+}

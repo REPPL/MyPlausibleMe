@@ -1,0 +1,62 @@
+{
+  "id": "fleabag-2016",
+  "title": "Fleabag",
+  "network": "bbc",
+  "year": 2016,
+  "endYear": 2019,
+  "seasons": 2,
+  "episodes": 12,
+  "genres": [
+    "Comedy-drama",
+    "Dark comedy"
+  ],
+  "creators": [
+    "Phoebe Waller-Bridge"
+  ],
+  "cast": [
+    "Phoebe Waller-Bridge",
+    "Sian Clifford",
+    "Olivia Colman",
+    "Andrew Scott",
+    "Brett Gelman"
+  ],
+  "country": "United Kingdom",
+  "language": "English",
+  "runtime": 27,
+  "summary": "A dry-witted, angry, sexually voracious young woman navigates life in London while hiding a personal tragedy. Won six Emmy Awards including Outstanding Comedy Series.",
+  "viewership": {
+    "peakViewers": 3000000,
+    "source": "Wikipedia/BARB",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fleabag"
+  },
+  "ratings": {
+    "imdb": {
+      "score": 8.7,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 100,
+      "audience": 92
+    }
+  },
+  "rank": 64,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Fleabag_titlecard.png",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Fleabag title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Fleabag_title_card.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Fleabag",
+      "source": "Wikipedia"
+    }
+  ]
+}

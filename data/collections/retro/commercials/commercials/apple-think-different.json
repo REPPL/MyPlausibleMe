@@ -1,0 +1,26 @@
+{
+  "id": "apple-think-different",
+  "title": "Think Different",
+  "brand": "apple",
+  "year": 1997,
+  "personalRank": 2,
+  "agency": "TBWA\\Chiat\\Day",
+  "director": "Jennifer Golub",
+  "music": "Narration by Richard Dreyfuss",
+  "duration": 60,
+  "summary": "Apple's iconic campaign featuring historical figures who changed the world. The 'Crazy Ones' commercial celebrated innovators and won the 1998 Emmy for Best Commercial, marking Apple's re-emergence under Steve Jobs.",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Think_different",
+      "source": "Wikipedia"
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=GEPhLqwKo6g",
+      "title": "Think Different",
+      "source": "YouTube",
+      "type": "commercial"
+    }
+  ]
+}

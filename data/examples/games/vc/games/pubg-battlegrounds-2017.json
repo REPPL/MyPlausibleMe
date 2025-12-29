@@ -1,0 +1,39 @@
+{
+  "id": "pubg-battlegrounds-2017",
+  "title": "PUBG: Battlegrounds",
+  "publisher": "krafton",
+  "developer": "PUBG Corporation",
+  "year": 2017,
+  "platforms": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "Mobile", "Stadia"],
+  "genres": ["Battle royale", "Shooter"],
+  "modes": ["Multiplayer"],
+  "summary": "A battle royale shooter where up to 100 players parachute onto an island to scavenge for weapons and eliminate each other. Popularised the battle royale genre.",
+  "sales": {
+    "unitsSold": 75000000,
+    "source": "Wikipedia/PUBG Corporation",
+    "sourceUrl": "https://en.wikipedia.org/wiki/PUBG:_Battlegrounds"
+  },
+  "ratings": {
+    "metacritic": { "score": 87, "max": 100 }
+  },
+  "rank": 5,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/9f/Pubgbattlegrounds.png",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "PUBG: Battlegrounds cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Pubgbattlegrounds.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/PUBG:_Battlegrounds",
+      "source": "Wikipedia"
+    }
+  ]
+}

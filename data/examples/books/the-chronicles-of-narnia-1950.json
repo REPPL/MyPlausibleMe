@@ -1,0 +1,63 @@
+{
+  "id": "the-chronicles-of-narnia-1950",
+  "title": "The Chronicles of Narnia",
+  "author": "c-s-lewis",
+  "year": 1950,
+  "genres": [
+    "Fantasy",
+    "Children's literature",
+    "Christian allegory"
+  ],
+  "pages": 767,
+  "publisher": "Geoffrey Bles",
+  "language": "English",
+  "country": "United Kingdom",
+  "summary": "Seven fantasy novels set in the magical land of Narnia, featuring talking animals, mythical creatures, and the great lion Aslan. The series has sold over 100 million copies collectively.",
+  "sales": {
+    "copiesSold": 100000000,
+    "languages": 47,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.26,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.0,
+      "max": 5,
+      "count": 31
+    }
+  },
+  "rank": 87,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/6950992-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "The Silver Chair cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL71078W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL71078W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 141,
+  "isbn": "9780001034129",
+  "description": "Jill and Eustace must rescue the Prince from the evil Witch.",
+  "_openlibrary_work_key": "/works/OL71078W"
+}

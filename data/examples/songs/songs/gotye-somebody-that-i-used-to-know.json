@@ -1,0 +1,103 @@
+{
+  "id": "gotye-somebody-that-i-used-to-know",
+  "title": "Somebody That I Used to Know",
+  "artist": "gotye",
+  "year": 2011,
+  "album": "Making Mirrors",
+  "writers": [
+    "Wally De Backer",
+    "Luiz Bonfá"
+  ],
+  "producers": [
+    "Gotye"
+  ],
+  "genres": [
+    "Art pop",
+    "Indie pop"
+  ],
+  "duration": 244,
+  "label": "Samples 'n' Seconds",
+  "summary": "An art pop song featuring Kimbra that became the best-selling single of 2012 worldwide. It samples Luiz Bonfá's 'Seville' and won Grammys for Record of the Year and Best Pop Duo/Group Performance.",
+  "sales": {
+    "totalUnits": 13500000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Somebody_That_I_Used_to_Know"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 1,
+      "weeks": 8,
+      "chart": "Billboard Hot 100",
+      "year": 2012
+    },
+    "UK": {
+      "peak": 1,
+      "weeks": 5,
+      "chart": "UK Singles Chart",
+      "year": 2012
+    },
+    "Australia": {
+      "peak": 1,
+      "weeks": 8,
+      "chart": "ARIA Charts",
+      "year": 2011
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "9x Platinum",
+      "units": 9000000
+    },
+    {
+      "region": "UK",
+      "certification": "3x Platinum",
+      "units": 1800000
+    },
+    {
+      "region": "Australia",
+      "certification": "13x Platinum",
+      "units": 910000
+    }
+  ],
+  "rank": 15,
+  "images": [
+    {
+      "url": "https://coverartarchive.org/release/54998d7e-369a-4c37-9b70-15b4220de84a/2806370641-500.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Album cover",
+      "attribution": {
+        "source": "Cover Art Archive",
+        "licence": "CC BY-NC-SA 3.0",
+        "licenceUrl": "https://wiki.musicbrainz.org/Cover_Art_Archive",
+        "note": "Cover art copyrighted by respective owners. Non-commercial use only.",
+        "sourceUrl": "https://musicbrainz.org/release/54998d7e-369a-4c37-9b70-15b4220de84a"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=8UVNT4wvIGY",
+      "title": "Gotye - Somebody That I Used To Know (feat. Kimbra)",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Somebody_That_I_Used_to_Know",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/166fc65d-9926-4617-8c5f-d304cc1599ad",
+      "source": "MusicBrainz"
+    },
+    {
+      "url": "https://musicbrainz.org/release/54998d7e-369a-4c37-9b70-15b4220de84a",
+      "source": "MusicBrainz (Release)"
+    }
+  ],
+  "_musicbrainz_recording_id": "166fc65d-9926-4617-8c5f-d304cc1599ad",
+  "_musicbrainz_release_id": "54998d7e-369a-4c37-9b70-15b4220de84a"
+}

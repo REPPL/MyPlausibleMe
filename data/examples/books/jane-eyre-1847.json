@@ -1,0 +1,63 @@
+{
+  "id": "jane-eyre-1847",
+  "title": "Jane Eyre",
+  "author": "charlotte-bronte",
+  "year": 1847,
+  "genres": [
+    "Novel",
+    "Gothic fiction",
+    "Romance"
+  ],
+  "pages": 532,
+  "publisher": "Smith, Elder & Co.",
+  "language": "English",
+  "country": "United Kingdom",
+  "summary": "Orphan Jane Eyre becomes governess at Thornfield Hall and falls in love with her employer, the brooding Mr Rochester. Revolutionary for its time, it features a strong, independent female protagonist.",
+  "sales": {
+    "copiesSold": 10000000,
+    "languages": 60,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Jane_Eyre"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.15,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.03,
+      "max": 5,
+      "count": 165
+    }
+  },
+  "rank": 86,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/8235363-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Jane Eyre cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL1095427W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Jane_Eyre",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL1095427W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 1170,
+  "isbn": "9781587263972",
+  "description": "The novel is set somewhere in the north of England. Jane's childhood at Gateshead Hall, where she is emotionally and physically abused by her aunt and cousins; her education at Lowood School, where she acquires friends and role models but also suffers privations and oppression; her time as the governess of Thornfield Hall, where she falls in love with her Byronic employer, Edward Rochester; her time with the Rivers family, during which her earnest but cold clergyman cousin, St John Rivers, propo...",
+  "_openlibrary_work_key": "/works/OL1095427W"
+}

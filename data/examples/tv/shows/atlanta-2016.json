@@ -1,0 +1,61 @@
+{
+  "id": "atlanta-2016",
+  "title": "Atlanta",
+  "network": "fx",
+  "year": 2016,
+  "endYear": 2022,
+  "seasons": 4,
+  "episodes": 41,
+  "genres": [
+    "Comedy-drama",
+    "Surrealism"
+  ],
+  "creators": [
+    "Donald Glover"
+  ],
+  "cast": [
+    "Donald Glover",
+    "Brian Tyree Henry",
+    "LaKeith Stanfield",
+    "Zazie Beetz"
+  ],
+  "country": "United States",
+  "language": "English",
+  "runtime": 30,
+  "summary": "Two cousins navigate the Atlanta rap scene to improve their lives. Created by and starring Donald Glover, the series won multiple Emmy and Golden Globe Awards.",
+  "viewership": {
+    "peakViewers": 1900000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Atlanta_(TV_series)"
+  },
+  "ratings": {
+    "imdb": {
+      "score": 8.6,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 97,
+      "audience": 86
+    }
+  },
+  "rank": 69,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Atlanta_Title_Card.png",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Atlanta logo",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Atlanta_TV_series_logo.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Atlanta_(TV_series)",
+      "source": "Wikipedia"
+    }
+  ]
+}

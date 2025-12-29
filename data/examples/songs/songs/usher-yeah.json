@@ -1,0 +1,102 @@
+{
+  "id": "usher-yeah",
+  "title": "Yeah!",
+  "artist": "usher",
+  "year": 2004,
+  "album": "Confessions",
+  "writers": [
+    "Usher",
+    "Lil Jon",
+    "Ludacris",
+    "Sean Garrett",
+    "Patrick Smith",
+    "Robert McDowell",
+    "James Phillips",
+    "LaMarcus Jefferson"
+  ],
+  "producers": [
+    "Lil Jon"
+  ],
+  "genres": [
+    "Crunk",
+    "Hip hop",
+    "R&B"
+  ],
+  "duration": 250,
+  "label": "Arista Records",
+  "summary": "A crunk anthem featuring Lil Jon and Ludacris that spent 12 weeks at number one. Its infectious 'Yeah!' hook and club-ready production made it the best-selling single of 2004.",
+  "sales": {
+    "totalUnits": 12000000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Yeah!_(Usher_song)"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 1,
+      "weeks": 12,
+      "chart": "Billboard Hot 100",
+      "year": 2004
+    },
+    "UK": {
+      "peak": 1,
+      "weeks": 4,
+      "chart": "UK Singles Chart",
+      "year": 2004
+    },
+    "Australia": {
+      "peak": 1,
+      "chart": "ARIA Charts",
+      "year": 2004
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "6x Platinum",
+      "units": 6000000
+    },
+    {
+      "region": "UK",
+      "certification": "2x Platinum",
+      "units": 1200000
+    }
+  ],
+  "rank": 75,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/7/77/Usher_-_Yeah%21.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Yeah! single cover",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Usher_-_Yeah!.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=GxBSyx85Kp8",
+      "title": "Usher - Yeah! ft. Lil Jon, Ludacris (Official Video)",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Yeah!_(Usher_song)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/10fdcdd3-9a84-497a-9d90-0ea23531cf26",
+      "source": "MusicBrainz"
+    },
+    {
+      "url": "https://musicbrainz.org/release/f8d5c611-69ff-312f-b9de-437e0164aa45",
+      "source": "MusicBrainz (Release)"
+    }
+  ],
+  "_musicbrainz_recording_id": "10fdcdd3-9a84-497a-9d90-0ea23531cf26",
+  "_musicbrainz_release_id": "f8d5c611-69ff-312f-b9de-437e0164aa45"
+}

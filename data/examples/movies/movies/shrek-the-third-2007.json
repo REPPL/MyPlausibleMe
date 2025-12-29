@@ -1,0 +1,92 @@
+{
+  "id": "shrek-the-third-2007",
+  "title": "Shrek the Third",
+  "studio": "dreamworks",
+  "year": 2007,
+  "director": "Chris Miller, Raman Hui",
+  "cast": [
+    "Mike Myers",
+    "Eddie Murphy",
+    "Cameron Diaz",
+    "Antonio Banderas",
+    "Julie Andrews"
+  ],
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Adventure"
+  ],
+  "runtime": 93,
+  "language": "English",
+  "country": "USA",
+  "summary": "Reluctantly designated as the heir to the land of Far, Far Away, Shrek hatches a plan to install the rebellious Artie as the new king while Princess Fiona tries to save the kingdom from a coup d'état by the jilted Prince Charming.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 813367380,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 322719944,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 490647436,
+      "currency": "USD"
+    },
+    "budget": 160000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Shrek_the_Third"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": {
+      "score": 6.1,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 41,
+      "audience": 53
+    },
+    "metacritic": {
+      "score": 58,
+      "max": 100
+    }
+  },
+  "rank": 88,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/2/22/Shrek_the_Third_%282007_animated_feature_film%29.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Shrek the Third movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Shrek_the_Third.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=DnlZZ8rtHew",
+      "title": "Shrek the Third Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Shrek_the_Third",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0413267/",
+      "source": "IMDB"
+    }
+  ]
+}

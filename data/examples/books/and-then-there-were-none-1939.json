@@ -1,0 +1,63 @@
+{
+  "id": "and-then-there-were-none-1939",
+  "title": "And Then There Were None",
+  "author": "agatha-christie",
+  "year": 1939,
+  "genres": [
+    "Mystery",
+    "Crime",
+    "Thriller"
+  ],
+  "pages": 272,
+  "publisher": "Collins Crime Club",
+  "language": "English",
+  "country": "United Kingdom",
+  "summary": "Ten strangers are lured to an isolated island mansion and are killed one by one according to a children's nursery rhyme. Often considered the greatest mystery novel ever written.",
+  "sales": {
+    "copiesSold": 100000000,
+    "languages": 50,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/And_Then_There_Were_None"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.28,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.25,
+      "max": 5,
+      "count": 159
+    }
+  },
+  "rank": 7,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/11172296-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "And Then There Were None cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL471565W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/And_Then_There_Were_None",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL471565W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 210,
+  "isbn": "0312330871",
+  "description": "And Then There Were None is a mystery novel by the English writer Agatha Christie, described by her as the most difficult of her books to write. It was first published in the United Kingdom by the Collins Crime Club on 6 November 1939, as Ten Little Niggers, after the children's counting rhyme and minstrel song, which serves as a major element of the plot. A US edition was released in January 1940 with the title And Then There Were None, which is taken from the last five words of the song. All s...",
+  "_openlibrary_work_key": "/works/OL471565W"
+}

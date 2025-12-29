@@ -1,0 +1,92 @@
+{
+  "id": "despicable-me-3-2017",
+  "title": "Despicable Me 3",
+  "studio": "universal",
+  "year": 2017,
+  "director": "Kyle Balda, Pierre Coffin, Eric Guillon",
+  "cast": [
+    "Steve Carell",
+    "Kristen Wiig",
+    "Trey Parker",
+    "Miranda Cosgrove",
+    "Dana Gaier"
+  ],
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Adventure"
+  ],
+  "runtime": 89,
+  "language": "English",
+  "country": "USA",
+  "summary": "Gru and his wife Lucy must stop former '80s child star Balthazar Bratt from achieving world domination. Along the way, Gru discovers he has a twin brother named Dru, who wants to team up for one last criminal heist.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1034799409,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 264624300,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 770175109,
+      "currency": "USD"
+    },
+    "budget": 80000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Despicable_Me_3"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": {
+      "score": 6.2,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 59,
+      "audience": 68
+    },
+    "metacritic": {
+      "score": 49,
+      "max": 100
+    }
+  },
+  "rank": 37,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/80/Despicable_Me_3_theatrical_release_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Despicable Me 3 movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Despicable_Me_3_(2017)_Theatrical_Poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=7g9VWXyGuJs",
+      "title": "Despicable Me 3 Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Despicable_Me_3",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt3469046/",
+      "source": "IMDB"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "the-count-of-monte-cristo-1844",
+  "title": "The Count of Monte Cristo",
+  "author": "alexandre-dumas",
+  "year": 1844,
+  "genres": [
+    "Adventure",
+    "Historical fiction",
+    "Thriller"
+  ],
+  "pages": 1276,
+  "publisher": "Journal des débats",
+  "language": "French",
+  "country": "France",
+  "summary": "Edmond Dantès is unjustly imprisoned and escapes to become the wealthy Count of Monte Cristo, exacting elaborate revenge on those who betrayed him. One of the most popular adventure novels ever written.",
+  "sales": {
+    "copiesSold": 10000000,
+    "languages": 50,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.29,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.31,
+      "max": 5,
+      "count": 185
+    }
+  },
+  "rank": 88,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/14566393-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "El Conde de Montecristo cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL36287W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL36287W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 733,
+  "isbn": "9789754945706",
+  "description": "Thrown in prison for a crime he has not committed, Edmond Dantes is confined to the grim fortress of If. There he learns of a great hoard of treasure hidden on the Isle of Monte Cristo and becomes determined not only to escape but to unearth the treasure and use it to plot the destruction of the three men responsible for his incarceration. A huge popular success when it was first serialized in the 1840s, Dumas was inspired by a real-life case of wrongful imprisonment when writing his epic tale o...",
+  "_openlibrary_work_key": "/works/OL36287W"
+}

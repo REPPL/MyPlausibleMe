@@ -1,0 +1,92 @@
+{
+  "id": "minions-2015",
+  "title": "Minions",
+  "studio": "universal",
+  "year": 2015,
+  "director": "Kyle Balda, Pierre Coffin",
+  "cast": [
+    "Sandra Bullock",
+    "Jon Hamm",
+    "Michael Keaton",
+    "Allison Janney",
+    "Steve Coogan"
+  ],
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Adventure"
+  ],
+  "runtime": 91,
+  "language": "English",
+  "country": "USA",
+  "summary": "Minions Stuart, Kevin, and Bob are recruited by Scarlet Overkill, a supervillain who, alongside her inventor husband Herb, hatches a plot to take over the world. The spin-off from Despicable Me became a global phenomenon.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1159444662,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 336045770,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 823398892,
+      "currency": "USD"
+    },
+    "budget": 74000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Minions_(film)"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": {
+      "score": 6.4,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 55,
+      "audience": 57
+    },
+    "metacritic": {
+      "score": 56,
+      "max": 100
+    }
+  },
+  "rank": 27,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/19/Minions_%282015_film%29.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Minions movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Minions_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=P9-FCC6I7u0",
+      "title": "Minions Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Minions_(film)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt2293640/",
+      "source": "IMDB"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "monster-hunter-world-2018",
+  "title": "Monster Hunter: World",
+  "publisher": "capcom",
+  "developer": "Capcom",
+  "year": 2018,
+  "platforms": ["PC", "PlayStation 4", "Xbox One"],
+  "genres": ["Action RPG"],
+  "modes": ["Single-player", "Multiplayer"],
+  "summary": "Hunt massive monsters in a living, breathing ecosystem. The most accessible Monster Hunter game brought the series to mainstream global success.",
+  "sales": {
+    "unitsSold": 21000000,
+    "source": "Wikipedia/Capcom",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Monster_Hunter:_World"
+  },
+  "ratings": {
+    "metacritic": { "score": 90, "max": 100 }
+  },
+  "rank": 54,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/1b/Monster_Hunter_World_cover_art.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Monster Hunter: World cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Monster_Hunter_World_cover_art.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Monster_Hunter:_World",
+      "source": "Wikipedia"
+    }
+  ]
+}

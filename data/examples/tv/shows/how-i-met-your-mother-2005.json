@@ -1,0 +1,66 @@
+{
+  "id": "how-i-met-your-mother-2005",
+  "title": "How I Met Your Mother",
+  "network": "cbs",
+  "year": 2005,
+  "endYear": 2014,
+  "seasons": 9,
+  "episodes": 208,
+  "genres": [
+    "Sitcom",
+    "Romance",
+    "Comedy"
+  ],
+  "creators": [
+    "Carter Bays",
+    "Craig Thomas"
+  ],
+  "cast": [
+    "Josh Radnor",
+    "Jason Segel",
+    "Neil Patrick Harris",
+    "Cobie Smulders",
+    "Alyson Hannigan"
+  ],
+  "country": "United States",
+  "language": "English",
+  "runtime": 22,
+  "summary": "A father recounts to his children the events leading up to meeting their mother. Known for its non-linear storytelling and catchphrases.",
+  "viewership": {
+    "peakViewers": 12900000,
+    "peakEpisode": "Last Forever",
+    "averageViewers": 9000000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/How_I_Met_Your_Mother"
+  },
+  "ratings": {
+    "imdb": {
+      "score": 8.3,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 84,
+      "audience": 84
+    }
+  },
+  "rank": 45,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/HowIMetYourMother.svg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "How I Met Your Mother title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:How_I_Met_Your_Mother_intertitle.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/How_I_Met_Your_Mother",
+      "source": "Wikipedia"
+    }
+  ]
+}

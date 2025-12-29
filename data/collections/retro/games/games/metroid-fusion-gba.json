@@ -1,0 +1,43 @@
+{
+  "id": "metroid-fusion-gba",
+  "title": "Metroid Fusion",
+  "platform": "gba",
+  "myRank": 3,
+  "year": 2002,
+  "summary": "An action-adventure game in which Samus Aran investigates a space station infested with parasitic organisms known as X.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/45/Metroid_Fusion_box.jpg",
+      "type": "boxart",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Metroid_Fusion_box.jpg",
+        "licence": "fair-use"
+      },
+      "isPrimary": true,
+      "alt": "Metroid Fusion cover art"
+    }
+  ],
+  "myStartYear": 2002,
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Metroid_Fusion",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/game/7812/",
+      "source": "MobyGames"
+    }
+  ],
+  "originalReleaseDate": "2002",
+  "genres": [
+    "Action-adventure"
+  ],
+  "myVerdict": "My kind of game",
+  "averageRating": {
+    "score": 4.5,
+    "sourceCount": 18,
+    "source": "Metacritic",
+    "url": "https://www.metacritic.com/game/game-boy-advance/metroid-fusion"
+  }
+}

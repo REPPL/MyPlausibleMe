@@ -1,0 +1,49 @@
+{
+  "id": "wii-fit-2007",
+  "title": "Wii Fit / Plus",
+  "publisher": "nintendo",
+  "developer": "Nintendo EAD",
+  "year": 2007,
+  "platforms": [
+    "Wii"
+  ],
+  "genres": [
+    "Fitness",
+    "Exergaming"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "summary": "A fitness video game using the Wii Balance Board peripheral. Features yoga, strength training, aerobics, and balance games to promote healthy lifestyle.",
+  "sales": {
+    "unitsSold": 43800000,
+    "source": "Wikipedia/Nintendo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Wii_Fit"
+  },
+  "ratings": {
+    "metacritic": {
+      "score": 80,
+      "max": 100
+    }
+  },
+  "rank": 13,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/5b/Wii_Fit_PAL_boxart.JPG",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Wii Fit cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Wii_Fit_PAL_boxart.JPG",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Wii_Fit",
+      "source": "Wikipedia"
+    }
+  ]
+}

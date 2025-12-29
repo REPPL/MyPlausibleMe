@@ -1,0 +1,65 @@
+{
+  "id": "homeland-2011",
+  "title": "Homeland",
+  "network": "showtime",
+  "year": 2011,
+  "endYear": 2020,
+  "seasons": 8,
+  "episodes": 96,
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Espionage"
+  ],
+  "creators": [
+    "Howard Gordon",
+    "Alex Gansa"
+  ],
+  "cast": [
+    "Claire Danes",
+    "Damian Lewis",
+    "Mandy Patinkin",
+    "Rupert Friend",
+    "F. Murray Abraham"
+  ],
+  "country": "United States",
+  "language": "English",
+  "runtime": 55,
+  "summary": "A CIA officer with bipolar disorder becomes convinced that a returning war hero has been turned by al-Qaeda. Won the Emmy for Outstanding Drama Series in its first season.",
+  "viewership": {
+    "peakViewers": 2880000,
+    "averageViewers": 2000000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Homeland_(TV_series)"
+  },
+  "ratings": {
+    "imdb": {
+      "score": 8.3,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 86,
+      "audience": 85
+    }
+  },
+  "rank": 41,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/97/HomelandTVSeries.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Homeland season 1 poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Homeland_Season_1.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Homeland_(TV_series)",
+      "source": "Wikipedia"
+    }
+  ]
+}

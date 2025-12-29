@@ -1,0 +1,63 @@
+{
+  "id": "dracula-1897",
+  "title": "Dracula",
+  "author": "bram-stoker",
+  "year": 1897,
+  "genres": [
+    "Gothic horror",
+    "Epistolary novel",
+    "Vampire fiction"
+  ],
+  "pages": 418,
+  "publisher": "Archibald Constable and Company",
+  "language": "English",
+  "country": "United Kingdom",
+  "summary": "The story of Count Dracula's attempt to move from Transylvania to England to spread the undead curse, and the battle to defeat him. Defined the modern vampire genre and has never been out of print.",
+  "sales": {
+    "copiesSold": 10000000,
+    "languages": 50,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Dracula"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.02,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.03,
+      "max": 5,
+      "count": 177
+    }
+  },
+  "rank": 92,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/12216503-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Dracula cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL85892W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Dracula",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL85892W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 736,
+  "isbn": "0990694941",
+  "description": "Na história, um casal e seus amigos são atormentados por Conde Drácula, uma entidade sobrenatural e hematófoga que, presa em uma maldição contagiosa, pretende se mudar de seu recluso castelo na Transilvânia para a efervescente Londres do século XIX. Com a ajuda do professor Van Helsing, o grupo de amigos pretende enfrentar o morto-vivo, mesmo com todos os perigos que a ofensiva trará.",
+  "_openlibrary_work_key": "/works/OL85892W"
+}

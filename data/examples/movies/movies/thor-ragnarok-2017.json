@@ -1,0 +1,73 @@
+{
+  "id": "thor-ragnarok-2017",
+  "title": "Thor: Ragnarok",
+  "studio": "disney",
+  "year": 2017,
+  "director": "Taika Waititi",
+  "cast": ["Chris Hemsworth", "Tom Hiddleston", "Cate Blanchett", "Mark Ruffalo", "Jeff Goldblum"],
+  "genres": ["Superhero", "Action", "Comedy"],
+  "runtime": 130,
+  "language": "English",
+  "country": "USA",
+  "summary": "Imprisoned on the planet Sakaar, Thor must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela. Waititi reinvented the Thor franchise with a comedic approach.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 855301806,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 315058289,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 540243517,
+      "currency": "USD"
+    },
+    "budget": 180000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Thor:_Ragnarok"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 7.9, "max": 10 },
+    "rottenTomatoes": { "critics": 93, "audience": 87 },
+    "metacritic": { "score": 74, "max": 100 }
+  },
+  "rank": 67,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/7/7d/Thor_Ragnarok_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Thor: Ragnarok movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Thor_Ragnarok_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=ue80QwXMRHg",
+      "title": "Thor: Ragnarok Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Thor:_Ragnarok",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt3501632/",
+      "source": "IMDB"
+    }
+  ]
+}

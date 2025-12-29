@@ -1,0 +1,39 @@
+{
+  "id": "dark-souls-2011",
+  "title": "Dark Souls",
+  "publisher": "bandai-namco",
+  "developer": "FromSoftware",
+  "year": 2011,
+  "platforms": ["PC", "PlayStation 3", "Xbox 360", "Nintendo Switch"],
+  "genres": ["Action RPG", "Souls-like"],
+  "modes": ["Single-player", "Multiplayer"],
+  "summary": "A challenging action RPG known for its punishing difficulty and intricate world design. Defined the 'Souls-like' genre and influenced countless games.",
+  "sales": {
+    "unitsSold": 10000000,
+    "source": "Wikipedia/Bandai Namco",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Dark_Souls"
+  },
+  "ratings": {
+    "metacritic": { "score": 89, "max": 100 }
+  },
+  "rank": 46,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/8d/Dark_Souls_Cover_Art.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Dark Souls cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Dark_Souls_Cover_Art.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Dark_Souls",
+      "source": "Wikipedia"
+    }
+  ]
+}

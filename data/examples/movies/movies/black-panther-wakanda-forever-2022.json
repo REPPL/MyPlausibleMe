@@ -1,0 +1,73 @@
+{
+  "id": "black-panther-wakanda-forever-2022",
+  "title": "Black Panther: Wakanda Forever",
+  "studio": "disney",
+  "year": 2022,
+  "director": "Ryan Coogler",
+  "cast": ["Letitia Wright", "Lupita Nyong'o", "Danai Gurira", "Winston Duke", "Angela Bassett"],
+  "genres": ["Superhero", "Action", "Adventure"],
+  "runtime": 161,
+  "language": "English",
+  "country": "USA",
+  "summary": "The people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa. The sequel served as a tribute to Chadwick Boseman while introducing Namor and the underwater kingdom of Talokan.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 859208836,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 453829060,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 405379776,
+      "currency": "USD"
+    },
+    "budget": 250000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Black_Panther:_Wakanda_Forever"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 5
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 6.7, "max": 10 },
+    "rottenTomatoes": { "critics": 84, "audience": 94 },
+    "metacritic": { "score": 67, "max": 100 }
+  },
+  "rank": 82,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/3b/Black_Panther_Wakanda_Forever_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Black Panther: Wakanda Forever movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Black_Panther_Wakanda_Forever_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=_Z3QKkl1WyM",
+      "title": "Black Panther: Wakanda Forever Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Black_Panther:_Wakanda_Forever",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt9114286/",
+      "source": "IMDB"
+    }
+  ]
+}

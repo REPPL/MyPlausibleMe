@@ -1,0 +1,63 @@
+{
+  "id": "lolita-1955",
+  "title": "Lolita",
+  "author": "vladimir-nabokov",
+  "year": 1955,
+  "genres": [
+    "Literary fiction",
+    "Tragedy",
+    "Psychological fiction"
+  ],
+  "pages": 336,
+  "publisher": "Olympia Press",
+  "language": "English",
+  "country": "France",
+  "summary": "The controversial novel narrated by Humbert Humbert about his obsession with twelve-year-old Dolores Haze. Initially banned in several countries, it is now considered a masterpiece of 20th-century literature.",
+  "sales": {
+    "copiesSold": 50000000,
+    "languages": 30,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Lolita"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 3.88,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 3.93,
+      "max": 5,
+      "count": 102
+    }
+  },
+  "rank": 22,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/12984540-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Lolita cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL627084W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Lolita",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL627084W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 228,
+  "isbn": "9780425027851",
+  "description": "Lolita is a 1955 novel written by Russian-American novelist Vladimir Nabokov. The novel is notable for its controversial subject: the protagonist and unreliable narrator, a middle-aged literature professor under the pseudonym Humbert Humbert, is obsessed with a 12-year-old girl, Dolores Haze, whom he sexually molests after he becomes her stepfather. \"Lolita\" is his private nickname for Dolores. The novel was originally written in English and first published in Paris in 1955 by Olympia Press. Lat...",
+  "_openlibrary_work_key": "/works/OL627084W"
+}

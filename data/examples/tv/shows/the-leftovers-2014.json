@@ -1,0 +1,65 @@
+{
+  "id": "the-leftovers-2014",
+  "title": "The Leftovers",
+  "network": "hbo",
+  "year": 2014,
+  "endYear": 2017,
+  "seasons": 3,
+  "episodes": 28,
+  "genres": [
+    "Drama",
+    "Supernatural",
+    "Mystery"
+  ],
+  "creators": [
+    "Damon Lindelof",
+    "Tom Perrotta"
+  ],
+  "cast": [
+    "Justin Theroux",
+    "Amy Brenneman",
+    "Christopher Eccleston",
+    "Carrie Coon",
+    "Ann Dowd"
+  ],
+  "country": "United States",
+  "language": "English",
+  "runtime": 56,
+  "summary": "Three years after 2% of the world's population suddenly vanishes, the residents of a small town try to continue their lives. Based on Tom Perrotta's novel.",
+  "viewership": {
+    "peakViewers": 1800000,
+    "averageViewers": 1000000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Leftovers_(TV_series)"
+  },
+  "ratings": {
+    "imdb": {
+      "score": 8.3,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 92,
+      "audience": 83
+    }
+  },
+  "rank": 83,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/39/LeftoversS2Logo.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Leftovers title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:The_Leftovers_title_card.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Leftovers_(TV_series)",
+      "source": "Wikipedia"
+    }
+  ]
+}

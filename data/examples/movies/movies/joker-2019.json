@@ -1,0 +1,73 @@
+{
+  "id": "joker-2019",
+  "title": "Joker",
+  "studio": "warner-bros",
+  "year": 2019,
+  "director": "Todd Phillips",
+  "cast": ["Joaquin Phoenix", "Robert De Niro", "Zazie Beetz", "Frances Conroy", "Brett Cullen"],
+  "genres": ["Thriller", "Drama", "Crime"],
+  "runtime": 122,
+  "language": "English",
+  "country": "USA",
+  "summary": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. Phoenix's transformative performance earned him the Academy Award for Best Actor.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1078958294,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 335451311,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 743506983,
+      "currency": "USD"
+    },
+    "budget": 55000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Joker_(2019_film)"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 2,
+      "nominations": 11
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 8.4, "max": 10 },
+    "rottenTomatoes": { "critics": 68, "audience": 88 },
+    "metacritic": { "score": 59, "max": 100 }
+  },
+  "rank": 35,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/e1/Joker_%282019_film%29_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Joker movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Joker_(2019_film)_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=zAGVQLHvwOY",
+      "title": "Joker Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Joker_(2019_film)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt7286456/",
+      "source": "IMDB"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "the-very-hungry-caterpillar-1969",
+  "title": "The Very Hungry Caterpillar",
+  "author": "eric-carle",
+  "year": 1969,
+  "genres": [
+    "Children's literature",
+    "Picture book"
+  ],
+  "pages": 22,
+  "publisher": "World Publishing Company",
+  "language": "English",
+  "country": "United States",
+  "summary": "A beloved picture book about a caterpillar that eats its way through various foods before transforming into a butterfly. Known for its distinctive collage illustrations and die-cut pages showing the caterpillar's progress.",
+  "sales": {
+    "copiesSold": 55000000,
+    "languages": 70,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Very_Hungry_Caterpillar"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.3,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.0,
+      "max": 5,
+      "count": 101
+    }
+  },
+  "rank": 39,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/7835968-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "The Very Hungry Caterpillar cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL52987W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Very_Hungry_Caterpillar",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL52987W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 178,
+  "isbn": "9781852691288",
+  "description": "One sunny day, a caterpillar pops out of an egg. He is very hungry and begins searching for food.  He eats his way through ten very sweet pages and gets a tummy ache before finally finding a good, healthy leaf, which makes him sleepy. Then something really amazing happens. But you will have to read it your self to find out what!",
+  "_openlibrary_work_key": "/works/OL52987W"
+}

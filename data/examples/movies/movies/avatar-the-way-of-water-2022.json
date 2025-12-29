@@ -1,0 +1,73 @@
+{
+  "id": "avatar-the-way-of-water-2022",
+  "title": "Avatar: The Way of Water",
+  "studio": "20th-century",
+  "year": 2022,
+  "director": "James Cameron",
+  "cast": ["Sam Worthington", "Zoe Saldaña", "Sigourney Weaver", "Stephen Lang", "Kate Winslet"],
+  "genres": ["Science fiction", "Action", "Adventure"],
+  "runtime": 192,
+  "language": "English",
+  "country": "USA",
+  "summary": "Jake Sully and Neytiri have formed a family and are doing everything to stay together. However, they must leave their home and explore the regions of Pandora when an ancient threat resurfaces. The long-awaited sequel pushed underwater motion capture technology to new heights.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 2320250281,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 684075246,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 1636175035,
+      "currency": "USD"
+    },
+    "budget": 350000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Avatar:_The_Way_of_Water"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 1,
+      "nominations": 4
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 7.5, "max": 10 },
+    "rottenTomatoes": { "critics": 76, "audience": 92 },
+    "metacritic": { "score": 67, "max": 100 }
+  },
+  "rank": 3,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/54/Avatar_The_Way_of_Water_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Avatar: The Way of Water movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Avatar_The_Way_of_Water_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=d9MyW72ELq0",
+      "title": "Avatar: The Way of Water Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Avatar:_The_Way_of_Water",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt1630029/",
+      "source": "IMDB"
+    }
+  ]
+}

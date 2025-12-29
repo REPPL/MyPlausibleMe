@@ -1,0 +1,46 @@
+{
+  "id": "peaky-blinders-2013",
+  "title": "Peaky Blinders",
+  "network": "bbc",
+  "year": 2013,
+  "endYear": 2022,
+  "seasons": 6,
+  "episodes": 36,
+  "genres": ["Crime", "Drama", "Historical"],
+  "creators": ["Steven Knight"],
+  "cast": ["Cillian Murphy", "Helen McCrory", "Paul Anderson", "Tom Hardy", "Sam Neill"],
+  "country": "United Kingdom",
+  "language": "English",
+  "runtime": 60,
+  "summary": "A gangster family epic set in 1920s Birmingham following the rise of the Shelby crime family, led by the cunning Thomas Shelby. Became a global phenomenon on Netflix.",
+  "viewership": {
+    "peakViewers": 7100000,
+    "averageViewers": 5000000,
+    "source": "Wikipedia/BARB",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Peaky_Blinders_(TV_series)"
+  },
+  "ratings": {
+    "imdb": { "score": 8.8, "max": 10 },
+    "rottenTomatoes": { "critics": 93, "audience": 90 }
+  },
+  "rank": 35,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/d7/Peaky_Blinders_titlecard.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Peaky Blinders title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Peaky_Blinders_titlecard.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Peaky_Blinders_(TV_series)",
+      "source": "Wikipedia"
+    }
+  ]
+}

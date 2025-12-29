@@ -1,0 +1,73 @@
+{
+  "id": "beauty-and-the-beast-2017",
+  "title": "Beauty and the Beast",
+  "studio": "disney",
+  "year": 2017,
+  "director": "Bill Condon",
+  "cast": ["Emma Watson", "Dan Stevens", "Luke Evans", "Kevin Kline", "Josh Gad"],
+  "genres": ["Musical", "Romance", "Fantasy"],
+  "runtime": 129,
+  "language": "English",
+  "country": "USA",
+  "summary": "A selfish Prince is cursed to become a monster for the rest of his life, unless he learns to fall in love with a beautiful young woman he keeps prisoner. The live-action remake of Disney's animated classic became the highest-grossing musical film at the time.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1266115964,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 504481165,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 761634799,
+      "currency": "USD"
+    },
+    "budget": 160000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Beauty_and_the_Beast_(2017_film)"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 2
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 7.1, "max": 10 },
+    "rottenTomatoes": { "critics": 71, "audience": 80 },
+    "metacritic": { "score": 65, "max": 100 }
+  },
+  "rank": 23,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/d6/Beauty_and_the_Beast_2017_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Beauty and the Beast (2017) movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Beauty_and_the_Beast_2017_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=e3Nl_TCQXuw",
+      "title": "Beauty and the Beast Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Beauty_and_the_Beast_(2017_film)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt2771200/",
+      "source": "IMDB"
+    }
+  ]
+}

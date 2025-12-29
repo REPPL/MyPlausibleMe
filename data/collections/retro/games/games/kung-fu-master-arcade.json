@@ -1,0 +1,54 @@
+{
+  "id": "kung-fu-master-arcade",
+  "title": "Kung Fu Master",
+  "platform": "arcade",
+  "myRank": 1,
+  "year": 1984,
+  "summary": "A side-scrolling beat 'em up in which the player navigates five floors of a temple to rescue a captive.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/82/KungFuMaster_arcadeflyer.png",
+      "type": "flyer",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kung-Fu_Master_(video_game)",
+        "licence": "fair-use"
+      },
+      "isPrimary": true,
+      "alt": "Kung Fu Master arcade flyer"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/66/Kung_fu_master_mame.png",
+      "type": "screenshot",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kung-Fu_Master_(video_game)",
+        "licence": "fair-use"
+      },
+      "isPrimary": false,
+      "alt": "Kung Fu Master gameplay screenshot"
+    }
+  ],
+  "myStartYear": 1985,
+  "myVerdict": "Played it in Italy",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Kung-Fu_Master_(video_game)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/game/7511/",
+      "source": "MobyGames"
+    }
+  ],
+  "originalReleaseDate": "1984",
+  "genres": [
+    "Beat em up"
+  ],
+  "averageRating": {
+    "score": 4.5,
+    "sourceCount": 6,
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Kung-Fu_Master_(video_game)#Reception"
+  }
+}

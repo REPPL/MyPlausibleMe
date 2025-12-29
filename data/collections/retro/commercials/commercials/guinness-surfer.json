@@ -1,0 +1,30 @@
+{
+  "id": "guinness-surfer",
+  "title": "Surfer (Good Things Come)",
+  "brand": "guinness",
+  "year": 1999,
+  "personalRank": 11,
+  "agency": "Abbott Mead Vickers BBDO",
+  "director": "Jonathan Glazer",
+  "music": "Leftfield - Phat Planet",
+  "duration": 60,
+  "summary": "Voted the best British TV advert of all time. Surfers wait for the perfect wave while white horses emerge from the sea. The tagline 'Good things come to those who wait' became iconic. Directed by Jonathan Glazer with stunning visual effects.",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Surfer_(advertisement)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.dandad.org/awards/professional/2000/tv-cinema-advertising/10607/surfer/",
+      "source": "D&AD"
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=Y9znA_dwjHw",
+      "title": "Surfer",
+      "source": "YouTube",
+      "type": "commercial"
+    }
+  ]
+}

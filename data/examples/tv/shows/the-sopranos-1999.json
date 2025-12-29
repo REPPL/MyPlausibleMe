@@ -1,0 +1,47 @@
+{
+  "id": "the-sopranos-1999",
+  "title": "The Sopranos",
+  "network": "hbo",
+  "year": 1999,
+  "endYear": 2007,
+  "seasons": 6,
+  "episodes": 86,
+  "genres": ["Crime", "Drama"],
+  "creators": ["David Chase"],
+  "cast": ["James Gandolfini", "Edie Falco", "Lorraine Bracco", "Michael Imperioli", "Tony Sirico"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 55,
+  "summary": "New Jersey mob boss Tony Soprano deals with personal and professional issues that he discusses with his psychiatrist. Often credited with ushering in the Golden Age of Television.",
+  "viewership": {
+    "peakViewers": 11900000,
+    "peakEpisode": "Made in America (S06E21)",
+    "averageViewers": 8000000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Sopranos"
+  },
+  "ratings": {
+    "imdb": { "score": 9.2, "max": 10 },
+    "rottenTomatoes": { "critics": 92, "audience": 96 }
+  },
+  "rank": 3,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/5a/The_Sopranos_titlecard.PNG",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Sopranos title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:The_Sopranos_titlecard.PNG",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Sopranos",
+      "source": "Wikipedia"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "toy-story-4-2019",
+  "title": "Toy Story 4",
+  "studio": "disney",
+  "year": 2019,
+  "director": "Josh Cooley",
+  "cast": ["Tom Hanks", "Tim Allen", "Annie Potts", "Tony Hale", "Keegan-Michael Key"],
+  "genres": ["Animation", "Comedy", "Adventure"],
+  "runtime": 100,
+  "language": "English",
+  "country": "USA",
+  "summary": "When a new toy called 'Forky' joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy. The fourth instalment continued the beloved Pixar franchise's legacy.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1073841394,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 434038008,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 639803386,
+      "currency": "USD"
+    },
+    "budget": 175000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Toy_Story_4"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 1,
+      "nominations": 2
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 7.7, "max": 10 },
+    "rottenTomatoes": { "critics": 97, "audience": 94 },
+    "metacritic": { "score": 84, "max": 100 }
+  },
+  "rank": 38,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/4c/Toy_Story_4_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Toy Story 4 movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Toy_Story_4_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=wmiIUN-7qhE",
+      "title": "Toy Story 4 Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Toy_Story_4",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt1979376/",
+      "source": "IMDB"
+    }
+  ]
+}

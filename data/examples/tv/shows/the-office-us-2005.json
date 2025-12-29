@@ -1,0 +1,67 @@
+{
+  "id": "the-office-us-2005",
+  "title": "The Office (US)",
+  "network": "nbc",
+  "year": 2005,
+  "endYear": 2013,
+  "seasons": 9,
+  "episodes": 201,
+  "genres": [
+    "Sitcom",
+    "Mockumentary",
+    "Comedy"
+  ],
+  "creators": [
+    "Greg Daniels",
+    "Ricky Gervais",
+    "Stephen Merchant"
+  ],
+  "cast": [
+    "Steve Carell",
+    "Rainn Wilson",
+    "John Krasinski",
+    "Jenna Fischer",
+    "B. J. Novak"
+  ],
+  "country": "United States",
+  "language": "English",
+  "runtime": 22,
+  "summary": "A mockumentary about the everyday lives of office employees at the Scranton, Pennsylvania branch of the Dunder Mifflin Paper Company. Became one of the most-streamed shows in the Netflix era.",
+  "viewership": {
+    "peakViewers": 9780000,
+    "peakEpisode": "Stress Relief (S05E14-15)",
+    "averageViewers": 6000000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Office_(American_TV_series)"
+  },
+  "ratings": {
+    "imdb": {
+      "score": 9.0,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 81,
+      "audience": 89
+    }
+  },
+  "rank": 7,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Blank_television_set.svg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Office (US) logo",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:The_Office_US_logo.svg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Office_(American_TV_series)",
+      "source": "Wikipedia"
+    }
+  ]
+}

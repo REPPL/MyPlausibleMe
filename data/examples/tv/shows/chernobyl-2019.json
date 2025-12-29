@@ -1,0 +1,45 @@
+{
+  "id": "chernobyl-2019",
+  "title": "Chernobyl",
+  "network": "hbo",
+  "year": 2019,
+  "endYear": 2019,
+  "seasons": 1,
+  "episodes": 5,
+  "genres": ["Drama", "Historical", "Disaster"],
+  "creators": ["Craig Mazin"],
+  "cast": ["Jared Harris", "Stellan Skarsgård", "Emily Watson", "Paul Ritter", "Jessie Buckley"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 70,
+  "summary": "A dramatisation of the 1986 nuclear disaster in the Soviet Union and the unprecedented cleanup efforts that followed. Became the highest-rated series on IMDb upon release.",
+  "viewership": {
+    "peakViewers": 6000000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Chernobyl_(miniseries)"
+  },
+  "ratings": {
+    "imdb": { "score": 9.3, "max": 10 },
+    "rottenTomatoes": { "critics": 96, "audience": 96 }
+  },
+  "rank": 24,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/a9/Chernobyl_2019_Miniseries.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Chernobyl poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Chernobyl_2019_Miniseries.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Chernobyl_(miniseries)",
+      "source": "Wikipedia"
+    }
+  ]
+}

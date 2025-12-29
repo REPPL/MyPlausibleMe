@@ -1,0 +1,26 @@
+{
+  "id": "apple-1984",
+  "title": "1984",
+  "brand": "apple",
+  "year": 1984,
+  "personalRank": 7,
+  "agency": "Chiat\\Day",
+  "director": "Ridley Scott",
+  "music": "Original score",
+  "duration": 60,
+  "summary": "Ridley Scott's dystopian Super Bowl masterpiece introducing the Macintosh. A woman athlete hurls a hammer at Big Brother's screen, liberating the masses. Aired once during Super Bowl XVIII, it's widely considered the greatest commercial ever made.",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/1984_(advertisement)",
+      "source": "Wikipedia"
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=VtvjbmoDx-I",
+      "title": "1984",
+      "source": "YouTube",
+      "type": "commercial"
+    }
+  ]
+}

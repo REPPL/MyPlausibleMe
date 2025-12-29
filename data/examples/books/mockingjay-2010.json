@@ -1,0 +1,64 @@
+{
+  "id": "mockingjay-2010",
+  "title": "Mockingjay",
+  "author": "suzanne-collins",
+  "year": 2010,
+  "genres": [
+    "Young adult",
+    "Dystopian fiction",
+    "Science fiction"
+  ],
+  "pages": 390,
+  "publisher": "Scholastic Press",
+  "language": "English",
+  "country": "United States",
+  "series": "The Hunger Games",
+  "summary": "Katniss becomes the reluctant symbol of a mass rebellion against the Capitol. The final book in The Hunger Games trilogy sold 450,000 copies in its first week.",
+  "sales": {
+    "copiesSold": 18000000,
+    "languages": 51,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Mockingjay"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.04,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 3.78,
+      "max": 5,
+      "count": 250
+    }
+  },
+  "rank": 63,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/6304853-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Mockingjay cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL14908941W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mockingjay",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL14908941W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 90,
+  "isbn": "9786054263868",
+  "description": "The last book in the Hunger Games Series.  This book is filled with excitement and action regarding the ongoing war with the capital.",
+  "_openlibrary_work_key": "/works/OL14908941W"
+}

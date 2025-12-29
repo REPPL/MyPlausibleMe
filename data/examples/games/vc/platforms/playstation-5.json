@@ -1,0 +1,29 @@
+{
+  "id": "playstation-5",
+  "title": "PlayStation 5",
+  "type": "console",
+  "manufacturer": "Sony",
+  "year": 2020,
+  "generation": 9,
+  "unitsSold": 60000000,
+  "summary": "Sony's ninth-generation home video game console. Features ultra-high-speed SSD, ray tracing, and the DualSense controller with haptic feedback.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/PlayStation_logo.svg",
+      "type": "logo",
+      "isPrimary": true,
+      "alt": "PlayStation logo",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:PlayStation_logo.svg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/PlayStation_5",
+      "source": "Wikipedia"
+    }
+  ]
+}

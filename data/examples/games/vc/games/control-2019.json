@@ -1,0 +1,39 @@
+{
+  "id": "control-2019",
+  "title": "Control",
+  "publisher": "505-games",
+  "developer": "Remedy Entertainment",
+  "year": 2019,
+  "platforms": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "Nintendo Switch"],
+  "genres": ["Action-adventure", "Third-person shooter"],
+  "modes": ["Single-player"],
+  "summary": "Jesse Faden explores the supernatural Federal Bureau of Control. Features telekinetic combat and a brutalist architectural setting inspired by the SCP Foundation.",
+  "sales": {
+    "unitsSold": 3000000,
+    "source": "Wikipedia/505 Games",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Control_(video_game)"
+  },
+  "ratings": {
+    "metacritic": { "score": 85, "max": 100 }
+  },
+  "rank": 80,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/e4/Control_game_cover_art.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Control cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Control_game_cover_art.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Control_(video_game)",
+      "source": "Wikipedia"
+    }
+  ]
+}

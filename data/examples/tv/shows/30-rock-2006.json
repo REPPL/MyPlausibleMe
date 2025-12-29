@@ -1,0 +1,63 @@
+{
+  "id": "30-rock-2006",
+  "title": "30 Rock",
+  "network": "nbc",
+  "year": 2006,
+  "endYear": 2013,
+  "seasons": 7,
+  "episodes": 138,
+  "genres": [
+    "Comedy",
+    "Sitcom"
+  ],
+  "creators": [
+    "Tina Fey"
+  ],
+  "cast": [
+    "Tina Fey",
+    "Alec Baldwin",
+    "Tracy Morgan",
+    "Jane Krakowski",
+    "Jack McBrayer"
+  ],
+  "country": "United States",
+  "language": "English",
+  "runtime": 22,
+  "summary": "The head writer of a sketch comedy show navigates her work and personal life at 30 Rockefeller Plaza. Won 16 Emmy Awards including Outstanding Comedy Series.",
+  "viewership": {
+    "peakViewers": 8200000,
+    "averageViewers": 5500000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/30_Rock"
+  },
+  "ratings": {
+    "imdb": {
+      "score": 8.2,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 85,
+      "audience": 76
+    }
+  },
+  "rank": 89,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/30Rock_logo.svg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "30 Rock title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:30_Rock_title_card.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/30_Rock",
+      "source": "Wikipedia"
+    }
+  ]
+}

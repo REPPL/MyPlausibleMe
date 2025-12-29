@@ -1,0 +1,27 @@
+{
+  "id": "pc",
+  "title": "PC (Windows/Mac/Linux)",
+  "type": "computer",
+  "manufacturer": "Various",
+  "year": 1981,
+  "summary": "Personal computers running Windows, macOS, or Linux operating systems. The most open gaming platform with the largest library of games.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg",
+      "type": "logo",
+      "isPrimary": true,
+      "alt": "Windows logo",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Windows_logo_-_2012.svg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/PC_game",
+      "source": "Wikipedia"
+    }
+  ]
+}

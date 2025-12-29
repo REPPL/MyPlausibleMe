@@ -1,0 +1,91 @@
+{
+  "id": "celine-dion-my-heart-will-go-on",
+  "title": "My Heart Will Go On",
+  "artist": "celine-dion",
+  "year": 1997,
+  "album": "Titanic (soundtrack)",
+  "writers": [
+    "James Horner",
+    "Will Jennings"
+  ],
+  "producers": [
+    "James Horner",
+    "Walter Afanasieff"
+  ],
+  "genres": [
+    "Pop",
+    "Soft rock"
+  ],
+  "duration": 280,
+  "label": "Epic Records",
+  "summary": "The love theme from Titanic that won the Academy Award and Grammy for Record of the Year. Initially Dion was reluctant to record it, but it became her signature song and one of the best-selling singles of all time.",
+  "sales": {
+    "totalUnits": 18000000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/My_Heart_Will_Go_On"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 1,
+      "weeks": 2,
+      "chart": "Billboard Hot 100",
+      "year": 1998
+    },
+    "UK": {
+      "peak": 1,
+      "weeks": 4,
+      "chart": "UK Singles Chart",
+      "year": 1998
+    },
+    "Australia": {
+      "peak": 1,
+      "chart": "ARIA Charts",
+      "year": 1998
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "Diamond",
+      "units": 10000000
+    },
+    {
+      "region": "UK",
+      "certification": "3x Platinum",
+      "units": 1800000
+    }
+  ],
+  "rank": 21,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/d0/Celine_Dion_-_My_Heart_Will_Go_On.png",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "My Heart Will Go On single cover",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Celine_Dion_-_My_Heart_Will_Go_On.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=3gK_2XdjOdY",
+      "title": "Celine Dion - My Heart Will Go On",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/My_Heart_Will_Go_On",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/e152739f-50f7-4623-af68-9a286c3a1756",
+      "source": "MusicBrainz"
+    }
+  ],
+  "_musicbrainz_recording_id": "e152739f-50f7-4623-af68-9a286c3a1756"
+}

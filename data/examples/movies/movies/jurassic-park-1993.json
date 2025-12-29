@@ -1,0 +1,73 @@
+{
+  "id": "jurassic-park-1993",
+  "title": "Jurassic Park",
+  "studio": "universal",
+  "year": 1993,
+  "director": "Steven Spielberg",
+  "cast": ["Sam Neill", "Laura Dern", "Jeff Goldblum", "Richard Attenborough", "Samuel L. Jackson"],
+  "genres": ["Science fiction", "Adventure", "Thriller"],
+  "runtime": 127,
+  "language": "English",
+  "country": "USA",
+  "summary": "A pragmatic paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose. Spielberg's groundbreaking film revolutionised visual effects.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1046612836,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 404214720,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 642398116,
+      "currency": "USD"
+    },
+    "budget": 63000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Jurassic_Park_(film)"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 3,
+      "nominations": 3
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 8.2, "max": 10 },
+    "rottenTomatoes": { "critics": 93, "audience": 91 },
+    "metacritic": { "score": 68, "max": 100 }
+  },
+  "rank": 51,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/e7/Jurassic_Park_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Jurassic Park movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Jurassic_Park_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=QWBKEmWWL38",
+      "title": "Jurassic Park Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Jurassic_Park_(film)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0107290/",
+      "source": "IMDB"
+    }
+  ]
+}

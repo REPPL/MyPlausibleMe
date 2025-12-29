@@ -1,0 +1,73 @@
+{
+  "id": "zootopia-2016",
+  "title": "Zootopia",
+  "studio": "disney",
+  "year": 2016,
+  "director": "Byron Howard, Rich Moore, Jared Bush",
+  "cast": ["Ginnifer Goodwin", "Jason Bateman", "Idris Elba", "Jenny Slate", "Nate Torrence"],
+  "genres": ["Animation", "Comedy", "Adventure"],
+  "runtime": 108,
+  "language": "English",
+  "country": "USA",
+  "summary": "In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy. The film addressed themes of prejudice and stereotyping while delivering a compelling buddy comedy.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1025521689,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 341268248,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 684253441,
+      "currency": "USD"
+    },
+    "budget": 150000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Zootopia"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 1,
+      "nominations": 1
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 8.0, "max": 10 },
+    "rottenTomatoes": { "critics": 98, "audience": 92 },
+    "metacritic": { "score": 78, "max": 100 }
+  },
+  "rank": 48,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/ea/Zootopia_%282016_film%29.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Zootopia movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Zootopia_(2016_film).jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=jWM0ct-OLsM",
+      "title": "Zootopia Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Zootopia",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt2948356/",
+      "source": "IMDB"
+    }
+  ]
+}

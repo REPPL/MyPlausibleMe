@@ -1,0 +1,46 @@
+{
+  "id": "arcade",
+  "title": "Arcade",
+  "shortTitle": "Arcade",
+  "year": 1971,
+  "manufacturer": "Various",
+  "generation": "All generations",
+  "mediaFormat": "Dedicated Hardware",
+  "unitsSold": "N/A",
+  "bestSellingGame": "Pac-Man",
+  "summary": "Public gaming venues featuring dedicated cabinet machines, providing a unique social and tactile gaming experience.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Neogeoguts.JPG",
+      "type": "hardware",
+      "isPrimary": true,
+      "alt": "Neo Geo MVS arcade system internals",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Neogeoguts.JPG",
+        "licence": "cc-by-sa-3.0"
+      }
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Sega_Rally.jpg",
+      "type": "cabinet",
+      "isPrimary": false,
+      "alt": "Sega Rally Championship arcade cabinet",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sega_Rally.jpg",
+        "licence": "cc-by-sa-4.0"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Arcade_video_game",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/platform/arcade/",
+      "source": "MobyGames"
+    }
+  ]
+}

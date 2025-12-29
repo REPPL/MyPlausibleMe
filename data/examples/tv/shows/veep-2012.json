@@ -1,0 +1,46 @@
+{
+  "id": "veep-2012",
+  "title": "Veep",
+  "network": "hbo",
+  "year": 2012,
+  "endYear": 2019,
+  "seasons": 7,
+  "episodes": 65,
+  "genres": ["Comedy", "Political satire"],
+  "creators": ["Armando Iannucci"],
+  "cast": ["Julia Louis-Dreyfus", "Tony Hale", "Anna Chlumsky", "Reid Scott", "Timothy Simons"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 28,
+  "summary": "A Vice President deals with her dysfunctional team in Washington D.C. Julia Louis-Dreyfus won a record-breaking six consecutive Emmy Awards for her performance.",
+  "viewership": {
+    "peakViewers": 2100000,
+    "averageViewers": 1300000,
+    "source": "Wikipedia/HBO",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Veep"
+  },
+  "ratings": {
+    "imdb": { "score": 8.4, "max": 10 },
+    "rottenTomatoes": { "critics": 92, "audience": 83 }
+  },
+  "rank": 90,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/5e/Veep_title_card.png",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Veep title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Veep_title_card.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Veep",
+      "source": "Wikipedia"
+    }
+  ]
+}

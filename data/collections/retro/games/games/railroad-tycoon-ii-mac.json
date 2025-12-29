@@ -1,0 +1,52 @@
+{
+  "id": "railroad-tycoon-ii-mac",
+  "title": "Railroad Tycoon II",
+  "platform": "mac",
+  "myRank": 2,
+  "year": 1998,
+  "summary": "A business simulation game focused on the management of a railway company across various historical periods.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/06/Railroad_Tycoon_2_cover.jpg",
+      "type": "boxart",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Railroad_Tycoon_2_cover.jpg",
+        "licence": "fair-use"
+      },
+      "isPrimary": true,
+      "alt": "Railroad Tycoon II cover art"
+    }
+  ],
+  "myStartYear": 1998,
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Railroad_Tycoon_II",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/game/785/",
+      "source": "MobyGames"
+    }
+  ],
+  "originalPlatform": "PC",
+  "originalReleaseDate": "1998",
+  "genres": [
+    "Simulation"
+  ],
+  "myVerdict": "Great improvement of an outstanding game",
+  "averageRating": {
+    "score": 4.5,
+    "sourceCount": 15,
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Railroad_Tycoon_II#Reception"
+  },
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=4kqlQsxtDz8",
+      "title": "Railroad Tycoon II - Gameplay",
+      "source": "YouTube",
+      "type": "gameplay"
+    }
+  ]
+}

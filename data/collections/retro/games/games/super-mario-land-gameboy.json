@@ -1,0 +1,52 @@
+{
+  "id": "super-mario-land-gameboy",
+  "title": "Super Mario Land",
+  "platform": "gameboy",
+  "myRank": 3,
+  "year": 1989,
+  "summary": "A side-scrolling platformer featuring Mario, set in the world of Sarasaland rather than the Mushroom Kingdom.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/2/22/Super-mario-land-gameboy-boxart.png",
+      "type": "boxart",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Super-mario-land-gameboy-boxart.png",
+        "licence": "fair-use"
+      },
+      "isPrimary": true,
+      "alt": "Super Mario Land cover art"
+    }
+  ],
+  "myStartYear": 1990,
+  "myVerdict": "Another of the very few games I actually completed ?",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Super_Mario_Land",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/game/4275/",
+      "source": "MobyGames"
+    }
+  ],
+  "originalPlatform": "Game Boy",
+  "originalReleaseDate": "1989",
+  "genres": [
+    "Platform"
+  ],
+  "averageRating": {
+    "score": 4,
+    "sourceCount": 5,
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Super_Mario_Land#Reception"
+  },
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=vfaV2VDBQEk",
+      "title": "Super Mario Land - Game Boy Longplay",
+      "source": "World of Longplays",
+      "type": "gameplay"
+    }
+  ]
+}

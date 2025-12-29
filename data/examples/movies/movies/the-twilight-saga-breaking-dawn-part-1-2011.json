@@ -1,0 +1,92 @@
+{
+  "id": "the-twilight-saga-breaking-dawn-part-1-2011",
+  "title": "The Twilight Saga: Breaking Dawn – Part 1",
+  "studio": "lionsgate",
+  "year": 2011,
+  "director": "Bill Condon",
+  "cast": [
+    "Kristen Stewart",
+    "Robert Pattinson",
+    "Taylor Lautner",
+    "Peter Facinelli",
+    "Elizabeth Reaser"
+  ],
+  "genres": [
+    "Fantasy",
+    "Romance",
+    "Drama"
+  ],
+  "runtime": 117,
+  "language": "English",
+  "country": "USA",
+  "summary": "The Quileutes close in on expecting parents Edward and Bella, whose unborn child poses a threat to the Wolf Pack and the town of Forks. The first of a two-part finale adapted from the final novel.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 712176070,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 281287133,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 430888937,
+      "currency": "USD"
+    },
+    "budget": 110000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Twilight_Saga:_Breaking_Dawn_%E2%80%93_Part_1"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": {
+      "score": 4.9,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 25,
+      "audience": 66
+    },
+    "metacritic": {
+      "score": 45,
+      "max": 100
+    }
+  },
+  "rank": 98,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/c2/Breaking_Dawn_Part_1_Poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Twilight Saga: Breaking Dawn – Part 1 movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Breaking_Dawn_Part_1_Poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=DstVQu4kUoQ",
+      "title": "The Twilight Saga: Breaking Dawn Part 1 Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Twilight_Saga:_Breaking_Dawn_%E2%80%93_Part_1",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt1324999/",
+      "source": "IMDB"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "pirates-of-the-caribbean-on-stranger-tides-2011",
+  "title": "Pirates of the Caribbean: On Stranger Tides",
+  "studio": "disney",
+  "year": 2011,
+  "director": "Rob Marshall",
+  "cast": ["Johnny Depp", "Penélope Cruz", "Ian McShane", "Geoffrey Rush", "Kevin McNally"],
+  "genres": ["Fantasy", "Action", "Adventure"],
+  "runtime": 136,
+  "language": "English",
+  "country": "USA",
+  "summary": "Jack Sparrow and Barbossa embark on a quest to find the elusive Fountain of Youth, only to discover that Blackbeard and his daughter are after it too. The fourth instalment was the most expensive film ever made at the time.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1045713802,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 241071802,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 804642000,
+      "currency": "USD"
+    },
+    "budget": 379000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_On_Stranger_Tides"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 6.6, "max": 10 },
+    "rottenTomatoes": { "critics": 33, "audience": 54 },
+    "metacritic": { "score": 45, "max": 100 }
+  },
+  "rank": 43,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/a5/Pirates_of_the_Caribbean_On_Stranger_Tides_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Pirates of the Caribbean: On Stranger Tides movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Pirates_of_the_Caribbean_On_Stranger_Tides_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=AIWgRt6D1Dk",
+      "title": "Pirates of the Caribbean: On Stranger Tides Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_On_Stranger_Tides",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt1298650/",
+      "source": "IMDB"
+    }
+  ]
+}

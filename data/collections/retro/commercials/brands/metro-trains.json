@@ -1,0 +1,19 @@
+{
+  "id": "metro-trains",
+  "title": "Metro Trains Melbourne",
+  "shortTitle": "Metro",
+  "summary": "Australian rail operator whose 'Dumb Ways to Die' safety campaign became one of the most awarded and viral advertisements ever created.",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Metro_Trains_Melbourne",
+      "source": "Wikipedia"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/65/Metro_Trains_Melbourne_logo.svg",
+      "type": "logo",
+      "alt": "Metro Trains Melbourne logo"
+    }
+  ]
+}

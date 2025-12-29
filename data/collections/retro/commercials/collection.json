@@ -1,0 +1,69 @@
+{
+  "$schema": "https://itemdeck.app/schemas/v2/collection.json",
+  "id": "commercials",
+  "name": "Commercials",
+  "description": "Iconic commercials that defined their era.",
+  "schemaVersion": "v2",
+  "version": "2.0.0",
+  "entityTypes": {
+    "commercial": {
+      "primary": true,
+      "label": "Commercial",
+      "labelPlural": "Commercials",
+      "description": "An iconic commercial.",
+      "fields": {
+        "title": { "type": "string", "required": true },
+        "brand": { "type": "string", "ref": "brand", "required": true },
+        "year": { "type": "number", "description": "Year the commercial aired", "required": true },
+        "summary": { "type": "text", "description": "Brief description of the commercial", "required": true },
+        "agency": { "type": "string", "description": "Advertising agency" },
+        "director": { "type": "string", "description": "Commercial director" },
+        "music": { "type": "string", "description": "Featured song/artist" },
+        "duration": { "type": "number", "description": "Length in seconds" },
+        "personalRank": { "type": "number", "description": "Personal ranking" },
+        "detailUrls": { "type": "detailUrls" },
+        "videos": { "type": "videos" },
+        "images": { "type": "images" }
+      }
+    },
+    "brand": {
+      "label": "Brand",
+      "labelPlural": "Brands",
+      "description": "The company/brand behind the commercial",
+      "fields": {
+        "title": { "type": "string", "required": true },
+        "shortTitle": { "type": "string" },
+        "summary": { "type": "text" },
+        "detailUrls": { "type": "detailUrls" },
+        "images": { "type": "images" }
+      }
+    }
+  },
+  "relationships": {
+    "commercial.brand": {
+      "target": "brand",
+      "cardinality": "many-to-one",
+      "required": true
+    },
+    "commercial.personalRank": {
+      "type": "ordinal"
+    }
+  },
+  "display": {
+    "primaryEntity": "commercial",
+    "groupBy": "brand",
+    "sortWithinGroup": ["personalRank", "asc"],
+    "card": {
+      "front": {
+        "title": "title",
+        "subtitle": "year",
+        "badge": "personalRank",
+        "footer": ["agency", "music"]
+      }
+    }
+  },
+  "uiLabels": {
+    "moreButton": "Details",
+    "rankPlaceholder": ""
+  }
+}

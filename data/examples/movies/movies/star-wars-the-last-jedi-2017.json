@@ -1,0 +1,73 @@
+{
+  "id": "star-wars-the-last-jedi-2017",
+  "title": "Star Wars: The Last Jedi",
+  "studio": "disney",
+  "year": 2017,
+  "director": "Rian Johnson",
+  "cast": ["Mark Hamill", "Carrie Fisher", "Adam Driver", "Daisy Ridley", "John Boyega"],
+  "genres": ["Science fiction", "Action", "Adventure"],
+  "runtime": 152,
+  "language": "English",
+  "country": "USA",
+  "summary": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares for battle with the First Order. The film divided audiences but became a major box office success.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1334407706,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 620181382,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 714226324,
+      "currency": "USD"
+    },
+    "budget": 200000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Star_Wars:_The_Last_Jedi"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 4
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 6.9, "max": 10 },
+    "rottenTomatoes": { "critics": 91, "audience": 42 },
+    "metacritic": { "score": 84, "max": 100 }
+  },
+  "rank": 20,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/7/7f/Star_Wars_The_Last_Jedi.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Star Wars: The Last Jedi movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Star_Wars_The_Last_Jedi.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=Q0CbN8sfihY",
+      "title": "Star Wars: The Last Jedi Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Star_Wars:_The_Last_Jedi",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt2527336/",
+      "source": "IMDB"
+    }
+  ]
+}

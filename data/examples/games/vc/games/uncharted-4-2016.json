@@ -1,0 +1,52 @@
+{
+  "id": "uncharted-4-2016",
+  "title": "Uncharted 4: A Thief's End",
+  "publisher": "sony",
+  "developer": "Naughty Dog",
+  "year": 2016,
+  "platforms": [
+    "PlayStation 4",
+    "PlayStation 5",
+    "PC"
+  ],
+  "genres": [
+    "Action-adventure",
+    "Third-person shooter"
+  ],
+  "modes": [
+    "Single-player",
+    "Multiplayer"
+  ],
+  "summary": "Nathan Drake's final adventure as he searches for the lost pirate colony of Libertalia. The conclusion to Drake's story in the Uncharted series.",
+  "sales": {
+    "unitsSold": 16000000,
+    "source": "Wikipedia/Sony",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Uncharted_4:_A_Thief%27s_End"
+  },
+  "ratings": {
+    "metacritic": {
+      "score": 93,
+      "max": 100
+    }
+  },
+  "rank": 35,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/1a/Uncharted_4_box_artwork.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Uncharted 4: A Thief's End cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Uncharted_4_box_artwork.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Uncharted_4:_A_Thief%27s_End",
+      "source": "Wikipedia"
+    }
+  ]
+}

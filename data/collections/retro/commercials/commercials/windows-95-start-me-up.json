@@ -1,0 +1,25 @@
+{
+  "id": "windows-95-start-me-up",
+  "title": "Start Me Up",
+  "brand": "microsoft",
+  "year": 1995,
+  "personalRank": 6,
+  "agency": "Wieden+Kennedy",
+  "music": "The Rolling Stones - Start Me Up",
+  "duration": 60,
+  "summary": "Microsoft paid the Rolling Stones $3 million to use 'Start Me Up' for the Windows 95 launch — the first time the band allowed their music in advertising. The song tied perfectly to the new Start button feature. Part of a $300 million campaign, Windows 95 sold 7 million copies in its first 5 weeks.",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Windows_95",
+      "source": "Wikipedia"
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=wRdl1BjTG7c",
+      "title": "Windows 95 Start Me Up",
+      "source": "YouTube",
+      "type": "commercial"
+    }
+  ]
+}

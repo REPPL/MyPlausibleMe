@@ -1,0 +1,22 @@
+# Ignore everything
+*
+
+# Allow these specific files
+!.gitignore
+!README.md
+!LICENSE.md
+
+# Allow data directory and all contents
+!data/
+!data/**
+
+# Allow docs directory structure but exclude most development docs
+!docs/
+!docs/README.md
+!docs/guides/
+!docs/guides/**
+!docs/tutorials/
+!docs/tutorials/**
+
+# But always ignore OS files
+.DS_Store

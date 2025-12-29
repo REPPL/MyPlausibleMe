@@ -1,0 +1,47 @@
+{
+  "id": "the-x-files-1993",
+  "title": "The X-Files",
+  "network": "fox",
+  "year": 1993,
+  "endYear": 2018,
+  "seasons": 11,
+  "episodes": 218,
+  "genres": ["Science fiction", "Horror", "Mystery"],
+  "creators": ["Chris Carter"],
+  "cast": ["David Duchovny", "Gillian Anderson", "Mitch Pileggi", "Robert Patrick"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 44,
+  "summary": "FBI agents Fox Mulder and Dana Scully investigate paranormal cases and government conspiracies. One of the longest-running science fiction series in American television history.",
+  "viewership": {
+    "peakViewers": 29100000,
+    "peakEpisode": "Leonard Betts",
+    "averageViewers": 19000000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_X-Files"
+  },
+  "ratings": {
+    "imdb": { "score": 8.6, "max": 10 },
+    "rottenTomatoes": { "critics": 79, "audience": 89 }
+  },
+  "rank": 30,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/bb/X-Files_title_card.svg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The X-Files title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:X-Files_title_card.svg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_X-Files",
+      "source": "Wikipedia"
+    }
+  ]
+}

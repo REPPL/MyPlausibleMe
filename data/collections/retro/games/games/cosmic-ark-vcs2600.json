@@ -1,0 +1,63 @@
+{
+  "id": "cosmic-ark-vcs2600",
+  "title": "Cosmic Ark",
+  "platform": "vcs2600",
+  "myRank": 2,
+  "year": 1982,
+  "summary": "A space rescue game featuring a starfield effect where the player saves creatures from planets before they are destroyed by meteors.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/65/Cosmic_Ark_%28Cover%29.jpg",
+      "type": "boxart",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Cosmic_Ark_%28Cover%29.jpg",
+        "licence": "fair-use"
+      },
+      "isPrimary": true,
+      "alt": "Cosmic Ark cover art"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Cosmic_Ark_1_Atari_2600.jpg",
+      "type": "screenshot",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cosmic_Ark_1_Atari_2600.jpg",
+        "licence": "public-domain"
+      },
+      "isPrimary": false,
+      "alt": "Cosmic Ark gameplay screenshot"
+    }
+  ],
+  "myStartYear": 1982,
+  "myVerdict": "Perhaps the first video game I ever played",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Cosmic_Ark",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/game/2522/",
+      "source": "MobyGames"
+    }
+  ],
+  "originalPlatform": "Atari 2600",
+  "originalReleaseDate": "1982",
+  "genres": [
+    "Action"
+  ],
+  "averageRating": {
+    "score": 4,
+    "sourceCount": 3,
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Cosmic_Ark#Reception"
+  },
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=ScYSNdF2Iwo",
+      "title": "Cosmic Ark - Atari 2600 Gameplay",
+      "source": "YouTube",
+      "type": "gameplay"
+    }
+  ]
+}

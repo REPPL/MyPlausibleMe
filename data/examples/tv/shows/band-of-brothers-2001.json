@@ -1,0 +1,65 @@
+{
+  "id": "band-of-brothers-2001",
+  "title": "Band of Brothers",
+  "network": "hbo",
+  "year": 2001,
+  "endYear": 2001,
+  "seasons": 1,
+  "episodes": 10,
+  "genres": [
+    "War",
+    "Drama",
+    "Historical"
+  ],
+  "creators": [
+    "Tom Hanks",
+    "Steven Spielberg"
+  ],
+  "cast": [
+    "Damian Lewis",
+    "Ron Livingston",
+    "Donnie Wahlberg",
+    "David Schwimmer",
+    "Michael Fassbender"
+  ],
+  "country": "United States",
+  "language": "English",
+  "runtime": 60,
+  "summary": "The story of Easy Company, 506th Regiment of the 101st Airborne Division, from their training in Georgia to the end of World War II. One of the most acclaimed miniseries ever produced.",
+  "viewership": {
+    "peakViewers": 10000000,
+    "averageViewers": 8000000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Band_of_Brothers_(miniseries)"
+  },
+  "ratings": {
+    "imdb": {
+      "score": 9.4,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 93,
+      "audience": 97
+    }
+  },
+  "rank": 23,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/f0/BandofBrothersIntertitle.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Band of Brothers poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Band_of_Brothers_Poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Band_of_Brothers_(miniseries)",
+      "source": "Wikipedia"
+    }
+  ]
+}

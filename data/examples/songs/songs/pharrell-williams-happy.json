@@ -1,0 +1,89 @@
+{
+  "id": "pharrell-williams-happy",
+  "title": "Happy",
+  "artist": "pharrell-williams",
+  "year": 2013,
+  "album": "Despicable Me 2 (soundtrack)",
+  "writers": [
+    "Pharrell Williams"
+  ],
+  "producers": [
+    "Pharrell Williams"
+  ],
+  "genres": [
+    "Neo soul",
+    "Funk pop"
+  ],
+  "duration": 233,
+  "label": "Back Lot Music",
+  "summary": "Written for the animated film Despicable Me 2, this neo-soul track became a global phenomenon. It was nominated for an Academy Award and sparked a worldwide video trend with people dancing to the song in various locations.",
+  "sales": {
+    "totalUnits": 14000000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Happy_(Pharrell_Williams_song)"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 1,
+      "weeks": 10,
+      "chart": "Billboard Hot 100",
+      "year": 2014
+    },
+    "UK": {
+      "peak": 1,
+      "weeks": 4,
+      "chart": "UK Singles Chart",
+      "year": 2014
+    },
+    "Australia": {
+      "peak": 1,
+      "chart": "ARIA Charts",
+      "year": 2014
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "Diamond",
+      "units": 10000000
+    },
+    {
+      "region": "UK",
+      "certification": "4x Platinum",
+      "units": 2400000
+    }
+  ],
+  "rank": 30,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/2/23/Pharrell_Williams_-_Happy.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Happy single cover",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Pharrell_Williams_-_Happy.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=ZbZSe6N_BXs",
+      "title": "Pharrell Williams - Happy (Official Music Video)",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Happy_(Pharrell_Williams_song)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/f0b01450-c7d6-461e-b5fc-d82fd03a74fc",
+      "source": "MusicBrainz"
+    }
+  ],
+  "_musicbrainz_recording_id": "f0b01450-c7d6-461e-b5fc-d82fd03a74fc"
+}

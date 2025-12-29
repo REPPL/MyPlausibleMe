@@ -1,0 +1,46 @@
+{
+  "id": "downton-abbey-2010",
+  "title": "Downton Abbey",
+  "network": "itv",
+  "year": 2010,
+  "endYear": 2015,
+  "seasons": 6,
+  "episodes": 52,
+  "genres": ["Drama", "Historical drama", "Period piece"],
+  "creators": ["Julian Fellowes"],
+  "cast": ["Hugh Bonneville", "Maggie Smith", "Michelle Dockery", "Elizabeth McGovern", "Laura Carmichael"],
+  "country": "United Kingdom",
+  "language": "English",
+  "runtime": 60,
+  "summary": "The lives of the aristocratic Crawley family and their servants in the early 20th century at their Yorkshire estate. Became the most-watched drama in PBS history in the United States.",
+  "viewership": {
+    "peakViewers": 12400000,
+    "averageViewers": 10000000,
+    "source": "Wikipedia/BARB",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Downton_Abbey"
+  },
+  "ratings": {
+    "imdb": { "score": 8.7, "max": 10 },
+    "rottenTomatoes": { "critics": 87, "audience": 89 }
+  },
+  "rank": 31,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/da/Downton_Abbey.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Downton Abbey poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Downton_Abbey.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Downton_Abbey",
+      "source": "Wikipedia"
+    }
+  ]
+}

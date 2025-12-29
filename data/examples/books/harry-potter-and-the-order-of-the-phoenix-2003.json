@@ -1,0 +1,64 @@
+{
+  "id": "harry-potter-and-the-order-of-the-phoenix-2003",
+  "title": "Harry Potter and the Order of the Phoenix",
+  "author": "j-k-rowling",
+  "year": 2003,
+  "genres": [
+    "Fantasy",
+    "Young adult",
+    "Children's literature"
+  ],
+  "pages": 766,
+  "publisher": "Bloomsbury",
+  "language": "English",
+  "country": "United Kingdom",
+  "series": "Harry Potter",
+  "summary": "The longest book in the series follows Harry's fifth year as the Ministry of Magic refuses to acknowledge Voldemort's return. Harry forms Dumbledore's Army to teach defensive magic.",
+  "sales": {
+    "copiesSold": 55000000,
+    "languages": 79,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Order_of_the_Phoenix"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.5,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.22,
+      "max": 5,
+      "count": 305
+    }
+  },
+  "rank": 18,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/10523466-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Harry Potter and the Order of the Phoenix cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL82548W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Order_of_the_Phoenix",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL82548W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 226,
+  "isbn": "0785916725",
+  "description": "After the Dementors’ attack on his cousin Dudley, Harry knows he is about to become Voldemort’s next target.\r\n\r\nAlthough many are denying the Dark Lord’s return, Harry is not alone, and a secret order is gathering at Grimmauld Place to fight against the Dark forces.\r\n\r\nMeanwhile, Voldemort’s savage assaults on Harry’s mind are growing stronger every day.\r\n\r\nHe must allow Professor Snape to teach him to protect himself before he runs out of time.\r\n([source][1])\r\n\r\n\r\n----------\r\nThis work has also...",
+  "_openlibrary_work_key": "/works/OL82548W"
+}

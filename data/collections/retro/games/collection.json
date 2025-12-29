@@ -1,0 +1,81 @@
+{
+  "$schema": "https://itemdeck.app/schemas/v2/collection.json",
+  "id": "retro-games",
+  "name": "My Retro Games Journey",
+  "description": "A personal journey through classic computer & video games.",
+  "schemaVersion": "v2",
+  "version": "2.0.0",
+  "entityTypes": {
+    "game": {
+      "primary": true,
+      "label": "Game",
+      "labelPlural": "Games",
+      "description": "A game from my (re)collection.",
+      "fields": {
+        "title": { "type": "string", "required": true },
+        "year": { "type": "number", "description": "Year the game was released", "required": true },
+        "myStartYear": { "type": "number", "description": "Year I first played this game" },
+        "summary": { "type": "text", "description": "Brief description of the game (AI-generated)", "required": true },
+        "myVerdict": { "type": "text", "description": "My personal reflection" },
+        "detailUrls": { "type": "detailUrls" },
+        "platform": { "type": "string", "ref": "platform" },
+        "myRank": { "type": "number", "description": "My personal ranking within platform" },
+        "averageRating": {
+          "type": "object",
+          "description": "Aggregated review scores from magazines/critics",
+          "properties": {
+            "score": { "type": "number", "display": "stars", "max": 10 },
+            "sourceCount": { "type": "number" },
+            "source": { "type": "string" },
+            "url": { "type": "string" }
+          }
+        },
+        "images": { "type": "images" }
+      }
+    },
+    "platform": {
+      "label": "Device",
+      "labelPlural": "Devices",
+      "description": "A gaming platform (computer & video game console)",
+      "fields": {
+        "title": { "type": "string", "required": true },
+        "shortTitle": { "type": "string" },
+        "year": { "type": "number", "description": "Year the platform was released", "required": true },
+        "summary": { "type": "text", "description": "Brief description of the platform (AI-generated)", "required": true },
+        "images": { "type": "images" },
+        "detailUrls": { "type": "detailUrls" }
+      }
+    }
+  },
+  "relationships": {
+    "game.platform": {
+      "target": "platform",
+      "cardinality": "many-to-one",
+      "required": true
+    },
+    "game.myRank": {
+      "type": "ordinal",
+      "scope": "platform"
+    }
+  },
+  "display": {
+    "primaryEntity": "game",
+    "groupBy": "platform",
+    "sortWithinGroup": ["myRank", "asc"],
+    "card": {
+      "front": {
+        "title": "title",
+        "subtitle": "myStartYear",
+        "image": {
+          "source": "images[isPrimary=true][0] ?? images[type=cover][0] ?? images[0]"
+        },
+        "badge": "myRank",
+        "secondaryBadge": "averageRating.score",
+        "footer": ["platform.shortTitle", "status"]
+      },
+      "back": {
+        "logo": "platform.images[type=logo][0]"
+      }
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "the-avengers-2012",
+  "title": "The Avengers",
+  "studio": "disney",
+  "year": 2012,
+  "director": "Joss Whedon",
+  "cast": ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo", "Chris Hemsworth", "Scarlett Johansson"],
+  "genres": ["Superhero", "Science fiction", "Action"],
+  "runtime": 143,
+  "language": "English",
+  "country": "USA",
+  "summary": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity. The film established the MCU as a major franchise and pioneered the shared universe concept.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1520538536,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 623357910,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 897180626,
+      "currency": "USD"
+    },
+    "budget": 220000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Avengers_(2012_film)"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 1
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 8.0, "max": 10 },
+    "rottenTomatoes": { "critics": 91, "audience": 91 },
+    "metacritic": { "score": 69, "max": 100 }
+  },
+  "rank": 11,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/8a/The_Avengers_%282012_film%29_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Avengers movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:The_Avengers_(2012_film)_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=eOrNdBpGMv8",
+      "title": "The Avengers Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Avengers_(2012_film)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0848228/",
+      "source": "IMDB"
+    }
+  ]
+}

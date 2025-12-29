@@ -1,0 +1,56 @@
+{
+  "id": "how-the-steel-was-tempered-1936",
+  "title": "How the Steel Was Tempered",
+  "author": "nikolai-ostrovsky",
+  "year": 1936,
+  "genres": [
+    "Socialist realism",
+    "Autobiographical novel"
+  ],
+  "pages": 459,
+  "publisher": "Molodaya Gvardiya",
+  "language": "Russian",
+  "country": "Soviet Union",
+  "summary": "A semi-autobiographical novel about Pavel Korchagin's transformation from rebellious youth to dedicated Communist revolutionary. Required reading in Soviet schools, it became one of the most widely read books in Russian and Chinese.",
+  "sales": {
+    "copiesSold": 36000000,
+    "languages": 50,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/How_the_Steel_Was_Tempered"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 3.73,
+      "max": 5
+    }
+  },
+  "rank": 37,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/13286439-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "How the Steel Was Tempered cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL31647152W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/How_the_Steel_Was_Tempered",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL31647152W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 1,
+  "isbn": "9781989559048",
+  "_openlibrary_work_key": "/works/OL31647152W"
+}

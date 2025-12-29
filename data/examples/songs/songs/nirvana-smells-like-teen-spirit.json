@@ -1,0 +1,89 @@
+{
+  "id": "nirvana-smells-like-teen-spirit",
+  "title": "Smells Like Teen Spirit",
+  "artist": "nirvana",
+  "year": 1991,
+  "album": "Nevermind",
+  "writers": [
+    "Kurt Cobain",
+    "Krist Novoselic",
+    "Dave Grohl"
+  ],
+  "producers": [
+    "Butch Vig"
+  ],
+  "genres": [
+    "Grunge",
+    "Alternative rock"
+  ],
+  "duration": 301,
+  "label": "DGC Records",
+  "summary": "The anthem that brought grunge and alternative rock into the mainstream, effectively ending the dominance of hair metal. Often credited with defining the sound of the 1990s and becoming a generational anthem.",
+  "sales": {
+    "totalUnits": 8000000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Smells_Like_Teen_Spirit"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 6,
+      "chart": "Billboard Hot 100",
+      "year": 1991
+    },
+    "UK": {
+      "peak": 7,
+      "chart": "UK Singles Chart",
+      "year": 1991
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "6x Platinum",
+      "units": 6000000
+    },
+    {
+      "region": "UK",
+      "certification": "Platinum",
+      "units": 600000
+    }
+  ],
+  "rank": 37,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/3c/Smells_Like_Teen_Spirit.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Smells Like Teen Spirit single cover",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Smells_Like_Teen_Spirit.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=hTWKbfoikeg",
+      "title": "Nirvana - Smells Like Teen Spirit (Official Music Video)",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Smells_Like_Teen_Spirit",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/0ef2f43e-51d4-4930-9052-3820358044d5",
+      "source": "MusicBrainz"
+    },
+    {
+      "url": "https://musicbrainz.org/release/7fb7f5b1-1b4a-4179-a14a-27af0ad53ca7",
+      "source": "MusicBrainz (Release)"
+    }
+  ],
+  "_musicbrainz_recording_id": "0ef2f43e-51d4-4930-9052-3820358044d5",
+  "_musicbrainz_release_id": "7fb7f5b1-1b4a-4179-a14a-27af0ad53ca7"
+}

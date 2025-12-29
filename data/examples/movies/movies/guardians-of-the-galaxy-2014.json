@@ -1,0 +1,92 @@
+{
+  "id": "guardians-of-the-galaxy-2014",
+  "title": "Guardians of the Galaxy",
+  "studio": "disney",
+  "year": 2014,
+  "director": "James Gunn",
+  "cast": [
+    "Chris Pratt",
+    "Zoe Saldaña",
+    "Dave Bautista",
+    "Vin Diesel",
+    "Bradley Cooper"
+  ],
+  "genres": [
+    "Superhero",
+    "Science fiction",
+    "Action"
+  ],
+  "runtime": 121,
+  "language": "English",
+  "country": "USA",
+  "summary": "A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe. The unexpected hit introduced audiences to a ragtag team of misfits including a talking raccoon and a tree creature.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 773350147,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 333718600,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 439631547,
+      "currency": "USD"
+    },
+    "budget": 170000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 2
+    }
+  },
+  "ratings": {
+    "imdb": {
+      "score": 8.0,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 92,
+      "audience": 92
+    },
+    "metacritic": {
+      "score": 76,
+      "max": 100
+    }
+  },
+  "rank": 71,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/33/Guardians_of_the_Galaxy_%28film%29_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Guardians of the Galaxy movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Guardians_of_the_Galaxy_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=d96cjJhvlMA",
+      "title": "Guardians of the Galaxy Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt2015381/",
+      "source": "IMDB"
+    }
+  ]
+}

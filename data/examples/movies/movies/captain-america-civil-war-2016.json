@@ -1,0 +1,73 @@
+{
+  "id": "captain-america-civil-war-2016",
+  "title": "Captain America: Civil War",
+  "studio": "disney",
+  "year": 2016,
+  "director": "Anthony Russo, Joe Russo",
+  "cast": ["Chris Evans", "Robert Downey Jr.", "Scarlett Johansson", "Sebastian Stan", "Chadwick Boseman"],
+  "genres": ["Superhero", "Action", "Science fiction"],
+  "runtime": 147,
+  "language": "English",
+  "country": "USA",
+  "summary": "Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man. The film introduced Black Panther and Spider-Man to the MCU while delivering an epic hero-versus-hero showdown.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1155046416,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 408084349,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 746962067,
+      "currency": "USD"
+    },
+    "budget": 250000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Captain_America:_Civil_War"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 7.8, "max": 10 },
+    "rottenTomatoes": { "critics": 90, "audience": 89 },
+    "metacritic": { "score": 75, "max": 100 }
+  },
+  "rank": 28,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/53/Captain_America_Civil_War_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Captain America: Civil War movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Captain_America_Civil_War_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=dKrVegVI0Us",
+      "title": "Captain America: Civil War Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Captain_America:_Civil_War",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt3498820/",
+      "source": "IMDB"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "gameboy",
+  "title": "Game Boy",
+  "shortTitle": "GB",
+  "year": 1989,
+  "manufacturer": "Nintendo",
+  "generation": "4th (Handheld)",
+  "mediaFormat": "Cartridge",
+  "unitsSold": "118.7 million",
+  "bestSellingGame": "Tetris",
+  "summary": "A revolutionary handheld console that popularised portable gaming, allowing users to play high-quality titles regardless of location.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Nintendo_Game_Boy_Logo.svg/400px-Nintendo_Game_Boy_Logo.svg.png",
+      "type": "logo",
+      "isPrimary": false,
+      "alt": "Game Boy logo",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nintendo_Game_Boy_Logo.svg",
+        "licence": "public-domain"
+      }
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg",
+      "type": "console",
+      "isPrimary": true,
+      "alt": "Nintendo Game Boy (original model)",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Game-Boy-FL.jpg",
+        "licence": "public-domain"
+      }
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Tetris_basic_game.gif",
+      "type": "screenshot",
+      "isPrimary": false,
+      "alt": "Tetris on Game Boy",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tetris_basic_game.gif",
+        "licence": "public-domain"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Game_Boy",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/platform/gameboy/",
+      "source": "MobyGames"
+    }
+  ]
+}

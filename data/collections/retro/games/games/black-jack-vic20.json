@@ -1,0 +1,65 @@
+{
+  "id": "black-jack-vic20",
+  "title": "Black Jack",
+  "platform": "vic20",
+  "myRank": 3,
+  "year": 1982,
+  "summary": "A card game simulation in which the player aims to reach a hand value of 21 without exceeding it.",
+  "images": [
+    {
+      "url": "https://www.myabandonware.com/media/screenshots/v/vic-21-casino-style-blackjack-13f8/vic-21-casino-style-blackjack_4.png",
+      "type": "screenshot",
+      "isPrimary": true,
+      "alt": "Black Jack gameplay screenshot",
+      "attribution": {
+        "source": "My Abandonware",
+        "sourceUrl": "https://www.myabandonware.com/game/vic-21-casino-style-blackjack-pol",
+        "licence": "fair-use",
+        "licenceNote": "MyAbandonware does not specify redistribution rights; used under fair-use assumption for demo purposes"
+      }
+    },
+    {
+      "url": "https://www.myabandonware.com/media/screenshots/v/vic-21-casino-style-blackjack-13f8/vic-21-casino-style-blackjack_6.png",
+      "type": "screenshot",
+      "isPrimary": false,
+      "alt": "Black Jack gameplay screenshot",
+      "attribution": {
+        "source": "My Abandonware",
+        "sourceUrl": "https://www.myabandonware.com/game/vic-21-casino-style-blackjack-pol",
+        "licence": "fair-use",
+        "licenceNote": "MyAbandonware does not specify redistribution rights; used under fair-use assumption for demo purposes"
+      }
+    }
+  ],
+  "myStartYear": 1982,
+  "myVerdict": "In hindsight, one did have a lot of time when one was young!",
+  "detailUrls": [
+    {
+      "url": "https://www.myabandonware.com/game/vic-21-casino-style-blackjack-pol",
+      "source": "My Abandonware"
+    },
+    {
+      "url": "https://www.myabandonware.com/game/black-jack-pxq",
+      "source": "My Abandonware (alternate)"
+    }
+  ],
+  "originalPlatform": "VIC-20",
+  "originalReleaseDate": "1982",
+  "genres": [
+    "Simulation"
+  ],
+  "averageRating": {
+    "score": 2.5,
+    "sourceCount": 1,
+    "source": "User Note",
+    "url": null
+  },
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=vPsNTf5YSZU",
+      "title": "Black Jack - VIC-20 Gameplay",
+      "source": "YouTube",
+      "type": "gameplay"
+    }
+  ]
+}

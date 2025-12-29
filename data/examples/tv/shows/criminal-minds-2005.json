@@ -1,0 +1,46 @@
+{
+  "id": "criminal-minds-2005",
+  "title": "Criminal Minds",
+  "network": "cbs",
+  "year": 2005,
+  "endYear": 2020,
+  "seasons": 15,
+  "episodes": 324,
+  "genres": ["Crime", "Drama", "Mystery"],
+  "creators": ["Jeff Davis"],
+  "cast": ["Joe Mantegna", "Matthew Gray Gubler", "A.J. Cook", "Kirsten Vangsness", "Paget Brewster"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 42,
+  "summary": "The FBI's Behavioral Analysis Unit profiles and apprehends the nation's most dangerous criminals. One of the longest-running crime dramas in American television history.",
+  "viewership": {
+    "peakViewers": 18680000,
+    "averageViewers": 12000000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Criminal_Minds"
+  },
+  "ratings": {
+    "imdb": { "score": 8.1, "max": 10 },
+    "rottenTomatoes": { "critics": 76, "audience": 87 }
+  },
+  "rank": 51,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/6c/Criminal_Minds_title_card.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Criminal Minds title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Criminal_Minds_title_card.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Criminal_Minds",
+      "source": "Wikipedia"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "apex-legends-2019",
+  "title": "Apex Legends",
+  "publisher": "ea-sports",
+  "developer": "Respawn Entertainment",
+  "year": 2019,
+  "platforms": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "Nintendo Switch", "Mobile"],
+  "genres": ["Battle royale", "First-person shooter", "Hero shooter"],
+  "modes": ["Multiplayer"],
+  "summary": "A free-to-play hero shooter set in the Titanfall universe. Features squad-based gameplay with unique character abilities called Legends.",
+  "sales": {
+    "unitsSold": 100000000,
+    "source": "Wikipedia/EA",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Apex_Legends"
+  },
+  "ratings": {
+    "metacritic": { "score": 89, "max": 100 }
+  },
+  "rank": 40,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/db/Apex_legends_cover.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Apex Legends cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Apex_legends_cover.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Apex_Legends",
+      "source": "Wikipedia"
+    }
+  ]
+}

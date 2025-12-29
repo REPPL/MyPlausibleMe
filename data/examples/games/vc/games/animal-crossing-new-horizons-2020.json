@@ -1,0 +1,39 @@
+{
+  "id": "animal-crossing-new-horizons-2020",
+  "title": "Animal Crossing: New Horizons",
+  "publisher": "nintendo",
+  "developer": "Nintendo EPD",
+  "year": 2020,
+  "platforms": ["Nintendo Switch"],
+  "genres": ["Social simulation", "Life simulation"],
+  "modes": ["Single-player", "Multiplayer"],
+  "summary": "Players develop a deserted island into a thriving community. Released during COVID-19 lockdowns, it became a cultural phenomenon and social outlet.",
+  "sales": {
+    "unitsSold": 45000000,
+    "source": "Wikipedia/Nintendo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons"
+  },
+  "ratings": {
+    "metacritic": { "score": 90, "max": 100 }
+  },
+  "rank": 15,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/1f/Animal_Crossing_New_Horizons.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Animal Crossing: New Horizons cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Animal_Crossing_New_Horizons.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons",
+      "source": "Wikipedia"
+    }
+  ]
+}

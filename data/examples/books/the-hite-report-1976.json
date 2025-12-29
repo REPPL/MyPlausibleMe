@@ -1,0 +1,63 @@
+{
+  "id": "the-hite-report-1976",
+  "title": "The Hite Report",
+  "author": "shere-hite",
+  "year": 1976,
+  "genres": [
+    "Non-fiction",
+    "Sexuality",
+    "Social science"
+  ],
+  "pages": 438,
+  "publisher": "Macmillan",
+  "language": "English",
+  "country": "United States",
+  "summary": "A groundbreaking study of female sexuality based on questionnaires from over 3,000 women. The book challenged prevailing assumptions and became a major bestseller, sparking widespread discussion about women's sexual experiences.",
+  "sales": {
+    "copiesSold": 48000000,
+    "languages": 20,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Hite_Report"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 3.76,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 3.0,
+      "max": 5,
+      "count": 2
+    }
+  },
+  "rank": 30,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/4615281-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Hite Report Women & Love cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL2815101W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Hite_Report",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL2815101W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 37,
+  "isbn": "5550315343",
+  "description": "Summarizes the responses of over 3000 American women to the NOW sexuality questionnaire, which aimed to discover how women feel about a variety of sexual topics.",
+  "_openlibrary_work_key": "/works/OL2815101W"
+}

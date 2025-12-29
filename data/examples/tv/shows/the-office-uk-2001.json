@@ -1,0 +1,45 @@
+{
+  "id": "the-office-uk-2001",
+  "title": "The Office (UK)",
+  "network": "bbc",
+  "year": 2001,
+  "endYear": 2003,
+  "seasons": 2,
+  "episodes": 14,
+  "genres": ["Comedy", "Mockumentary", "Cringe comedy"],
+  "creators": ["Ricky Gervais", "Stephen Merchant"],
+  "cast": ["Ricky Gervais", "Martin Freeman", "Mackenzie Crook", "Lucy Davis", "Stirling Gallacher"],
+  "country": "United Kingdom",
+  "language": "English",
+  "runtime": 30,
+  "summary": "The everyday lives of office employees in the Slough branch of the Wernham Hogg paper company. Won Golden Globe and BAFTA awards, spawning numerous international adaptations.",
+  "viewership": {
+    "peakViewers": 6200000,
+    "source": "Wikipedia/BARB",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Office_(British_TV_series)"
+  },
+  "ratings": {
+    "imdb": { "score": 8.5, "max": 10 },
+    "rottenTomatoes": { "critics": 96, "audience": 93 }
+  },
+  "rank": 73,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/4a/TheOfficeUK.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Office UK title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:TheOfficeUK.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Office_(British_TV_series)",
+      "source": "Wikipedia"
+    }
+  ]
+}

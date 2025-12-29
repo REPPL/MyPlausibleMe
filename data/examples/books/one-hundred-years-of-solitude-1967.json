@@ -1,0 +1,63 @@
+{
+  "id": "one-hundred-years-of-solitude-1967",
+  "title": "One Hundred Years of Solitude",
+  "author": "gabriel-garcia-marquez",
+  "year": 1967,
+  "genres": [
+    "Magic realism",
+    "Literary fiction",
+    "Family saga"
+  ],
+  "pages": 417,
+  "publisher": "Editorial Sudamericana",
+  "language": "Spanish",
+  "country": "Colombia",
+  "summary": "The multi-generational saga of the Buendía family in the fictional town of Macondo. A landmark of magical realism that influenced countless writers and earned García Márquez the Nobel Prize in Literature.",
+  "sales": {
+    "copiesSold": 50000000,
+    "languages": 46,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.11,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.05,
+      "max": 5,
+      "count": 77
+    }
+  },
+  "rank": 21,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/12627383-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Cien años de soledad cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL274505W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL274505W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 204,
+  "isbn": "9788501078896",
+  "description": "*Cien años de soledad* es una novela del escritor colombiano Gabriel García Márquez, ganador del Premio Nobel de Literatura en 1982. Es considerada una obra maestra de la literatura hispanoamericana y universal, cumbre del denominado \"realismo mágico\". Es asimismo una de las obras más traducidas y leídas en español. Narra la historia de la familia Buendía a lo largo de siete generaciones en el pueblo ficticio de Macondo.\r\n\r\n\r\n----------\r\n\r\n\r\n*Cien años de soledad* is considered the best work of ...",
+  "_openlibrary_work_key": "/works/OL274505W"
+}

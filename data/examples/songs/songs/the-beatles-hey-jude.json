@@ -1,0 +1,85 @@
+{
+  "id": "the-beatles-hey-jude",
+  "title": "Hey Jude",
+  "artist": "the-beatles",
+  "year": 1968,
+  "album": "Single",
+  "writers": [
+    "John Lennon",
+    "Paul McCartney"
+  ],
+  "producers": [
+    "George Martin"
+  ],
+  "genres": [
+    "Rock",
+    "Pop rock"
+  ],
+  "duration": 431,
+  "label": "Apple Records",
+  "summary": "Written by Paul McCartney to comfort John Lennon's son Julian during his parents' divorce. At over seven minutes, it was the longest single to top the UK charts at the time and became one of the Beatles' most successful songs.",
+  "sales": {
+    "totalUnits": 8000000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hey_Jude"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 1,
+      "weeks": 9,
+      "chart": "Billboard Hot 100",
+      "year": 1968
+    },
+    "UK": {
+      "peak": 1,
+      "weeks": 2,
+      "chart": "UK Singles Chart",
+      "year": 1968
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "6x Platinum",
+      "units": 6000000
+    },
+    {
+      "region": "UK",
+      "certification": "Gold",
+      "units": 400000
+    }
+  ],
+  "rank": 17,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/09/HeyJude7inch.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Hey Jude single cover",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:HeyJude7inch.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=A_MjCqQoLLA",
+      "title": "The Beatles - Hey Jude",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Hey_Jude",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/1965c130-06c3-4df9-a662-b1901fc4c926",
+      "source": "MusicBrainz"
+    }
+  ],
+  "_musicbrainz_recording_id": "1965c130-06c3-4df9-a662-b1901fc4c926"
+}

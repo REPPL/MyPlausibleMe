@@ -1,0 +1,46 @@
+{
+  "id": "the-good-place-2016",
+  "title": "The Good Place",
+  "network": "nbc",
+  "year": 2016,
+  "endYear": 2020,
+  "seasons": 4,
+  "episodes": 53,
+  "genres": ["Comedy", "Fantasy", "Drama"],
+  "creators": ["Michael Schur"],
+  "cast": ["Kristen Bell", "Ted Danson", "William Jackson Harper", "Jameela Jamil", "Manny Jacinto", "D'Arcy Carden"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 22,
+  "summary": "After her death, a self-absorbed woman is sent to 'The Good Place' but quickly realises she doesn't belong. A philosophical comedy exploring ethics and the afterlife.",
+  "viewership": {
+    "peakViewers": 7860000,
+    "averageViewers": 4000000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Good_Place"
+  },
+  "ratings": {
+    "imdb": { "score": 8.2, "max": 10 },
+    "rottenTomatoes": { "critics": 97, "audience": 86 }
+  },
+  "rank": 63,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/bd/The_Good_Place_title_card.png",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Good Place title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:The_Good_Place_title_card.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Good_Place",
+      "source": "Wikipedia"
+    }
+  ]
+}

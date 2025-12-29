@@ -1,0 +1,64 @@
+{
+  "id": "new-moon-2006",
+  "title": "New Moon",
+  "author": "stephenie-meyer",
+  "year": 2006,
+  "genres": [
+    "Young adult",
+    "Romance",
+    "Fantasy"
+  ],
+  "pages": 563,
+  "publisher": "Little, Brown and Company",
+  "language": "English",
+  "country": "United States",
+  "series": "Twilight",
+  "summary": "After Edward leaves to protect Bella, she develops a close relationship with Jacob Black, who has a supernatural secret of his own. The second book in the Twilight saga.",
+  "sales": {
+    "copiesSold": 12000000,
+    "languages": 37,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/New_Moon_(novel)"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 3.55,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 3.64,
+      "max": 5,
+      "count": 407
+    }
+  },
+  "rank": 72,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/12641977-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Twilight cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL5720023W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/New_Moon_(novel)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL5720023W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 120,
+  "isbn": "9781536400205",
+  "description": "About three things I was absolutely positive. First, Edward was a vampire. Second, there was a part of him -- and I didn't know how dominant that part might be -- that thirsted for my blood. And third, I was unconditionally and irrevocably in love with him. When Isabella Swan moves to the gloomy town of Forks and meets the mysterious, alluring Edward Cullen, her life takes a thrilling and terrifying turn. With his porcelain skin, golden eyes, mesmerizing voice, and supernatural gifts, Edward is ...",
+  "_openlibrary_work_key": "/works/OL5720023W"
+}

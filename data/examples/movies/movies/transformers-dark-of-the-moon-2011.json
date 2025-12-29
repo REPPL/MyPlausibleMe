@@ -1,0 +1,92 @@
+{
+  "id": "transformers-dark-of-the-moon-2011",
+  "title": "Transformers: Dark of the Moon",
+  "studio": "paramount",
+  "year": 2011,
+  "director": "Michael Bay",
+  "cast": [
+    "Shia LaBeouf",
+    "Rosie Huntington-Whiteley",
+    "Josh Duhamel",
+    "John Turturro",
+    "Tyrese Gibson"
+  ],
+  "genres": [
+    "Science fiction",
+    "Action",
+    "Adventure"
+  ],
+  "runtime": 154,
+  "language": "English",
+  "country": "USA",
+  "summary": "The Autobots learn of a Cybertronian spacecraft hidden on the moon, and race against the Decepticons to reach it and learn its secrets. The third instalment of the Transformers franchise dominated the global box office.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1123794079,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 352390543,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 771403536,
+      "currency": "USD"
+    },
+    "budget": 195000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Transformers:_Dark_of_the_Moon"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 3
+    }
+  },
+  "ratings": {
+    "imdb": {
+      "score": 6.2,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 35,
+      "audience": 57
+    },
+    "metacritic": {
+      "score": 42,
+      "max": 100
+    }
+  },
+  "rank": 32,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/bf/Transformers_dark_of_the_moon_ver5.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Transformers: Dark of the Moon movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Transformers_dark_of_the_moon_ver5.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=ILxjxfB4zNk",
+      "title": "Transformers: Dark of the Moon Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Transformers:_Dark_of_the_Moon",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt1399103/",
+      "source": "IMDB"
+    }
+  ]
+}

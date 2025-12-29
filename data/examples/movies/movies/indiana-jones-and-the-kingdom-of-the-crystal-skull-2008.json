@@ -1,0 +1,91 @@
+{
+  "id": "indiana-jones-and-the-kingdom-of-the-crystal-skull-2008",
+  "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+  "studio": "paramount",
+  "year": 2008,
+  "director": "Steven Spielberg",
+  "cast": [
+    "Harrison Ford",
+    "Cate Blanchett",
+    "Karen Allen",
+    "Shia LaBeouf",
+    "John Hurt"
+  ],
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "runtime": 122,
+  "language": "English",
+  "country": "USA",
+  "summary": "In 1957, archaeologist Indiana Jones becomes entangled in a Soviet plot to uncover the secret behind mysterious artifacts known as the Crystal Skulls. The long-awaited fourth instalment reunited Ford with Spielberg and Lucas.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 790653942,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 317101119,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 473552823,
+      "currency": "USD"
+    },
+    "budget": 185000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": {
+      "score": 6.1,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 77,
+      "audience": 53
+    },
+    "metacritic": {
+      "score": 65,
+      "max": 100
+    }
+  },
+  "rank": 90,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/d5/Kingdomofthecrystalskull.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Indiana Jones and the Kingdom of the Crystal Skull movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=AftLxKtAzXI",
+      "title": "Indiana Jones and the Kingdom of the Crystal Skull Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0367882/",
+      "source": "IMDB"
+    }
+  ]
+}

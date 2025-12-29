@@ -1,0 +1,44 @@
+{
+  "id": "metroid-ii-gameboy",
+  "title": "Metroid II",
+  "platform": "gameboy",
+  "myRank": 2,
+  "year": 1991,
+  "summary": "An action-adventure game where the player controls Samus Aran on a mission to eliminate Metroids on the planet SR388.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/93/Metroid2_boxart.jpg",
+      "type": "boxart",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Metroid2_boxart.jpg",
+        "licence": "fair-use"
+      },
+      "isPrimary": true,
+      "alt": "Metroid II cover art"
+    }
+  ],
+  "myStartYear": 1992,
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Metroid_II:_Return_of_Samus",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/game/4282/",
+      "source": "MobyGames"
+    }
+  ],
+  "originalPlatform": "Game Boy",
+  "originalReleaseDate": "1991",
+  "genres": [
+    "Action-adventure"
+  ],
+  "myVerdict": "One of the very few games I actually completed ?",
+  "averageRating": {
+    "score": 4,
+    "sourceCount": 5,
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Metroid_II:_Return_of_Samus#Reception"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "metro-dumb-ways-to-die",
+  "title": "Dumb Ways to Die",
+  "brand": "metro-trains",
+  "year": 2012,
+  "personalRank": 14,
+  "agency": "McCann Melbourne",
+  "director": "Julian Frost",
+  "music": "Tangerine Kitty - Dumb Ways to Die",
+  "duration": 180,
+  "summary": "Public service announcement about rail safety became a viral sensation. The catchy song and cute characters illustrate absurd deaths before warning about trains. Won 5 Cannes Grand Prix awards and became the most awarded campaign in advertising history.",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Dumb_Ways_to_Die",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.dandad.org/awards/professional/2013/integrated-earned-media/19776/dumb-ways-to-die/",
+      "source": "D&AD"
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=IJNR2EpS0jw",
+      "title": "Dumb Ways to Die",
+      "source": "YouTube",
+      "type": "commercial"
+    }
+  ]
+}

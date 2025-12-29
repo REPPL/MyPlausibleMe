@@ -1,0 +1,51 @@
+{
+  "id": "arkanoid-ii-nes",
+  "title": "Arkanoid II",
+  "platform": "nes",
+  "myRank": null,
+  "year": 1987,
+  "summary": "A block-breaking game that introduces multiple paths and various power-ups to the traditional paddle-controlled formula.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/fa/ArkanoidII_Screenshot.png",
+      "type": "screenshot",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:ArkanoidII_Screenshot.png",
+        "licence": "fair-use"
+      },
+      "isPrimary": true,
+      "alt": "Arkanoid II gameplay screenshot"
+    }
+  ],
+  "myVerdict": "Played it thirty years later, one of the best two-player games",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Arkanoid:_Revenge_of_Doh",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/game/1088/",
+      "source": "MobyGames"
+    }
+  ],
+  "originalPlatform": "Arcade",
+  "originalReleaseDate": "1987",
+  "genres": [
+    "Action"
+  ],
+  "averageRating": {
+    "score": 4,
+    "sourceCount": 3,
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Arkanoid:_Revenge_of_Doh#Reception"
+  },
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=KKvCpbvpRzs",
+      "title": "Arkanoid II - NES Gameplay",
+      "source": "YouTube",
+      "type": "gameplay"
+    }
+  ]
+}

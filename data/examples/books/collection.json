@@ -1,0 +1,73 @@
+{
+  "$schema": "https://itemdeck.app/schemas/v2/collection.json",
+  "id": "bestof-books",
+  "name": "100 Best-Selling Books",
+  "description": "The 100 most successful books of all time by estimated sales.",
+  "schemaVersion": "v2",
+  "version": "1.0.0",
+  "entityTypes": {
+    "book": {
+      "primary": true,
+      "label": "Book",
+      "labelPlural": "Books",
+      "description": "A best-selling book.",
+      "fields": {
+        "title": { "type": "string", "required": true },
+        "author": { "type": "string", "ref": "author", "required": true },
+        "year": { "type": "number", "description": "Publication year", "required": true },
+        "genres": { "type": "array", "description": "Book genres", "required": true },
+        "pages": { "type": "number", "description": "Page count" },
+        "publisher": { "type": "string", "description": "Publisher name" },
+        "language": { "type": "string", "description": "Original language" },
+        "country": { "type": "string", "description": "Country of origin" },
+        "summary": { "type": "text", "description": "Book description", "required": true },
+        "sales": { "type": "object", "description": "Sales data", "required": true },
+        "ratings": { "type": "object", "description": "Aggregated ratings" },
+        "rank": { "type": "number", "description": "Sales ranking (1-100)", "required": true },
+        "editionCount": { "type": "number", "description": "Number of editions" },
+        "isbn": { "type": "string", "description": "ISBN number" },
+        "images": { "type": "images" },
+        "detailUrls": { "type": "detailUrls", "required": true }
+      }
+    },
+    "author": {
+      "label": "Author",
+      "labelPlural": "Authors",
+      "description": "A book author.",
+      "fields": {
+        "title": { "type": "string", "required": true },
+        "shortTitle": { "type": "string" },
+        "birthYear": { "type": "number", "description": "Year of birth" },
+        "deathYear": { "type": "number", "description": "Year of death" },
+        "nationality": { "type": "string", "description": "Nationality" },
+        "genres": { "type": "array", "description": "Primary genres" },
+        "summary": { "type": "text", "description": "Author biography", "required": true },
+        "images": { "type": "images" },
+        "detailUrls": { "type": "detailUrls" }
+      }
+    }
+  },
+  "relationships": {
+    "book.author": {
+      "target": "author",
+      "cardinality": "many-to-one",
+      "required": true
+    },
+    "book.rank": {
+      "type": "ordinal"
+    }
+  },
+  "display": {
+    "primaryEntity": "book",
+    "groupBy": "author",
+    "sortWithinGroup": ["rank", "asc"],
+    "card": {
+      "front": {
+        "title": "title",
+        "subtitle": "year",
+        "badge": "rank",
+        "footer": ["author.title", "sales.copiesSold"]
+      }
+    }
+  }
+}

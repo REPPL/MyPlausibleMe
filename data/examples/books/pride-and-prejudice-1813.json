@@ -1,0 +1,63 @@
+{
+  "id": "pride-and-prejudice-1813",
+  "title": "Pride and Prejudice",
+  "author": "jane-austen",
+  "year": 1813,
+  "genres": [
+    "Novel",
+    "Romance",
+    "Satire"
+  ],
+  "pages": 279,
+  "publisher": "T. Egerton",
+  "language": "English",
+  "country": "United Kingdom",
+  "summary": "The witty Elizabeth Bennet navigates society, family, and her evolving relationship with the proud Mr Darcy. One of the most beloved novels in English literature, consistently adapted for film and television.",
+  "sales": {
+    "copiesSold": 20000000,
+    "languages": 70,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Pride_and_Prejudice"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.28,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.17,
+      "max": 5,
+      "count": 368
+    }
+  },
+  "rank": 82,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/14348537-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Pride and Prejudice cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL66554W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL66554W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 4036,
+  "isbn": "1576463516",
+  "description": "Pride and Prejudice is an 1813 novel of manners written by Jane Austen. The novel follows the character development of Elizabeth Bennet, the dynamic protagonist of the book who learns about the repercussions of hasty judgments and comes to appreciate the difference between superficial goodness and actual goodness.\r\n\r\nMr. Bennet, owner of the Longbourn estate in Hertfordshire, has five daughters, but his property is entailed and can only be passed to a male heir. His wife also lacks an inheritanc...",
+  "_openlibrary_work_key": "/works/OL66554W"
+}

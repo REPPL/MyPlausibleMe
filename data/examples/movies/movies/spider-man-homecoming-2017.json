@@ -1,0 +1,73 @@
+{
+  "id": "spider-man-homecoming-2017",
+  "title": "Spider-Man: Homecoming",
+  "studio": "sony",
+  "year": 2017,
+  "director": "Jon Watts",
+  "cast": ["Tom Holland", "Michael Keaton", "Jon Favreau", "Zendaya", "Robert Downey Jr."],
+  "genres": ["Superhero", "Action", "Adventure"],
+  "runtime": 133,
+  "language": "English",
+  "country": "USA",
+  "summary": "Peter Parker balances his life as an ordinary high school student in Queens with his superhero alter-ego Spider-Man, and finds himself on the trail of a new menace prowling the skies of New York City. The first solo Spider-Man film in the MCU.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 880166924,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 334201140,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 545965784,
+      "currency": "USD"
+    },
+    "budget": 175000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Spider-Man:_Homecoming"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 7.4, "max": 10 },
+    "rottenTomatoes": { "critics": 92, "audience": 87 },
+    "metacritic": { "score": 73, "max": 100 }
+  },
+  "rank": 59,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/f9/Spider-Man_Homecoming_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Spider-Man: Homecoming movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Spider-Man_Homecoming_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=xrzXIaTt99U",
+      "title": "Spider-Man: Homecoming Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Spider-Man:_Homecoming",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt2250912/",
+      "source": "IMDB"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "gone-with-the-wind-1936",
+  "title": "Gone with the Wind",
+  "author": "margaret-mitchell",
+  "year": 1936,
+  "genres": [
+    "Historical fiction",
+    "Romance",
+    "Southern Gothic"
+  ],
+  "pages": 1037,
+  "publisher": "Macmillan Publishers",
+  "language": "English",
+  "country": "United States",
+  "summary": "Set in Georgia during the American Civil War and Reconstruction era, the novel follows Scarlett O'Hara and her romantic pursuit of Ashley Wilkes and relationship with Rhett Butler. Winner of the Pulitzer Prize and adapted into one of the most successful films ever made.",
+  "sales": {
+    "copiesSold": 30000000,
+    "languages": 40,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Gone_with_the_Wind_(novel)"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.32,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 3.65,
+      "max": 5,
+      "count": 49
+    }
+  },
+  "rank": 50,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/14817133-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Gone With the Wind cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL267933W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Gone_with_the_Wind_(novel)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL267933W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 244,
+  "isbn": "1520362951",
+  "description": "Margaret Mitchell's monumental epic of the South won a Pulitzer Prize, gave rise to the most popular motion picture of our time, and inspired a sequel that became the fastest selling novel of the century. It is one of the most popular books ever written: more than 28 million copies of the book have been sold in more than 37 countries. Today, more than 60 years after its initial publication, its achievements are unparalleled, and it remains the most revered American saga and the most beloved work...",
+  "_openlibrary_work_key": "/works/OL267933W"
+}

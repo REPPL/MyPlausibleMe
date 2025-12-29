@@ -1,0 +1,92 @@
+{
+  "id": "the-lord-of-the-rings-the-two-towers-2002",
+  "title": "The Lord of the Rings: The Two Towers",
+  "studio": "warner-bros",
+  "year": 2002,
+  "director": "Peter Jackson",
+  "cast": [
+    "Elijah Wood",
+    "Ian McKellen",
+    "Viggo Mortensen",
+    "Sean Astin",
+    "Andy Serkis"
+  ],
+  "genres": [
+    "Fantasy",
+    "Adventure",
+    "Drama"
+  ],
+  "runtime": 179,
+  "language": "English",
+  "country": "New Zealand",
+  "summary": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard. Andy Serkis's groundbreaking motion-capture performance as Gollum became iconic.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 951207510,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 342551365,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 608656145,
+      "currency": "USD"
+    },
+    "budget": 94000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Two_Towers"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 2,
+      "nominations": 6
+    }
+  },
+  "ratings": {
+    "imdb": {
+      "score": 8.8,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 95,
+      "audience": 95
+    },
+    "metacritic": {
+      "score": 87,
+      "max": 100
+    }
+  },
+  "rank": 66,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/a1/Lord_Rings_Two_Towers.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Lord of the Rings: The Two Towers movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Lord_of_the_Rings_-_The_Two_Towers_(2002).jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=LbfMDwc4azU",
+      "title": "The Lord of the Rings: The Two Towers Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Two_Towers",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0167261/",
+      "source": "IMDB"
+    }
+  ]
+}

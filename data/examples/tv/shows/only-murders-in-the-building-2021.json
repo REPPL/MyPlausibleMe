@@ -1,0 +1,44 @@
+{
+  "id": "only-murders-in-the-building-2021",
+  "title": "Only Murders in the Building",
+  "network": "hulu",
+  "year": 2021,
+  "endYear": null,
+  "seasons": 4,
+  "episodes": 40,
+  "genres": ["Comedy", "Mystery"],
+  "creators": ["Steve Martin", "John Hoffman"],
+  "cast": ["Steve Martin", "Martin Short", "Selena Gomez", "Nathan Lane", "Jane Lynch"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 35,
+  "summary": "Three strangers who share an obsession with true crime podcasts become involved in solving murders in their Upper West Side apartment building.",
+  "viewership": {
+    "source": "Hulu",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Only_Murders_in_the_Building"
+  },
+  "ratings": {
+    "imdb": { "score": 8.1, "max": 10 },
+    "rottenTomatoes": { "critics": 99, "audience": 86 }
+  },
+  "rank": 79,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/c8/Only_Murders_in_the_Building_Title.png",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Only Murders in the Building title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Only_Murders_in_the_Building_Title.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Only_Murders_in_the_Building",
+      "source": "Wikipedia"
+    }
+  ]
+}

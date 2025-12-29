@@ -1,0 +1,92 @@
+{
+  "id": "aquaman-2018",
+  "title": "Aquaman",
+  "studio": "warner-bros",
+  "year": 2018,
+  "director": "James Wan",
+  "cast": [
+    "Jason Momoa",
+    "Amber Heard",
+    "Willem Dafoe",
+    "Patrick Wilson",
+    "Nicole Kidman"
+  ],
+  "genres": [
+    "Superhero",
+    "Action",
+    "Adventure"
+  ],
+  "runtime": 143,
+  "language": "English",
+  "country": "USA",
+  "summary": "Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land. The film became DC's highest-grossing film ever, surpassing The Dark Knight Rises.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1148528393,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 335061807,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 813466586,
+      "currency": "USD"
+    },
+    "budget": 160000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Aquaman_(film)"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": {
+      "score": 6.8,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 65,
+      "audience": 74
+    },
+    "metacritic": {
+      "score": 55,
+      "max": 100
+    }
+  },
+  "rank": 29,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/ed/Aquaman_%28film%29_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Aquaman movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Aquaman_(film)_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=WDkg3h8PCVU",
+      "title": "Aquaman Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Aquaman_(film)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt1477834/",
+      "source": "IMDB"
+    }
+  ]
+}

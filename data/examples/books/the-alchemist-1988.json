@@ -1,0 +1,63 @@
+{
+  "id": "the-alchemist-1988",
+  "title": "The Alchemist",
+  "author": "paulo-coelho",
+  "year": 1988,
+  "genres": [
+    "Novel",
+    "Fantasy",
+    "Quest"
+  ],
+  "pages": 163,
+  "publisher": "HarperTorch",
+  "language": "Portuguese",
+  "country": "Brazil",
+  "summary": "A philosophical novel following Santiago, an Andalusian shepherd boy, on his journey to Egypt in search of treasure. A modern fable about following one's dreams and personal legend.",
+  "sales": {
+    "copiesSold": 65000000,
+    "languages": 80,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Alchemist_(novel)"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 3.92,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 3.8,
+      "max": 5,
+      "count": 426
+    }
+  },
+  "rank": 14,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/7414780-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "O Alquimista cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL796465W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Alchemist_(novel)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL796465W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 140,
+  "isbn": "9789700512471",
+  "description": "The Alchemist details the journey of a young Andalusian shepherd boy named Santiago. Santiago, believing a recurring dream to be prophetic, decides to travel to the pyramids of Egypt to find treasure. On the way, he encounters love, danger, opportunity and disaster. One of the significant characters that he meets is an old king named Melchizedek who tells him that \"When you want something, all the universe conspires in helping you to achieve it.\" This is the core philosophy and motif of the book...",
+  "_openlibrary_work_key": "/works/OL796465W"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "hitman-3-2021",
+  "title": "Hitman 3 (World of Assassination)",
+  "publisher": "io-interactive",
+  "developer": "IO Interactive",
+  "year": 2021,
+  "platforms": [
+    "PC",
+    "PlayStation 4",
+    "PlayStation 5",
+    "Xbox One",
+    "Xbox Series X/S",
+    "Nintendo Switch",
+    "Stadia"
+  ],
+  "genres": [
+    "Stealth",
+    "Action"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "summary": "Agent 47's final mission in the World of Assassination trilogy. Features sandbox levels with countless assassination methods.",
+  "sales": {
+    "unitsSold": 6000000,
+    "source": "Wikipedia/IO Interactive",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hitman_3"
+  },
+  "ratings": {
+    "metacritic": {
+      "score": 87,
+      "max": 100
+    }
+  },
+  "rank": 78,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/4b/Hitman_3_Packart.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Hitman 3 cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Hitman_3_Packart.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Hitman_3",
+      "source": "Wikipedia"
+    }
+  ]
+}

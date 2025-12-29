@@ -1,0 +1,39 @@
+{
+  "id": "horizon-zero-dawn-2017",
+  "title": "Horizon Zero Dawn",
+  "publisher": "sony",
+  "developer": "Guerrilla Games",
+  "year": 2017,
+  "platforms": ["PlayStation 4", "PlayStation 5", "PC"],
+  "genres": ["Action RPG", "Open world"],
+  "modes": ["Single-player"],
+  "summary": "Aloy hunts robotic creatures in a post-apocalyptic world to uncover her past. Features a unique primitive-meets-futuristic setting and combat system.",
+  "sales": {
+    "unitsSold": 24000000,
+    "source": "Wikipedia/Sony",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Horizon_Zero_Dawn"
+  },
+  "ratings": {
+    "metacritic": { "score": 89, "max": 100 }
+  },
+  "rank": 34,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/93/Horizon_Zero_Dawn.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Horizon Zero Dawn cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Horizon_Zero_Dawn.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Horizon_Zero_Dawn",
+      "source": "Wikipedia"
+    }
+  ]
+}

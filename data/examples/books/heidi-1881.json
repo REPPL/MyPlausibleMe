@@ -1,0 +1,62 @@
+{
+  "id": "heidi-1881",
+  "title": "Heidi",
+  "author": "johanna-spyri",
+  "year": 1881,
+  "genres": [
+    "Children's literature",
+    "Novel"
+  ],
+  "pages": 256,
+  "publisher": "Gotha: F.A. Perthes",
+  "language": "German",
+  "country": "Switzerland",
+  "summary": "The beloved tale of an orphan girl who goes to live with her grandfather in the Swiss Alps. One of the best-selling books ever written, it has been adapted into numerous films and television series.",
+  "sales": {
+    "copiesSold": 50000000,
+    "languages": 50,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Heidi"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 3.97,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 3.96,
+      "max": 5,
+      "count": 51
+    }
+  },
+  "rank": 23,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/2668686-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Heidi cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL1455042W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Heidi",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL1455042W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 180,
+  "isbn": "0756612764",
+  "description": "***The famous Swiss classic about Heidi, a five-year-old orphan girl*** who goes to live with her grandfather, and his goats, in an alm (Alpine pasture)...up the Alps. **One of the most loved classics ...both by children and adults, alike.**\r\n\r\n***Little orphan Heidi goes to live high in the Alps with her gruff grandfather and brings happiness to all who know her on the mountain. When Heidi goes to Frankfurt to work in a wealthy household, she dreams of returning to the mountains and meadows, he...",
+  "_openlibrary_work_key": "/works/OL1455042W"
+}

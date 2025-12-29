@@ -1,0 +1,39 @@
+{
+  "id": "baldurs-gate-3-2023",
+  "title": "Baldur's Gate 3",
+  "publisher": "larian-studios",
+  "developer": "Larian Studios",
+  "year": 2023,
+  "platforms": ["PC", "PlayStation 5", "Xbox Series X/S", "Mac"],
+  "genres": ["RPG", "Turn-based tactics"],
+  "modes": ["Single-player", "Multiplayer"],
+  "summary": "A party-based RPG set in the Dungeons & Dragons Forgotten Realms universe. Won Game of the Year 2023 and is considered one of the greatest CRPGs ever made.",
+  "sales": {
+    "unitsSold": 15000000,
+    "source": "Wikipedia/Larian Studios",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Baldur%27s_Gate_3"
+  },
+  "ratings": {
+    "metacritic": { "score": 96, "max": 100 }
+  },
+  "rank": 25,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/12/Baldur%27s_Gate_3_cover_art.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Baldur's Gate 3 cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Baldur%27s_Gate_3_cover_art.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Baldur%27s_Gate_3",
+      "source": "Wikipedia"
+    }
+  ]
+}

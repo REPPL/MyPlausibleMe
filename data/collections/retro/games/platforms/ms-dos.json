@@ -1,0 +1,57 @@
+{
+  "id": "ms-dos",
+  "title": "MS-DOS",
+  "shortTitle": "DOS",
+  "year": 1981,
+  "manufacturer": "Microsoft",
+  "generation": "PC Era",
+  "mediaFormat": "Floppy / CD-ROM",
+  "unitsSold": "N/A",
+  "bestSellingGame": "Doom",
+  "summary": "A dominant operating system for early IBM-compatible PCs, eventually becoming a major platform for complex strategy games.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/MS-DOS_logo.svg/400px-MS-DOS_logo.svg.png",
+      "type": "logo",
+      "isPrimary": false,
+      "alt": "MS-DOS logo",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:MS-DOS_logo.svg",
+        "licence": "public-domain"
+      }
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/IBM_PC_5150.jpg",
+      "type": "hardware",
+      "isPrimary": true,
+      "alt": "IBM Personal Computer 5150",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:IBM_PC_5150.jpg",
+        "licence": "cc-by-sa-3.0"
+      }
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/MS-Dos_screenshot.png",
+      "type": "screenshot",
+      "isPrimary": false,
+      "alt": "MS-DOS command line screenshot",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:MS-Dos_screenshot.png",
+        "licence": "cc-by-sa-4.0"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/DOS",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/platform/dos/",
+      "source": "MobyGames"
+    }
+  ]
+}

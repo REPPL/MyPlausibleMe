@@ -1,0 +1,63 @@
+{
+  "id": "the-adventures-of-sherlock-holmes-1892",
+  "title": "The Adventures of Sherlock Holmes",
+  "author": "arthur-conan-doyle",
+  "year": 1892,
+  "genres": [
+    "Mystery",
+    "Detective fiction",
+    "Short stories"
+  ],
+  "pages": 307,
+  "publisher": "George Newnes",
+  "language": "English",
+  "country": "United Kingdom",
+  "summary": "The first collection of Sherlock Holmes short stories, featuring twelve cases solved by the world's most famous detective. Includes classics like 'A Scandal in Bohemia' and 'The Red-Headed League'.",
+  "sales": {
+    "copiesSold": 10000000,
+    "languages": 60,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Adventures_of_Sherlock_Holmes"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.26,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.14,
+      "max": 5,
+      "count": 167
+    }
+  },
+  "rank": 95,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/6717853-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "The Adventures of Sherlock Holmes [12 stories] cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL262421W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Sherlock_Holmes",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL262421W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 1132,
+  "isbn": "1694715329",
+  "description": "The Adventures of Sherlock Holmes is a collection of twelve short stories by Arthur Conan Doyle, first published on 14 October 1892. It contains the earliest short stories featuring the consulting detective Sherlock Holmes, which had been published in twelve monthly issues of The Strand Magazine from July 1891 to June 1892. The stories are collected in the same sequence, which is not supported by any fictional chronology. The only characters common to all twelve are Holmes and Dr. Watson and all...",
+  "_openlibrary_work_key": "/works/OL262421W"
+}

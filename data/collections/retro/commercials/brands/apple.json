@@ -1,0 +1,18 @@
+{
+  "id": "apple",
+  "title": "Apple",
+  "summary": "American technology company known for revolutionary products and equally revolutionary advertising, from the 1984 Super Bowl ad to Think Different.",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
+      "source": "Wikipedia"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+      "type": "logo",
+      "alt": "Apple logo"
+    }
+  ]
+}

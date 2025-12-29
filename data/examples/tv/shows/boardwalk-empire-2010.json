@@ -1,0 +1,46 @@
+{
+  "id": "boardwalk-empire-2010",
+  "title": "Boardwalk Empire",
+  "network": "hbo",
+  "year": 2010,
+  "endYear": 2014,
+  "seasons": 5,
+  "episodes": 56,
+  "genres": ["Crime", "Drama", "Period drama"],
+  "creators": ["Terence Winter"],
+  "cast": ["Steve Buscemi", "Kelly Macdonald", "Michael Shannon", "Shea Whigham", "Michael Stuhlbarg"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 55,
+  "summary": "Atlantic City during Prohibition becomes a haven for bootleggers and politicians corrupted by greed. Produced by Martin Scorsese and based on the book by Nelson Johnson.",
+  "viewership": {
+    "peakViewers": 4400000,
+    "averageViewers": 2700000,
+    "source": "Wikipedia/HBO",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Boardwalk_Empire"
+  },
+  "ratings": {
+    "imdb": { "score": 8.5, "max": 10 },
+    "rottenTomatoes": { "critics": 92, "audience": 87 }
+  },
+  "rank": 96,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/3e/Boardwalk_Empire_title_card.png",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Boardwalk Empire title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Boardwalk_Empire_title_card.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Boardwalk_Empire",
+      "source": "Wikipedia"
+    }
+  ]
+}

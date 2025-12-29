@@ -1,0 +1,26 @@
+{
+  "id": "nike-air-revolution",
+  "title": "Air Revolution",
+  "brand": "nike",
+  "year": 1987,
+  "personalRank": 4,
+  "agency": "Wieden+Kennedy",
+  "director": "Paula Greif & Peter Kagan",
+  "music": "The Beatles - Revolution",
+  "duration": 60,
+  "summary": "The first commercial ever to use an original Beatles recording. Nike paid $500,000 to use 'Revolution' for their Air shoes campaign. Shot in grainy black-and-white Super 8 style, featuring athletes including Michael Jordan and John McEnroe. The controversial ad sparked a lawsuit from Apple Records but changed advertising forever.",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Revolution_(Beatles_song)",
+      "source": "Wikipedia"
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=tyuMPp-P9To",
+      "title": "Nike Air Revolution",
+      "source": "YouTube",
+      "type": "commercial"
+    }
+  ]
+}

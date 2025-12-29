@@ -1,0 +1,97 @@
+{
+  "id": "dua-lipa-dont-start-now",
+  "title": "Don't Start Now",
+  "artist": "dua-lipa",
+  "year": 2019,
+  "album": "Future Nostalgia",
+  "writers": [
+    "Dua Lipa",
+    "Caroline Ailin",
+    "Ian Kirkpatrick",
+    "Emily Warren"
+  ],
+  "producers": [
+    "Ian Kirkpatrick"
+  ],
+  "genres": [
+    "Disco-pop",
+    "Nu-disco"
+  ],
+  "duration": 183,
+  "label": "Warner Records",
+  "summary": "A disco-pop anthem about moving on from a past relationship that launched the Future Nostalgia era. It peaked at number two in the US and became one of the most-streamed songs of 2020.",
+  "sales": {
+    "totalUnits": 9000000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Don%27t_Start_Now"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 2,
+      "chart": "Billboard Hot 100",
+      "year": 2020
+    },
+    "UK": {
+      "peak": 2,
+      "chart": "UK Singles Chart",
+      "year": 2020
+    },
+    "Australia": {
+      "peak": 2,
+      "chart": "ARIA Charts",
+      "year": 2020
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "5x Platinum",
+      "units": 5000000
+    },
+    {
+      "region": "UK",
+      "certification": "3x Platinum",
+      "units": 1800000
+    }
+  ],
+  "rank": 56,
+  "images": [
+    {
+      "url": "https://coverartarchive.org/release/0e07e0d9-f716-4739-8df8-6ddc0f2fbe34/25806518840-500.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Album cover",
+      "attribution": {
+        "source": "Cover Art Archive",
+        "licence": "CC BY-NC-SA 3.0",
+        "licenceUrl": "https://wiki.musicbrainz.org/Cover_Art_Archive",
+        "note": "Cover art copyrighted by respective owners. Non-commercial use only.",
+        "sourceUrl": "https://musicbrainz.org/release/0e07e0d9-f716-4739-8df8-6ddc0f2fbe34"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=oygrmJFKYZY",
+      "title": "Dua Lipa - Don't Start Now (Official Music Video)",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Don%27t_Start_Now",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/bd53c333-f1bd-465b-81ae-3c1f2ff28fa3",
+      "source": "MusicBrainz"
+    },
+    {
+      "url": "https://musicbrainz.org/release/0e07e0d9-f716-4739-8df8-6ddc0f2fbe34",
+      "source": "MusicBrainz (Release)"
+    }
+  ],
+  "_musicbrainz_recording_id": "bd53c333-f1bd-465b-81ae-3c1f2ff28fa3",
+  "_musicbrainz_release_id": "0e07e0d9-f716-4739-8df8-6ddc0f2fbe34"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "super-mario-odyssey-2017",
+  "title": "Super Mario Odyssey",
+  "publisher": "nintendo",
+  "developer": "Nintendo EPD",
+  "year": 2017,
+  "platforms": ["Nintendo Switch"],
+  "genres": ["Platformer", "Action-adventure"],
+  "modes": ["Single-player", "Multiplayer"],
+  "summary": "Mario embarks on a globe-trotting adventure with his new ally Cappy to rescue Princess Peach from Bowser. Features open sandbox-style gameplay.",
+  "sales": {
+    "unitsSold": 27660000,
+    "source": "Wikipedia/Nintendo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Super_Mario_Odyssey"
+  },
+  "ratings": {
+    "metacritic": { "score": 97, "max": 100 }
+  },
+  "rank": 28,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/8d/Super_Mario_Odyssey.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Super Mario Odyssey cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Super_Mario_Odyssey.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Super_Mario_Odyssey",
+      "source": "Wikipedia"
+    }
+  ]
+}

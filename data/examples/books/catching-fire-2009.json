@@ -1,0 +1,64 @@
+{
+  "id": "catching-fire-2009",
+  "title": "Catching Fire",
+  "author": "suzanne-collins",
+  "year": 2009,
+  "genres": [
+    "Young adult",
+    "Dystopian fiction",
+    "Science fiction"
+  ],
+  "pages": 391,
+  "publisher": "Scholastic Press",
+  "language": "English",
+  "country": "United States",
+  "series": "The Hunger Games",
+  "summary": "Katniss and Peeta become targets of the Capitol after their unprecedented dual victory sparks rebellion. The second book in The Hunger Games trilogy, it debuted at number one on multiple bestseller lists.",
+  "sales": {
+    "copiesSold": 19000000,
+    "languages": 51,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Catching_Fire"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.29,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.11,
+      "max": 5,
+      "count": 269
+    }
+  },
+  "rank": 62,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/12646539-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Catching Fire cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL5735360W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Catching_Fire",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL5735360W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 103,
+  "isbn": "9780545227247",
+  "description": "Against all odds, Katniss Everdeen has won the Hunger Games. She and fellow District 12 tribute Peeta Mellark are miraculously still alive. Katniss should be relieved, happy even. After all, she has returned to her family and her longtime friend, Gale. Yet nothing is the way Katniss wishes it to be. Gale holds her at an icy distance. Peeta has turned his back on her completely. And there are whispers of a rebellion against the Capitol—a rebellion that Katniss and Peeta may have helped create. \r\n...",
+  "_openlibrary_work_key": "/works/OL5735360W"
+}

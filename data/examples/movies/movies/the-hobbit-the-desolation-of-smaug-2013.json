@@ -1,0 +1,73 @@
+{
+  "id": "the-hobbit-the-desolation-of-smaug-2013",
+  "title": "The Hobbit: The Desolation of Smaug",
+  "studio": "warner-bros",
+  "year": 2013,
+  "director": "Peter Jackson",
+  "cast": ["Martin Freeman", "Ian McKellen", "Richard Armitage", "Benedict Cumberbatch", "Orlando Bloom"],
+  "genres": ["Fantasy", "Adventure", "Action"],
+  "runtime": 161,
+  "language": "English",
+  "country": "New Zealand",
+  "summary": "The dwarves, along with Bilbo Baggins and Gandalf the Grey, continue their quest to reclaim Erebor, their homeland, from Smaug. Bilbo Baggins is in possession of a mysterious and magical ring.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 959027992,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 258366855,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 700661137,
+      "currency": "USD"
+    },
+    "budget": 225000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Hobbit:_The_Desolation_of_Smaug"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 3
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 7.8, "max": 10 },
+    "rottenTomatoes": { "critics": 74, "audience": 84 },
+    "metacritic": { "score": 66, "max": 100 }
+  },
+  "rank": 54,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/4f/The_Hobbit_-_The_Desolation_of_Smaug_theatrical_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Hobbit: The Desolation of Smaug movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:The_Hobbit_-_The_Desolation_of_Smaug_theatrical_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=BPHjjwi9JLY",
+      "title": "The Hobbit: The Desolation of Smaug Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Hobbit:_The_Desolation_of_Smaug",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt1170358/",
+      "source": "IMDB"
+    }
+  ]
+}

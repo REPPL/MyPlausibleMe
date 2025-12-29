@@ -1,0 +1,46 @@
+{
+  "id": "its-always-sunny-in-philadelphia-2005",
+  "title": "It's Always Sunny in Philadelphia",
+  "network": "fx",
+  "year": 2005,
+  "endYear": null,
+  "seasons": 17,
+  "episodes": 178,
+  "genres": ["Comedy", "Sitcom", "Dark comedy"],
+  "creators": ["Rob McElhenney", "Glenn Howerton"],
+  "cast": ["Charlie Day", "Glenn Howerton", "Rob McElhenney", "Kaitlin Olson", "Danny DeVito"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 22,
+  "summary": "Five narcissistic friends own and operate a bar in Philadelphia and scheme to get through life. The longest-running live-action comedy series in American television history.",
+  "viewership": {
+    "peakViewers": 1800000,
+    "averageViewers": 1100000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/It%27s_Always_Sunny_in_Philadelphia"
+  },
+  "ratings": {
+    "imdb": { "score": 8.8, "max": 10 },
+    "rottenTomatoes": { "critics": 93, "audience": 91 }
+  },
+  "rank": 85,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/7/7d/It%27s_Always_Sunny_in_Philadelphia_Title_Card.png",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "It's Always Sunny in Philadelphia title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:It%27s_Always_Sunny_in_Philadelphia_Title_Card.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/It%27s_Always_Sunny_in_Philadelphia",
+      "source": "Wikipedia"
+    }
+  ]
+}

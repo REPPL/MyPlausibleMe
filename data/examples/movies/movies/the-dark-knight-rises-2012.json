@@ -1,0 +1,73 @@
+{
+  "id": "the-dark-knight-rises-2012",
+  "title": "The Dark Knight Rises",
+  "studio": "warner-bros",
+  "year": 2012,
+  "director": "Christopher Nolan",
+  "cast": ["Christian Bale", "Tom Hardy", "Anne Hathaway", "Gary Oldman", "Michael Caine"],
+  "genres": ["Superhero", "Action", "Drama"],
+  "runtime": 164,
+  "language": "English",
+  "country": "USA",
+  "summary": "Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City from the brutal guerrilla terrorist Bane. The epic conclusion to Nolan's Dark Knight trilogy.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1081169825,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 448139099,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 633030726,
+      "currency": "USD"
+    },
+    "budget": 250000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Dark_Knight_Rises"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 8.4, "max": 10 },
+    "rottenTomatoes": { "critics": 87, "audience": 90 },
+    "metacritic": { "score": 78, "max": 100 }
+  },
+  "rank": 36,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/83/Dark_knight_rises_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Dark Knight Rises movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Dark_knight_rises_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=g8evyE9TuYk",
+      "title": "The Dark Knight Rises Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Dark_Knight_Rises",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt1345836/",
+      "source": "IMDB"
+    }
+  ]
+}

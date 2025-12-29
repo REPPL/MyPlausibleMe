@@ -1,0 +1,39 @@
+{
+  "id": "wii-sports-2006",
+  "title": "Wii Sports",
+  "publisher": "nintendo",
+  "developer": "Nintendo EAD",
+  "year": 2006,
+  "platforms": ["Wii"],
+  "genres": ["Sports", "Simulation"],
+  "modes": ["Single-player", "Multiplayer"],
+  "summary": "A sports simulation video game bundled with the Wii console. Features five sports: tennis, baseball, bowling, golf, and boxing using motion controls.",
+  "sales": {
+    "unitsSold": 82900000,
+    "source": "Wikipedia/Nintendo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Wii_Sports"
+  },
+  "ratings": {
+    "metacritic": { "score": 76, "max": 100 }
+  },
+  "rank": 4,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/e0/Wii_Sports_Europe.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Wii Sports cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Wii_Sports_Europe.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Wii_Sports",
+      "source": "Wikipedia"
+    }
+  ]
+}

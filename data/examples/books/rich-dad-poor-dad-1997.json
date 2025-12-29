@@ -1,0 +1,63 @@
+{
+  "id": "rich-dad-poor-dad-1997",
+  "title": "Rich Dad Poor Dad",
+  "author": "robert-kiyosaki",
+  "year": 1997,
+  "genres": [
+    "Personal finance",
+    "Self-help",
+    "Non-fiction"
+  ],
+  "pages": 207,
+  "publisher": "Warner Books",
+  "language": "English",
+  "country": "United States",
+  "summary": "Financial lessons learned from two father figures—one rich, one poor—advocating financial literacy and wealth-building through assets and investing. One of the top-selling personal finance books of all time.",
+  "sales": {
+    "copiesSold": 40000000,
+    "languages": 51,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Rich_Dad_Poor_Dad"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.12,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.0,
+      "max": 5,
+      "count": 1076
+    }
+  },
+  "rank": 79,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/8315603-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Rich Dad, Poor Dad cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL2010879W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Rich_Dad_Poor_Dad",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL2010879W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 115,
+  "isbn": "9789879702451",
+  "description": "April of 2022 marks a 25-year milestone for the personal finance classic Rich Dad Poor Dad that still ranks as the #1 Personal Finance book of all time. And although 25 years have passed since Rich Dad Poor Dad was first published, readers will find that very little in the book itself has changed — and for good reason. While so much in our world is changing a high speed, the lessons about money and the principles of Rich Dad Poor Dad haven’t changed. Today, as money continues to play a key role ...",
+  "_openlibrary_work_key": "/works/OL2010879W"
+}

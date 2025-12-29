@@ -1,0 +1,39 @@
+{
+  "id": "resident-evil-2-remake-2019",
+  "title": "Resident Evil 2 (Remake)",
+  "publisher": "capcom",
+  "developer": "Capcom",
+  "year": 2019,
+  "platforms": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "Nintendo Switch"],
+  "genres": ["Survival horror", "Third-person shooter"],
+  "modes": ["Single-player"],
+  "summary": "A ground-up remake of the 1998 classic. Leon Kennedy and Claire Redfield survive a zombie outbreak in Raccoon City with modernised gameplay and graphics.",
+  "sales": {
+    "unitsSold": 13000000,
+    "source": "Wikipedia/Capcom",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Resident_Evil_2_(2019_video_game)"
+  },
+  "ratings": {
+    "metacritic": { "score": 91, "max": 100 }
+  },
+  "rank": 50,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/fd/Resident_Evil_2_Remake.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Resident Evil 2 Remake cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Resident_Evil_2_Remake.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Resident_Evil_2_(2019_video_game)",
+      "source": "Wikipedia"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "twin-peaks-1990",
+  "title": "Twin Peaks",
+  "network": "abc",
+  "year": 1990,
+  "endYear": 2017,
+  "seasons": 3,
+  "episodes": 48,
+  "genres": ["Mystery", "Drama", "Surrealism"],
+  "creators": ["David Lynch", "Mark Frost"],
+  "cast": ["Kyle MacLachlan", "Michael Ontkean", "Mädchen Amick", "Sherilyn Fenn", "Sheryl Lee"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 47,
+  "summary": "FBI agent Dale Cooper investigates the murder of homecoming queen Laura Palmer in a small Washington town. Pioneered prestige television and influenced countless shows.",
+  "viewership": {
+    "peakViewers": 34600000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Twin_Peaks"
+  },
+  "ratings": {
+    "imdb": { "score": 8.8, "max": 10 },
+    "rottenTomatoes": { "critics": 92, "audience": 93 }
+  },
+  "rank": 74,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/5a/Twin_Peaks_%281990_TV_series%29_title_card.png",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Twin Peaks title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Twin_Peaks_(1990_TV_series)_title_card.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Twin_Peaks",
+      "source": "Wikipedia"
+    }
+  ]
+}

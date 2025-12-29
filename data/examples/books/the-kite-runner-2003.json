@@ -1,0 +1,63 @@
+{
+  "id": "the-kite-runner-2003",
+  "title": "The Kite Runner",
+  "author": "khaled-hosseini",
+  "year": 2003,
+  "genres": [
+    "Literary fiction",
+    "Historical fiction",
+    "Drama"
+  ],
+  "pages": 371,
+  "publisher": "Riverhead Books",
+  "language": "English",
+  "country": "United States",
+  "summary": "The story of Amir, an Afghan-American writer, and his childhood friend Hassan set against the backdrop of tumultuous events in Afghanistan from the fall of the monarchy through the Taliban era. A New York Times bestseller for over two years.",
+  "sales": {
+    "copiesSold": 31000000,
+    "languages": 70,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Kite_Runner"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.34,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.09,
+      "max": 5,
+      "count": 123
+    }
+  },
+  "rank": 44,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/14846827-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "The Kite Runner cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL5781992W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Kite_Runner",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL5781992W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 121,
+  "isbn": "9865829800",
+  "description": "The unforgettable, heartbreaking story of the unlikely friendship between a wealthy boy and the son of his father’s servant, The Kite Runner is a beautifully crafted novel set in a country that is in the process of being destroyed. It is about the power of reading, the price of betrayal, and the possibility of redemption; and an exploration of the power of fathers over sons—their love, their sacrifices, their lies.\r\n\r\nA sweeping story of family, love, and friendship told against the devastating ...",
+  "_openlibrary_work_key": "/works/OL5781992W"
+}

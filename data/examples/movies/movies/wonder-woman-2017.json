@@ -1,0 +1,73 @@
+{
+  "id": "wonder-woman-2017",
+  "title": "Wonder Woman",
+  "studio": "warner-bros",
+  "year": 2017,
+  "director": "Patty Jenkins",
+  "cast": ["Gal Gadot", "Chris Pine", "Robin Wright", "Danny Huston", "David Thewlis"],
+  "genres": ["Superhero", "Action", "Adventure"],
+  "runtime": 141,
+  "language": "English",
+  "country": "USA",
+  "summary": "When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny. The first major female-led superhero film became a critical and commercial triumph.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 822854286,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 412845172,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 410009114,
+      "currency": "USD"
+    },
+    "budget": 120000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Wonder_Woman_(2017_film)"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 7.4, "max": 10 },
+    "rottenTomatoes": { "critics": 93, "audience": 83 },
+    "metacritic": { "score": 76, "max": 100 }
+  },
+  "rank": 69,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/ed/Wonder_Woman_%282017_film%29.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Wonder Woman movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Wonder_Woman_(2017_film).jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=1Q8fG0TtVAY",
+      "title": "Wonder Woman Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Wonder_Woman_(2017_film)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0451279/",
+      "source": "IMDB"
+    }
+  ]
+}

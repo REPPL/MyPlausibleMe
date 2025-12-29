@@ -1,0 +1,73 @@
+{
+  "id": "doctor-strange-in-the-multiverse-of-madness-2022",
+  "title": "Doctor Strange in the Multiverse of Madness",
+  "studio": "disney",
+  "year": 2022,
+  "director": "Sam Raimi",
+  "cast": ["Benedict Cumberbatch", "Elizabeth Olsen", "Chiwetel Ejiofor", "Benedict Wong", "Xochitl Gomez"],
+  "genres": ["Superhero", "Fantasy", "Horror"],
+  "runtime": 126,
+  "language": "English",
+  "country": "USA",
+  "summary": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary. Raimi brought his horror sensibilities to the MCU.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 955775804,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 411331607,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 544444197,
+      "currency": "USD"
+    },
+    "budget": 200000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Doctor_Strange_in_the_Multiverse_of_Madness"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 6.9, "max": 10 },
+    "rottenTomatoes": { "critics": 74, "audience": 85 },
+    "metacritic": { "score": 60, "max": 100 }
+  },
+  "rank": 77,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/17/Doctor_Strange_in_the_Multiverse_of_Madness_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Doctor Strange in the Multiverse of Madness movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Doctor_Strange_in_the_Multiverse_of_Madness_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=aWzlQ2N6qqg",
+      "title": "Doctor Strange in the Multiverse of Madness Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Doctor_Strange_in_the_Multiverse_of_Madness",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt9419884/",
+      "source": "IMDB"
+    }
+  ]
+}

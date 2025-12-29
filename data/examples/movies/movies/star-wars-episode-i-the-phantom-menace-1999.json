@@ -1,0 +1,73 @@
+{
+  "id": "star-wars-episode-i-the-phantom-menace-1999",
+  "title": "Star Wars: Episode I – The Phantom Menace",
+  "studio": "20th-century",
+  "year": 1999,
+  "director": "George Lucas",
+  "cast": ["Liam Neeson", "Ewan McGregor", "Natalie Portman", "Jake Lloyd", "Ian McDiarmid"],
+  "genres": ["Science fiction", "Action", "Adventure"],
+  "runtime": 136,
+  "language": "English",
+  "country": "USA",
+  "summary": "Two Jedi escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long dormant Sith resurface to claim their original glory. The highly anticipated first prequel became one of the highest-grossing films of the 1990s.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1027082707,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 474544677,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 552538030,
+      "currency": "USD"
+    },
+    "budget": 115000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Star_Wars:_Episode_I_%E2%80%93_The_Phantom_Menace"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 3
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 6.5, "max": 10 },
+    "rottenTomatoes": { "critics": 51, "audience": 59 },
+    "metacritic": { "score": 51, "max": 100 }
+  },
+  "rank": 46,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/40/Star_Wars_Phantom_Menace_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Star Wars: Episode I – The Phantom Menace movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Star_Wars_Phantom_Menace_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=bD7bpG-zDJQ",
+      "title": "Star Wars: Episode I – The Phantom Menace Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Star_Wars:_Episode_I_%E2%80%93_The_Phantom_Menace",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0120915/",
+      "source": "IMDB"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "a-tale-of-two-cities-1859",
+  "title": "A Tale of Two Cities",
+  "author": "charles-dickens",
+  "year": 1859,
+  "genres": [
+    "Historical fiction",
+    "Novel"
+  ],
+  "pages": 341,
+  "publisher": "Chapman & Hall",
+  "language": "English",
+  "country": "United Kingdom",
+  "summary": "Set before and during the French Revolution, this historical novel explores themes of resurrection and transformation through the intertwined fates of characters in London and Paris.",
+  "sales": {
+    "copiesSold": 200000000,
+    "languages": 70,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/A_Tale_of_Two_Cities"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 3.87,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 3.78,
+      "max": 5,
+      "count": 194
+    }
+  },
+  "rank": 2,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/13301713-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "A Tale of Two Cities cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL8193465W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/A_Tale_of_Two_Cities",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL8193465W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 2059,
+  "isbn": "9780217807654",
+  "description": "A Tale of Two Cities is a historical novel published in 1859 by Charles Dickens, set in London and Paris before and during the French Revolution. The novel tells the story of the French Doctor Manette, his 18-year-long imprisonment in the Bastille in Paris, and his release to live in London with his daughter Lucie whom he had never met. The story is set against the conditions that led up to the French Revolution and the Reign of Terror. In the Introduction to the Encyclopedia of Adventure Fictio...",
+  "_openlibrary_work_key": "/works/OL8193465W"
+}

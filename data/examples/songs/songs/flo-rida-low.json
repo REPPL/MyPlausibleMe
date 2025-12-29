@@ -1,0 +1,99 @@
+{
+  "id": "flo-rida-low",
+  "title": "Low",
+  "artist": "flo-rida",
+  "year": 2007,
+  "album": "Mail on Sunday",
+  "writers": [
+    "Flo Rida",
+    "T-Pain",
+    "Kofi Blackman",
+    "Tramar Dillard"
+  ],
+  "producers": [
+    "T-Pain"
+  ],
+  "genres": [
+    "Hip hop",
+    "Crunk",
+    "Electro hop"
+  ],
+  "duration": 231,
+  "label": "Poe Boy Records",
+  "summary": "Featuring T-Pain, this club anthem about dancing became a massive crossover hit. It spent 10 weeks at number one and was featured in the film Step Up 2: The Streets.",
+  "sales": {
+    "totalUnits": 8000000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Low_(Flo_Rida_song)"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 1,
+      "weeks": 10,
+      "chart": "Billboard Hot 100",
+      "year": 2008
+    },
+    "UK": {
+      "peak": 2,
+      "chart": "UK Singles Chart",
+      "year": 2008
+    },
+    "Australia": {
+      "peak": 1,
+      "chart": "ARIA Charts",
+      "year": 2008
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "6x Platinum",
+      "units": 6000000
+    },
+    {
+      "region": "UK",
+      "certification": "Platinum",
+      "units": 600000
+    }
+  ],
+  "rank": 64,
+  "images": [
+    {
+      "url": "https://coverartarchive.org/release/fd0bd5db-abaf-4aef-bb91-1112bb807886/6514480948-500.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Album cover",
+      "attribution": {
+        "source": "Cover Art Archive",
+        "licence": "CC BY-NC-SA 3.0",
+        "licenceUrl": "https://wiki.musicbrainz.org/Cover_Art_Archive",
+        "note": "Cover art copyrighted by respective owners. Non-commercial use only.",
+        "sourceUrl": "https://musicbrainz.org/release/fd0bd5db-abaf-4aef-bb91-1112bb807886"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=U2waT9TxPU0",
+      "title": "Flo Rida - Low ft. T-Pain (Official Video)",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Low_(Flo_Rida_song)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/afb56ca1-ca25-4986-936e-05e512312ddd",
+      "source": "MusicBrainz"
+    },
+    {
+      "url": "https://musicbrainz.org/release/fd0bd5db-abaf-4aef-bb91-1112bb807886",
+      "source": "MusicBrainz (Release)"
+    }
+  ],
+  "_musicbrainz_recording_id": "afb56ca1-ca25-4986-936e-05e512312ddd",
+  "_musicbrainz_release_id": "fd0bd5db-abaf-4aef-bb91-1112bb807886"
+}

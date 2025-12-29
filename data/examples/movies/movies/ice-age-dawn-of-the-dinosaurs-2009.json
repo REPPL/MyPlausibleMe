@@ -1,0 +1,73 @@
+{
+  "id": "ice-age-dawn-of-the-dinosaurs-2009",
+  "title": "Ice Age: Dawn of the Dinosaurs",
+  "studio": "20th-century",
+  "year": 2009,
+  "director": "Carlos Saldanha, Mike Thurmeier",
+  "cast": ["Ray Romano", "John Leguizamo", "Denis Leary", "Queen Latifah", "Simon Pegg"],
+  "genres": ["Animation", "Comedy", "Adventure"],
+  "runtime": 94,
+  "language": "English",
+  "country": "USA",
+  "summary": "When Sid's attempt to adopt three dinosaur eggs gets him abducted, Diego and Manny must rescue their sloth friend from an underground lost world of dinosaurs. The third Ice Age instalment introduced the popular character Buck.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 886686817,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 196573705,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 690113112,
+      "currency": "USD"
+    },
+    "budget": 90000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ice_Age:_Dawn_of_the_Dinosaurs"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 6.9, "max": 10 },
+    "rottenTomatoes": { "critics": 45, "audience": 70 },
+    "metacritic": { "score": 50, "max": 100 }
+  },
+  "rank": 57,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/b2/Ice_Age_3_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Ice Age: Dawn of the Dinosaurs movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Ice_Age_3_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=cPvYbIwJpEU",
+      "title": "Ice Age: Dawn of the Dinosaurs Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ice_Age:_Dawn_of_the_Dinosaurs",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt1080016/",
+      "source": "IMDB"
+    }
+  ]
+}

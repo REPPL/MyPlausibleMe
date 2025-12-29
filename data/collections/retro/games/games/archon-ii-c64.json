@@ -1,0 +1,51 @@
+{
+  "id": "archon-ii-c64",
+  "title": "Archon II",
+  "platform": "c64",
+  "myRank": 7,
+  "year": 1984,
+  "summary": "A strategic board game where pieces engage in real-time combat, blending tactical movement with action-based sequences.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/c2/Archon_2_cover.jpg",
+      "type": "boxart",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Archon_2_cover.jpg",
+        "licence": "fair-use"
+      },
+      "isPrimary": true,
+      "alt": "Archon II cover art"
+    }
+  ],
+  "myStartYear": 1986,
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Archon_II:_Adept",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/game/10379/",
+      "source": "MobyGames"
+    }
+  ],
+  "originalReleaseDate": "1984",
+  "genres": [
+    "Strategy"
+  ],
+  "myVerdict": "I really liked both, this was the first of the two that I saw",
+  "averageRating": {
+    "score": 4.5,
+    "sourceCount": 5,
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Archon_II:_Adept#Reception"
+  },
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=yEQQ0P9brY4",
+      "title": "Archon II: Adept - C64 Gameplay",
+      "source": "C64-Wiki",
+      "type": "gameplay"
+    }
+  ]
+}

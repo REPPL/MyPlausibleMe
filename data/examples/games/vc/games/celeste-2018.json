@@ -1,0 +1,39 @@
+{
+  "id": "celeste-2018",
+  "title": "Celeste",
+  "publisher": "extremely-ok-games",
+  "developer": "Extremely OK Games",
+  "year": 2018,
+  "platforms": ["PC", "Mac", "Linux", "PlayStation 4", "Xbox One", "Nintendo Switch", "Stadia"],
+  "genres": ["Platformer"],
+  "modes": ["Single-player"],
+  "summary": "Madeline climbs Celeste Mountain while battling her inner demons. A challenging precision platformer praised for its story about mental health and accessibility options.",
+  "sales": {
+    "unitsSold": 1500000,
+    "source": "Wikipedia/Extremely OK Games",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Celeste_(video_game)"
+  },
+  "ratings": {
+    "metacritic": { "score": 92, "max": 100 }
+  },
+  "rank": 63,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Celeste_box_art_full.png",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Celeste cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Celeste_box_art_full.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Celeste_(video_game)",
+      "source": "Wikipedia"
+    }
+  ]
+}

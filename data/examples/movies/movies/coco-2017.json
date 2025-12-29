@@ -1,0 +1,73 @@
+{
+  "id": "coco-2017",
+  "title": "Coco",
+  "studio": "disney",
+  "year": 2017,
+  "director": "Lee Unkrich, Adrian Molina",
+  "cast": ["Anthony Gonzalez", "Gael García Bernal", "Benjamin Bratt", "Alanna Ubach", "Renée Victor"],
+  "genres": ["Animation", "Fantasy", "Musical"],
+  "runtime": 105,
+  "language": "English",
+  "country": "USA",
+  "summary": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer. Pixar's heartfelt celebration of Mexican culture became an instant classic.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 807821200,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 210045355,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 597775845,
+      "currency": "USD"
+    },
+    "budget": 175000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Coco_(2017_film)"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 2,
+      "nominations": 2
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 8.4, "max": 10 },
+    "rottenTomatoes": { "critics": 97, "audience": 94 },
+    "metacritic": { "score": 81, "max": 100 }
+  },
+  "rank": 91,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/98/Coco_%282017_film%29_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Coco movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Coco_(2017_film)_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=Rvr68u6k5sI",
+      "title": "Coco Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Coco_(2017_film)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt2380307/",
+      "source": "IMDB"
+    }
+  ]
+}

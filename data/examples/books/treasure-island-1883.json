@@ -1,0 +1,63 @@
+{
+  "id": "treasure-island-1883",
+  "title": "Treasure Island",
+  "author": "robert-louis-stevenson",
+  "year": 1883,
+  "genres": [
+    "Adventure",
+    "Coming-of-age",
+    "Pirate fiction"
+  ],
+  "pages": 292,
+  "publisher": "Cassell and Company",
+  "language": "English",
+  "country": "United Kingdom",
+  "summary": "Young Jim Hawkins discovers a treasure map and joins an expedition to find the buried loot, encountering the cunning pirate Long John Silver. Defined the popular perception of pirates in popular culture.",
+  "sales": {
+    "copiesSold": 20000000,
+    "languages": 50,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Treasure_Island"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 3.86,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 3.76,
+      "max": 5,
+      "count": 94
+    }
+  },
+  "rank": 81,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/13859660-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Treasure Island cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL24034W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Treasure_Island",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL24034W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 1985,
+  "isbn": "1772266760",
+  "description": "Traditionally considered a coming-of-age story, Treasure Island is an adventure tale known for its atmosphere, characters and action, and also as a wry commentary on the ambiguity of morality — as seen in Long John Silver — unusual for children's literature then and now. It is one of the most frequently dramatized of all novels. The influence of Treasure Island on popular perceptions of pirates is enormous, including treasure maps marked with an \"X\", schooners, the Black Spot, tropical islands, ...",
+  "_openlibrary_work_key": "/works/OL24034W"
+}

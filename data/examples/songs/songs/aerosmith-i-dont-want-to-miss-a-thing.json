@@ -1,0 +1,83 @@
+{
+  "id": "aerosmith-i-dont-want-to-miss-a-thing",
+  "title": "I Don't Want to Miss a Thing",
+  "artist": "aerosmith",
+  "year": 1998,
+  "album": "Armageddon (soundtrack)",
+  "writers": [
+    "Diane Warren"
+  ],
+  "producers": [
+    "Matt Serletic"
+  ],
+  "genres": [
+    "Power ballad",
+    "Soft rock"
+  ],
+  "duration": 299,
+  "label": "Columbia Records",
+  "summary": "A power ballad written by Diane Warren for the film Armageddon, starring Steven Tyler's daughter Liv Tyler. It became Aerosmith's first and only number-one single in the US.",
+  "sales": {
+    "totalUnits": 5000000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/I_Don%27t_Want_to_Miss_a_Thing"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 1,
+      "weeks": 4,
+      "chart": "Billboard Hot 100",
+      "year": 1998
+    },
+    "UK": {
+      "peak": 4,
+      "chart": "UK Singles Chart",
+      "year": 1998
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "3x Platinum",
+      "units": 3000000
+    },
+    {
+      "region": "UK",
+      "certification": "Platinum",
+      "units": 600000
+    }
+  ],
+  "rank": 97,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/d2/Idontwanttomissathing.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "I Don't Want to Miss a Thing single cover",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Aerosmith_-_I_Don%27t_Want_to_Miss_a_Thing.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=JkK8g6FMEXE",
+      "title": "Aerosmith - I Don't Want to Miss a Thing (Official HD Video)",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/I_Don%27t_Want_to_Miss_a_Thing",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/d9f551a9-6e48-4850-a0cb-ba3d38ef3dfa",
+      "source": "MusicBrainz"
+    }
+  ],
+  "_musicbrainz_recording_id": "d9f551a9-6e48-4850-a0cb-ba3d38ef3dfa"
+}

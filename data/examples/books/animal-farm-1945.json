@@ -1,0 +1,63 @@
+{
+  "id": "animal-farm-1945",
+  "title": "Animal Farm",
+  "author": "george-orwell",
+  "year": 1945,
+  "genres": [
+    "Fable",
+    "Allegory",
+    "Political satire"
+  ],
+  "pages": 112,
+  "publisher": "Secker and Warburg",
+  "language": "English",
+  "country": "United Kingdom",
+  "summary": "A satirical allegory of the Russian Revolution and Stalinism, told through a farm where animals overthrow their human masters only to see the pigs become tyrants. One of the most influential works of political fiction.",
+  "sales": {
+    "copiesSold": 12000000,
+    "languages": 70,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Animal_Farm"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 3.98,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.14,
+      "max": 5,
+      "count": 545
+    }
+  },
+  "rank": 70,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/11261770-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Animal Farm cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL1168007W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Animal_Farm",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL1168007W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 648,
+  "isbn": "9780679420392",
+  "description": "Animal Farm is a brilliant political satire and a powerful and affecting story of revolutions and idealism, power and corruption. 'All animals are equal. But some animals are more equal than others.' Mr Jones of Manor Farm is so lazy and drunken that one day he forgets to feed his livestock. The ensuing rebellion under the leadership of the pigs Napoleon and Snowball leads to the animals taking over the farm. Vowing to eliminate the terrible inequities of the farmyard, the renamed Animal Farm is...",
+  "_openlibrary_work_key": "/works/OL1168007W"
+}

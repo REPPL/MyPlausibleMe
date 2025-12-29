@@ -1,0 +1,63 @@
+{
+  "id": "black-beauty-1877",
+  "title": "Black Beauty",
+  "author": "anna-sewell",
+  "year": 1877,
+  "genres": [
+    "Children's literature",
+    "Novel",
+    "Animal fiction"
+  ],
+  "pages": 255,
+  "publisher": "Jarrold and Sons",
+  "language": "English",
+  "country": "United Kingdom",
+  "summary": "The autobiography of a horse, narrated from Black Beauty's perspective. The novel helped change attitudes toward animal welfare and remains one of the best-selling books of all time.",
+  "sales": {
+    "copiesSold": 50000000,
+    "languages": 50,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Black_Beauty"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.06,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.3,
+      "max": 5,
+      "count": 23
+    }
+  },
+  "rank": 26,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/5007492-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Black Beauty cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL15854658W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Black_Beauty",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL15854658W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 107,
+  "isbn": "9780341759829",
+  "description": "(Ages 9-12, Gr. 4-7) An **animal rights classic** that's also an engaging read, **BLACK BEAUTY follows the life of an ebony horse from birth to old age**, and from pasture to the cobblestone streets of **19th century England** This morality tale and **animal \"autobiography\"** gives a sweet and kind horse **a voice that's relatable yet unsentimental.**. Black Beauty's life begins on the grounds of an aristocratic English family. The **young horse learns early lessons from his mother like how not ...",
+  "_openlibrary_work_key": "/works/OL15854658W"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "the-night-of-2016",
+  "title": "The Night Of",
+  "network": "hbo",
+  "year": 2016,
+  "endYear": 2016,
+  "seasons": 1,
+  "episodes": 8,
+  "genres": ["Crime", "Drama", "Thriller"],
+  "creators": ["Richard Price", "Steven Zaillian"],
+  "cast": ["Riz Ahmed", "John Turturro", "Michael K. Williams", "Bill Camp", "Poorna Jagannathan"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 60,
+  "summary": "A college student becomes the prime suspect in a murder and must navigate the criminal justice system. Riz Ahmed won an Emmy for his performance.",
+  "viewership": {
+    "peakViewers": 3400000,
+    "source": "Wikipedia/HBO",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Night_Of"
+  },
+  "ratings": {
+    "imdb": { "score": 8.5, "max": 10 },
+    "rottenTomatoes": { "critics": 95, "audience": 88 }
+  },
+  "rank": 92,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/d5/The_Night_Of_Title_Card.png",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Night Of title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:The_Night_Of_Title_Card.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Night_Of",
+      "source": "Wikipedia"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "switch",
+  "title": "Nintendo Switch",
+  "shortTitle": "Switch",
+  "year": 2017,
+  "manufacturer": "Nintendo",
+  "generation": "8th (Hybrid)",
+  "mediaFormat": "Cartridge / Digital",
+  "unitsSold": "143+ million",
+  "bestSellingGame": "Mario Kart 8 Deluxe",
+  "summary": "A versatile hybrid console designed for both portable and television-based gaming, catering to a wide range of play styles.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Nintendo_Switch_logo.svg/400px-Nintendo_Switch_logo.svg.png",
+      "type": "logo",
+      "isPrimary": false,
+      "alt": "Nintendo Switch logo",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nintendo_Switch_logo.svg",
+        "licence": "public-domain"
+      }
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Nintendo-Switch-wJoyCons-BlRd-Standing-FL.jpg",
+      "type": "console",
+      "isPrimary": true,
+      "alt": "Nintendo Switch console with Joy-Cons",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nintendo-Switch-wJoyCons-BlRd-Standing-FL.jpg",
+        "licence": "public-domain"
+      }
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Nintendo_Switch_Joy-Con_Controllers.png",
+      "type": "accessory",
+      "isPrimary": false,
+      "alt": "Nintendo Switch Joy-Con controllers",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nintendo_Switch_Joy-Con_Controllers.png",
+        "licence": "public-domain"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Nintendo_Switch",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/platform/nintendo-switch/",
+      "source": "MobyGames"
+    }
+  ]
+}

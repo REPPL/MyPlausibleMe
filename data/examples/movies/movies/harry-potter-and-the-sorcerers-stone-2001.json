@@ -1,0 +1,73 @@
+{
+  "id": "harry-potter-and-the-sorcerers-stone-2001",
+  "title": "Harry Potter and the Philosopher's Stone",
+  "studio": "warner-bros",
+  "year": 2001,
+  "director": "Chris Columbus",
+  "cast": ["Daniel Radcliffe", "Rupert Grint", "Emma Watson", "Richard Harris", "Alan Rickman"],
+  "genres": ["Fantasy", "Adventure", "Family"],
+  "runtime": 152,
+  "language": "English",
+  "country": "UK",
+  "summary": "An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world. The first film in the beloved franchise launched a global phenomenon.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1017600000,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 317575550,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 700024450,
+      "currency": "USD"
+    },
+    "budget": 125000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 3
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 7.6, "max": 10 },
+    "rottenTomatoes": { "critics": 81, "audience": 82 },
+    "metacritic": { "score": 65, "max": 100 }
+  },
+  "rank": 75,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/7/7a/Harry_Potter_and_the_Philosopher%27s_Stone_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Harry Potter and the Philosopher's Stone movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Harry_Potter_and_the_Philosopher%27s_Stone_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=PbdM1db3JbY",
+      "title": "Harry Potter and the Philosopher's Stone Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0241527/",
+      "source": "IMDB"
+    }
+  ]
+}

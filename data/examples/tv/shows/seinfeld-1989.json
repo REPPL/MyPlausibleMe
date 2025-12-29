@@ -1,0 +1,47 @@
+{
+  "id": "seinfeld-1989",
+  "title": "Seinfeld",
+  "network": "nbc",
+  "year": 1989,
+  "endYear": 1998,
+  "seasons": 9,
+  "episodes": 180,
+  "genres": ["Sitcom", "Comedy"],
+  "creators": ["Larry David", "Jerry Seinfeld"],
+  "cast": ["Jerry Seinfeld", "Julia Louis-Dreyfus", "Jason Alexander", "Michael Richards"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 22,
+  "summary": "Four self-absorbed New Yorkers navigate mundane urban life. The self-described 'show about nothing' became one of the most influential sitcoms ever made, popularising observational comedy.",
+  "viewership": {
+    "peakViewers": 76300000,
+    "peakEpisode": "The Finale (S09E23-24)",
+    "averageViewers": 30000000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Seinfeld"
+  },
+  "ratings": {
+    "imdb": { "score": 8.9, "max": 10 },
+    "rottenTomatoes": { "critics": 89, "audience": 93 }
+  },
+  "rank": 6,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/0e/Seinfeld_TV_Series_Logo.png",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Seinfeld logo",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Seinfeld_TV_Series_Logo.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Seinfeld",
+      "source": "Wikipedia"
+    }
+  ]
+}

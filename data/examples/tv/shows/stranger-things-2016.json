@@ -1,0 +1,46 @@
+{
+  "id": "stranger-things-2016",
+  "title": "Stranger Things",
+  "network": "netflix",
+  "year": 2016,
+  "endYear": null,
+  "seasons": 4,
+  "episodes": 34,
+  "genres": ["Science fiction", "Horror", "Drama"],
+  "creators": ["The Duffer Brothers"],
+  "cast": ["Millie Bobby Brown", "Finn Wolfhard", "Winona Ryder", "David Harbour", "Gaten Matarazzo"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 51,
+  "summary": "When a young boy vanishes, a small Indiana town uncovers a mystery involving secret experiments, supernatural forces, and a strange girl. A nostalgic homage to 1980s pop culture that became Netflix's most-watched English-language series.",
+  "viewership": {
+    "hoursWatched": 1352090000,
+    "peakEpisode": "Chapter Four: The Piggyback (S04E09)",
+    "source": "Netflix",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Stranger_Things"
+  },
+  "ratings": {
+    "imdb": { "score": 8.7, "max": 10 },
+    "rottenTomatoes": { "critics": 91, "audience": 84 }
+  },
+  "rank": 8,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Stranger_Things_logo.png",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Stranger Things logo",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stranger_Things_logo.png",
+        "licence": "public-domain"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Stranger_Things",
+      "source": "Wikipedia"
+    }
+  ]
+}

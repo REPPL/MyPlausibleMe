@@ -1,0 +1,97 @@
+{
+  "id": "adele-someone-like-you",
+  "title": "Someone Like You",
+  "artist": "adele",
+  "year": 2011,
+  "album": "21",
+  "writers": [
+    "Adele",
+    "Dan Wilson"
+  ],
+  "producers": [
+    "Dan Wilson"
+  ],
+  "genres": [
+    "Soul",
+    "Pop"
+  ],
+  "duration": 285,
+  "label": "XL Recordings",
+  "summary": "A heartbreak ballad featuring just piano and vocals that became a global phenomenon after Adele's emotional live performance at the 2011 BRIT Awards. It topped charts worldwide and showcased her powerful vocal ability.",
+  "sales": {
+    "totalUnits": 11000000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Someone_like_You_(Adele_song)"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 1,
+      "weeks": 5,
+      "chart": "Billboard Hot 100",
+      "year": 2011
+    },
+    "UK": {
+      "peak": 1,
+      "weeks": 5,
+      "chart": "UK Singles Chart",
+      "year": 2011
+    },
+    "Australia": {
+      "peak": 1,
+      "chart": "ARIA Charts",
+      "year": 2011
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "6x Platinum",
+      "units": 6000000
+    },
+    {
+      "region": "UK",
+      "certification": "4x Platinum",
+      "units": 2400000
+    }
+  ],
+  "rank": 45,
+  "images": [
+    {
+      "url": "https://coverartarchive.org/release/768bc7f7-6b91-4b57-8a7b-1508636719e6/3222560647-500.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Album cover",
+      "attribution": {
+        "source": "Cover Art Archive",
+        "licence": "CC BY-NC-SA 3.0",
+        "licenceUrl": "https://wiki.musicbrainz.org/Cover_Art_Archive",
+        "note": "Cover art copyrighted by respective owners. Non-commercial use only.",
+        "sourceUrl": "https://musicbrainz.org/release/768bc7f7-6b91-4b57-8a7b-1508636719e6"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=hLQl3WQQoQ0",
+      "title": "Adele - Someone Like You (Official Music Video)",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Someone_like_You_(Adele_song)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/dcd218bc-0011-48b1-b5db-c8e3188251d9",
+      "source": "MusicBrainz"
+    },
+    {
+      "url": "https://musicbrainz.org/release/768bc7f7-6b91-4b57-8a7b-1508636719e6",
+      "source": "MusicBrainz (Release)"
+    }
+  ],
+  "_musicbrainz_recording_id": "dcd218bc-0011-48b1-b5db-c8e3188251d9",
+  "_musicbrainz_release_id": "768bc7f7-6b91-4b57-8a7b-1508636719e6"
+}

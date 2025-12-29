@@ -1,0 +1,46 @@
+{
+  "id": "justified-2010",
+  "title": "Justified",
+  "network": "fx",
+  "year": 2010,
+  "endYear": 2015,
+  "seasons": 6,
+  "episodes": 78,
+  "genres": ["Crime", "Drama", "Western"],
+  "creators": ["Graham Yost"],
+  "cast": ["Timothy Olyphant", "Nick Searcy", "Joelle Carter", "Jacob Pitts", "Walton Goggins"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 44,
+  "summary": "A U.S. Marshal is transferred to his hometown in Kentucky where he deals with criminals and his own unconventional methods. Based on Elmore Leonard's stories.",
+  "viewership": {
+    "peakViewers": 3300000,
+    "averageViewers": 2100000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Justified_(TV_series)"
+  },
+  "ratings": {
+    "imdb": { "score": 8.6, "max": 10 },
+    "rottenTomatoes": { "critics": 96, "audience": 93 }
+  },
+  "rank": 100,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/a0/Justified_title_card.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Justified title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Justified_title_card.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Justified_(TV_series)",
+      "source": "Wikipedia"
+    }
+  ]
+}

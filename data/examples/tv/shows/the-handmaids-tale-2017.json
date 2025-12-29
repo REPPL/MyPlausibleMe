@@ -1,0 +1,44 @@
+{
+  "id": "the-handmaids-tale-2017",
+  "title": "The Handmaid's Tale",
+  "network": "hulu",
+  "year": 2017,
+  "endYear": null,
+  "seasons": 5,
+  "episodes": 56,
+  "genres": ["Drama", "Dystopian", "Science fiction"],
+  "creators": ["Bruce Miller"],
+  "cast": ["Elisabeth Moss", "Yvonne Strahovski", "Joseph Fiennes", "Ann Dowd", "Samira Wiley"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 50,
+  "summary": "Set in a dystopian future where a totalitarian society forces fertile women into child-bearing servitude. Based on Margaret Atwood's novel, it won the Emmy for Outstanding Drama Series in 2017.",
+  "viewership": {
+    "source": "Hulu",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Handmaid%27s_Tale_(TV_series)"
+  },
+  "ratings": {
+    "imdb": { "score": 8.4, "max": 10 },
+    "rottenTomatoes": { "critics": 81, "audience": 69 }
+  },
+  "rank": 36,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/e9/The_Handmaid%27s_Tale_intertitle.png",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Handmaid's Tale title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:The_Handmaid%27s_Tale_intertitle.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Handmaid%27s_Tale_(TV_series)",
+      "source": "Wikipedia"
+    }
+  ]
+}

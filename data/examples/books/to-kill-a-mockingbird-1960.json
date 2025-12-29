@@ -1,0 +1,63 @@
+{
+  "id": "to-kill-a-mockingbird-1960",
+  "title": "To Kill a Mockingbird",
+  "author": "harper-lee",
+  "year": 1960,
+  "genres": [
+    "Southern Gothic",
+    "Coming-of-age",
+    "Legal drama"
+  ],
+  "pages": 281,
+  "publisher": "J. B. Lippincott & Co.",
+  "language": "English",
+  "country": "United States",
+  "summary": "Scout Finch recounts her childhood in Alabama during the 1930s as her father, lawyer Atticus Finch, defends a Black man falsely accused of rape. Winner of the Pulitzer Prize, it remains a cornerstone of American literature and education.",
+  "sales": {
+    "copiesSold": 45000000,
+    "languages": 40,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.26,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.1,
+      "max": 5,
+      "count": 242
+    }
+  },
+  "rank": 40,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/14351077-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "To Kill a Mockingbird cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL3140822W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL3140822W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 212,
+  "isbn": "0099498693",
+  "description": "One of the best-loved stories of all time, To Kill a Mockingbird has been translated into more than 40 languages, sold more than 30 million copies worldwide, served as the basis for an enormously popular motion picture, and voted one of the best novels of the 20th century by librarians across the United States. A gripping, heart-wrenching, and wholly remarkable tale of coming-of-age in a South poisoned by virulent prejudice, it views a world of great beauty and savage inequities through the eyes...",
+  "_openlibrary_work_key": "/works/OL3140822W"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "it-came-from-the-desert-amiga",
+  "title": "It came from the Desert",
+  "platform": "amiga",
+  "myRank": 1,
+  "year": 1989,
+  "summary": "An adventure game inspired by 1950s science fiction films, featuring a town threatened by giant insects.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/3c/Itcame-c.jpg",
+      "type": "boxart",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Itcame-c.jpg",
+        "licence": "fair-use"
+      },
+      "isPrimary": true,
+      "alt": "It came from the Desert cover art"
+    },
+    {
+      "url": "https://www.mobygames.com/images/shots/l/37680-it-came-from-the-desert-amiga-screenshot-title-screen.png",
+      "type": "screenshot",
+      "attribution": {
+        "source": "MobyGames",
+        "sourceUrl": "https://www.mobygames.com/game/610/it-came-from-the-desert/screenshots/amiga/",
+        "licence": "fair-use"
+      },
+      "alt": "It came from the Desert title screen"
+    }
+  ],
+  "myStartYear": 1991,
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/It_Came_from_the_Desert",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/game/610/",
+      "source": "MobyGames"
+    },
+    {
+      "url": "https://amiga.abime.net/games/view/it-came-from-the-desert",
+      "source": "Hall of Light"
+    }
+  ],
+  "originalReleaseDate": "1989",
+  "genres": [
+    "Action-adventure"
+  ],
+  "myVerdict": "Best atmosphere of any game. Ever (sort of).",
+  "averageRating": {
+    "score": 4.5,
+    "sourceCount": 5,
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/It_Came_from_the_Desert#Reception"
+  },
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=KTWd_eyAmgQ",
+      "title": "It Came from the Desert - Amiga Longplay",
+      "source": "World of Longplays",
+      "type": "gameplay"
+    }
+  ]
+}

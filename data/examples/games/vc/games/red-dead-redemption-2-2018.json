@@ -1,0 +1,39 @@
+{
+  "id": "red-dead-redemption-2-2018",
+  "title": "Red Dead Redemption 2",
+  "publisher": "rockstar-games",
+  "developer": "Rockstar Studios",
+  "year": 2018,
+  "platforms": ["PC", "PlayStation 4", "Xbox One", "Stadia"],
+  "genres": ["Action-adventure", "Western"],
+  "modes": ["Single-player", "Multiplayer"],
+  "summary": "A prequel to Red Dead Redemption following outlaw Arthur Morgan and the Van der Linde gang. Praised for its detailed open world and narrative.",
+  "sales": {
+    "unitsSold": 64000000,
+    "source": "Wikipedia/Take-Two",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Red_Dead_Redemption_2"
+  },
+  "ratings": {
+    "metacritic": { "score": 97, "max": 100 }
+  },
+  "rank": 8,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/44/Red_Dead_Redemption_II.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Red Dead Redemption 2 cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Red_Dead_Redemption_II.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Red_Dead_Redemption_2",
+      "source": "Wikipedia"
+    }
+  ]
+}

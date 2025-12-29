@@ -1,0 +1,63 @@
+{
+  "id": "the-little-prince-1943",
+  "title": "The Little Prince",
+  "author": "antoine-de-saint-exupery",
+  "year": 1943,
+  "genres": [
+    "Novella",
+    "Fable",
+    "Children's literature"
+  ],
+  "pages": 96,
+  "publisher": "Reynal & Hitchcock",
+  "language": "French",
+  "country": "France",
+  "summary": "A poetic tale of a young prince who visits various planets including Earth, exploring themes of loneliness, friendship, love, and loss. One of the most translated and best-selling books ever published.",
+  "sales": {
+    "copiesSold": 140000000,
+    "languages": 300,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Little_Prince"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.32,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.34,
+      "max": 5,
+      "count": 210
+    }
+  },
+  "rank": 4,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/10708272-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Le petit prince cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL10263W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Little_Prince",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL10263W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 387,
+  "isbn": "9788494945144",
+  "description": "*Le Petit Prince* est une œuvre de langue française, la plus connue d'Antoine de Saint-Exupéry. Publié en 1943 à New York simultanément à sa traduction anglaise, c'est une œuvre poétique et philosophique sous l'apparence d'un conte pour enfants.\r\n\r\nTraduit en quatre cent cinquante-sept langues et dialectes, *Le Petit Prince* est le deuxième ouvrage le plus traduit au monde après la Bible.\r\n\r\nLe langage, simple et dépouillé, parce qu'il est destiné à être compris par des enfants, est en réalité p...",
+  "_openlibrary_work_key": "/works/OL10263W"
+}

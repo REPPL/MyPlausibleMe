@@ -1,0 +1,92 @@
+{
+  "id": "the-lord-of-the-rings-the-return-of-the-king-2003",
+  "title": "The Lord of the Rings: The Return of the King",
+  "studio": "warner-bros",
+  "year": 2003,
+  "director": "Peter Jackson",
+  "cast": [
+    "Elijah Wood",
+    "Ian McKellen",
+    "Viggo Mortensen",
+    "Sean Astin",
+    "Cate Blanchett"
+  ],
+  "genres": [
+    "Fantasy",
+    "Adventure",
+    "Drama"
+  ],
+  "runtime": 201,
+  "language": "English",
+  "country": "New Zealand",
+  "summary": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring. The epic conclusion won all 11 Academy Awards for which it was nominated, tying the all-time record.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1146030912,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 377845905,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 768185007,
+      "currency": "USD"
+    },
+    "budget": 94000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 11,
+      "nominations": 11
+    }
+  },
+  "ratings": {
+    "imdb": {
+      "score": 9.0,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 93,
+      "audience": 86
+    },
+    "metacritic": {
+      "score": 94,
+      "max": 100
+    }
+  },
+  "rank": 30,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/48/Lord_Rings_Return_King.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Lord of the Rings: The Return of the King movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:The_Lord_of_the_Rings_-_The_Return_of_the_King_(2003).jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=r5X-hFf6Bwo",
+      "title": "The Lord of the Rings: The Return of the King Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0167260/",
+      "source": "IMDB"
+    }
+  ]
+}

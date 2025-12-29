@@ -1,0 +1,104 @@
+{
+  "id": "mark-ronson-uptown-funk",
+  "title": "Uptown Funk",
+  "artist": "mark-ronson",
+  "year": 2014,
+  "album": "Uptown Special",
+  "writers": [
+    "Mark Ronson",
+    "Bruno Mars",
+    "Philip Lawrence",
+    "Jeff Bhasker",
+    "Devon Gallaspy",
+    "Nicholaus Williams"
+  ],
+  "producers": [
+    "Mark Ronson",
+    "Bruno Mars",
+    "Jeff Bhasker"
+  ],
+  "genres": [
+    "Funk",
+    "Pop",
+    "Boogie"
+  ],
+  "duration": 270,
+  "label": "RCA Records",
+  "summary": "A funk and boogie tribute that spent 14 consecutive weeks at number one on the Billboard Hot 100. Won the Grammy for Record of the Year and became one of the best-selling digital singles of all time.",
+  "sales": {
+    "totalUnits": 20000000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Uptown_Funk"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 1,
+      "weeks": 14,
+      "chart": "Billboard Hot 100",
+      "year": 2015
+    },
+    "UK": {
+      "peak": 1,
+      "weeks": 7,
+      "chart": "UK Singles Chart",
+      "year": 2015
+    },
+    "Australia": {
+      "peak": 1,
+      "chart": "ARIA Charts",
+      "year": 2015
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "Diamond",
+      "units": 11000000
+    },
+    {
+      "region": "UK",
+      "certification": "5x Platinum",
+      "units": 3000000
+    }
+  ],
+  "rank": 11,
+  "images": [
+    {
+      "url": "https://coverartarchive.org/release/c06e6fd5-ebad-44e1-b1ef-908aa9a5ce89/13957152319-500.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Album cover",
+      "attribution": {
+        "source": "Cover Art Archive",
+        "licence": "CC BY-NC-SA 3.0",
+        "licenceUrl": "https://wiki.musicbrainz.org/Cover_Art_Archive",
+        "note": "Cover art copyrighted by respective owners. Non-commercial use only.",
+        "sourceUrl": "https://musicbrainz.org/release/c06e6fd5-ebad-44e1-b1ef-908aa9a5ce89"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=OPf0YbXqDm0",
+      "title": "Mark Ronson - Uptown Funk ft. Bruno Mars",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Uptown_Funk",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/cc950aa9-12dc-46b6-bca6-ef2b8e374042",
+      "source": "MusicBrainz"
+    },
+    {
+      "url": "https://musicbrainz.org/release/c06e6fd5-ebad-44e1-b1ef-908aa9a5ce89",
+      "source": "MusicBrainz (Release)"
+    }
+  ],
+  "_musicbrainz_recording_id": "cc950aa9-12dc-46b6-bca6-ef2b8e374042",
+  "_musicbrainz_release_id": "c06e6fd5-ebad-44e1-b1ef-908aa9a5ce89"
+}

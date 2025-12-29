@@ -1,0 +1,39 @@
+{
+  "id": "diablo-iii-2012",
+  "title": "Diablo III",
+  "publisher": "blizzard",
+  "developer": "Blizzard Entertainment",
+  "year": 2012,
+  "platforms": ["PC", "Mac", "PlayStation 3", "PlayStation 4", "Xbox 360", "Xbox One", "Nintendo Switch"],
+  "genres": ["Action RPG", "Hack and slash"],
+  "modes": ["Single-player", "Multiplayer"],
+  "summary": "An action RPG where players battle demons in the dark fantasy world of Sanctuary. The fastest-selling PC game at launch until Diablo IV.",
+  "sales": {
+    "unitsSold": 30000000,
+    "source": "Wikipedia/Blizzard",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Diablo_III"
+  },
+  "ratings": {
+    "metacritic": { "score": 88, "max": 100 }
+  },
+  "rank": 19,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/80/Diablo_III_cover.png",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Diablo III cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Diablo_III_cover.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Diablo_III",
+      "source": "Wikipedia"
+    }
+  ]
+}

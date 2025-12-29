@@ -1,0 +1,61 @@
+{
+  "id": "house-of-cards-2013",
+  "title": "House of Cards",
+  "network": "netflix",
+  "year": 2013,
+  "endYear": 2018,
+  "seasons": 6,
+  "episodes": 73,
+  "genres": [
+    "Political thriller",
+    "Drama"
+  ],
+  "creators": [
+    "Beau Willimon"
+  ],
+  "cast": [
+    "Kevin Spacey",
+    "Robin Wright",
+    "Michael Kelly",
+    "Kate Mara",
+    "Corey Stoll"
+  ],
+  "country": "United States",
+  "language": "English",
+  "runtime": 51,
+  "summary": "A ruthless politician and his ambitious wife stop at nothing to reach the highest position of power. Netflix's first major original drama series.",
+  "viewership": {
+    "source": "Netflix",
+    "sourceUrl": "https://en.wikipedia.org/wiki/House_of_Cards_(American_TV_series)"
+  },
+  "ratings": {
+    "imdb": {
+      "score": 8.6,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 78,
+      "audience": 84
+    }
+  },
+  "rank": 81,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/3f/House_of_Cards_title_card.png",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "House of Cards title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:House_of_Cards_title_card.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/House_of_Cards_(American_TV_series)",
+      "source": "Wikipedia"
+    }
+  ]
+}

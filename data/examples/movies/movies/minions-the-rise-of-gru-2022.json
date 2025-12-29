@@ -1,0 +1,73 @@
+{
+  "id": "minions-the-rise-of-gru-2022",
+  "title": "Minions: The Rise of Gru",
+  "studio": "universal",
+  "year": 2022,
+  "director": "Kyle Balda, Brad Ableson, Jonathan del Val",
+  "cast": ["Steve Carell", "Pierre Coffin", "Alan Arkin", "Taraji P. Henson", "Michelle Yeoh"],
+  "genres": ["Animation", "Comedy", "Adventure"],
+  "runtime": 87,
+  "language": "English",
+  "country": "USA",
+  "summary": "The untold story of one twelve-year-old's dream to become the world's greatest supervillain. The film follows a young Gru as he schemes to become a member of the super villain group, the Vicious 6.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 940724542,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 370225506,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 570499036,
+      "currency": "USD"
+    },
+    "budget": 80000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Minions:_The_Rise_of_Gru"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 6.5, "max": 10 },
+    "rottenTomatoes": { "critics": 70, "audience": 89 },
+    "metacritic": { "score": 56, "max": 100 }
+  },
+  "rank": 70,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/4c/Minions_The_Rise_of_Gru_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Minions: The Rise of Gru movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Minions_The_Rise_of_Gru_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=6DxjJzmYsXo",
+      "title": "Minions: The Rise of Gru Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Minions:_The_Rise_of_Gru",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt5113044/",
+      "source": "IMDB"
+    }
+  ]
+}

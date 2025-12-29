@@ -1,0 +1,39 @@
+{
+  "id": "dave-the-diver-2023",
+  "title": "Dave the Diver",
+  "publisher": "nexon",
+  "developer": "MINTROCKET",
+  "year": 2023,
+  "platforms": ["PC", "PlayStation 4", "PlayStation 5", "Nintendo Switch", "Mac"],
+  "genres": ["Adventure", "Simulation", "RPG"],
+  "modes": ["Single-player"],
+  "summary": "A diver explores the ocean by day and runs a sushi restaurant by night. A charming hybrid that became an unexpected indie hit.",
+  "sales": {
+    "unitsSold": 4000000,
+    "source": "Wikipedia/Nexon",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Dave_the_Diver"
+  },
+  "ratings": {
+    "metacritic": { "score": 87, "max": 100 }
+  },
+  "rank": 96,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/f0/Dave_the_Diver_cover_art.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Dave the Diver cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Dave_the_Diver_cover_art.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Dave_the_Diver",
+      "source": "Wikipedia"
+    }
+  ]
+}

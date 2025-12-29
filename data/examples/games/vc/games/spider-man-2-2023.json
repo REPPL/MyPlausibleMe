@@ -1,0 +1,39 @@
+{
+  "id": "spider-man-2-2023",
+  "title": "Marvel's Spider-Man 2",
+  "publisher": "sony",
+  "developer": "Insomniac Games",
+  "year": 2023,
+  "platforms": ["PlayStation 5"],
+  "genres": ["Action-adventure", "Open world"],
+  "modes": ["Single-player"],
+  "summary": "Peter Parker and Miles Morales team up to face Kraven the Hunter and Venom. Features dual protagonists and a larger New York City to explore.",
+  "sales": {
+    "unitsSold": 11000000,
+    "source": "Wikipedia/Sony",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Spider-Man_2_(2023_video_game)"
+  },
+  "ratings": {
+    "metacritic": { "score": 90, "max": 100 }
+  },
+  "rank": 88,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/fe/Spider-Man_2_PS5_cover.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Spider-Man 2 cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Spider-Man_2_PS5_cover.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Spider-Man_2_(2023_video_game)",
+      "source": "Wikipedia"
+    }
+  ]
+}

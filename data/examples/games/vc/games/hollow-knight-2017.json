@@ -1,0 +1,39 @@
+{
+  "id": "hollow-knight-2017",
+  "title": "Hollow Knight",
+  "publisher": "team-cherry",
+  "developer": "Team Cherry",
+  "year": 2017,
+  "platforms": ["PC", "Mac", "Linux", "PlayStation 4", "Xbox One", "Nintendo Switch"],
+  "genres": ["Metroidvania", "Action-adventure"],
+  "modes": ["Single-player"],
+  "summary": "A knight explores the insect kingdom of Hallownest. A critically acclaimed metroidvania known for its hand-drawn art style and challenging gameplay.",
+  "sales": {
+    "unitsSold": 5000000,
+    "source": "Wikipedia/Team Cherry",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hollow_Knight"
+  },
+  "ratings": {
+    "metacritic": { "score": 87, "max": 100 }
+  },
+  "rank": 62,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/04/Hollow_Knight_first_cover_art.webp",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Hollow Knight cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Hollow_Knight_first_cover_art.webp",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Hollow_Knight",
+      "source": "Wikipedia"
+    }
+  ]
+}

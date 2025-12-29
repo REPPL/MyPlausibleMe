@@ -1,0 +1,63 @@
+{
+  "id": "the-name-of-the-rose-1980",
+  "title": "The Name of the Rose",
+  "author": "umberto-eco",
+  "year": 1980,
+  "genres": [
+    "Historical mystery",
+    "Literary fiction",
+    "Philosophical novel"
+  ],
+  "pages": 536,
+  "publisher": "Bompiani",
+  "language": "Italian",
+  "country": "Italy",
+  "summary": "A historical murder mystery set in a 14th-century Italian monastery. The novel combines detective fiction with biblical analysis, medieval studies, and literary theory. It won the Strega Prize and became an international bestseller.",
+  "sales": {
+    "copiesSold": 50000000,
+    "languages": 47,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Name_of_the_Rose"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.13,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.12,
+      "max": 5,
+      "count": 113
+    }
+  },
+  "rank": 27,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/8598263-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Il nome della rosa cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL8996439W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Name_of_the_Rose",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL8996439W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 151,
+  "isbn": "9788481304459",
+  "description": "It is the year 1327. Franciscans in an Italian abbey are suspected of heresy, but Brother William of Baskerville’s investigation is suddenly overshadowed by seven bizarre deaths.\r\n\r\nUltima settimana del novembre 1327. Il novizio Adso da Melk accompagna in un'abbazia dell'alta Italia frate Guglielmo da Baskerville, incaricato di una sottile e imprecisa missione diplomatica. Ex inquisitore, amico di Guglielmo di Occam e di Marsilio da Padova, frate Guglielmo si trova a dover dipanare una serie di ...",
+  "_openlibrary_work_key": "/works/OL8996439W"
+}

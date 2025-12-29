@@ -1,0 +1,50 @@
+{
+  "id": "modem-wars-c64",
+  "title": "Modem Wars",
+  "platform": "c64",
+  "myRank": null,
+  "year": 1988,
+  "summary": "An early real-time strategy game designed primarily for online play via modem, involving tactical unit management.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/b5/Modem_Wars_cover.jpg",
+      "type": "boxart",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Modem_Wars_cover.jpg",
+        "licence": "fair-use"
+      },
+      "isPrimary": true,
+      "alt": "Modem Wars cover art"
+    }
+  ],
+  "myVerdict": "I wish I could have played it back then!",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Modem_Wars",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/game/1483/",
+      "source": "MobyGames"
+    }
+  ],
+  "originalReleaseDate": "1988",
+  "genres": [
+    "Strategy"
+  ],
+  "averageRating": {
+    "score": 4,
+    "sourceCount": 4,
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Modem_Wars#Reception"
+  },
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=zdGEbveLU1Q",
+      "title": "Modem Wars - C64 Gameplay",
+      "source": "YouTube",
+      "type": "gameplay"
+    }
+  ]
+}

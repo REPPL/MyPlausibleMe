@@ -1,0 +1,98 @@
+{
+  "id": "maroon-5-sugar",
+  "title": "Sugar",
+  "artist": "maroon-5",
+  "year": 2014,
+  "album": "V",
+  "writers": [
+    "Adam Levine",
+    "Joshua Coleman",
+    "Jacob Kasher Hindlin",
+    "Mike Posner",
+    "Lukasz Gottwald",
+    "Henry Walter"
+  ],
+  "producers": [
+    "Cirkut",
+    "Ammo"
+  ],
+  "genres": [
+    "Disco-pop",
+    "Funk pop"
+  ],
+  "duration": 235,
+  "label": "Interscope Records",
+  "summary": "A disco-influenced pop song with a memorable music video featuring the band crashing weddings. The video went viral and the song became one of Maroon 5's biggest hits.",
+  "sales": {
+    "totalUnits": 10000000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sugar_(Maroon_5_song)"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 2,
+      "chart": "Billboard Hot 100",
+      "year": 2015
+    },
+    "UK": {
+      "peak": 3,
+      "chart": "UK Singles Chart",
+      "year": 2015
+    },
+    "Australia": {
+      "peak": 1,
+      "chart": "ARIA Charts",
+      "year": 2015
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "8x Platinum",
+      "units": 8000000
+    },
+    {
+      "region": "UK",
+      "certification": "3x Platinum",
+      "units": 1800000
+    }
+  ],
+  "rank": 41,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/d1/Maroon_5_Sugar_cover.png",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Sugar single cover",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Maroon_5_-_Sugar_(Official_Single_Cover).png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=09R8_2nJtjg",
+      "title": "Maroon 5 - Sugar (Official Music Video)",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sugar_(Maroon_5_song)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/66a82dba-7168-4005-96a3-42d2a4790d70",
+      "source": "MusicBrainz"
+    },
+    {
+      "url": "https://musicbrainz.org/release/467b267b-5d8c-4b2b-9479-62216d35dee6",
+      "source": "MusicBrainz (Release)"
+    }
+  ],
+  "_musicbrainz_recording_id": "66a82dba-7168-4005-96a3-42d2a4790d70",
+  "_musicbrainz_release_id": "467b267b-5d8c-4b2b-9479-62216d35dee6"
+}

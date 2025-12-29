@@ -1,0 +1,73 @@
+{
+  "id": "finding-nemo-2003",
+  "title": "Finding Nemo",
+  "studio": "disney",
+  "year": 2003,
+  "director": "Andrew Stanton, Lee Unkrich",
+  "cast": ["Albert Brooks", "Ellen DeGeneres", "Alexander Gould", "Willem Dafoe", "Geoffrey Rush"],
+  "genres": ["Animation", "Comedy", "Adventure"],
+  "runtime": 100,
+  "language": "English",
+  "country": "USA",
+  "summary": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home. Pixar's underwater adventure became a beloved classic and one of the highest-grossing animated films.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 940335536,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 380843261,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 559492275,
+      "currency": "USD"
+    },
+    "budget": 94000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Finding_Nemo"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 1,
+      "nominations": 4
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 8.2, "max": 10 },
+    "rottenTomatoes": { "critics": 99, "audience": 86 },
+    "metacritic": { "score": 90, "max": 100 }
+  },
+  "rank": 84,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/2/29/Finding_Nemo.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Finding Nemo movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Finding_Nemo.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=9oQ628Seb9w",
+      "title": "Finding Nemo Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Finding_Nemo",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0266543/",
+      "source": "IMDB"
+    }
+  ]
+}

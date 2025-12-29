@@ -1,0 +1,39 @@
+{
+  "id": "dead-cells-2018",
+  "title": "Dead Cells",
+  "publisher": "motion-twin",
+  "developer": "Motion Twin",
+  "year": 2018,
+  "platforms": ["PC", "Mac", "Linux", "PlayStation 4", "Xbox One", "Nintendo Switch", "Mobile"],
+  "genres": ["Roguelike", "Metroidvania", "Action"],
+  "modes": ["Single-player"],
+  "summary": "A failed experiment navigates an ever-changing castle. Combines roguelike progression with metroidvania exploration and fluid combat.",
+  "sales": {
+    "unitsSold": 10000000,
+    "source": "Wikipedia/Motion Twin",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Dead_Cells"
+  },
+  "ratings": {
+    "metacritic": { "score": 89, "max": 100 }
+  },
+  "rank": 66,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/1f/Dead_cells_cover_art.png",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Dead Cells cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Dead_cells_cover_art.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Dead_Cells",
+      "source": "Wikipedia"
+    }
+  ]
+}

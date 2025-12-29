@@ -1,0 +1,18 @@
+{
+  "id": "guinness",
+  "title": "Guinness",
+  "summary": "Irish stout brand renowned for award-winning advertising campaigns, including the Surfer ad voted the best British commercial of all time.",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Guinness",
+      "source": "Wikipedia"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/fe/Guinness_logo.svg",
+      "type": "logo",
+      "alt": "Guinness logo"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "squid-game-2021",
+  "title": "Squid Game",
+  "network": "netflix",
+  "year": 2021,
+  "endYear": null,
+  "seasons": 2,
+  "episodes": 16,
+  "genres": [
+    "Thriller",
+    "Drama",
+    "Survival"
+  ],
+  "creators": [
+    "Hwang Dong-hyuk"
+  ],
+  "cast": [
+    "Lee Jung-jae",
+    "Park Hae-soo",
+    "Wi Ha-joon",
+    "Jung Ho-yeon",
+    "O Yeong-su"
+  ],
+  "country": "South Korea",
+  "language": "Korean",
+  "runtime": 56,
+  "summary": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games for a life-changing prize, only to discover deadly stakes. Became Netflix's most-watched series ever upon release.",
+  "viewership": {
+    "hoursWatched": 1650450000,
+    "peakEpisode": "Season 1",
+    "source": "Netflix",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Squid_Game"
+  },
+  "ratings": {
+    "imdb": {
+      "score": 8.0,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 95,
+      "audience": 84
+    }
+  },
+  "rank": 10,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Squid_Game_2021_vector_logo.svg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Squid Game poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Squid_Game_season_2.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Squid_Game",
+      "source": "Wikipedia"
+    }
+  ]
+}

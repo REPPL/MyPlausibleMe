@@ -1,0 +1,92 @@
+{
+  "id": "alice-in-wonderland-2010",
+  "title": "Alice in Wonderland",
+  "studio": "disney",
+  "year": 2010,
+  "director": "Tim Burton",
+  "cast": [
+    "Mia Wasikowska",
+    "Johnny Depp",
+    "Helena Bonham Carter",
+    "Anne Hathaway",
+    "Crispin Glover"
+  ],
+  "genres": [
+    "Fantasy",
+    "Adventure",
+    "Family"
+  ],
+  "runtime": 108,
+  "language": "English",
+  "country": "USA",
+  "summary": "Nineteen-year-old Alice returns to the magical world from her childhood adventure, where she reunites with her old friends and learns of her true destiny: to end the Red Queen's reign of terror. Burton's distinctive vision reimagined the classic tale.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1025491110,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 334191110,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 691300000,
+      "currency": "USD"
+    },
+    "budget": 150000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Alice_in_Wonderland_(2010_film)"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 2,
+      "nominations": 3
+    }
+  },
+  "ratings": {
+    "imdb": {
+      "score": 6.4,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 51,
+      "audience": 53
+    },
+    "metacritic": {
+      "score": 53,
+      "max": 100
+    }
+  },
+  "rank": 47,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/36/Alice_in_Wonderland_%282010_film%29.png",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Alice in Wonderland movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Alice_in_Wonderland_(2010_film)_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=9POCgSRVvf0",
+      "title": "Alice in Wonderland Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Alice_in_Wonderland_(2010_film)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt1014759/",
+      "source": "IMDB"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "the-adventures-of-tom-sawyer-1876",
+  "title": "The Adventures of Tom Sawyer",
+  "author": "mark-twain",
+  "year": 1876,
+  "genres": [
+    "Adventure",
+    "Coming-of-age",
+    "Satire"
+  ],
+  "pages": 274,
+  "publisher": "American Publishing Company",
+  "language": "English",
+  "country": "United States",
+  "summary": "The mischievous adventures of Tom Sawyer and his friend Huckleberry Finn in a Missouri town along the Mississippi River. A beloved American classic that captures the spirit of boyhood in 19th-century America.",
+  "sales": {
+    "copiesSold": 10000000,
+    "languages": 50,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Adventures_of_Tom_Sawyer"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 3.93,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 3.96,
+      "max": 5,
+      "count": 151
+    }
+  },
+  "rank": 96,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/12043351-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "The Adventures of Tom Sawyer cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL53919W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Tom_Sawyer",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL53919W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 879,
+  "isbn": "1855873125",
+  "description": "Mark Twain created the memorable characters Tom Sawyer and Huckleberry Finn drawing from the experiences of boys he grew up with in Missouri. Set by the Mississippi River in the 1840's, it follows these boys as they get into predicament after predicament. Tom's classic whitewashing of the fence has become part of American legend, and the book paints a nostalgic picture of life in the middle of the nineteenth century. Tom runs away from home to an island in the river, chases Injun Joe and his tre...",
+  "_openlibrary_work_key": "/works/OL53919W"
+}

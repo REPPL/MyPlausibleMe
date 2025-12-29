@@ -1,0 +1,39 @@
+{
+  "id": "borderlands-3-2019",
+  "title": "Borderlands 3",
+  "publisher": "2k-games",
+  "developer": "Gearbox Software",
+  "year": 2019,
+  "platforms": ["PC", "Mac", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "Stadia", "Nintendo Switch"],
+  "genres": ["First-person shooter", "Looter shooter", "Action RPG"],
+  "modes": ["Single-player", "Multiplayer"],
+  "summary": "Vault Hunters battle the Calypso Twins across multiple planets. Features over one billion procedurally generated guns and four-player co-op.",
+  "sales": {
+    "unitsSold": 18000000,
+    "source": "Wikipedia/2K Games",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Borderlands_3"
+  },
+  "ratings": {
+    "metacritic": { "score": 81, "max": 100 }
+  },
+  "rank": 74,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/07/Borderlands_3_cover_art.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Borderlands 3 cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Borderlands_3_cover_art.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Borderlands_3",
+      "source": "Wikipedia"
+    }
+  ]
+}

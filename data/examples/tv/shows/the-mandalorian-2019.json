@@ -1,0 +1,45 @@
+{
+  "id": "the-mandalorian-2019",
+  "title": "The Mandalorian",
+  "network": "disney-plus",
+  "year": 2019,
+  "endYear": null,
+  "seasons": 3,
+  "episodes": 24,
+  "genres": ["Science fiction", "Space Western", "Action"],
+  "creators": ["Jon Favreau"],
+  "cast": ["Pedro Pascal", "Giancarlo Esposito", "Carl Weathers", "Katee Sackhoff"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 40,
+  "summary": "A lone bounty hunter in the outer reaches of the Star Wars galaxy becomes guardian to a mysterious alien child known as 'The Child' or Grogu. The first live-action Star Wars series.",
+  "viewership": {
+    "peakViewers": 12000000,
+    "source": "Disney+",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Mandalorian"
+  },
+  "ratings": {
+    "imdb": { "score": 8.7, "max": 10 },
+    "rottenTomatoes": { "critics": 93, "audience": 88 }
+  },
+  "rank": 12,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/3b/TheMandalorian2019.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Mandalorian poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:TheMandalorian2019.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Mandalorian",
+      "source": "Wikipedia"
+    }
+  ]
+}

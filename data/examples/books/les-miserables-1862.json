@@ -1,0 +1,63 @@
+{
+  "id": "les-miserables-1862",
+  "title": "Les Misérables",
+  "author": "victor-hugo",
+  "year": 1862,
+  "genres": [
+    "Historical fiction",
+    "Epic",
+    "Social commentary"
+  ],
+  "pages": 1462,
+  "publisher": "A. Lacroix, Verboeckhoven & Cie",
+  "language": "French",
+  "country": "France",
+  "summary": "The epic story of Jean Valjean, an ex-convict seeking redemption in 19th-century France, pursued by the relentless Inspector Javert. Adapted into one of the world's longest-running musicals.",
+  "sales": {
+    "copiesSold": 10000000,
+    "languages": 60,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.2,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.25,
+      "max": 5,
+      "count": 48
+    }
+  },
+  "rank": 100,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/12721865-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Les Misérables cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL1063588W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL1063588W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 526,
+  "isbn": "9782040160340",
+  "description": "In this story of the trials of the peasant Jean Valjean--a man unjustly imprisoned, baffled by destiny, and hounded by his nemesis, the magnificently realized, ambiguously malevolent police detective Javert--Hugo achieves the sort of rare imaginative resonance that allows a work of art to transcend its genre.",
+  "_openlibrary_work_key": "/works/OL1063588W"
+}

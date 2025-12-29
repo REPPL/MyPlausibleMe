@@ -1,0 +1,92 @@
+{
+  "id": "ant-man-and-the-wasp-quantumania-2023",
+  "title": "Ant-Man and the Wasp: Quantumania",
+  "studio": "disney",
+  "year": 2023,
+  "director": "Peyton Reed",
+  "cast": [
+    "Paul Rudd",
+    "Evangeline Lilly",
+    "Michael Douglas",
+    "Michelle Pfeiffer",
+    "Jonathan Majors"
+  ],
+  "genres": [
+    "Superhero",
+    "Action",
+    "Adventure"
+  ],
+  "runtime": 124,
+  "language": "English",
+  "country": "USA",
+  "summary": "Scott Lang and Hope Van Dyne, along with Hank Pym and Janet Van Dyne, explore the Quantum Realm, where they interact with strange creatures and embark on an adventure that goes beyond the limits of what they thought was possible. The film introduced Kang the Conqueror.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 476071180,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 214504909,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 261566271,
+      "currency": "USD"
+    },
+    "budget": 200000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ant-Man_and_the_Wasp:_Quantumania"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": {
+      "score": 6.0,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 46,
+      "audience": 83
+    },
+    "metacritic": {
+      "score": 48,
+      "max": 100
+    }
+  },
+  "rank": 93,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/30/Ant-Man_and_the_Wasp_Quantumania_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Ant-Man and the Wasp: Quantumania movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Ant-Man_and_the_Wasp_Quantumania_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=ZlNFpri-Y40",
+      "title": "Ant-Man and the Wasp: Quantumania Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ant-Man_and_the_Wasp:_Quantumania",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt10954600/",
+      "source": "IMDB"
+    }
+  ]
+}

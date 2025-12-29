@@ -1,0 +1,73 @@
+{
+  "id": "up-2009",
+  "title": "Up",
+  "studio": "disney",
+  "year": 2009,
+  "director": "Pete Docter, Bob Peterson",
+  "cast": ["Ed Asner", "Christopher Plummer", "Jordan Nagai", "Bob Peterson", "Delroy Lindo"],
+  "genres": ["Animation", "Adventure", "Comedy"],
+  "runtime": 96,
+  "language": "English",
+  "country": "USA",
+  "summary": "78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway. Pixar's heartwarming adventure opened with one of cinema's most emotionally powerful montages.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 735099102,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 293004164,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 442094938,
+      "currency": "USD"
+    },
+    "budget": 175000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Up_(2009_film)"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 2,
+      "nominations": 5
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 8.3, "max": 10 },
+    "rottenTomatoes": { "critics": 98, "audience": 90 },
+    "metacritic": { "score": 88, "max": 100 }
+  },
+  "rank": 96,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/05/Up_%282009_film%29.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Up movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Up_(2009_film).jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=ORFWdXl_zJ4",
+      "title": "Up Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Up_(2009_film)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt1049413/",
+      "source": "IMDB"
+    }
+  ]
+}

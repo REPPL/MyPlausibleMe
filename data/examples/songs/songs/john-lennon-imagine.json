@@ -1,0 +1,91 @@
+{
+  "id": "john-lennon-imagine",
+  "title": "Imagine",
+  "artist": "john-lennon",
+  "year": 1971,
+  "album": "Imagine",
+  "writers": [
+    "John Lennon"
+  ],
+  "producers": [
+    "John Lennon",
+    "Yoko Ono",
+    "Phil Spector"
+  ],
+  "genres": [
+    "Soft rock",
+    "Pop"
+  ],
+  "duration": 187,
+  "label": "Apple Records",
+  "summary": "A utopian vision of peace and unity that became Lennon's signature solo song. Its simple piano melody and idealistic lyrics have made it one of the most covered songs in history and an enduring anthem for peace.",
+  "sales": {
+    "totalUnits": 3000000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Imagine_(John_Lennon_song)"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 3,
+      "chart": "Billboard Hot 100",
+      "year": 1971
+    },
+    "UK": {
+      "peak": 1,
+      "chart": "UK Singles Chart",
+      "year": 1975
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "2x Platinum",
+      "units": 2000000
+    },
+    {
+      "region": "UK",
+      "certification": "2x Platinum",
+      "units": 1200000
+    }
+  ],
+  "rank": 52,
+  "images": [
+    {
+      "url": "https://coverartarchive.org/release/c1314bba-7cfa-46ae-aece-cf92827da7b5/20432773052-500.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Album cover",
+      "attribution": {
+        "source": "Cover Art Archive",
+        "licence": "CC BY-NC-SA 3.0",
+        "licenceUrl": "https://wiki.musicbrainz.org/Cover_Art_Archive",
+        "note": "Cover art copyrighted by respective owners. Non-commercial use only.",
+        "sourceUrl": "https://musicbrainz.org/release/c1314bba-7cfa-46ae-aece-cf92827da7b5"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=YkgkThdzX-8",
+      "title": "John Lennon - Imagine (Official Music Video)",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Imagine_(John_Lennon_song)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/e905a54a-a135-419f-8466-097d740c821e",
+      "source": "MusicBrainz"
+    },
+    {
+      "url": "https://musicbrainz.org/release/c1314bba-7cfa-46ae-aece-cf92827da7b5",
+      "source": "MusicBrainz (Release)"
+    }
+  ],
+  "_musicbrainz_recording_id": "e905a54a-a135-419f-8466-097d740c821e",
+  "_musicbrainz_release_id": "c1314bba-7cfa-46ae-aece-cf92827da7b5"
+}

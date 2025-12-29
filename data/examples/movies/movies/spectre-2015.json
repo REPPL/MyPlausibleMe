@@ -1,0 +1,73 @@
+{
+  "id": "spectre-2015",
+  "title": "Spectre",
+  "studio": "sony",
+  "year": 2015,
+  "director": "Sam Mendes",
+  "cast": ["Daniel Craig", "Christoph Waltz", "Léa Seydoux", "Ben Whishaw", "Ralph Fiennes"],
+  "genres": ["Action", "Spy", "Thriller"],
+  "runtime": 148,
+  "language": "English",
+  "country": "UK",
+  "summary": "A cryptic message from the past sends James Bond on a rogue mission to Mexico City and eventually Rome, where he meets Lucia, the beautiful and forbidden widow of an infamous criminal. Bond infiltrates a secret meeting and uncovers the existence of the sinister organisation known as Spectre.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 881614761,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 200074609,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 681540152,
+      "currency": "USD"
+    },
+    "budget": 245000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Spectre_(2015_film)"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 1,
+      "nominations": 1
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 6.8, "max": 10 },
+    "rottenTomatoes": { "critics": 63, "audience": 62 },
+    "metacritic": { "score": 60, "max": 100 }
+  },
+  "rank": 58,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/68/Spectre_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Spectre movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Spectre_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=CiU1HL9LxoY",
+      "title": "Spectre Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Spectre_(2015_film)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt2379713/",
+      "source": "IMDB"
+    }
+  ]
+}

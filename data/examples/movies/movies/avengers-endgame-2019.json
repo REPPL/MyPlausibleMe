@@ -1,0 +1,73 @@
+{
+  "id": "avengers-endgame-2019",
+  "title": "Avengers: Endgame",
+  "studio": "disney",
+  "year": 2019,
+  "director": "Anthony Russo, Joe Russo",
+  "cast": ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo", "Chris Hemsworth", "Scarlett Johansson"],
+  "genres": ["Superhero", "Science fiction", "Action"],
+  "runtime": 181,
+  "language": "English",
+  "country": "USA",
+  "summary": "After the devastating events of Infinity War, the Avengers assemble once more to reverse Thanos's actions and restore balance to the universe. The culmination of the Marvel Cinematic Universe's first 22 films, it became the fastest film to gross $2 billion worldwide.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 2799439100,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 858373000,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 1941066100,
+      "currency": "USD"
+    },
+    "budget": 356000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Avengers:_Endgame"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 1
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 8.4, "max": 10 },
+    "rottenTomatoes": { "critics": 94, "audience": 90 },
+    "metacritic": { "score": 78, "max": 100 }
+  },
+  "rank": 2,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Avengers: Endgame movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Avengers_Endgame_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=TcMBFSGVi1c",
+      "title": "Avengers: Endgame Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Avengers:_Endgame",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt4154796/",
+      "source": "IMDB"
+    }
+  ]
+}

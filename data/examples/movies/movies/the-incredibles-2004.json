@@ -1,0 +1,92 @@
+{
+  "id": "the-incredibles-2004",
+  "title": "The Incredibles",
+  "studio": "disney",
+  "year": 2004,
+  "director": "Brad Bird",
+  "cast": [
+    "Craig T. Nelson",
+    "Holly Hunter",
+    "Samuel L. Jackson",
+    "Jason Lee",
+    "Elizabeth Peña"
+  ],
+  "genres": [
+    "Animation",
+    "Superhero",
+    "Action"
+  ],
+  "runtime": 115,
+  "language": "English",
+  "country": "USA",
+  "summary": "A family of undercover superheroes, while trying to live the quiet suburban life, are forced into action to save the world. Brad Bird's superhero satire became one of Pixar's most beloved films.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 631442092,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 261441092,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 370001000,
+      "currency": "USD"
+    },
+    "budget": 92000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Incredibles"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 2,
+      "nominations": 4
+    }
+  },
+  "ratings": {
+    "imdb": {
+      "score": 8.0,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 97,
+      "audience": 90
+    },
+    "metacritic": {
+      "score": 90,
+      "max": 100
+    }
+  },
+  "rank": 86,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/2/27/The_Incredibles_%282004_animated_feature_film%29.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Incredibles movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:The_Incredibles.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=eZbzbC9285I",
+      "title": "The Incredibles Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Incredibles",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0317705/",
+      "source": "IMDB"
+    }
+  ]
+}

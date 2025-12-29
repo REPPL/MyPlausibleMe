@@ -1,0 +1,73 @@
+{
+  "id": "transformers-revenge-of-the-fallen-2009",
+  "title": "Transformers: Revenge of the Fallen",
+  "studio": "paramount",
+  "year": 2009,
+  "director": "Michael Bay",
+  "cast": ["Shia LaBeouf", "Megan Fox", "Josh Duhamel", "Tyrese Gibson", "John Turturro"],
+  "genres": ["Science fiction", "Action", "Adventure"],
+  "runtime": 150,
+  "language": "English",
+  "country": "USA",
+  "summary": "Sam Witwicky leaves the Autobots behind for a normal life. But when his mind is filled with cryptic symbols, the Decepticons target him and he is dragged back into the Transformers' war.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 836303693,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 402111870,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 434191823,
+      "currency": "USD"
+    },
+    "budget": 200000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Transformers:_Revenge_of_the_Fallen"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 1
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 6.0, "max": 10 },
+    "rottenTomatoes": { "critics": 20, "audience": 57 },
+    "metacritic": { "score": 35, "max": 100 }
+  },
+  "rank": 85,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/ad/Transformersrevenge.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Transformers: Revenge of the Fallen movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Transformersrevenge.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=fnXzKwUgDhg",
+      "title": "Transformers: Revenge of the Fallen Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Transformers:_Revenge_of_the_Fallen",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt1055369/",
+      "source": "IMDB"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "age-of-mythology-mac",
+  "title": "Age of Mythology",
+  "platform": "mac",
+  "myRank": 3,
+  "year": 2002,
+  "summary": "A real-time strategy game incorporating mythological elements from Greek, Egyptian, and Norse cultures.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/b9/Age_of_Mythology_ingame_screenshot.jpg",
+      "type": "screenshot",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Age_of_Mythology_ingame_screenshot.jpg",
+        "licence": "fair-use"
+      },
+      "isPrimary": true,
+      "alt": "Age of Mythology gameplay screenshot"
+    }
+  ],
+  "myStartYear": 2003,
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Age_of_Mythology",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/game/7762/",
+      "source": "MobyGames"
+    }
+  ],
+  "originalPlatform": "PC",
+  "originalReleaseDate": "2002",
+  "genres": [
+    "RTS"
+  ],
+  "myVerdict": "My kind of game",
+  "averageRating": {
+    "score": 4.5,
+    "sourceCount": 30,
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Age_of_Mythology#Reception"
+  }
+}

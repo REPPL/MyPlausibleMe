@@ -1,0 +1,48 @@
+{
+  "id": "street-fighter-ii-turbo-snes",
+  "title": "Street Fighter II Turbo",
+  "platform": "snes",
+  "myRank": 1,
+  "year": 1993,
+  "summary": "A competitive fighting game that served as the home version of the arcade title, featuring a diverse roster of martial artists.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/46/Street_Fighter_II_%28arcade%29_screenshot.png",
+      "type": "screenshot",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Street_Fighter_II_%28arcade%29_screenshot.png",
+        "licence": "fair-use"
+      },
+      "isPrimary": true,
+      "alt": "Street Fighter II gameplay screenshot"
+    }
+  ],
+  "myStartYear": 1993,
+  "myVerdict": "I'm the strongest woman in the world!",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Street_Fighter_II",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Street_Fighter_II_Turbo",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/game/1150/",
+      "source": "MobyGames"
+    }
+  ],
+  "originalPlatform": "Arcade",
+  "originalReleaseDate": "1992",
+  "genres": [
+    "Fighting"
+  ],
+  "averageRating": {
+    "score": 5,
+    "sourceCount": 8,
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Street_Fighter_II_Turbo#Reception"
+  }
+}

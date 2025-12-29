@@ -1,0 +1,39 @@
+{
+  "id": "bioshock-2007",
+  "title": "BioShock",
+  "publisher": "2k-games",
+  "developer": "2K Boston / 2K Australia",
+  "year": 2007,
+  "platforms": ["PC", "PlayStation 3", "Xbox 360", "PlayStation 4", "Xbox One", "Nintendo Switch", "Mobile"],
+  "genres": ["First-person shooter", "Survival horror"],
+  "modes": ["Single-player"],
+  "summary": "A man explores the underwater city of Rapture, discovering its Objectivist dystopia. Known for its philosophical themes and memorable twist.",
+  "sales": {
+    "unitsSold": 4000000,
+    "source": "Wikipedia/2K Games",
+    "sourceUrl": "https://en.wikipedia.org/wiki/BioShock"
+  },
+  "ratings": {
+    "metacritic": { "score": 96, "max": 100 }
+  },
+  "rank": 58,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/6d/BioShock_cover.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "BioShock cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:BioShock_cover.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/BioShock",
+      "source": "Wikipedia"
+    }
+  ]
+}

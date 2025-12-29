@@ -1,0 +1,63 @@
+{
+  "id": "the-shield-2002",
+  "title": "The Shield",
+  "network": "fx",
+  "year": 2002,
+  "endYear": 2008,
+  "seasons": 7,
+  "episodes": 88,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "creators": [
+    "Shawn Ryan"
+  ],
+  "cast": [
+    "Michael Chiklis",
+    "Walton Goggins",
+    "Catherine Dent",
+    "CCH Pounder",
+    "Jay Karnes"
+  ],
+  "country": "United States",
+  "language": "English",
+  "runtime": 42,
+  "summary": "A corrupt Los Angeles police detective operates within a special unit that sometimes blurs the line between law and crime. Michael Chiklis won an Emmy for his role.",
+  "viewership": {
+    "peakViewers": 3200000,
+    "averageViewers": 2000000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Shield"
+  },
+  "ratings": {
+    "imdb": {
+      "score": 8.7,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 91,
+      "audience": 92
+    }
+  },
+  "rank": 99,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/69/TheShieldTitle.JPG",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Shield title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:The_Shield_Title_Card.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Shield",
+      "source": "Wikipedia"
+    }
+  ]
+}

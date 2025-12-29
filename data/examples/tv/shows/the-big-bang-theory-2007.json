@@ -1,0 +1,46 @@
+{
+  "id": "the-big-bang-theory-2007",
+  "title": "The Big Bang Theory",
+  "network": "cbs",
+  "year": 2007,
+  "endYear": 2019,
+  "seasons": 12,
+  "episodes": 279,
+  "genres": ["Sitcom", "Comedy"],
+  "creators": ["Chuck Lorre", "Bill Prady"],
+  "cast": ["Jim Parsons", "Johnny Galecki", "Kaley Cuoco", "Simon Helberg", "Kunal Nayyar"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 22,
+  "summary": "A group of socially awkward physicists and their street-smart neighbour navigate work, life, and relationships. The most-watched scripted series on American television for several years.",
+  "viewership": {
+    "peakViewers": 23440000,
+    "averageViewers": 18000000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Big_Bang_Theory"
+  },
+  "ratings": {
+    "imdb": { "score": 8.2, "max": 10 },
+    "rottenTomatoes": { "critics": 81, "audience": 80 }
+  },
+  "rank": 44,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/7/7b/The_Big_Bang_Theory_%28Official_Title_Card%29.png",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Big Bang Theory title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:The_Big_Bang_Theory_(Official_Title_Card).png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Big_Bang_Theory",
+      "source": "Wikipedia"
+    }
+  ]
+}

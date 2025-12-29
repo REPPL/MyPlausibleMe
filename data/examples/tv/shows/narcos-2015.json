@@ -1,0 +1,64 @@
+{
+  "id": "narcos-2015",
+  "title": "Narcos",
+  "network": "netflix",
+  "year": 2015,
+  "endYear": 2017,
+  "seasons": 3,
+  "episodes": 30,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Biography"
+  ],
+  "creators": [
+    "Chris Brancato",
+    "Carlo Bernard",
+    "Doug Miro"
+  ],
+  "cast": [
+    "Wagner Moura",
+    "Boyd Holbrook",
+    "Pedro Pascal",
+    "Joanna Christie",
+    "Damián Alcázar"
+  ],
+  "country": "United States",
+  "language": "English",
+  "runtime": 50,
+  "summary": "The story of Colombian drug lord Pablo Escobar and the DEA agents hunting him. The first two seasons focus on the Medellín Cartel, while the third covers the Cali Cartel.",
+  "viewership": {
+    "source": "Netflix",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Narcos"
+  },
+  "ratings": {
+    "imdb": {
+      "score": 8.8,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 90,
+      "audience": 92
+    }
+  },
+  "rank": 60,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/0a/Narcos_title_card.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Narcos title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Narcos_title_card.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Narcos",
+      "source": "Wikipedia"
+    }
+  ]
+}

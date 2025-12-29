@@ -1,0 +1,55 @@
+{
+  "id": "resident-evil-4-2005",
+  "title": "Resident Evil 4",
+  "publisher": "capcom",
+  "developer": "Capcom Production Studio 4",
+  "year": 2005,
+  "platforms": [
+    "GameCube",
+    "PlayStation 2",
+    "PC",
+    "Wii",
+    "PlayStation 4",
+    "Xbox One",
+    "Nintendo Switch"
+  ],
+  "genres": [
+    "Survival horror",
+    "Third-person shooter"
+  ],
+  "modes": [
+    "Single-player"
+  ],
+  "summary": "Leon S. Kennedy rescues the president's daughter from a cult in rural Spain. Revolutionised the third-person shooter genre with its over-the-shoulder camera.",
+  "sales": {
+    "unitsSold": 13000000,
+    "source": "Wikipedia/Capcom",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Resident_Evil_4"
+  },
+  "ratings": {
+    "metacritic": {
+      "score": 96,
+      "max": 100
+    }
+  },
+  "rank": 49,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/d9/Resi4-gc-cover.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Resident Evil 4 cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Resident_Evil_4.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Resident_Evil_4",
+      "source": "Wikipedia"
+    }
+  ]
+}

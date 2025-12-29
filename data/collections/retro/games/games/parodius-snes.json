@@ -1,0 +1,63 @@
+{
+  "id": "parodius-snes",
+  "title": "Parodius",
+  "platform": "snes",
+  "myRank": 4,
+  "year": 1990,
+  "summary": "A comedic side-scrolling shooter that serves as a parody of the Gradius series, featuring unconventional characters and settings.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/32/Parodius_NES.jpg",
+      "type": "boxart",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Parodius_Da!",
+        "licence": "fair-use"
+      },
+      "isPrimary": true,
+      "alt": "Parodius box art"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/62/Parodius_da03.png",
+      "type": "screenshot",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Parodius_Da!",
+        "licence": "fair-use"
+      },
+      "isPrimary": false,
+      "alt": "Parodius gameplay screenshot"
+    }
+  ],
+  "myStartYear": 1993,
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Parodius_Da!",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/game/67312/",
+      "source": "MobyGames"
+    }
+  ],
+  "originalPlatform": "Arcade",
+  "originalReleaseDate": "1990",
+  "genres": [
+    "Shooter"
+  ],
+  "myVerdict": "Gradius on steroids. Love it.",
+  "averageRating": {
+    "score": 4.5,
+    "sourceCount": 8,
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Parodius_Da!#Reception"
+  },
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=ub3ihFS5raI",
+      "title": "PC Engine Longplay - Parodius Da! ~Shinwa kara Owarai e~",
+      "source": "World of Longplays",
+      "type": "gameplay"
+    }
+  ]
+}

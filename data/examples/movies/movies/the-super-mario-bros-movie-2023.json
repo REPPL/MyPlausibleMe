@@ -1,0 +1,73 @@
+{
+  "id": "the-super-mario-bros-movie-2023",
+  "title": "The Super Mario Bros. Movie",
+  "studio": "universal",
+  "year": 2023,
+  "director": "Aaron Horvath, Michael Jelenic",
+  "cast": ["Chris Pratt", "Anya Taylor-Joy", "Charlie Day", "Jack Black", "Keegan-Michael Key"],
+  "genres": ["Animation", "Comedy", "Adventure"],
+  "runtime": 92,
+  "language": "English",
+  "country": "USA",
+  "summary": "A plumber named Mario travels through an underground labyrinth with his brother, Luigi, trying to save a captured princess. Based on the beloved Nintendo video game franchise, the film became one of the highest-grossing animated films of all time.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1361991598,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 574934330,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 787057268,
+      "currency": "USD"
+    },
+    "budget": 100000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Super_Mario_Bros._Movie"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 1
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 7.0, "max": 10 },
+    "rottenTomatoes": { "critics": 59, "audience": 95 },
+    "metacritic": { "score": 46, "max": 100 }
+  },
+  "rank": 17,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/44/The_Super_Mario_Bros._Movie_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Super Mario Bros. Movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:The_Super_Mario_Bros._Movie_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=TnGl01FkMMo",
+      "title": "The Super Mario Bros. Movie Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Super_Mario_Bros._Movie",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt6718170/",
+      "source": "IMDB"
+    }
+  ]
+}

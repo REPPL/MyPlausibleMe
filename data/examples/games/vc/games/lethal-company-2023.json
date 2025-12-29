@@ -1,0 +1,39 @@
+{
+  "id": "lethal-company-2023",
+  "title": "Lethal Company",
+  "publisher": "zeekerss",
+  "developer": "Zeekerss",
+  "year": 2023,
+  "platforms": ["PC"],
+  "genres": ["Horror", "Survival", "Co-op"],
+  "modes": ["Multiplayer"],
+  "summary": "Employees scavenge abandoned moons for scrap while avoiding monsters. A co-op horror phenomenon created by a solo developer.",
+  "sales": {
+    "unitsSold": 10000000,
+    "source": "Wikipedia/Zeekerss",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Lethal_Company"
+  },
+  "ratings": {
+    "metacritic": { "score": 82, "max": 100 }
+  },
+  "rank": 97,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/96/Lethal_Company_cover_art.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Lethal Company cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Lethal_Company_cover_art.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Lethal_Company",
+      "source": "Wikipedia"
+    }
+  ]
+}

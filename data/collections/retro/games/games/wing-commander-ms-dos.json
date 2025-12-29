@@ -1,0 +1,63 @@
+{
+  "id": "wing-commander-ms-dos",
+  "title": "Wing Commander",
+  "platform": "ms-dos",
+  "myRank": 2,
+  "year": 1990,
+  "summary": "A cinematic space combat simulation featuring branching missions and a narrative focused on an interstellar war.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/d1/WingCommanderBox-front.jpg",
+      "type": "boxart",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:WingCommanderBox-front.jpg",
+        "licence": "fair-use"
+      },
+      "isPrimary": true,
+      "alt": "Wing Commander cover art"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/43/Super_Wing_Commander_screenshot.jpeg",
+      "type": "screenshot",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Super_Wing_Commander_screenshot.jpeg",
+        "licence": "fair-use"
+      },
+      "isPrimary": false,
+      "alt": "Super Wing Commander screenshot"
+    }
+  ],
+  "myStartYear": 1992,
+  "myVerdict": "I bought so much stuff for my PC just to play this game ?",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Wing_Commander_(video_game)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/game/3/",
+      "source": "MobyGames"
+    }
+  ],
+  "originalPlatform": "DOS",
+  "originalReleaseDate": "1990",
+  "genres": [
+    "Simulation"
+  ],
+  "averageRating": {
+    "score": 4.4,
+    "sourceCount": 7,
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Wing_Commander_(video_game)#Reception"
+  },
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=S4J_LRKo4LI",
+      "title": "Wing Commander - MS-DOS Gameplay",
+      "source": "YouTube",
+      "type": "gameplay"
+    }
+  ]
+}

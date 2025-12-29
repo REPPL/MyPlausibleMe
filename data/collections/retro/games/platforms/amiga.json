@@ -1,0 +1,57 @@
+{
+  "id": "amiga",
+  "title": "Amiga",
+  "shortTitle": "Amiga",
+  "year": 1985,
+  "manufacturer": "Commodore",
+  "generation": "4th (16/32-bit)",
+  "mediaFormat": "Floppy / Hard Drive",
+  "unitsSold": "6 million",
+  "bestSellingGame": "Lemmings",
+  "summary": "A powerful multimedia computer family known for superior graphics and sound, though noted for occasional system instability.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Amiga-Logo-1985.svg",
+      "type": "logo",
+      "isPrimary": false,
+      "alt": "Amiga logo",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amiga-Logo-1985.svg",
+        "licence": "public-domain"
+      }
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Amiga500_system1.jpg",
+      "type": "console",
+      "isPrimary": true,
+      "alt": "Amiga 500 computer",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amiga500_system1.jpg",
+        "licence": "cc-by-sa-3.0"
+      }
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Amiga_Workbench_3.1_screenshot.png",
+      "type": "screenshot",
+      "isPrimary": false,
+      "alt": "Amiga Workbench 3.1 screenshot",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amiga_Workbench_3.1_screenshot.png",
+        "licence": "cc-by-sa-3.0"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Amiga",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/platform/amiga/",
+      "source": "MobyGames"
+    }
+  ]
+}

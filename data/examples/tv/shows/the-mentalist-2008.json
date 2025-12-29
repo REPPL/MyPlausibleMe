@@ -1,0 +1,64 @@
+{
+  "id": "the-mentalist-2008",
+  "title": "The Mentalist",
+  "network": "cbs",
+  "year": 2008,
+  "endYear": 2015,
+  "seasons": 7,
+  "episodes": 151,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "creators": [
+    "Bruno Heller"
+  ],
+  "cast": [
+    "Simon Baker",
+    "Robin Tunney",
+    "Tim Kang",
+    "Owain Yeoman",
+    "Amanda Righetti"
+  ],
+  "country": "United States",
+  "language": "English",
+  "runtime": 43,
+  "summary": "A former fake psychic uses his keen observational skills to help the California Bureau of Investigation solve crimes while hunting his family's killer. Known for its intelligent procedural format.",
+  "viewership": {
+    "peakViewers": 18000000,
+    "averageViewers": 12000000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Mentalist"
+  },
+  "ratings": {
+    "imdb": {
+      "score": 8.1,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 69,
+      "audience": 85
+    }
+  },
+  "rank": 49,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Underdown_%26_Mentalist.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Mentalist title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:The-mentalist.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Mentalist",
+      "source": "Wikipedia"
+    }
+  ]
+}

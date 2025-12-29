@@ -1,0 +1,73 @@
+{
+  "id": "top-gun-maverick-2022",
+  "title": "Top Gun: Maverick",
+  "studio": "paramount",
+  "year": 2022,
+  "director": "Joseph Kosinski",
+  "cast": ["Tom Cruise", "Miles Teller", "Jennifer Connelly", "Jon Hamm", "Ed Harris"],
+  "genres": ["Action", "Drama"],
+  "runtime": 130,
+  "language": "English",
+  "country": "USA",
+  "summary": "After more than thirty years of service as one of the Navy's top aviators, Pete 'Maverick' Mitchell is where he belongs, pushing the envelope as a courageous test pilot. The long-awaited sequel became Tom Cruise's highest-grossing film.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1495696292,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 718732821,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 776963471,
+      "currency": "USD"
+    },
+    "budget": 170000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Top_Gun:_Maverick"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 1,
+      "nominations": 6
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 8.2, "max": 10 },
+    "rottenTomatoes": { "critics": 96, "audience": 99 },
+    "metacritic": { "score": 78, "max": 100 }
+  },
+  "rank": 13,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/13/Top_Gun_Maverick_Poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Top Gun: Maverick movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Top_Gun_Maverick_Poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=giXco2jaZ_4",
+      "title": "Top Gun: Maverick Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Top_Gun:_Maverick",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt1745960/",
+      "source": "IMDB"
+    }
+  ]
+}

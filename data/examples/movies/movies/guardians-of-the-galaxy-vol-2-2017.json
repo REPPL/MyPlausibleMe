@@ -1,0 +1,92 @@
+{
+  "id": "guardians-of-the-galaxy-vol-2-2017",
+  "title": "Guardians of the Galaxy Vol. 2",
+  "studio": "disney",
+  "year": 2017,
+  "director": "James Gunn",
+  "cast": [
+    "Chris Pratt",
+    "Zoe Saldaña",
+    "Dave Bautista",
+    "Vin Diesel",
+    "Bradley Cooper"
+  ],
+  "genres": [
+    "Superhero",
+    "Science fiction",
+    "Action"
+  ],
+  "runtime": 136,
+  "language": "English",
+  "country": "USA",
+  "summary": "The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father the ambitious celestial being Ego. The sequel doubled down on humour and emotion.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 863756051,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 389813101,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 473942950,
+      "currency": "USD"
+    },
+    "budget": 200000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._2"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 1
+    }
+  },
+  "ratings": {
+    "imdb": {
+      "score": 7.6,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 85,
+      "audience": 87
+    },
+    "metacritic": {
+      "score": 67,
+      "max": 100
+    }
+  },
+  "rank": 65,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/32/Guardians_of_the_Galaxy_Vol._2_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Guardians of the Galaxy Vol. 2 movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Guardians_of_the_Galaxy_Vol._2_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=wUn05hdkhjM",
+      "title": "Guardians of the Galaxy Vol. 2 Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._2",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt3896198/",
+      "source": "IMDB"
+    }
+  ]
+}

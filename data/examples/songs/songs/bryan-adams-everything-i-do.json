@@ -1,0 +1,91 @@
+{
+  "id": "bryan-adams-everything-i-do",
+  "title": "(Everything I Do) I Do It for You",
+  "artist": "bryan-adams",
+  "year": 1991,
+  "album": "Robin Hood: Prince of Thieves (soundtrack)",
+  "writers": [
+    "Bryan Adams",
+    "Michael Kamen",
+    "Robert John Lange"
+  ],
+  "producers": [
+    "Robert John Lange"
+  ],
+  "genres": [
+    "Power ballad",
+    "Soft rock"
+  ],
+  "duration": 397,
+  "label": "A&M Records",
+  "summary": "From the Robin Hood: Prince of Thieves soundtrack, this power ballad spent 16 consecutive weeks at number one in the UK, the longest run in UK chart history at the time. It topped charts in numerous countries.",
+  "sales": {
+    "totalUnits": 15000000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/(Everything_I_Do)_I_Do_It_for_You"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 1,
+      "weeks": 7,
+      "chart": "Billboard Hot 100",
+      "year": 1991
+    },
+    "UK": {
+      "peak": 1,
+      "weeks": 16,
+      "chart": "UK Singles Chart",
+      "year": 1991
+    },
+    "Australia": {
+      "peak": 1,
+      "chart": "ARIA Charts",
+      "year": 1991
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "4x Platinum",
+      "units": 4000000
+    },
+    {
+      "region": "UK",
+      "certification": "2x Platinum",
+      "units": 1200000
+    }
+  ],
+  "rank": 25,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/09/Everythingido_Idoitforyou.png",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "(Everything I Do) I Do It for You single cover",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:(Everything_I_Do)_I_Do_It_for_You.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=ZGoWtY_h4xo",
+      "title": "Bryan Adams - (Everything I Do) I Do It For You",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/(Everything_I_Do)_I_Do_It_for_You",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/390025a9-0234-49bf-9105-5c4113a489da",
+      "source": "MusicBrainz"
+    }
+  ],
+  "_musicbrainz_recording_id": "390025a9-0234-49bf-9105-5c4113a489da"
+}

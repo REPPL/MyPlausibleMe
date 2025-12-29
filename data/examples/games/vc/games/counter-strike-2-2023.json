@@ -1,0 +1,39 @@
+{
+  "id": "counter-strike-2-2023",
+  "title": "Counter-Strike 2",
+  "publisher": "valve",
+  "developer": "Valve",
+  "year": 2023,
+  "platforms": ["PC"],
+  "genres": ["First-person shooter", "Tactical shooter"],
+  "modes": ["Multiplayer"],
+  "summary": "The successor to Counter-Strike: Global Offensive, rebuilt on the Source 2 engine. Continues the legacy of one of the most influential competitive shooters.",
+  "sales": {
+    "players": 50000000,
+    "source": "Wikipedia/Valve",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Counter-Strike_2"
+  },
+  "ratings": {
+    "metacritic": { "score": 83, "max": 100 }
+  },
+  "rank": 43,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/f2/CS2_Cover_Art.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Counter-Strike 2 cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:CS2_Cover_Art.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Counter-Strike_2",
+      "source": "Wikipedia"
+    }
+  ]
+}

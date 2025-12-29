@@ -1,0 +1,63 @@
+{
+  "id": "the-wind-in-the-willows-1908",
+  "title": "The Wind in the Willows",
+  "author": "kenneth-grahame",
+  "year": 1908,
+  "genres": [
+    "Children's literature",
+    "Fantasy",
+    "Animal fiction"
+  ],
+  "pages": 272,
+  "publisher": "Methuen",
+  "language": "English",
+  "country": "United Kingdom",
+  "summary": "The pastoral adventures of Mole, Rat, Badger, and the irrepressible Toad along the Thames. A beloved classic of English literature that has never been out of print since its original publication.",
+  "sales": {
+    "copiesSold": 25000000,
+    "languages": 40,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Wind_in_the_Willows"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 3.99,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.08,
+      "max": 5,
+      "count": 53
+    }
+  },
+  "rank": 80,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/13335427-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "The Wind in the Willows cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL28570037W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Wind_in_the_Willows",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL28570037W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 1346,
+  "isbn": "9780553476545",
+  "description": "The adventures of four amiable animals, Rat, Toad, Mole and Badger, along a river in the English countryside.",
+  "_openlibrary_work_key": "/works/OL28570037W"
+}

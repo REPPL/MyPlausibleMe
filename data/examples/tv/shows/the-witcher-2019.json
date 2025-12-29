@@ -1,0 +1,63 @@
+{
+  "id": "the-witcher-2019",
+  "title": "The Witcher",
+  "network": "netflix",
+  "year": 2019,
+  "endYear": null,
+  "seasons": 3,
+  "episodes": 24,
+  "genres": [
+    "Fantasy",
+    "Drama",
+    "Action"
+  ],
+  "creators": [
+    "Lauren Schmidt Hissrich"
+  ],
+  "cast": [
+    "Henry Cavill",
+    "Anya Chalotra",
+    "Freya Allan",
+    "Joey Batey",
+    "Liam Hemsworth"
+  ],
+  "country": "United States",
+  "language": "English",
+  "runtime": 60,
+  "summary": "Geralt of Rivia, a mutated monster hunter, struggles to find his place in a world where people often prove more wicked than beasts. Based on the book series by Andrzej Sapkowski.",
+  "viewership": {
+    "hoursWatched": 541000000,
+    "source": "Netflix",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Witcher_(TV_series)"
+  },
+  "ratings": {
+    "imdb": {
+      "score": 8.0,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 67,
+      "audience": 81
+    }
+  },
+  "rank": 54,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/05/The_Witcher_Logo.png",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Witcher season 1 poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:The_Witcher_S1_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Witcher_(TV_series)",
+      "source": "Wikipedia"
+    }
+  ]
+}

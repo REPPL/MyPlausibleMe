@@ -1,0 +1,63 @@
+{
+  "id": "watership-down-1972",
+  "title": "Watership Down",
+  "author": "richard-adams",
+  "year": 1972,
+  "genres": [
+    "Fantasy",
+    "Adventure",
+    "Animal fiction"
+  ],
+  "pages": 413,
+  "publisher": "Rex Collings",
+  "language": "English",
+  "country": "United Kingdom",
+  "summary": "An epic tale of a group of rabbits seeking a new home. Initially rejected by multiple publishers, it became a surprise bestseller and won both the Carnegie Medal and the Guardian Children's Fiction Prize.",
+  "sales": {
+    "copiesSold": 50000000,
+    "languages": 20,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Watership_Down"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.07,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.12,
+      "max": 5,
+      "count": 100
+    }
+  },
+  "rank": 29,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/6450196-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Watership Down cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL2096536W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Watership_Down",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL2096536W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 97,
+  "isbn": "5553664667",
+  "description": "*Watership Down* is the compelling tale of a group of wild rabbits struggling to hold onto their place in the world—soon to be a BBC and Netflix animated miniseries starring James McAvoy, Nicholas Hoult, and Oscar and Grammy award-winning Sir Ben Kingsley.\r\n\r\nA phenomenal worldwide bestseller for more than forty years, Richard Adams's *Watership Down* is a timeless classic and one of the most beloved novels of all time. Set in England's Downs, a once idyllic rural landscape, this stirring tale o...",
+  "_openlibrary_work_key": "/works/OL2096536W"
+}

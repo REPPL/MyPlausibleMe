@@ -1,0 +1,95 @@
+{
+  "id": "scorpions-wind-of-change",
+  "title": "Wind of Change",
+  "artist": "scorpions",
+  "year": 1990,
+  "album": "Crazy World",
+  "writers": [
+    "Klaus Meine"
+  ],
+  "producers": [
+    "Keith Olsen",
+    "Scorpions"
+  ],
+  "genres": [
+    "Power ballad",
+    "Rock"
+  ],
+  "duration": 310,
+  "label": "Mercury Records",
+  "summary": "Written about the fall of the Berlin Wall and the end of the Cold War, this power ballad became an anthem of political change. It remains the best-selling single by a German artist and one of the best-selling singles of all time.",
+  "sales": {
+    "totalUnits": 14000000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Wind_of_Change_(Scorpions_song)"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 4,
+      "chart": "Billboard Hot 100",
+      "year": 1991
+    },
+    "UK": {
+      "peak": 2,
+      "chart": "UK Singles Chart",
+      "year": 1991
+    },
+    "Germany": {
+      "peak": 1,
+      "chart": "German Singles Chart",
+      "year": 1991
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "Platinum",
+      "units": 1000000
+    },
+    {
+      "region": "Germany",
+      "certification": "5x Gold",
+      "units": 1250000
+    }
+  ],
+  "rank": 23,
+  "images": [
+    {
+      "url": "https://coverartarchive.org/release/e0a30635-cd0d-3c57-a961-ec1fa02d2b1e/10806830328-500.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Album cover",
+      "attribution": {
+        "source": "Cover Art Archive",
+        "licence": "CC BY-NC-SA 3.0",
+        "licenceUrl": "https://wiki.musicbrainz.org/Cover_Art_Archive",
+        "note": "Cover art copyrighted by respective owners. Non-commercial use only.",
+        "sourceUrl": "https://musicbrainz.org/release/e0a30635-cd0d-3c57-a961-ec1fa02d2b1e"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=n4RjJKxsamQ",
+      "title": "Scorpions - Wind Of Change (Official Music Video)",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Wind_of_Change_(Scorpions_song)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/cc9104cd-4f1f-4deb-a8a5-9a792ff5cf02",
+      "source": "MusicBrainz"
+    },
+    {
+      "url": "https://musicbrainz.org/release/e0a30635-cd0d-3c57-a961-ec1fa02d2b1e",
+      "source": "MusicBrainz (Release)"
+    }
+  ],
+  "_musicbrainz_recording_id": "cc9104cd-4f1f-4deb-a8a5-9a792ff5cf02",
+  "_musicbrainz_release_id": "e0a30635-cd0d-3c57-a961-ec1fa02d2b1e"
+}

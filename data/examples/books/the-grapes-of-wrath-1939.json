@@ -1,0 +1,63 @@
+{
+  "id": "the-grapes-of-wrath-1939",
+  "title": "The Grapes of Wrath",
+  "author": "john-steinbeck",
+  "year": 1939,
+  "genres": [
+    "Novel",
+    "Social commentary",
+    "Historical fiction"
+  ],
+  "pages": 464,
+  "publisher": "The Viking Press",
+  "language": "English",
+  "country": "United States",
+  "summary": "The Joad family's journey from Oklahoma to California during the Great Depression and Dust Bowl. Won both the National Book Award and Pulitzer Prize, and contributed to Steinbeck's Nobel Prize in Literature.",
+  "sales": {
+    "copiesSold": 14000000,
+    "languages": 30,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Grapes_of_Wrath"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.0,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 3.92,
+      "max": 5,
+      "count": 103
+    }
+  },
+  "rank": 61,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/12715902-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "The Grapes of Wrath cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL23205W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Grapes_of_Wrath",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL23205W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 321,
+  "isbn": "9780749395179",
+  "description": "Steinbeck’s classic novel of the Great Depression is as vivid now as ever. The story focuses on a family of Oklahoma sharecroppers, farmers who work another man’s land for a share of the crops. Driven from their home by drought and poverty they take to the road in a battered old truck and make their way to California to look for work. When they arrive they find hundreds of others like them being forced to work for breadline wages. they begin working as fruit pickers, strike-breakers replacing th...",
+  "_openlibrary_work_key": "/works/OL23205W"
+}

@@ -1,0 +1,92 @@
+{
+  "id": "fleetwood-mac-dreams",
+  "title": "Dreams",
+  "artist": "fleetwood-mac",
+  "year": 1977,
+  "album": "Rumours",
+  "writers": [
+    "Stevie Nicks"
+  ],
+  "producers": [
+    "Fleetwood Mac",
+    "Ken Caillat",
+    "Richard Dashut"
+  ],
+  "genres": [
+    "Soft rock",
+    "Pop rock"
+  ],
+  "duration": 254,
+  "label": "Warner Bros. Records",
+  "summary": "Fleetwood Mac's only US number-one single, written by Stevie Nicks about her breakup with Lindsey Buckingham. It experienced a viral resurgence in 2020 thanks to a TikTok video.",
+  "sales": {
+    "totalUnits": 5000000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Dreams_(Fleetwood_Mac_song)"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 1,
+      "weeks": 1,
+      "chart": "Billboard Hot 100",
+      "year": 1977
+    },
+    "UK": {
+      "peak": 24,
+      "chart": "UK Singles Chart",
+      "year": 1977
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "4x Platinum",
+      "units": 4000000
+    },
+    {
+      "region": "UK",
+      "certification": "Platinum",
+      "units": 600000
+    }
+  ],
+  "rank": 57,
+  "images": [
+    {
+      "url": "https://coverartarchive.org/release/4338eb6b-a2bd-41bd-b9d8-2082f5f37569/35923305156-500.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Album cover",
+      "attribution": {
+        "source": "Cover Art Archive",
+        "licence": "CC BY-NC-SA 3.0",
+        "licenceUrl": "https://wiki.musicbrainz.org/Cover_Art_Archive",
+        "note": "Cover art copyrighted by respective owners. Non-commercial use only.",
+        "sourceUrl": "https://musicbrainz.org/release/4338eb6b-a2bd-41bd-b9d8-2082f5f37569"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=mrZRURcb1cM",
+      "title": "Fleetwood Mac - Dreams (Official Music Video)",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Dreams_(Fleetwood_Mac_song)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/4fb4a4fb-7684-437a-a595-c233d567fada",
+      "source": "MusicBrainz"
+    },
+    {
+      "url": "https://musicbrainz.org/release/4338eb6b-a2bd-41bd-b9d8-2082f5f37569",
+      "source": "MusicBrainz (Release)"
+    }
+  ],
+  "_musicbrainz_recording_id": "4fb4a4fb-7684-437a-a595-c233d567fada",
+  "_musicbrainz_release_id": "4338eb6b-a2bd-41bd-b9d8-2082f5f37569"
+}

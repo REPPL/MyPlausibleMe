@@ -1,0 +1,53 @@
+{
+  "id": "far-cry-5-2018",
+  "title": "Far Cry 5",
+  "publisher": "ubisoft",
+  "developer": "Ubisoft Montreal",
+  "year": 2018,
+  "platforms": [
+    "PC",
+    "PlayStation 4",
+    "Xbox One",
+    "Stadia"
+  ],
+  "genres": [
+    "First-person shooter",
+    "Open world"
+  ],
+  "modes": [
+    "Single-player",
+    "Multiplayer"
+  ],
+  "summary": "A deputy sheriff takes on a doomsday cult in Hope County, Montana. The first Far Cry set in the United States with full co-op campaign support.",
+  "sales": {
+    "unitsSold": 10000000,
+    "source": "Wikipedia/Ubisoft",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Far_Cry_5"
+  },
+  "ratings": {
+    "metacritic": {
+      "score": 81,
+      "max": 100
+    }
+  },
+  "rank": 75,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/03/Far_Cry_5_boxshot.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Far Cry 5 cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Far_Cry_5_cover_art.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Far_Cry_5",
+      "source": "Wikipedia"
+    }
+  ]
+}

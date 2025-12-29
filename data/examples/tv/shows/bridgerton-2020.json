@@ -1,0 +1,45 @@
+{
+  "id": "bridgerton-2020",
+  "title": "Bridgerton",
+  "network": "netflix",
+  "year": 2020,
+  "endYear": null,
+  "seasons": 3,
+  "episodes": 24,
+  "genres": ["Romance", "Drama", "Period piece"],
+  "creators": ["Chris Van Dusen"],
+  "cast": ["Regé-Jean Page", "Phoebe Dynevor", "Jonathan Bailey", "Nicola Coughlan", "Simone Ashley"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 60,
+  "summary": "The competitive world of Regency-era London's high society during the social season, following the powerful Bridgerton family. Became Netflix's most-watched English-language series at the time.",
+  "viewership": {
+    "hoursWatched": 625000000,
+    "source": "Netflix",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Bridgerton"
+  },
+  "ratings": {
+    "imdb": { "score": 7.3, "max": 10 },
+    "rottenTomatoes": { "critics": 84, "audience": 71 }
+  },
+  "rank": 55,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/3d/Bridgerton_Title_Card.png",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Bridgerton title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Bridgerton_Title_Card.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Bridgerton",
+      "source": "Wikipedia"
+    }
+  ]
+}

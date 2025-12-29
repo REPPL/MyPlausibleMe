@@ -1,0 +1,58 @@
+{
+  "id": "fear-of-flying-1973",
+  "title": "Fear of Flying",
+  "author": "erica-jong",
+  "year": 1973,
+  "genres": [
+    "Novel",
+    "Feminist literature",
+    "Erotic fiction"
+  ],
+  "pages": 340,
+  "publisher": "Holt, Rinehart and Winston",
+  "language": "English",
+  "country": "United States",
+  "summary": "A groundbreaking novel about Isadora Wing, a woman who explores her sexuality and identity. Famous for introducing the concept of the 'zipless f***', it became a landmark of feminist literature.",
+  "sales": {
+    "copiesSold": 27000000,
+    "languages": 27,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fear_of_Flying_(novel)"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 3.43,
+      "max": 5
+    }
+  },
+  "rank": 54,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/46711-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Fear of Flying CD cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL1901507W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Fear_of_Flying_(novel)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL1901507W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 56,
+  "isbn": "9781453225004",
+  "description": "An uninhibited story of Isadora Wing and her desire to fly free stands as a tale of self-discovery, liberation, and womanhood.",
+  "_openlibrary_work_key": "/works/OL1901507W"
+}

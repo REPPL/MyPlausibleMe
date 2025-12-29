@@ -1,0 +1,47 @@
+{
+  "id": "the-wire-2002",
+  "title": "The Wire",
+  "network": "hbo",
+  "year": 2002,
+  "endYear": 2008,
+  "seasons": 5,
+  "episodes": 60,
+  "genres": ["Crime", "Drama", "Thriller"],
+  "creators": ["David Simon"],
+  "cast": ["Dominic West", "Idris Elba", "Michael K. Williams", "Wendell Pierce", "Lance Reddick"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 60,
+  "summary": "A portrait of Baltimore told through the lens of drug trafficking, the seaport, city government, education, and the media. Considered by many critics to be the greatest television series ever made.",
+  "viewership": {
+    "peakViewers": 4400000,
+    "peakEpisode": "Series Finale",
+    "averageViewers": 2500000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Wire"
+  },
+  "ratings": {
+    "imdb": { "score": 9.3, "max": 10 },
+    "rottenTomatoes": { "critics": 94, "audience": 96 }
+  },
+  "rank": 4,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/a7/The_Wire_title_card.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Wire title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:The_Wire_title_card.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Wire",
+      "source": "Wikipedia"
+    }
+  ]
+}

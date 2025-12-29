@@ -1,0 +1,44 @@
+{
+  "id": "rc-pro-am-nes",
+  "title": "RC Pro Am",
+  "platform": "nes",
+  "myRank": 6,
+  "year": 1988,
+  "summary": "An isometric racing game featuring remote-controlled cars, power-ups, and combat elements.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/46/RC_Pro_Am_cover.jpg",
+      "type": "boxart",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:RC_Pro_Am_cover.jpg",
+        "licence": "Fair use"
+      },
+      "isPrimary": true,
+      "alt": "RC Pro Am cover"
+    }
+  ],
+  "myStartYear": 1990,
+  "status": "completed",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/R.C._Pro-Am",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/game/7501/",
+      "source": "MobyGames"
+    }
+  ],
+  "originalReleaseDate": "1988",
+  "genres": [
+    "Racing"
+  ],
+  "myVerdict": "Brilliant",
+  "averageRating": {
+    "score": 5,
+    "sourceCount": 8,
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/R.C._Pro-Am#Reception"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "snes",
+  "title": "Super Nintendo",
+  "shortTitle": "SNES",
+  "year": 1990,
+  "manufacturer": "Nintendo",
+  "generation": "4th (16-bit)",
+  "mediaFormat": "Cartridge",
+  "unitsSold": "49.1 million",
+  "bestSellingGame": "Super Mario World",
+  "summary": "A 16-bit console era milestone, featuring Mode 7 graphics and high-fidelity soundtracks that defined a generation of gaming.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/SNES_logo.svg",
+      "type": "logo",
+      "isPrimary": false,
+      "alt": "Super Nintendo logo",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:SNES_logo.svg",
+        "licence": "public-domain"
+      }
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/SNES-Mod1-Console-Set.png",
+      "type": "console",
+      "isPrimary": true,
+      "alt": "Super Nintendo Entertainment System (original model)",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:SNES-Mod1-Console-Set.png",
+        "licence": "public-domain"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/platform/snes/",
+      "source": "MobyGames"
+    }
+  ]
+}

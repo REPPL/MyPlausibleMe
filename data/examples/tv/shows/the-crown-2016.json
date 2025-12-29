@@ -1,0 +1,45 @@
+{
+  "id": "the-crown-2016",
+  "title": "The Crown",
+  "network": "netflix",
+  "year": 2016,
+  "endYear": 2023,
+  "seasons": 6,
+  "episodes": 60,
+  "genres": ["Drama", "Biography", "Historical drama"],
+  "creators": ["Peter Morgan"],
+  "cast": ["Claire Foy", "Olivia Colman", "Imelda Staunton", "Matt Smith", "Tobias Menzies"],
+  "country": "United Kingdom",
+  "language": "English",
+  "runtime": 58,
+  "summary": "A biographical drama chronicling the reign of Queen Elizabeth II from her wedding in 1947 to the 21st century. One of the most expensive television productions ever made.",
+  "viewership": {
+    "hoursWatched": 500000000,
+    "source": "Netflix",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Crown_(TV_series)"
+  },
+  "ratings": {
+    "imdb": { "score": 8.6, "max": 10 },
+    "rottenTomatoes": { "critics": 90, "audience": 83 }
+  },
+  "rank": 9,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/c3/The_Crown_season_5.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Crown poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:The_Crown_season_5.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Crown_(TV_series)",
+      "source": "Wikipedia"
+    }
+  ]
+}

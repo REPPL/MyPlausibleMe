@@ -1,0 +1,73 @@
+{
+  "id": "the-twilight-saga-breaking-dawn-part-2-2012",
+  "title": "The Twilight Saga: Breaking Dawn – Part 2",
+  "studio": "lionsgate",
+  "year": 2012,
+  "director": "Bill Condon",
+  "cast": ["Kristen Stewart", "Robert Pattinson", "Taylor Lautner", "Peter Facinelli", "Ashley Greene"],
+  "genres": ["Fantasy", "Romance", "Drama"],
+  "runtime": 115,
+  "language": "English",
+  "country": "USA",
+  "summary": "After the birth of Renesmee, the Cullens gather other vampire clans in order to protect the child from a false allegation that puts the family in front of the Volturi. The final chapter of the Twilight saga.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 829746820,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 292324737,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 537422083,
+      "currency": "USD"
+    },
+    "budget": 120000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Twilight_Saga:_Breaking_Dawn_%E2%80%93_Part_2"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 5.5, "max": 10 },
+    "rottenTomatoes": { "critics": 49, "audience": 73 },
+    "metacritic": { "score": 52, "max": 100 }
+  },
+  "rank": 62,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/f8/Breaking_Dawn_Part_2_Poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Twilight Saga: Breaking Dawn – Part 2 movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Breaking_Dawn_Part_2_Poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=T4YqnJRjDsk",
+      "title": "The Twilight Saga: Breaking Dawn Part 2 Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Twilight_Saga:_Breaking_Dawn_%E2%80%93_Part_2",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt1673434/",
+      "source": "IMDB"
+    }
+  ]
+}

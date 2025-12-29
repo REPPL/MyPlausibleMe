@@ -1,0 +1,39 @@
+{
+  "id": "valorant-2020",
+  "title": "Valorant",
+  "publisher": "riot-games",
+  "developer": "Riot Games",
+  "year": 2020,
+  "platforms": ["PC"],
+  "genres": ["First-person shooter", "Tactical shooter", "Hero shooter"],
+  "modes": ["Multiplayer"],
+  "summary": "A free-to-play tactical shooter combining precise gunplay with unique agent abilities. Features 5v5 competitive gameplay similar to Counter-Strike.",
+  "sales": {
+    "players": 35000000,
+    "source": "Wikipedia/Riot Games",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Valorant"
+  },
+  "ratings": {
+    "metacritic": { "score": 80, "max": 100 }
+  },
+  "rank": 42,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Valorant_logo_-_pink_color_version.svg",
+      "type": "logo",
+      "isPrimary": true,
+      "alt": "Valorant logo",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Valorant_logo_-_pink_color_version.svg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Valorant",
+      "source": "Wikipedia"
+    }
+  ]
+}

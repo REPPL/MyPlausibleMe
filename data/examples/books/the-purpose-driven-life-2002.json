@@ -1,0 +1,63 @@
+{
+  "id": "the-purpose-driven-life-2002",
+  "title": "The Purpose Driven Life",
+  "author": "rick-warren",
+  "year": 2002,
+  "genres": [
+    "Christian literature",
+    "Self-help",
+    "Devotional"
+  ],
+  "pages": 334,
+  "publisher": "Zondervan",
+  "language": "English",
+  "country": "United States",
+  "summary": "A 40-day spiritual journey exploring the meaning and purpose of life from a Christian perspective. One of the best-selling non-fiction books in publishing history, it has been used by churches worldwide.",
+  "sales": {
+    "copiesSold": 50000000,
+    "languages": 85,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Purpose_Driven_Life"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 3.74,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.32,
+      "max": 5,
+      "count": 19
+    }
+  },
+  "rank": 43,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/1166287-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "The Purpose-Driven Life cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL16335306W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Purpose_Driven_Life",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL16335306W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 20,
+  "isbn": "0310209072",
+  "description": "This book will help you understand why you are alive and God's amazing plan for you- both here and now, and for eternity. Rick Warren will guide you through a personal 40-day spiritual journey that will transform your answer to life's most important question: What on earth am I here for? Knowing God's purpose for creating you will reduce your stress, focus your energy, simplify your decisions, give meaning to your life, and, most important, prepare you for eternity.\r\nThe Purpose-Driven Life is a...",
+  "_openlibrary_work_key": "/works/OL16335306W"
+}

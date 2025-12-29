@@ -1,0 +1,47 @@
+{
+  "id": "house-of-the-dragon-2022",
+  "title": "House of the Dragon",
+  "network": "hbo",
+  "year": 2022,
+  "endYear": null,
+  "seasons": 2,
+  "episodes": 18,
+  "genres": ["Fantasy", "Drama"],
+  "creators": ["Ryan Condal", "George R. R. Martin"],
+  "cast": ["Paddy Considine", "Matt Smith", "Emma D'Arcy", "Olivia Cooke", "Rhys Ifans"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 60,
+  "summary": "The Targaryen civil war known as the Dance of the Dragons, set 200 years before the events of Game of Thrones. The biggest series premiere in HBO history.",
+  "viewership": {
+    "peakViewers": 9986000,
+    "peakEpisode": "The Heirs of the Dragon (S01E01)",
+    "averageViewers": 9000000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/House_of_the_Dragon"
+  },
+  "ratings": {
+    "imdb": { "score": 8.4, "max": 10 },
+    "rottenTomatoes": { "critics": 93, "audience": 85 }
+  },
+  "rank": 13,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/11/House_of_the_Dragon_title_card.jpeg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "House of the Dragon title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:House_of_the_Dragon_title_card.jpeg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/House_of_the_Dragon",
+      "source": "Wikipedia"
+    }
+  ]
+}

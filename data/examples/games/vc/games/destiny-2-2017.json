@@ -1,0 +1,39 @@
+{
+  "id": "destiny-2-2017",
+  "title": "Destiny 2",
+  "publisher": "bungie",
+  "developer": "Bungie",
+  "year": 2017,
+  "platforms": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "Stadia"],
+  "genres": ["First-person shooter", "Looter shooter", "MMOFPS"],
+  "modes": ["Multiplayer"],
+  "summary": "Guardians defend the solar system from various alien threats. A live-service looter shooter with raids, PvP, and seasonal content updates.",
+  "sales": {
+    "players": 100000000,
+    "source": "Wikipedia/Bungie",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Destiny_2"
+  },
+  "ratings": {
+    "metacritic": { "score": 85, "max": 100 }
+  },
+  "rank": 73,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/05/Destiny_2_%28artwork%29.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Destiny 2 cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Destiny_2_(artwork).jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Destiny_2",
+      "source": "Wikipedia"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "the-lion-king-2019",
+  "title": "The Lion King",
+  "studio": "disney",
+  "year": 2019,
+  "director": "Jon Favreau",
+  "cast": ["Donald Glover", "Seth Rogen", "Chiwetel Ejiofor", "Billy Eichner", "Beyoncé"],
+  "genres": ["Animation", "Musical", "Drama"],
+  "runtime": 118,
+  "language": "English",
+  "country": "USA",
+  "summary": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery. This photorealistic computer-animated remake of the 1994 classic became the highest-grossing animated film remake.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1663075401,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 543638043,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 1119437358,
+      "currency": "USD"
+    },
+    "budget": 250000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Lion_King_(2019_film)"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 6.8, "max": 10 },
+    "rottenTomatoes": { "critics": 52, "audience": 88 },
+    "metacritic": { "score": 55, "max": 100 }
+  },
+  "rank": 10,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/9d/The_Lion_King_%282019_film%29.png",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Lion King (2019) movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:The_Lion_King_(2019_film).png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=7TavVZMewpY",
+      "title": "The Lion King Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Lion_King_(2019_film)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt6105098/",
+      "source": "IMDB"
+    }
+  ]
+}

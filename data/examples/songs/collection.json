@@ -1,0 +1,74 @@
+{
+  "$schema": "https://itemdeck.app/schemas/v2/collection.json",
+  "id": "bestof-songs",
+  "name": "100 Best-Selling Singles",
+  "description": "The 100 most successful songs of all time by sales and streams.",
+  "schemaVersion": "v2",
+  "version": "1.0.0",
+  "entityTypes": {
+    "song": {
+      "primary": true,
+      "label": "Song",
+      "labelPlural": "Songs",
+      "description": "A best-selling single.",
+      "fields": {
+        "title": { "type": "string", "required": true },
+        "artist": { "type": "string", "ref": "artist", "required": true },
+        "year": { "type": "number", "description": "Release year", "required": true },
+        "album": { "type": "string", "description": "Album name" },
+        "writers": { "type": "array", "description": "Songwriters" },
+        "producers": { "type": "array", "description": "Producers" },
+        "genres": { "type": "array", "description": "Music genres", "required": true },
+        "duration": { "type": "number", "description": "Duration in seconds" },
+        "label": { "type": "string", "description": "Record label" },
+        "summary": { "type": "text", "description": "Song significance", "required": true },
+        "sales": { "type": "object", "description": "Sales and streaming data", "required": true },
+        "chartPositions": { "type": "object", "description": "Peak chart positions by country" },
+        "certifications": { "type": "array", "description": "Gold/Platinum certifications" },
+        "rank": { "type": "number", "description": "Sales ranking (1-100)", "required": true },
+        "images": { "type": "images" },
+        "videos": { "type": "videos" },
+        "detailUrls": { "type": "detailUrls", "required": true }
+      }
+    },
+    "artist": {
+      "label": "Artist",
+      "labelPlural": "Artists",
+      "description": "A musical artist or band.",
+      "fields": {
+        "title": { "type": "string", "required": true },
+        "shortTitle": { "type": "string" },
+        "type": { "type": "string", "description": "solo, band, or duo" },
+        "activeYears": { "type": "string", "description": "Years active (e.g. 1962-present)" },
+        "origin": { "type": "string", "description": "Country/city of origin" },
+        "genres": { "type": "array", "description": "Primary genres" },
+        "summary": { "type": "text", "description": "Artist biography", "required": true },
+        "images": { "type": "images" },
+        "detailUrls": { "type": "detailUrls" }
+      }
+    }
+  },
+  "relationships": {
+    "song.artist": {
+      "target": "artist",
+      "cardinality": "many-to-one",
+      "required": true
+    },
+    "song.rank": {
+      "type": "ordinal"
+    }
+  },
+  "display": {
+    "primaryEntity": "song",
+    "groupBy": "artist",
+    "sortWithinGroup": ["rank", "asc"],
+    "card": {
+      "front": {
+        "title": "title",
+        "subtitle": "year",
+        "badge": "rank",
+        "footer": ["artist.title", "sales.totalUnits"]
+      }
+    }
+  }
+}

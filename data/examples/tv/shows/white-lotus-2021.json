@@ -1,0 +1,45 @@
+{
+  "id": "white-lotus-2021",
+  "title": "The White Lotus",
+  "network": "hbo",
+  "year": 2021,
+  "endYear": null,
+  "seasons": 2,
+  "episodes": 13,
+  "genres": ["Comedy-drama", "Satire", "Anthology"],
+  "creators": ["Mike White"],
+  "cast": ["Murray Bartlett", "Connie Britton", "Jennifer Coolidge", "Alexandra Daddario", "Jake Lacy"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 60,
+  "summary": "An anthology series following the exploits of wealthy guests and employees at exclusive luxury resorts. Won 10 Emmy Awards across its first two seasons.",
+  "viewership": {
+    "peakViewers": 10000000,
+    "source": "Wikipedia/HBO",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_White_Lotus"
+  },
+  "ratings": {
+    "imdb": { "score": 7.9, "max": 10 },
+    "rottenTomatoes": { "critics": 90, "audience": 75 }
+  },
+  "rank": 80,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/fb/The_White_Lotus_Title_Card.jpeg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The White Lotus title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:The_White_Lotus_Title_Card.jpeg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_White_Lotus",
+      "source": "Wikipedia"
+    }
+  ]
+}

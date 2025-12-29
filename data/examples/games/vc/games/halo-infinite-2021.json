@@ -1,0 +1,39 @@
+{
+  "id": "halo-infinite-2021",
+  "title": "Halo Infinite",
+  "publisher": "xbox-game-studios",
+  "developer": "343 Industries",
+  "year": 2021,
+  "platforms": ["PC", "Xbox One", "Xbox Series X/S"],
+  "genres": ["First-person shooter"],
+  "modes": ["Single-player", "Multiplayer"],
+  "summary": "Master Chief battles the Banished on a Halo ring. Features an open-world campaign and free-to-play multiplayer mode.",
+  "sales": {
+    "unitsSold": 20000000,
+    "source": "Wikipedia/Xbox Game Studios",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Halo_Infinite"
+  },
+  "ratings": {
+    "metacritic": { "score": 87, "max": 100 }
+  },
+  "rank": 38,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/14/Halo_Infinite.png",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Halo Infinite cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Halo_Infinite.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Halo_Infinite",
+      "source": "Wikipedia"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "portal-2-2011",
+  "title": "Portal 2",
+  "publisher": "valve",
+  "developer": "Valve",
+  "year": 2011,
+  "platforms": ["PC", "Mac", "Linux", "PlayStation 3", "Xbox 360"],
+  "genres": ["Puzzle", "Platformer"],
+  "modes": ["Single-player", "Multiplayer"],
+  "summary": "Chell escapes the Aperture Science facility again with new mechanics and a cooperative campaign. Praised for its writing, puzzles, and GLaDOS.",
+  "sales": {
+    "unitsSold": 8000000,
+    "source": "Wikipedia/Valve",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Portal_2"
+  },
+  "ratings": {
+    "metacritic": { "score": 95, "max": 100 }
+  },
+  "rank": 57,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/f9/Portal2cover.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Portal 2 cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Portal2cover.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Portal_2",
+      "source": "Wikipedia"
+    }
+  ]
+}

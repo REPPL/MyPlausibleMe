@@ -1,0 +1,97 @@
+{
+  "id": "lil-nas-x-old-town-road",
+  "title": "Old Town Road",
+  "artist": "lil-nas-x",
+  "year": 2018,
+  "album": "7",
+  "writers": [
+    "Lil Nas X",
+    "YoungKio",
+    "Atticus Ross",
+    "Trent Reznor"
+  ],
+  "producers": [
+    "YoungKio"
+  ],
+  "genres": [
+    "Country rap",
+    "Hip hop"
+  ],
+  "duration": 157,
+  "label": "Columbia Records",
+  "summary": "A country-trap fusion that went viral on TikTok and became the longest-running number-one song in Billboard Hot 100 history at 19 weeks. The remix with Billy Ray Cyrus amplified its crossover appeal.",
+  "sales": {
+    "totalUnits": 15000000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Old_Town_Road"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 1,
+      "weeks": 19,
+      "chart": "Billboard Hot 100",
+      "year": 2019
+    },
+    "UK": {
+      "peak": 1,
+      "weeks": 2,
+      "chart": "UK Singles Chart",
+      "year": 2019
+    },
+    "Australia": {
+      "peak": 1,
+      "chart": "ARIA Charts",
+      "year": 2019
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "Diamond",
+      "units": 15000000
+    },
+    {
+      "region": "UK",
+      "certification": "4x Platinum",
+      "units": 2400000
+    }
+  ],
+  "rank": 94,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/52/Lil_Nas_X_-_Old_Town_Road.png",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Old Town Road single cover",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Lil_Nas_X_-_Old_Town_Road.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=w2Ov5jzm3j8",
+      "title": "Lil Nas X - Old Town Road (Official Movie) ft. Billy Ray Cyrus",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Old_Town_Road",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/4d1bb5a1-14ba-438d-b96d-070704f400f5",
+      "source": "MusicBrainz"
+    },
+    {
+      "url": "https://musicbrainz.org/release/baaac44a-d458-4599-83a1-07dc608637a7",
+      "source": "MusicBrainz (Release)"
+    }
+  ],
+  "_musicbrainz_recording_id": "4d1bb5a1-14ba-438d-b96d-070704f400f5",
+  "_musicbrainz_release_id": "baaac44a-d458-4599-83a1-07dc608637a7"
+}

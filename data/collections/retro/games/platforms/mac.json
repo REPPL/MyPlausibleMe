@@ -1,0 +1,46 @@
+{
+  "id": "mac",
+  "title": "Macintosh",
+  "shortTitle": "Mac",
+  "year": 1984,
+  "manufacturer": "Apple",
+  "generation": "PC Era",
+  "mediaFormat": "Floppy / CD-ROM",
+  "unitsSold": "N/A",
+  "bestSellingGame": "Myst",
+  "summary": "A line of personal computers that became a preferred platform for detailed world-building and empire management strategy games.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+      "type": "logo",
+      "isPrimary": false,
+      "alt": "Macintosh logo",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apple_logo_black.svg",
+        "licence": "public-domain"
+      }
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Macintosh_128k.jpg",
+      "type": "hardware",
+      "isPrimary": true,
+      "alt": "Original Macintosh 128k",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Macintosh_128k.jpg",
+        "licence": "cc-by-sa-3.0"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mac_gaming",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/platform/macintosh/",
+      "source": "MobyGames"
+    }
+  ]
+}

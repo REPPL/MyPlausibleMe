@@ -1,0 +1,39 @@
+{
+  "id": "puzznic-arcade",
+  "title": "Puzznic",
+  "platform": "arcade",
+  "year": 1989,
+  "myRank": 5,
+  "summary": "A classic arcade game.",
+  "detailUrls": [
+    {
+      "url": "https://www.mobygames.com/game/15247/",
+      "source": "MobyGames"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/fe/Puzznic_Cover.jpg",
+      "type": "boxart",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Puzznic_Cover.jpg",
+        "licence": "fair-use"
+      },
+      "isPrimary": true,
+      "alt": "Puzznic cover art"
+    }
+  ],
+  "myStartYear": 1990,
+  "myVerdict": "A puzzle game for the arcade!",
+  "originalReleaseDate": "1989",
+  "genres": [
+    "Puzzle"
+  ],
+  "averageRating": {
+    "score": 4,
+    "sourceCount": 5,
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Puzznic#Reception"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "dune-part-two-2024",
+  "title": "Dune: Part Two",
+  "studio": "warner-bros",
+  "year": 2024,
+  "director": "Denis Villeneuve",
+  "cast": ["Timothée Chalamet", "Zendaya", "Rebecca Ferguson", "Javier Bardem", "Austin Butler"],
+  "genres": ["Science fiction", "Adventure", "Drama"],
+  "runtime": 166,
+  "language": "English",
+  "country": "USA",
+  "summary": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the universe, he must prevent a terrible future only he can foresee.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 711845476,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 282145476,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 429700000,
+      "currency": "USD"
+    },
+    "budget": 190000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Dune:_Part_Two"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 8.5, "max": 10 },
+    "rottenTomatoes": { "critics": 92, "audience": 95 },
+    "metacritic": { "score": 79, "max": 100 }
+  },
+  "rank": 68,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/52/Dune_Part_Two_poster.jpeg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Dune: Part Two movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Dune_Part_Two_poster.jpeg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=Way9Dexny3w",
+      "title": "Dune: Part Two Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Dune:_Part_Two",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt15239678/",
+      "source": "IMDB"
+    }
+  ]
+}

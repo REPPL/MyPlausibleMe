@@ -1,0 +1,63 @@
+{
+  "id": "the-adventures-of-pinocchio-1883",
+  "title": "The Adventures of Pinocchio",
+  "author": "carlo-collodi",
+  "year": 1883,
+  "genres": [
+    "Children's literature",
+    "Fantasy",
+    "Adventure"
+  ],
+  "pages": 232,
+  "publisher": "Felice Paggi",
+  "language": "Italian",
+  "country": "Italy",
+  "summary": "The story of a wooden puppet who dreams of becoming a real boy. One of the most translated books in the world, it has inspired countless adaptations including the famous Disney animated film.",
+  "sales": {
+    "copiesSold": 35000000,
+    "languages": 260,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Adventures_of_Pinocchio"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 3.87,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 3.82,
+      "max": 5,
+      "count": 22
+    }
+  },
+  "rank": 65,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/8597022-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Le avventure di Pinocchio cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL1527356W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Pinocchio",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL1527356W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 431,
+  "isbn": "0006925413",
+  "description": "A wooden puppet full of tricks and mischief wants more than anything else to become a real boy.",
+  "_openlibrary_work_key": "/works/OL1527356W"
+}

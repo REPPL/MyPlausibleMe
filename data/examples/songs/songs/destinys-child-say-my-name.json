@@ -1,0 +1,84 @@
+{
+  "id": "destinys-child-say-my-name",
+  "title": "Say My Name",
+  "artist": "destinys-child",
+  "year": 1999,
+  "album": "The Writing's on the Wall",
+  "writers": [
+    "Rodney Jerkins",
+    "LaShawn Daniels",
+    "Fred Jerkins III",
+    "Beyoncé",
+    "LeToya Luckett",
+    "LaTavia Roberson",
+    "Kelly Rowland"
+  ],
+  "producers": [
+    "Rodney Jerkins"
+  ],
+  "genres": [
+    "R&B",
+    "Pop"
+  ],
+  "duration": 273,
+  "label": "Columbia Records",
+  "summary": "An R&B track about confronting a potentially unfaithful partner, featuring intricate vocal arrangements. It won two Grammy Awards and became one of the group's signature songs.",
+  "sales": {
+    "totalUnits": 5000000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Say_My_Name"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 1,
+      "weeks": 3,
+      "chart": "Billboard Hot 100",
+      "year": 2000
+    },
+    "UK": {
+      "peak": 3,
+      "chart": "UK Singles Chart",
+      "year": 2000
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "3x Platinum",
+      "units": 3000000
+    },
+    {
+      "region": "UK",
+      "certification": "Silver",
+      "units": 200000
+    }
+  ],
+  "rank": 86,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/7/73/Say_My_Name_%281999_single%29.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Say My Name single cover",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Destiny%27s_Child_%E2%80%93_Say_My_Name.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=sQgd6MccwZc",
+      "title": "Destiny's Child - Say My Name (Official Video)",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Say_My_Name",
+      "source": "Wikipedia"
+    }
+  ]
+}

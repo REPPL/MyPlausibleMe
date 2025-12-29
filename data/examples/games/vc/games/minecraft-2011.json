@@ -1,0 +1,56 @@
+{
+  "id": "minecraft-2011",
+  "title": "Minecraft",
+  "publisher": "mojang",
+  "developer": "Mojang Studios",
+  "year": 2011,
+  "platforms": [
+    "PC",
+    "PlayStation",
+    "Xbox",
+    "Nintendo Switch",
+    "Mobile",
+    "Mac",
+    "Linux"
+  ],
+  "genres": [
+    "Sandbox",
+    "Survival"
+  ],
+  "modes": [
+    "Single-player",
+    "Multiplayer"
+  ],
+  "summary": "A sandbox game where players explore procedurally generated worlds, gather resources, craft tools, and build structures. The best-selling video game of all time.",
+  "sales": {
+    "unitsSold": 300000000,
+    "source": "Wikipedia/Mojang",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Minecraft"
+  },
+  "ratings": {
+    "metacritic": {
+      "score": 93,
+      "max": 100
+    }
+  },
+  "rank": 1,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/b6/Minecraft_2024_cover_art.png",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Minecraft cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Minecraft_cover.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Minecraft",
+      "source": "Wikipedia"
+    }
+  ]
+}

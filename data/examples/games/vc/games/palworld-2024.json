@@ -1,0 +1,53 @@
+{
+  "id": "palworld-2024",
+  "title": "Palworld",
+  "publisher": "pocketpair",
+  "developer": "Pocketpair",
+  "year": 2024,
+  "platforms": [
+    "PC",
+    "Xbox One",
+    "Xbox Series X/S"
+  ],
+  "genres": [
+    "Survival",
+    "Open world",
+    "Creature-collecting"
+  ],
+  "modes": [
+    "Single-player",
+    "Multiplayer"
+  ],
+  "summary": "Catch creatures called Pals to use in survival, crafting, and combat. Often described as 'Pokémon with guns', it broke concurrent player records.",
+  "sales": {
+    "unitsSold": 25000000,
+    "source": "Wikipedia/Pocketpair",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Palworld"
+  },
+  "ratings": {
+    "metacritic": {
+      "score": 77,
+      "max": 100
+    }
+  },
+  "rank": 98,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/fb/Palworld_Steam_artwork.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Palworld cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Palworld_cover_art.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Palworld",
+      "source": "Wikipedia"
+    }
+  ]
+}

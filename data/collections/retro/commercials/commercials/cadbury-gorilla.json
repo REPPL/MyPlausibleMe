@@ -1,0 +1,30 @@
+{
+  "id": "cadbury-gorilla",
+  "title": "Gorilla",
+  "brand": "cadbury",
+  "year": 2007,
+  "personalRank": 12,
+  "agency": "Fallon London",
+  "director": "Juan Cabral",
+  "music": "Phil Collins - In the Air Tonight",
+  "duration": 90,
+  "summary": "A gorilla passionately drums along to Phil Collins. No chocolate shown until the final seconds. Won the Grand Prix at Cannes and became a cultural phenomenon, demonstrating that emotional connection trumps product demonstration.",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Gorilla_(advertisement)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.dandad.org/awards/professional/2008/tv-cinema-advertising/16329/gorilla/",
+      "source": "D&AD"
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=TnzFRV1LwIo",
+      "title": "Gorilla",
+      "source": "YouTube",
+      "type": "commercial"
+    }
+  ]
+}

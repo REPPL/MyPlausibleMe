@@ -1,0 +1,44 @@
+{
+  "id": "warcraft-ii-mac",
+  "title": "Warcraft II",
+  "platform": "mac",
+  "myRank": 4,
+  "year": 1995,
+  "summary": "A real-time strategy game depicting the conflict between humans and orcs, featuring land, sea, and air combat.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/3a/WC2_Tides_UI_01.png",
+      "type": "screenshot",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:WC2_Tides_UI_01.png",
+        "licence": "fair-use"
+      },
+      "isPrimary": true,
+      "alt": "Warcraft II gameplay screenshot"
+    }
+  ],
+  "myStartYear": 1996,
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Warcraft_II:_Tides_of_Darkness",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/game/1339/",
+      "source": "MobyGames"
+    }
+  ],
+  "originalPlatform": "PC",
+  "originalReleaseDate": "1995",
+  "genres": [
+    "RTS"
+  ],
+  "myVerdict": "My kind of game",
+  "averageRating": {
+    "score": 5,
+    "sourceCount": 10,
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Warcraft_II:_Tides_of_Darkness#Reception"
+  }
+}

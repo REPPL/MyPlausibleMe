@@ -1,0 +1,65 @@
+{
+  "id": "skramble-vic20",
+  "title": "Skramble!",
+  "platform": "vic20",
+  "myRank": 2,
+  "year": 1982,
+  "summary": "A horizontal scrolling shooter inspired by contemporary arcade titles, involving navigation through caves.",
+  "images": [
+    {
+      "url": "https://www.myabandonware.com/media/screenshots/s/skramble-13iy/skramble_4.png",
+      "type": "screenshot",
+      "isPrimary": true,
+      "alt": "Skramble! gameplay screenshot",
+      "attribution": {
+        "source": "My Abandonware",
+        "sourceUrl": "https://www.myabandonware.com/game/skramble-prs",
+        "licence": "fair-use",
+        "licenceNote": "MyAbandonware does not specify redistribution rights; used under fair-use assumption for demo purposes"
+      }
+    },
+    {
+      "url": "https://www.myabandonware.com/media/screenshots/s/skramble-13iy/skramble_7.png",
+      "type": "screenshot",
+      "isPrimary": false,
+      "alt": "Skramble! gameplay screenshot",
+      "attribution": {
+        "source": "My Abandonware",
+        "sourceUrl": "https://www.myabandonware.com/game/skramble-prs",
+        "licence": "fair-use",
+        "licenceNote": "MyAbandonware does not specify redistribution rights; used under fair-use assumption for demo purposes"
+      }
+    }
+  ],
+  "myStartYear": 1982,
+  "myVerdict": "At the time, the scrolling looked really good!",
+  "detailUrls": [
+    {
+      "url": "https://www.myabandonware.com/game/skramble-prs",
+      "source": "My Abandonware"
+    },
+    {
+      "url": "https://www.mobygames.com/game/25652/",
+      "source": "MobyGames"
+    }
+  ],
+  "originalPlatform": "VIC-20",
+  "originalReleaseDate": "1982",
+  "genres": [
+    "Shooter"
+  ],
+  "averageRating": {
+    "score": 3.5,
+    "sourceCount": 2,
+    "source": "My Abandonware",
+    "url": "https://www.myabandonware.com/game/skramble-prs"
+  },
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=PCTTIYuzgXk",
+      "title": "Skramble! for the Commodore VIC-20",
+      "source": "LaunchBox Games Database",
+      "type": "gameplay"
+    }
+  ]
+}

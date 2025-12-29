@@ -1,0 +1,65 @@
+{
+  "id": "breaking-bad-2008",
+  "title": "Breaking Bad",
+  "network": "amc",
+  "year": 2008,
+  "endYear": 2013,
+  "seasons": 5,
+  "episodes": 62,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "creators": [
+    "Vince Gilligan"
+  ],
+  "cast": [
+    "Bryan Cranston",
+    "Aaron Paul",
+    "Anna Gunn",
+    "Dean Norris",
+    "Betsy Brandt"
+  ],
+  "country": "United States",
+  "language": "English",
+  "runtime": 47,
+  "summary": "A high school chemistry teacher diagnosed with cancer turns to manufacturing methamphetamine to secure his family's future. Widely regarded as one of the greatest television series of all time.",
+  "viewership": {
+    "peakViewers": 10280000,
+    "peakEpisode": "Felina (S05E16)",
+    "averageViewers": 5000000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Breaking_Bad"
+  },
+  "ratings": {
+    "imdb": {
+      "score": 9.5,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 96,
+      "audience": 96
+    }
+  },
+  "rank": 2,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Breaking_Bad_logo.svg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Breaking Bad title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Breaking_Bad_title_card.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Breaking_Bad",
+      "source": "Wikipedia"
+    }
+  ]
+}

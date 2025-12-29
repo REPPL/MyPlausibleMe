@@ -1,0 +1,61 @@
+{
+  "id": "orange-is-the-new-black-2013",
+  "title": "Orange Is the New Black",
+  "network": "netflix",
+  "year": 2013,
+  "endYear": 2019,
+  "seasons": 7,
+  "episodes": 91,
+  "genres": [
+    "Comedy-drama",
+    "Prison drama"
+  ],
+  "creators": [
+    "Jenji Kohan"
+  ],
+  "cast": [
+    "Taylor Schilling",
+    "Laura Prepon",
+    "Danielle Brooks",
+    "Uzo Aduba",
+    "Taryn Manning"
+  ],
+  "country": "United States",
+  "language": "English",
+  "runtime": 56,
+  "summary": "A woman is sentenced to a year in a federal women's prison for transporting drug money. Based on Piper Kerman's memoir of her experiences.",
+  "viewership": {
+    "source": "Netflix",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Orange_Is_the_New_Black"
+  },
+  "ratings": {
+    "imdb": {
+      "score": 8.0,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 88,
+      "audience": 77
+    }
+  },
+  "rank": 82,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Orange_is_the_new_Black_Logo.svg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Orange Is the New Black title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Orange_Is_the_New_Black_Title_Card.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Orange_Is_the_New_Black",
+      "source": "Wikipedia"
+    }
+  ]
+}

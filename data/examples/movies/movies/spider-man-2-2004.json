@@ -1,0 +1,73 @@
+{
+  "id": "spider-man-2-2004",
+  "title": "Spider-Man 2",
+  "studio": "sony",
+  "year": 2004,
+  "director": "Sam Raimi",
+  "cast": ["Tobey Maguire", "Kirsten Dunst", "James Franco", "Alfred Molina", "Rosemary Harris"],
+  "genres": ["Superhero", "Action", "Adventure"],
+  "runtime": 127,
+  "language": "English",
+  "country": "USA",
+  "summary": "Peter Parker is beset with troubles in his failing personal life as he battles a former scientist who becomes Dr. Octopus after an accident. Widely regarded as one of the greatest superhero films ever made.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 789258632,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 373585825,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 415672807,
+      "currency": "USD"
+    },
+    "budget": 200000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Spider-Man_2"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 1,
+      "nominations": 3
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 7.5, "max": 10 },
+    "rottenTomatoes": { "critics": 93, "audience": 82 },
+    "metacritic": { "score": 83, "max": 100 }
+  },
+  "rank": 92,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/02/Spider-Man_2_Poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Spider-Man 2 movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Spider-Man_2_Poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=1s9Yln0YwCw",
+      "title": "Spider-Man 2 Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Spider-Man_2",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0316654/",
+      "source": "IMDB"
+    }
+  ]
+}

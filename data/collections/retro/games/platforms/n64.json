@@ -1,0 +1,57 @@
+{
+  "id": "n64",
+  "title": "Nintendo 64",
+  "shortTitle": "N64",
+  "year": 1996,
+  "manufacturer": "Nintendo",
+  "generation": "5th (64-bit)",
+  "mediaFormat": "Cartridge",
+  "unitsSold": "32.9 million",
+  "bestSellingGame": "Super Mario 64",
+  "summary": "A console that marked a major transition to 3D graphics, featuring four built-in controller ports for local multiplayer gameplay.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Nintendo_64_logo.png",
+      "type": "logo",
+      "isPrimary": false,
+      "alt": "Nintendo 64 logo",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nintendo_64_logo.png",
+        "licence": "public-domain"
+      }
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Nintendo-64-Console-FL.jpg",
+      "type": "console",
+      "isPrimary": true,
+      "alt": "Nintendo 64 console",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nintendo-64-Console-FL.jpg",
+        "licence": "public-domain"
+      }
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/N64-Controller-Gray-Back.jpg",
+      "type": "controller",
+      "isPrimary": false,
+      "alt": "Nintendo 64 controller",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:N64-Controller-Gray-Back.jpg",
+        "licence": "public-domain"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Nintendo_64",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/platform/nintendo-64/",
+      "source": "MobyGames"
+    }
+  ]
+}

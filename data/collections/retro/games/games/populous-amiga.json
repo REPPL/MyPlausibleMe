@@ -1,0 +1,43 @@
+{
+  "id": "populous-amiga",
+  "title": "Populous",
+  "platform": "amiga",
+  "myRank": 2,
+  "year": 1989,
+  "summary": "A god game in which the player occupies the role of a deity, influencing the terrain and guiding followers to guide civilisation.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/7/7e/Populous_cover.jpg",
+      "type": "boxart",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Populous_cover.jpg",
+        "licence": "fair-use"
+      },
+      "isPrimary": true,
+      "alt": "Populous cover art"
+    }
+  ],
+  "myStartYear": 1989,
+  "myVerdict": "Cute and fun",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Populous_(video_game)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/game/613/",
+      "source": "MobyGames"
+    }
+  ],
+  "originalReleaseDate": "1989",
+  "genres": [
+    "God game"
+  ],
+  "averageRating": {
+    "score": 4.5,
+    "sourceCount": 12,
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Populous_(video_game)#Reception"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "spider-man-no-way-home-2021",
+  "title": "Spider-Man: No Way Home",
+  "studio": "sony",
+  "year": 2021,
+  "director": "Jon Watts",
+  "cast": ["Tom Holland", "Zendaya", "Benedict Cumberbatch", "Jacob Batalon", "Jon Favreau"],
+  "genres": ["Superhero", "Action", "Adventure"],
+  "runtime": 148,
+  "language": "English",
+  "country": "USA",
+  "summary": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man. The film united three generations of Spider-Man actors.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1921847111,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 814115070,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 1107732041,
+      "currency": "USD"
+    },
+    "budget": 200000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Spider-Man:_No_Way_Home"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 1
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 8.2, "max": 10 },
+    "rottenTomatoes": { "critics": 93, "audience": 98 },
+    "metacritic": { "score": 71, "max": 100 }
+  },
+  "rank": 7,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/00/Spider-Man_No_Way_Home_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Spider-Man: No Way Home movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Spider-Man_No_Way_Home_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=JfVOs4VSpmA",
+      "title": "Spider-Man: No Way Home Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Spider-Man:_No_Way_Home",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt10872600/",
+      "source": "IMDB"
+    }
+  ]
+}

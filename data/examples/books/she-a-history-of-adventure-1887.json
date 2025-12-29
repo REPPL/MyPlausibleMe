@@ -1,0 +1,63 @@
+{
+  "id": "she-a-history-of-adventure-1887",
+  "title": "She: A History of Adventure",
+  "author": "h-rider-haggard",
+  "year": 1887,
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Lost world"
+  ],
+  "pages": 317,
+  "publisher": "Longmans, Green",
+  "language": "English",
+  "country": "United Kingdom",
+  "summary": "An adventure novel following explorers who discover a lost African kingdom ruled by the immortal white queen Ayesha, known as 'She-who-must-be-obeyed'. Influential on adventure and fantasy genres.",
+  "sales": {
+    "copiesSold": 83000000,
+    "languages": 44,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/She:_A_History_of_Adventure"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 3.75,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 3.83,
+      "max": 5,
+      "count": 6
+    }
+  },
+  "rank": 10,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/295537-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "She cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL17453W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/She:_A_History_of_Adventure",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL17453W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 499,
+  "isbn": "9781724850614",
+  "description": "An enduring adventure yarn set in pre colonial Africa, culminating in the discovery of a lost civilization ruled by a beautiful eternally youthful queen. \"She is generally considered to be one of the classics of imaginative literature and with 83 million copies sold by 1965, it is one of the best-selling books of all time.\" See more at: http://en.wikipedia.org/wiki/She_(novel)",
+  "_openlibrary_work_key": "/works/OL17453W"
+}

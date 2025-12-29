@@ -1,0 +1,63 @@
+{
+  "id": "frankenstein-1818",
+  "title": "Frankenstein",
+  "author": "mary-shelley",
+  "year": 1818,
+  "genres": [
+    "Gothic fiction",
+    "Horror",
+    "Science fiction"
+  ],
+  "pages": 280,
+  "publisher": "Lackington, Hughes, Harding, Mavor & Jones",
+  "language": "English",
+  "country": "United Kingdom",
+  "summary": "Victor Frankenstein creates a sapient creature from dead body parts, with tragic consequences. Often considered the first science fiction novel, it was written when Shelley was just 18 years old.",
+  "sales": {
+    "copiesSold": 10000000,
+    "languages": 50,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Frankenstein"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 3.85,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 3.95,
+      "max": 5,
+      "count": 209
+    }
+  },
+  "rank": 93,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/12356249-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Frankenstein or The Modern Prometheus cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL450063W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Frankenstein",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL450063W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 2186,
+  "isbn": "154105086X",
+  "description": "*Frankenstein; or, The Modern Prometheus* is an 1818 novel written by English author Mary Shelley. Frankenstein tells the story of Victor Frankenstein, a young scientist who creates a sapient creature in an unorthodox scientific experiment. Shelley started writing the story when she was 18, and the first edition was published anonymously in London on 1 January 1818, when she was 20. Her name first appeared in the second edition, which was published in Paris in 1821.",
+  "_openlibrary_work_key": "/works/OL450063W"
+}

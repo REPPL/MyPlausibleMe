@@ -1,0 +1,39 @@
+{
+  "id": "new-super-mario-bros-2006",
+  "title": "New Super Mario Bros.",
+  "publisher": "nintendo",
+  "developer": "Nintendo EAD",
+  "year": 2006,
+  "platforms": ["Nintendo DS"],
+  "genres": ["Platformer"],
+  "modes": ["Single-player", "Multiplayer"],
+  "summary": "A return to 2D side-scrolling Mario gameplay with 3D graphics. Revitalised the 2D Mario formula and spawned multiple sequels.",
+  "sales": {
+    "unitsSold": 30800000,
+    "source": "Wikipedia/Nintendo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/New_Super_Mario_Bros."
+  },
+  "ratings": {
+    "metacritic": { "score": 89, "max": 100 }
+  },
+  "rank": 20,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/db/NewSuperMarioBrothers.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "New Super Mario Bros. cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:NewSuperMarioBrothers.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/New_Super_Mario_Bros.",
+      "source": "Wikipedia"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "a-brief-history-of-time-1988",
+  "title": "A Brief History of Time",
+  "author": "stephen-hawking",
+  "year": 1988,
+  "genres": [
+    "Popular science",
+    "Cosmology",
+    "Non-fiction"
+  ],
+  "pages": 256,
+  "publisher": "Bantam Dell Publishing Group",
+  "language": "English",
+  "country": "United Kingdom",
+  "summary": "A landmark popular science book exploring the universe, from the Big Bang to black holes. Written for non-specialist readers, it spent a record-breaking 237 weeks on The Sunday Times bestseller list.",
+  "sales": {
+    "copiesSold": 25000000,
+    "languages": 40,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/A_Brief_History_of_Time"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.21,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.13,
+      "max": 5,
+      "count": 223
+    }
+  },
+  "rank": 45,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/10432365-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "A Brief History of Time cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL1892617W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/A_Brief_History_of_Time",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL1892617W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 119,
+  "isbn": "9784871871150",
+  "description": "Stephen Hawking's ‘A Brief History of Time* has become an international publishing phenomenon. Translated into thirty languages, it has sold over ten million copies worldwide and lives on as a science book that continues to captivate and inspire new readers each year. When it was first published in 1988 the ideas discussed in it were at the cutting edge of what was then known about the universe. In the intervening twenty years there have been extraordinary advances in the technology of observing...",
+  "_openlibrary_work_key": "/works/OL1892617W"
+}

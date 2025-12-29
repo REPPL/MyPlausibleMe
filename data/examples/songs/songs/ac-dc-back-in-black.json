@@ -1,0 +1,89 @@
+{
+  "id": "ac-dc-back-in-black",
+  "title": "Back in Black",
+  "artist": "ac-dc",
+  "year": 1980,
+  "album": "Back in Black",
+  "writers": [
+    "Angus Young",
+    "Malcolm Young",
+    "Brian Johnson"
+  ],
+  "producers": [
+    "Robert John Lange"
+  ],
+  "genres": [
+    "Hard rock",
+    "Blues rock"
+  ],
+  "duration": 255,
+  "label": "Albert Productions",
+  "summary": "A hard rock anthem written as a tribute to former lead singer Bon Scott. The opening guitar riff is one of the most recognised in rock history, and the song remains a staple of rock radio and sporting events.",
+  "sales": {
+    "totalUnits": 4000000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Back_in_Black_(song)"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 37,
+      "chart": "Billboard Hot 100",
+      "year": 1981
+    },
+    "UK": {
+      "peak": 37,
+      "chart": "UK Singles Chart",
+      "year": 1980
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "3x Platinum",
+      "units": 3000000
+    },
+    {
+      "region": "UK",
+      "certification": "Silver",
+      "units": 200000
+    }
+  ],
+  "rank": 65,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Back_in_black_by_acdc_US_7-inch_single_side-A.png",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Back in Black album cover",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Acdc_backinblack.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=pAgnJDJN4VA",
+      "title": "AC/DC - Back In Black (Official Video)",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Back_in_Black_(song)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/b538eabe-bf73-44af-b502-5eafcb81aa4d",
+      "source": "MusicBrainz"
+    },
+    {
+      "url": "https://musicbrainz.org/release/4bbe3188-d626-4aff-82c0-87d455262f49",
+      "source": "MusicBrainz (Release)"
+    }
+  ],
+  "_musicbrainz_recording_id": "b538eabe-bf73-44af-b502-5eafcb81aa4d",
+  "_musicbrainz_release_id": "4bbe3188-d626-4aff-82c0-87d455262f49"
+}

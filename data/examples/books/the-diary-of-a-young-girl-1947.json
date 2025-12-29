@@ -1,0 +1,63 @@
+{
+  "id": "the-diary-of-a-young-girl-1947",
+  "title": "The Diary of a Young Girl",
+  "author": "anne-frank",
+  "year": 1947,
+  "genres": [
+    "Autobiography",
+    "Diary",
+    "Holocaust literature"
+  ],
+  "pages": 283,
+  "publisher": "Contact Publishing",
+  "language": "Dutch",
+  "country": "Netherlands",
+  "summary": "The writings of Anne Frank, a Jewish girl who hid with her family in Amsterdam during the Nazi occupation. One of the most widely read accounts of the Holocaust, it has been translated into more than 70 languages.",
+  "sales": {
+    "copiesSold": 35000000,
+    "languages": 70,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Diary_of_a_Young_Girl"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.18,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.14,
+      "max": 5,
+      "count": 128
+    }
+  },
+  "rank": 78,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/8584021-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Het Achterhuis cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL266178W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Diary_of_a_Young_Girl",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL266178W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 293,
+  "isbn": "8577990001",
+  "description": "Het Achterhuis is de titel van het dagboek van Anne Frank (1929-1945) voor het eerst uitgegeven op 25 juni 1947. Het is genoemd naar het onderduikpand Het Achterhuis op de Prinsengracht en is het verhaal van een ondergedoken jong Joods meisje ten tijde van de Tweede Wereldoorlog. Het is wereldwijd een van de meest gelezen boeken. Sinds 2009 staat Annes dagboek op de Werelderfgoedlijst voor documenten van UNESCO.\r\n\r\n\r\n----------\r\nAlso contained in:\r\n[Works of Anne Frank](https://openlibrary.org/w...",
+  "_openlibrary_work_key": "/works/OL266178W"
+}

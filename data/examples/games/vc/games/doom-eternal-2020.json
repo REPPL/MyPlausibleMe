@@ -1,0 +1,55 @@
+{
+  "id": "doom-eternal-2020",
+  "title": "Doom Eternal",
+  "publisher": "bethesda",
+  "developer": "id Software",
+  "year": 2020,
+  "platforms": [
+    "PC",
+    "PlayStation 4",
+    "PlayStation 5",
+    "Xbox One",
+    "Xbox Series X/S",
+    "Nintendo Switch",
+    "Stadia"
+  ],
+  "genres": [
+    "First-person shooter"
+  ],
+  "modes": [
+    "Single-player",
+    "Multiplayer"
+  ],
+  "summary": "The Doom Slayer's rampage against Hell continues on Earth. Features expanded movement options, new demons, and even more intense combat.",
+  "sales": {
+    "unitsSold": 6000000,
+    "source": "Wikipedia/Bethesda",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Doom_Eternal"
+  },
+  "ratings": {
+    "metacritic": {
+      "score": 88,
+      "max": 100
+    }
+  },
+  "rank": 72,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/9d/Cover_Art_of_Doom_Eternal.png",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Doom Eternal cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Doom_Eternal.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Doom_Eternal",
+      "source": "Wikipedia"
+    }
+  ]
+}

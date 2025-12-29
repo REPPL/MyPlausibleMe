@@ -1,0 +1,64 @@
+{
+  "id": "mad-men-2007",
+  "title": "Mad Men",
+  "network": "amc",
+  "year": 2007,
+  "endYear": 2015,
+  "seasons": 7,
+  "episodes": 92,
+  "genres": [
+    "Drama",
+    "Period piece"
+  ],
+  "creators": [
+    "Matthew Weiner"
+  ],
+  "cast": [
+    "Jon Hamm",
+    "Elisabeth Moss",
+    "January Jones",
+    "Christina Hendricks",
+    "John Slattery"
+  ],
+  "country": "United States",
+  "language": "English",
+  "runtime": 47,
+  "summary": "The lives of the ruthlessly competitive advertising executives of Sterling Cooper on Madison Avenue during the 1960s. Won 16 Emmy Awards including four consecutive Outstanding Drama Series wins.",
+  "viewership": {
+    "peakViewers": 3290000,
+    "peakEpisode": "Person to Person",
+    "averageViewers": 2000000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Mad_Men"
+  },
+  "ratings": {
+    "imdb": {
+      "score": 8.7,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 93,
+      "audience": 91
+    }
+  },
+  "rank": 28,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/33/Mad-men-title-card.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Mad Men title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Mad_Men_title_card.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mad_Men",
+      "source": "Wikipedia"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "breaking-dawn-2008",
+  "title": "Breaking Dawn",
+  "author": "stephenie-meyer",
+  "year": 2008,
+  "genres": [
+    "Young adult",
+    "Romance",
+    "Fantasy"
+  ],
+  "pages": 756,
+  "publisher": "Little, Brown and Company",
+  "language": "English",
+  "country": "United States",
+  "series": "Twilight",
+  "summary": "The conclusion of the Twilight saga follows Bella and Edward's marriage, pregnancy, and the ultimate confrontation with the Volturi. Sold 1.3 million copies on its first day of release.",
+  "sales": {
+    "copiesSold": 10000000,
+    "languages": 37,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Breaking_Dawn"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 3.74,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 3.46,
+      "max": 5,
+      "count": 105
+    }
+  },
+  "rank": 74,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/12643419-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Breaking Dawn cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL5720022W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Breaking_Dawn",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL5720022W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 86,
+  "isbn": "9780316193177",
+  "description": "To be irrevocably in love with a vampire is both fantasy and nightmare woven into a dangerously heightened reality for Bella Swan. Pulled in one direction by her intense passion for Edward Cullen, and in another by her profound connection to werewolf Jacob Black, she has endured a tumultuous year of temptation, loss, and strife to reach the ultimate turning point. Her imminent choice to either join the dark but seductive world of immortals or pursue a fully human life has become the threat from ...",
+  "_openlibrary_work_key": "/works/OL5720022W"
+}

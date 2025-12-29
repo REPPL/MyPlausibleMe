@@ -1,0 +1,63 @@
+{
+  "id": "charlottes-web-1952",
+  "title": "Charlotte's Web",
+  "author": "e-b-white",
+  "year": 1952,
+  "genres": [
+    "Children's literature",
+    "Fantasy",
+    "Novel"
+  ],
+  "pages": 184,
+  "publisher": "Harper & Brothers",
+  "language": "English",
+  "country": "United States",
+  "summary": "The story of a pig named Wilbur and his friendship with a barn spider named Charlotte. Considered a classic of children's literature, it explores themes of friendship, mortality, and the cycle of life.",
+  "sales": {
+    "copiesSold": 45000000,
+    "languages": 23,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Charlotte%27s_Web"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.18,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.03,
+      "max": 5,
+      "count": 407
+    }
+  },
+  "rank": 31,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/8461797-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Charlotte's Web cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL483391W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Charlotte%27s_Web",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL483391W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 149,
+  "isbn": "064400557",
+  "description": "Charlotte's Web is a book of children's literature by American author E. B. White and illustrated by Garth Williams; it was published on October 15, 1952, by Harper & Brothers. The novel tells the story of a livestock pig named Wilbur and his friendship with a barn spider named Charlotte. When Wilbur is in danger of being slaughtered by the farmer, Charlotte writes messages praising Wilbur (such as \"Some Pig\") in her web in order to persuade the farmer to let him live.\r\n\r\n\r\n----------\r\nAlso cont...",
+  "_openlibrary_work_key": "/works/OL483391W"
+}

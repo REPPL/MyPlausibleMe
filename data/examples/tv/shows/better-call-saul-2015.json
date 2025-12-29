@@ -1,0 +1,47 @@
+{
+  "id": "better-call-saul-2015",
+  "title": "Better Call Saul",
+  "network": "amc",
+  "year": 2015,
+  "endYear": 2022,
+  "seasons": 6,
+  "episodes": 63,
+  "genres": ["Crime", "Drama", "Black comedy"],
+  "creators": ["Vince Gilligan", "Peter Gould"],
+  "cast": ["Bob Odenkirk", "Rhea Seehorn", "Jonathan Banks", "Michael McKean", "Giancarlo Esposito"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 47,
+  "summary": "The transformation of small-time lawyer Jimmy McGill into criminal lawyer Saul Goodman, set before the events of Breaking Bad. Widely praised as one of the greatest TV dramas ever made.",
+  "viewership": {
+    "peakViewers": 6880000,
+    "peakEpisode": "Switch (S02E01)",
+    "averageViewers": 2500000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Better_Call_Saul"
+  },
+  "ratings": {
+    "imdb": { "score": 9.0, "max": 10 },
+    "rottenTomatoes": { "critics": 98, "audience": 95 }
+  },
+  "rank": 27,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/03/Better_Call_Saul_logo.svg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Better Call Saul logo",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Better_Call_Saul_logo.svg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Better_Call_Saul",
+      "source": "Wikipedia"
+    }
+  ]
+}

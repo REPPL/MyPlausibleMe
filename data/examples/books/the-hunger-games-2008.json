@@ -1,0 +1,64 @@
+{
+  "id": "the-hunger-games-2008",
+  "title": "The Hunger Games",
+  "author": "suzanne-collins",
+  "year": 2008,
+  "genres": [
+    "Young adult",
+    "Dystopian fiction",
+    "Science fiction"
+  ],
+  "pages": 374,
+  "publisher": "Scholastic Press",
+  "language": "English",
+  "country": "United States",
+  "series": "The Hunger Games",
+  "summary": "In a dystopian future, Katniss Everdeen volunteers to take her sister's place in the annual Hunger Games, a televised fight to the death. The first book in a trilogy that sparked a major film franchise.",
+  "sales": {
+    "copiesSold": 29000000,
+    "languages": 51,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Hunger_Games"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.33,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.11,
+      "max": 5,
+      "count": 487
+    }
+  },
+  "rank": 58,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/12646537-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "The Hunger Games cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL5735363W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Hunger_Games",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL5735363W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 133,
+  "isbn": "9781536425512",
+  "description": "The Hunger Games is a 2008 dystopian novel by the American writer Suzanne Collins. It is written in the perspective of 16-year-old Katniss Everdeen, who lives in the future, post-apocalyptic nation of Panem in North America. The Capitol, a highly advanced metropolis, exercises political control over the rest of the nation. The Hunger Games is an annual event in which one boy and one girl aged 12–18 from each of the twelve districts surrounding the Capitol are selected by lottery to compete in a ...",
+  "_openlibrary_work_key": "/works/OL5735363W"
+}

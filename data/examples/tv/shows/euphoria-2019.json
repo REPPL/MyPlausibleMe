@@ -1,0 +1,46 @@
+{
+  "id": "euphoria-2019",
+  "title": "Euphoria",
+  "network": "hbo",
+  "year": 2019,
+  "endYear": null,
+  "seasons": 2,
+  "episodes": 17,
+  "genres": ["Drama", "Teen drama"],
+  "creators": ["Sam Levinson"],
+  "cast": ["Zendaya", "Hunter Schafer", "Angus Cloud", "Jacob Elordi", "Sydney Sweeney"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 55,
+  "summary": "A group of high school students navigate love, drugs, friendships, and identity in the social media age. Zendaya became the youngest Emmy winner for Outstanding Lead Actress in a Drama.",
+  "viewership": {
+    "peakViewers": 6600000,
+    "averageViewers": 4000000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Euphoria_(American_TV_series)"
+  },
+  "ratings": {
+    "imdb": { "score": 8.4, "max": 10 },
+    "rottenTomatoes": { "critics": 79, "audience": 79 }
+  },
+  "rank": 62,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/53/Euphoria_%28American_TV_series%29_Title_card.png",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Euphoria title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Euphoria_(American_TV_series)_Title_card.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Euphoria_(American_TV_series)",
+      "source": "Wikipedia"
+    }
+  ]
+}

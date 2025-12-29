@@ -1,0 +1,39 @@
+{
+  "id": "fifa-23-2022",
+  "title": "FIFA 23",
+  "publisher": "ea-sports",
+  "developer": "EA Vancouver / EA Romania",
+  "year": 2022,
+  "platforms": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "Nintendo Switch", "Stadia"],
+  "genres": ["Sports", "Football simulation"],
+  "modes": ["Single-player", "Multiplayer"],
+  "summary": "The final FIFA game before EA's licence ended. Features both men's and women's World Cups and HyperMotion2 technology for realistic gameplay.",
+  "sales": {
+    "unitsSold": 20000000,
+    "source": "Wikipedia/EA Sports",
+    "sourceUrl": "https://en.wikipedia.org/wiki/FIFA_23"
+  },
+  "ratings": {
+    "metacritic": { "score": 78, "max": 100 }
+  },
+  "rank": 30,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/a6/FIFA_23_Cover.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "FIFA 23 cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:FIFA_23_Cover.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/FIFA_23",
+      "source": "Wikipedia"
+    }
+  ]
+}

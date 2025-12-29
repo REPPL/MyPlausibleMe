@@ -1,0 +1,39 @@
+{
+  "id": "black-myth-wukong-2024",
+  "title": "Black Myth: Wukong",
+  "publisher": "game-science",
+  "developer": "Game Science",
+  "year": 2024,
+  "platforms": ["PC", "PlayStation 5", "Xbox Series X/S"],
+  "genres": ["Action RPG", "Souls-like"],
+  "modes": ["Single-player"],
+  "summary": "The Destined One retraces the journey of the Monkey King in this action RPG based on Journey to the West. The first Chinese AAA game to achieve global success.",
+  "sales": {
+    "unitsSold": 20000000,
+    "source": "Wikipedia/Game Science",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Black_Myth:_Wukong"
+  },
+  "ratings": {
+    "metacritic": { "score": 82, "max": 100 }
+  },
+  "rank": 100,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/04/Black_Myth_Wukong_cover_art.png",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Black Myth: Wukong cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Black_Myth_Wukong_cover_art.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Black_Myth:_Wukong",
+      "source": "Wikipedia"
+    }
+  ]
+}

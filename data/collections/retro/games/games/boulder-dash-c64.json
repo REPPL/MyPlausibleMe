@@ -1,0 +1,53 @@
+{
+  "id": "boulder-dash-c64",
+  "title": "Boulder Dash",
+  "platform": "c64",
+  "myRank": 1,
+  "year": 1984,
+  "summary": "An action-puzzle game where players navigate caves to collect diamonds while avoiding hazards like falling boulders and hostile creatures.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/44/Boulder_Dash_Original_Cover_Art.jpg",
+      "type": "boxart",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Boulder_Dash_Original_Cover_Art.jpg",
+        "licence": "fair-use"
+      },
+      "isPrimary": true,
+      "alt": "Boulder Dash cover art"
+    }
+  ],
+  "myStartYear": 1986,
+  "myVerdict": "Still a delight to play. Modern versions are great, but not as charming.",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Boulder_Dash_(video_game)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/game/15/",
+      "source": "MobyGames"
+    }
+  ],
+  "originalPlatform": "Atari 8-bit",
+  "originalReleaseDate": "1984",
+  "genres": [
+    "Puzzle",
+    "Action"
+  ],
+  "averageRating": {
+    "score": 5,
+    "sourceCount": 6,
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Boulder_Dash_(video_game)#Reception"
+  },
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=FiEVfa1OK_o",
+      "title": "Boulder Dash - C64 Gameplay",
+      "source": "C64-Wiki",
+      "type": "gameplay"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "pirates-of-the-caribbean-dead-mans-chest-2006",
+  "title": "Pirates of the Caribbean: Dead Man's Chest",
+  "studio": "disney",
+  "year": 2006,
+  "director": "Gore Verbinski",
+  "cast": [
+    "Johnny Depp",
+    "Orlando Bloom",
+    "Keira Knightley",
+    "Bill Nighy",
+    "Stellan Skarsgård"
+  ],
+  "genres": [
+    "Fantasy",
+    "Action",
+    "Adventure"
+  ],
+  "runtime": 151,
+  "language": "English",
+  "country": "USA",
+  "summary": "Jack Sparrow races to recover the heart of Davy Jones to avoid enslaving his soul to Jones' service, as other friends and foes seek the heart for their own agenda as well. The sequel shattered box office records upon release.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1066179747,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 423315812,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 642863935,
+      "currency": "USD"
+    },
+    "budget": 225000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_Dead_Man%27s_Chest"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 1,
+      "nominations": 4
+    }
+  },
+  "ratings": {
+    "imdb": {
+      "score": 7.3,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 54,
+      "audience": 72
+    },
+    "metacritic": {
+      "score": 53,
+      "max": 100
+    }
+  },
+  "rank": 40,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/2/2d/Pirates_of_the_caribbean_2_poster_b.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Pirates of the Caribbean: Dead Man's Chest movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Pirates_of_the_Caribbean_Dead_Man%27s_Chest.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=SfqrVADJHY0",
+      "title": "Pirates of the Caribbean: Dead Man's Chest Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_Dead_Man%27s_Chest",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0383574/",
+      "source": "IMDB"
+    }
+  ]
+}

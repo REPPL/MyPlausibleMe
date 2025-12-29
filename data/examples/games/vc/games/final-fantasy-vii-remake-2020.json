@@ -1,0 +1,39 @@
+{
+  "id": "final-fantasy-vii-remake-2020",
+  "title": "Final Fantasy VII Remake",
+  "publisher": "square-enix",
+  "developer": "Square Enix",
+  "year": 2020,
+  "platforms": ["PlayStation 4", "PlayStation 5", "PC"],
+  "genres": ["Action RPG", "JRPG"],
+  "modes": ["Single-player"],
+  "summary": "A reimagining of the original Final Fantasy VII covering the Midgar section. Features real-time action combat and expanded story content.",
+  "sales": {
+    "unitsSold": 7000000,
+    "source": "Wikipedia/Square Enix",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake"
+  },
+  "ratings": {
+    "metacritic": { "score": 87, "max": 100 }
+  },
+  "rank": 52,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/ce/FFVIIRemake.png",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Final Fantasy VII Remake cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:FFVIIRemake.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake",
+      "source": "Wikipedia"
+    }
+  ]
+}

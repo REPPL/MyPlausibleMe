@@ -1,0 +1,45 @@
+{
+  "id": "schitts-creek-2015",
+  "title": "Schitt's Creek",
+  "network": "cbc",
+  "year": 2015,
+  "endYear": 2020,
+  "seasons": 6,
+  "episodes": 80,
+  "genres": ["Comedy", "Sitcom"],
+  "creators": ["Eugene Levy", "Dan Levy"],
+  "cast": ["Eugene Levy", "Catherine O'Hara", "Dan Levy", "Annie Murphy", "Chris Elliott"],
+  "country": "Canada",
+  "language": "English",
+  "runtime": 22,
+  "summary": "A wealthy family loses everything and must rebuild their lives in a small town they once bought as a joke. Won a record-breaking nine Emmy Awards in its final season.",
+  "viewership": {
+    "peakViewers": 3200000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Schitt%27s_Creek"
+  },
+  "ratings": {
+    "imdb": { "score": 8.5, "max": 10 },
+    "rottenTomatoes": { "critics": 93, "audience": 89 }
+  },
+  "rank": 67,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/d8/Schitt%27s_Creek_logo.png",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Schitt's Creek logo",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Schitt%27s_Creek_logo.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Schitt%27s_Creek",
+      "source": "Wikipedia"
+    }
+  ]
+}

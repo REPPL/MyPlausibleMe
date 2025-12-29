@@ -1,0 +1,65 @@
+{
+  "id": "mash-1972",
+  "title": "M*A*S*H",
+  "network": "cbs",
+  "year": 1972,
+  "endYear": 1983,
+  "seasons": 11,
+  "episodes": 256,
+  "genres": [
+    "War",
+    "Comedy",
+    "Drama"
+  ],
+  "creators": [
+    "Larry Gelbart"
+  ],
+  "cast": [
+    "Alan Alda",
+    "Loretta Swit",
+    "Jamie Farr",
+    "Harry Morgan",
+    "Mike Farrell"
+  ],
+  "country": "United States",
+  "language": "English",
+  "runtime": 25,
+  "summary": "The staff of a Mobile Army Surgical Hospital during the Korean War cope with the horrors of war through humour. Its finale, 'Goodbye, Farewell and Amen', remains the most-watched broadcast in American television history.",
+  "viewership": {
+    "peakViewers": 105900000,
+    "peakEpisode": "Goodbye, Farewell and Amen",
+    "averageViewers": 25000000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/M*A*S*H_(TV_series)"
+  },
+  "ratings": {
+    "imdb": {
+      "score": 8.4,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 89,
+      "audience": 91
+    }
+  },
+  "rank": 18,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/b9/M%2AA%2AS%2AH_TV_title_screen.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "M*A*S*H title screen",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:M*A*S*H_TV_title_screen.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/M*A*S*H_(TV_series)",
+      "source": "Wikipedia"
+    }
+  ]
+}

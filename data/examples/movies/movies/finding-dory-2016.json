@@ -1,0 +1,73 @@
+{
+  "id": "finding-dory-2016",
+  "title": "Finding Dory",
+  "studio": "disney",
+  "year": 2016,
+  "director": "Andrew Stanton, Angus MacLane",
+  "cast": ["Ellen DeGeneres", "Albert Brooks", "Ed O'Neill", "Kaitlin Olson", "Ty Burrell"],
+  "genres": ["Animation", "Comedy", "Adventure"],
+  "runtime": 97,
+  "language": "English",
+  "country": "USA",
+  "summary": "Friendly but forgetful blue tang Dory begins a search for her long-lost parents, and everyone learns a few things about the real meaning of family along the way. The long-awaited sequel arrived 13 years after Finding Nemo.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1029266989,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 486295561,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 542971428,
+      "currency": "USD"
+    },
+    "budget": 200000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Finding_Dory"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 7.2, "max": 10 },
+    "rottenTomatoes": { "critics": 94, "audience": 84 },
+    "metacritic": { "score": 77, "max": 100 }
+  },
+  "rank": 45,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/3e/Finding_Dory.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Finding Dory movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Finding_Dory.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=oDHrL33T6TE",
+      "title": "Finding Dory Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Finding_Dory",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt2277860/",
+      "source": "IMDB"
+    }
+  ]
+}

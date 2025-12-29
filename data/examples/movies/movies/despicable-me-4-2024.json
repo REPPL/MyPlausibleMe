@@ -1,0 +1,73 @@
+{
+  "id": "despicable-me-4-2024",
+  "title": "Despicable Me 4",
+  "studio": "universal",
+  "year": 2024,
+  "director": "Chris Renaud, Patrick Delage",
+  "cast": ["Steve Carell", "Kristen Wiig", "Will Ferrell", "Sofia Vergara", "Pierre Coffin"],
+  "genres": ["Animation", "Comedy", "Adventure"],
+  "runtime": 95,
+  "language": "English",
+  "country": "USA",
+  "summary": "Gru and Lucy welcome a new member to the family, Gru Jr., who is intent on tormenting his dad. Meanwhile, Gru faces a new nemesis in Maxime Le Mal and his girlfriend Valentina, and the family is forced to go on the run.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 969315400,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 361315400,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 608000000,
+      "currency": "USD"
+    },
+    "budget": 100000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Despicable_Me_4"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 6.4, "max": 10 },
+    "rottenTomatoes": { "critics": 56, "audience": 83 },
+    "metacritic": { "score": 49, "max": 100 }
+  },
+  "rank": 74,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/4e/Despicable_Me_4_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Despicable Me 4 movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Despicable_Me_4_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=Gl0TYLuIJwg",
+      "title": "Despicable Me 4 Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Despicable_Me_4",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt7510222/",
+      "source": "IMDB"
+    }
+  ]
+}

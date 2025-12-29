@@ -1,0 +1,57 @@
+{
+  "id": "gba",
+  "title": "Game Boy Advance",
+  "shortTitle": "GBA",
+  "year": 2001,
+  "manufacturer": "Nintendo",
+  "generation": "6th (Handheld)",
+  "mediaFormat": "Cartridge",
+  "unitsSold": "81.5 million",
+  "bestSellingGame": "Pokémon Ruby & Sapphire",
+  "summary": "A significant advancement in handheld technology, offering a robust library of titles suitable for portable play.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Game_Boy_Advance_logo.svg/400px-Game_Boy_Advance_logo.svg.png",
+      "type": "logo",
+      "isPrimary": false,
+      "alt": "Game Boy Advance logo",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Game_Boy_Advance_logo.svg",
+        "licence": "public-domain"
+      }
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Nintendo-Game-Boy-Advance-Purple-FL.png",
+      "type": "console",
+      "isPrimary": true,
+      "alt": "Nintendo Game Boy Advance (Purple)",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nintendo-Game-Boy-Advance-Purple-FL.png",
+        "licence": "public-domain"
+      }
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Game-Boy-Micro.jpg",
+      "type": "console",
+      "isPrimary": false,
+      "alt": "Game Boy Micro",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Game-Boy-Micro.jpg",
+        "licence": "public-domain"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Game_Boy_Advance",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/platform/gba/",
+      "source": "MobyGames"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "james-and-the-giant-peach-1961",
+  "title": "James and the Giant Peach",
+  "author": "roald-dahl",
+  "year": 1961,
+  "genres": [
+    "Children's literature",
+    "Fantasy",
+    "Adventure"
+  ],
+  "pages": 160,
+  "publisher": "Alfred A. Knopf",
+  "language": "English",
+  "country": "United Kingdom",
+  "summary": "Orphaned James escapes his cruel aunts by travelling inside a giant peach with anthropomorphic insects. Dahl's first major children's book established his reputation as a beloved author of fantastical stories.",
+  "sales": {
+    "copiesSold": 20000000,
+    "languages": 45,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/James_and_the_Giant_Peach"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.03,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 3.95,
+      "max": 5,
+      "count": 130
+    }
+  },
+  "rank": 59,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/8252454-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "James and the Giant Peach cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL45809W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/James_and_the_Giant_Peach",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL45809W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 147,
+  "isbn": "0142410365",
+  "description": "***Roald Dahl's first and most widely celebrated book for young people continues to thrill readers around the world.***\r\n\r\n**When James accidentally drops some magic crystals by the old peach tree, strange things start to happen.** The peach at the top of the tree begins to grow, and before long it's as big as a house. When James discovers a secret entrance-way into the fruit and crawls inside, he meets wonderful new friends--the Old-Green-Grasshopper, the dainty Ladybug, and the Centipede of th...",
+  "_openlibrary_work_key": "/works/OL45809W"
+}

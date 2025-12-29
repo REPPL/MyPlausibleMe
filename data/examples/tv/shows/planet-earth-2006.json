@@ -1,0 +1,45 @@
+{
+  "id": "planet-earth-2006",
+  "title": "Planet Earth",
+  "network": "bbc",
+  "year": 2006,
+  "endYear": 2006,
+  "seasons": 1,
+  "episodes": 11,
+  "genres": ["Documentary", "Nature"],
+  "creators": ["Alastair Fothergill"],
+  "cast": ["David Attenborough"],
+  "country": "United Kingdom",
+  "language": "English",
+  "runtime": 50,
+  "summary": "A groundbreaking nature documentary series exploring Earth's diverse habitats, from pole to pole. The most expensive nature documentary ever commissioned, filmed in high definition across 64 countries.",
+  "viewership": {
+    "peakViewers": 12000000,
+    "source": "Wikipedia/BARB",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Planet_Earth_(2006_TV_series)"
+  },
+  "ratings": {
+    "imdb": { "score": 9.4, "max": 10 },
+    "rottenTomatoes": { "critics": 100, "audience": 96 }
+  },
+  "rank": 22,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/55/Planet_Earth_title_card.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Planet Earth title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Planet_Earth_title_card.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Planet_Earth_(2006_TV_series)",
+      "source": "Wikipedia"
+    }
+  ]
+}

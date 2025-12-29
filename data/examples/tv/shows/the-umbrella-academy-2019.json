@@ -1,0 +1,45 @@
+{
+  "id": "the-umbrella-academy-2019",
+  "title": "The Umbrella Academy",
+  "network": "netflix",
+  "year": 2019,
+  "endYear": 2024,
+  "seasons": 4,
+  "episodes": 40,
+  "genres": ["Superhero", "Comedy-drama", "Science fiction"],
+  "creators": ["Steve Blackman"],
+  "cast": ["Elliot Page", "Tom Hopper", "David Castañeda", "Emmy Raver-Lampman", "Robert Sheehan"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 55,
+  "summary": "A dysfunctional family of adopted sibling superheroes reunites after their father's death to solve the mystery of his murder and prevent an impending apocalypse. Based on the comic book series.",
+  "viewership": {
+    "hoursWatched": 700000000,
+    "source": "Netflix",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Umbrella_Academy_(TV_series)"
+  },
+  "ratings": {
+    "imdb": { "score": 7.9, "max": 10 },
+    "rottenTomatoes": { "critics": 87, "audience": 82 }
+  },
+  "rank": 58,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/90/The_Umbrella_Academy_season_1_title_card.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Umbrella Academy title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:The_Umbrella_Academy_season_1_title_card.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Umbrella_Academy_(TV_series)",
+      "source": "Wikipedia"
+    }
+  ]
+}

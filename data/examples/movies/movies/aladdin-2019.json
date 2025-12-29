@@ -1,0 +1,92 @@
+{
+  "id": "aladdin-2019",
+  "title": "Aladdin",
+  "studio": "disney",
+  "year": 2019,
+  "director": "Guy Ritchie",
+  "cast": [
+    "Will Smith",
+    "Mena Massoud",
+    "Naomi Scott",
+    "Marwan Kenzari",
+    "Navid Negahban"
+  ],
+  "genres": [
+    "Musical",
+    "Fantasy",
+    "Adventure"
+  ],
+  "runtime": 128,
+  "language": "English",
+  "country": "USA",
+  "summary": "A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true. The live-action remake became one of Disney's most successful remakes.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1054304000,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 355559216,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 698744784,
+      "currency": "USD"
+    },
+    "budget": 183000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Aladdin_(2019_film)"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": {
+      "score": 6.9,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 57,
+      "audience": 94
+    },
+    "metacritic": {
+      "score": 53,
+      "max": 100
+    }
+  },
+  "rank": 42,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/9a/Aladdin_%28Official_2019_Film_Poster%29.png",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Aladdin (2019) movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Aladdin_(2019_film)_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=foyufD52aog",
+      "title": "Aladdin Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Aladdin_(2019_film)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt6139732/",
+      "source": "IMDB"
+    }
+  ]
+}

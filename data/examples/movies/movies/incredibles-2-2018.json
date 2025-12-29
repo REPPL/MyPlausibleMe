@@ -1,0 +1,92 @@
+{
+  "id": "incredibles-2-2018",
+  "title": "Incredibles 2",
+  "studio": "disney",
+  "year": 2018,
+  "director": "Brad Bird",
+  "cast": [
+    "Craig T. Nelson",
+    "Holly Hunter",
+    "Sarah Vowell",
+    "Huck Milner",
+    "Samuel L. Jackson"
+  ],
+  "genres": [
+    "Animation",
+    "Superhero",
+    "Action"
+  ],
+  "runtime": 118,
+  "language": "English",
+  "country": "USA",
+  "summary": "The Incredibles family takes on a new mission which involves a change in family roles: Bob Parr must manage the house while his wife Helen goes out to save the world. The long-awaited sequel arrived 14 years after the original and became Pixar's highest-grossing film domestically.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1242805359,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 608581744,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 634223615,
+      "currency": "USD"
+    },
+    "budget": 200000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Incredibles_2"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 1
+    }
+  },
+  "ratings": {
+    "imdb": {
+      "score": 7.6,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 93,
+      "audience": 80
+    },
+    "metacritic": {
+      "score": 80,
+      "max": 100
+    }
+  },
+  "rank": 24,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/1f/Incredibles_2_%282018_animated_film%29.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Incredibles 2 movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Incredibles_2.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=i5qOzqD9Rms",
+      "title": "Incredibles 2 Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Incredibles_2",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt3606756/",
+      "source": "IMDB"
+    }
+  ]
+}

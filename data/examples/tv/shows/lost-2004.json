@@ -1,0 +1,47 @@
+{
+  "id": "lost-2004",
+  "title": "Lost",
+  "network": "abc",
+  "year": 2004,
+  "endYear": 2010,
+  "seasons": 6,
+  "episodes": 121,
+  "genres": ["Drama", "Mystery", "Science fiction"],
+  "creators": ["J. J. Abrams", "Damon Lindelof", "Jeffrey Lieber"],
+  "cast": ["Matthew Fox", "Evangeline Lilly", "Josh Holloway", "Terry O'Quinn", "Jorge Garcia"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 44,
+  "summary": "Survivors of a plane crash find themselves stranded on a mysterious island full of supernatural elements and secrets. Revolutionised serialised storytelling and online fan communities.",
+  "viewership": {
+    "peakViewers": 23470000,
+    "peakEpisode": "Pilot",
+    "averageViewers": 15000000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Lost_(TV_series)"
+  },
+  "ratings": {
+    "imdb": { "score": 8.3, "max": 10 },
+    "rottenTomatoes": { "critics": 85, "audience": 86 }
+  },
+  "rank": 26,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/d7/Lost-season1.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Lost season 1 poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Lost-season1.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Lost_(TV_series)",
+      "source": "Wikipedia"
+    }
+  ]
+}

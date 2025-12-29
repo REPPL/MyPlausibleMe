@@ -1,0 +1,62 @@
+{
+  "id": "the-catcher-in-the-rye-1951",
+  "title": "The Catcher in the Rye",
+  "author": "j-d-salinger",
+  "year": 1951,
+  "genres": [
+    "Novel",
+    "Coming-of-age"
+  ],
+  "pages": 277,
+  "publisher": "Little, Brown and Company",
+  "language": "English",
+  "country": "USA",
+  "summary": "Narrated by the cynical teenager Holden Caulfield, this novel chronicles his experiences in New York City after being expelled from prep school. A defining work of post-war American literature.",
+  "sales": {
+    "copiesSold": 65000000,
+    "languages": 30,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 3.81,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 3.59,
+      "max": 5,
+      "count": 378
+    }
+  },
+  "rank": 13,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/9273490-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "The Catcher in the Rye cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL3335245W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL3335245W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 181,
+  "isbn": "9781439550052",
+  "description": "Story of Holden Caufield with his idiosyncrasies, penetrating insight, confusion, sensitivity and negativism. Holden, knowing he is to be expelled from school, decides to leave early. He spends three days in New York City and tells the story of what he did and suffered there.",
+  "_openlibrary_work_key": "/works/OL3335245W"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "cyberpunk-2077-2020",
+  "title": "Cyberpunk 2077",
+  "publisher": "cd-projekt",
+  "developer": "CD Projekt Red",
+  "year": 2020,
+  "platforms": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "Stadia"],
+  "genres": ["Action RPG", "Open world", "Cyberpunk"],
+  "modes": ["Single-player"],
+  "summary": "An open-world RPG set in Night City, a dystopian megalopolis. Despite a troubled launch, later updates and the Phantom Liberty expansion redeemed the game.",
+  "sales": {
+    "unitsSold": 25000000,
+    "source": "Wikipedia/CD Projekt",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Cyberpunk_2077"
+  },
+  "ratings": {
+    "metacritic": { "score": 86, "max": 100 }
+  },
+  "rank": 37,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/9f/Cyberpunk_2077_box_art.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Cyberpunk 2077 cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Cyberpunk_2077_box_art.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Cyberpunk_2077",
+      "source": "Wikipedia"
+    }
+  ]
+}

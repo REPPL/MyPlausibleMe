@@ -1,0 +1,41 @@
+{
+  "id": "dream-of-the-red-chamber-1791",
+  "title": "Dream of the Red Chamber",
+  "author": "cao-xueqin",
+  "year": 1791,
+  "genres": ["Novel", "Family saga", "Romance"],
+  "pages": 2500,
+  "publisher": "Various",
+  "language": "Chinese",
+  "country": "China",
+  "summary": "One of China's Four Great Classical Novels, depicting the rise and fall of a powerful aristocratic family during the Qing dynasty through the love story of two cousins. A masterwork of Chinese literature.",
+  "sales": {
+    "copiesSold": 100000000,
+    "languages": 30,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber"
+  },
+  "ratings": {
+    "goodreads": { "score": 4.24, "max": 5 }
+  },
+  "rank": 8,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/HongLouMeng.JPG",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Dream of the Red Chamber illustration",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:HongLouMeng.JPG",
+        "licence": "public-domain"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber",
+      "source": "Wikipedia"
+    }
+  ]
+}

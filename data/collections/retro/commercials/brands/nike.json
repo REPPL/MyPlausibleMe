@@ -1,0 +1,18 @@
+{
+  "id": "nike",
+  "title": "Nike",
+  "summary": "American sportswear giant whose 'Just Do It' slogan became one of the most recognised taglines in advertising history.",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Nike,_Inc.",
+      "source": "Wikipedia"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo_NIKE.svg",
+      "type": "logo",
+      "alt": "Nike logo"
+    }
+  ]
+}

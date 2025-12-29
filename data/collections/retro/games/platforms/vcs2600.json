@@ -1,0 +1,57 @@
+{
+  "id": "vcs2600",
+  "title": "Atari 2600",
+  "shortTitle": "VCS",
+  "year": 1977,
+  "manufacturer": "Atari",
+  "generation": "2nd (8-bit)",
+  "mediaFormat": "Cartridge",
+  "unitsSold": "30 million",
+  "bestSellingGame": "Pac-Man",
+  "summary": "An early home video game console known for its wood-grain aesthetic and iconic joystick, serving as a significant entry point for many into home gaming.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Atari2600logo.svg",
+      "type": "logo",
+      "isPrimary": false,
+      "alt": "Atari 2600 logo",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atari2600logo.svg",
+        "licence": "public-domain"
+      }
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Atari-2600-Vader-FL.jpg",
+      "type": "console",
+      "isPrimary": true,
+      "alt": "Atari 2600 Vader model",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atari-2600-Vader-FL.jpg",
+        "licence": "public-domain"
+      }
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Atari-2600-Wood-4Sw-Set.png",
+      "type": "console",
+      "isPrimary": false,
+      "alt": "Atari 2600 4-switch 'woodie' model",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atari-2600-Wood-4Sw-Set.png",
+        "licence": "public-domain"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Atari_2600",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/platform/atari-2600/",
+      "source": "MobyGames"
+    }
+  ]
+}

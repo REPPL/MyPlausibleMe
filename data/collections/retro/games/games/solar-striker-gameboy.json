@@ -1,0 +1,52 @@
+{
+  "id": "solar-striker-gameboy",
+  "title": "Solar Striker",
+  "platform": "gameboy",
+  "myRank": 5,
+  "year": 1990,
+  "summary": "A vertically scrolling shooter involving space-based combat across several stages.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/2/29/Solar_Striker_Cover.jpg",
+      "type": "boxart",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Solar_Striker_Cover.jpg",
+        "licence": "fair-use"
+      },
+      "isPrimary": true,
+      "alt": "Solar Striker cover art"
+    }
+  ],
+  "myStartYear": 1990,
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Solar_Striker",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/game/4284/",
+      "source": "MobyGames"
+    }
+  ],
+  "originalPlatform": "Game Boy",
+  "originalReleaseDate": "1990",
+  "genres": [
+    "Shooter"
+  ],
+  "myVerdict": "Simple and fun",
+  "averageRating": {
+    "score": 3.5,
+    "sourceCount": 5,
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Solar_Striker#Reception"
+  },
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=PpeIUGnOH3o",
+      "title": "Solar Striker - Game Boy Gameplay",
+      "source": "YouTube",
+      "type": "gameplay"
+    }
+  ]
+}

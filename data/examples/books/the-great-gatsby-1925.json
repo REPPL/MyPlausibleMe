@@ -1,0 +1,63 @@
+{
+  "id": "the-great-gatsby-1925",
+  "title": "The Great Gatsby",
+  "author": "f-scott-fitzgerald",
+  "year": 1925,
+  "genres": [
+    "Novel",
+    "Tragedy",
+    "Literary fiction"
+  ],
+  "pages": 218,
+  "publisher": "Charles Scribner's Sons",
+  "language": "English",
+  "country": "United States",
+  "summary": "The story of millionaire Jay Gatsby and his obsession with Daisy Buchanan, set during the Roaring Twenties. Initially a commercial failure, it is now considered a masterpiece of American literature and a staple of high school curricula.",
+  "sales": {
+    "copiesSold": 25000000,
+    "languages": 42,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 3.93,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 3.96,
+      "max": 5,
+      "count": 208
+    }
+  },
+  "rank": 66,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/10590366-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "The Great Gatsby cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL468431W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Great_Gatsby",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL468431W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 1176,
+  "isbn": "9781848703629",
+  "description": "Here is a novel, glamorous, ironical, compassionate – a marvelous fusion into unity of the curious incongruities of the life of the period – which reveals a hero like no other – one who could live at no other time and in no other place. But he will live as a character, we surmise, as long as the memory of any reader lasts.\r\n\r\n\"There was something gorgeous about him, some heightened sensitivity to the promises of life.... It was an extraordinary gift for hope, a romantic readiness such as I have ...",
+  "_openlibrary_work_key": "/works/OL468431W"
+}

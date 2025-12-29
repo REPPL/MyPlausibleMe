@@ -1,0 +1,73 @@
+{
+  "id": "bing-crosby-silent-night",
+  "title": "Silent Night",
+  "artist": "bing-crosby",
+  "year": 1935,
+  "album": "Single",
+  "writers": [
+    "Franz Xaver Gruber",
+    "Joseph Mohr"
+  ],
+  "producers": [
+    "Jack Kapp"
+  ],
+  "genres": [
+    "Christmas",
+    "Traditional pop"
+  ],
+  "duration": 180,
+  "label": "Decca Records",
+  "summary": "Bing Crosby's recording of the classic Christmas carol became one of the best-selling singles of all time. The original hymn was composed in 1818 in Austria and has been translated into over 300 languages.",
+  "sales": {
+    "totalUnits": 30000000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Silent_Night"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 1,
+      "chart": "Billboard",
+      "year": 1935
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "Platinum",
+      "units": 1000000
+    }
+  ],
+  "rank": 3,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bing_Crosby_by_Muky.jpg/440px-Bing_Crosby_by_Muky.jpg",
+      "type": "artist",
+      "isPrimary": true,
+      "alt": "Bing Crosby portrait",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bing_Crosby_by_Muky.jpg",
+        "licence": "public-domain"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=sE7XxTgsoXs",
+      "title": "Bing Crosby - Silent Night",
+      "source": "YouTube",
+      "type": "audio"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Silent_Night",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/19537e9f-353c-4d33-a22e-ffd5695245ac",
+      "source": "MusicBrainz"
+    }
+  ],
+  "_musicbrainz_recording_id": "19537e9f-353c-4d33-a22e-ffd5695245ac"
+}

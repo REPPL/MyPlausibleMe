@@ -1,0 +1,39 @@
+{
+  "id": "spider-man-2018",
+  "title": "Marvel's Spider-Man",
+  "publisher": "sony",
+  "developer": "Insomniac Games",
+  "year": 2018,
+  "platforms": ["PlayStation 4", "PlayStation 5", "PC"],
+  "genres": ["Action-adventure", "Open world"],
+  "modes": ["Single-player"],
+  "summary": "An open-world action game following an experienced Peter Parker as Spider-Man defending New York. Features fluid web-swinging and combat mechanics.",
+  "sales": {
+    "unitsSold": 20000000,
+    "source": "Wikipedia/Sony",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Spider-Man_(2018_video_game)"
+  },
+  "ratings": {
+    "metacritic": { "score": 87, "max": 100 }
+  },
+  "rank": 31,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/e1/Spider-Man_PS4_cover.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Spider-Man cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Spider-Man_PS4_cover.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Spider-Man_(2018_video_game)",
+      "source": "Wikipedia"
+    }
+  ]
+}

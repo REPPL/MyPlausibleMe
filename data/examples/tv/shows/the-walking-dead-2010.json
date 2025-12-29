@@ -1,0 +1,65 @@
+{
+  "id": "the-walking-dead-2010",
+  "title": "The Walking Dead",
+  "network": "amc",
+  "year": 2010,
+  "endYear": 2022,
+  "seasons": 11,
+  "episodes": 177,
+  "genres": [
+    "Horror",
+    "Drama",
+    "Post-apocalyptic"
+  ],
+  "creators": [
+    "Frank Darabont"
+  ],
+  "cast": [
+    "Andrew Lincoln",
+    "Norman Reedus",
+    "Melissa McBride",
+    "Lauren Cohan",
+    "Danai Gurira"
+  ],
+  "country": "United States",
+  "language": "English",
+  "runtime": 44,
+  "summary": "Survivors of a zombie apocalypse fight to stay alive while dealing with other human threats. Based on the comic book series, it became the highest-rated cable series in television history.",
+  "viewership": {
+    "peakViewers": 17290000,
+    "peakEpisode": "No Sanctuary (S05E01)",
+    "averageViewers": 10000000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Walking_Dead_(TV_series)"
+  },
+  "ratings": {
+    "imdb": {
+      "score": 8.1,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 79,
+      "audience": 74
+    }
+  },
+  "rank": 17,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Andrew_Lincoln%2C_Greg_Nicotero%2C_Norman_Reedus%2C_Melissa_McBride%2C_Lennie_James%2C_Chandler_Riggs%2C_Jeffrey_Dean_Morgan%2C_Lauren_Cohan%2C_Alanna_Masterson_%26_Seth_Gilliam_%28cropped%29.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Walking Dead title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:The_Walking_Dead_Title_Card.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Walking_Dead_(TV_series)",
+      "source": "Wikipedia"
+    }
+  ]
+}

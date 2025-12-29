@@ -1,0 +1,73 @@
+{
+  "id": "barbie-2023",
+  "title": "Barbie",
+  "studio": "warner-bros",
+  "year": 2023,
+  "director": "Greta Gerwig",
+  "cast": ["Margot Robbie", "Ryan Gosling", "America Ferrera", "Kate McKinnon", "Will Ferrell"],
+  "genres": ["Comedy", "Fantasy", "Adventure"],
+  "runtime": 114,
+  "language": "English",
+  "country": "USA",
+  "summary": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans. The film became a cultural phenomenon and Gerwig's highest-grossing film.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1445638421,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 636238421,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 809400000,
+      "currency": "USD"
+    },
+    "budget": 145000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Barbie_(film)"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 1,
+      "nominations": 8
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 6.8, "max": 10 },
+    "rottenTomatoes": { "critics": 88, "audience": 83 },
+    "metacritic": { "score": 80, "max": 100 }
+  },
+  "rank": 15,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/0b/Barbie_2023_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Barbie movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Barbie_2023_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=pBk4NYhWNMM",
+      "title": "Barbie Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Barbie_(film)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt1517268/",
+      "source": "IMDB"
+    }
+  ]
+}

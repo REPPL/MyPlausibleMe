@@ -1,0 +1,65 @@
+{
+  "id": "succession-2018",
+  "title": "Succession",
+  "network": "hbo",
+  "year": 2018,
+  "endYear": 2023,
+  "seasons": 4,
+  "episodes": 39,
+  "genres": [
+    "Drama",
+    "Dark comedy",
+    "Satire"
+  ],
+  "creators": [
+    "Jesse Armstrong"
+  ],
+  "cast": [
+    "Brian Cox",
+    "Jeremy Strong",
+    "Sarah Snook",
+    "Kieran Culkin",
+    "Matthew Macfadyen"
+  ],
+  "country": "United States",
+  "language": "English",
+  "runtime": 60,
+  "summary": "The dysfunctional Roy family fights for control of their global media and entertainment conglomerate. Won multiple Emmy Awards for Outstanding Drama Series and became a cultural phenomenon.",
+  "viewership": {
+    "peakViewers": 2900000,
+    "peakEpisode": "With Open Eyes (S04E10)",
+    "averageViewers": 1500000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Succession_(TV_series)"
+  },
+  "ratings": {
+    "imdb": {
+      "score": 8.8,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 95,
+      "audience": 86
+    }
+  },
+  "rank": 16,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/4_WTC_May_17_2013.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Succession title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Succession_title_card.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Succession_(TV_series)",
+      "source": "Wikipedia"
+    }
+  ]
+}

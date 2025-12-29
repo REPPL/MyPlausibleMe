@@ -1,0 +1,40 @@
+{
+  "id": "world-of-warcraft-2004",
+  "title": "World of Warcraft",
+  "publisher": "blizzard",
+  "developer": "Blizzard Entertainment",
+  "year": 2004,
+  "platforms": ["PC", "Mac"],
+  "genres": ["MMORPG"],
+  "modes": ["Multiplayer"],
+  "summary": "A massively multiplayer online role-playing game set in the Warcraft universe. Peaked at 12 million subscribers and defined the modern MMORPG genre.",
+  "sales": {
+    "subscribers": 7000000,
+    "peakSubscribers": 12000000,
+    "source": "Wikipedia/Blizzard",
+    "sourceUrl": "https://en.wikipedia.org/wiki/World_of_Warcraft"
+  },
+  "ratings": {
+    "metacritic": { "score": 93, "max": 100 }
+  },
+  "rank": 45,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/65/World_of_Warcraft.png",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "World of Warcraft cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:World_of_Warcraft.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/World_of_Warcraft",
+      "source": "Wikipedia"
+    }
+  ]
+}

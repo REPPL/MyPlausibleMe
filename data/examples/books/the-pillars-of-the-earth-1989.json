@@ -1,0 +1,63 @@
+{
+  "id": "the-pillars-of-the-earth-1989",
+  "title": "The Pillars of the Earth",
+  "author": "ken-follett",
+  "year": 1989,
+  "genres": [
+    "Historical fiction",
+    "Epic",
+    "Drama"
+  ],
+  "pages": 973,
+  "publisher": "Macmillan",
+  "language": "English",
+  "country": "United Kingdom",
+  "summary": "An epic tale of the building of a cathedral in 12th-century England, set against the backdrop of civil war and religious strife. A departure from Follett's thrillers, it became his most beloved work.",
+  "sales": {
+    "copiesSold": 26000000,
+    "languages": 30,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Pillars_of_the_Earth"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.34,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.22,
+      "max": 5,
+      "count": 68
+    }
+  },
+  "rank": 67,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/9269909-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "The Pillars of the Earth cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL1914022W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Pillars_of_the_Earth",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL1914022W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 110,
+  "isbn": "9780451168634",
+  "description": "The Pillars of the Earth is a historical novel by Welsh author Ken Follett published in 1989 about the building of a cathedral in the fictional town of Kingsbridge, England. Set in the 12th century, the novel covers the time between the sinking of the White Ship and the murder of Thomas Becket, but focuses primarily on the Anarchy. The book traces the development of Gothic architecture out of the preceding Romanesque architecture, and the fortunes of the Kingsbridge priory and village against th...",
+  "_openlibrary_work_key": "/works/OL1914022W"
+}

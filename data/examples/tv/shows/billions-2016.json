@@ -1,0 +1,64 @@
+{
+  "id": "billions-2016",
+  "title": "Billions",
+  "network": "showtime",
+  "year": 2016,
+  "endYear": 2023,
+  "seasons": 7,
+  "episodes": 84,
+  "genres": [
+    "Drama",
+    "Legal drama"
+  ],
+  "creators": [
+    "Brian Koppelman",
+    "David Levien",
+    "Andrew Ross Sorkin"
+  ],
+  "cast": [
+    "Paul Giamatti",
+    "Damian Lewis",
+    "Maggie Siff",
+    "Malin Åkerman",
+    "Corey Stoll"
+  ],
+  "country": "United States",
+  "language": "English",
+  "runtime": 60,
+  "summary": "A U.S. Attorney and a hedge fund kingpin engage in a battle of wits and power in New York's financial world.",
+  "viewership": {
+    "peakViewers": 2100000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Billions_(TV_series)"
+  },
+  "ratings": {
+    "imdb": {
+      "score": 8.4,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 82,
+      "audience": 83
+    }
+  },
+  "rank": 84,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/5c/Billions-KeyArt.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Billions title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Billions_Title_Card.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Billions_(TV_series)",
+      "source": "Wikipedia"
+    }
+  ]
+}

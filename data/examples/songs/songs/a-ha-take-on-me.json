@@ -1,0 +1,92 @@
+{
+  "id": "a-ha-take-on-me",
+  "title": "Take On Me",
+  "artist": "a-ha",
+  "year": 1985,
+  "album": "Hunting High and Low",
+  "writers": [
+    "Magne Furuholmen",
+    "Morten Harket",
+    "Pål Waaktaar"
+  ],
+  "producers": [
+    "Alan Tarney"
+  ],
+  "genres": [
+    "Synth-pop",
+    "New wave"
+  ],
+  "duration": 225,
+  "label": "Warner Bros. Records",
+  "summary": "Known for its groundbreaking rotoscoped music video combining live action with pencil-sketch animation and Morten Harket's impressive vocal range. After an initial flop, the innovative video helped it reach number one.",
+  "sales": {
+    "totalUnits": 7000000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Take_On_Me"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 1,
+      "weeks": 1,
+      "chart": "Billboard Hot 100",
+      "year": 1985
+    },
+    "UK": {
+      "peak": 2,
+      "chart": "UK Singles Chart",
+      "year": 1985
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "4x Platinum",
+      "units": 4000000
+    },
+    {
+      "region": "UK",
+      "certification": "Platinum",
+      "units": 600000
+    }
+  ],
+  "rank": 55,
+  "images": [
+    {
+      "url": "https://coverartarchive.org/release/181b9a01-0446-4601-99be-b011ab615631/13015069966-500.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Album cover",
+      "attribution": {
+        "source": "Cover Art Archive",
+        "licence": "CC BY-NC-SA 3.0",
+        "licenceUrl": "https://wiki.musicbrainz.org/Cover_Art_Archive",
+        "note": "Cover art copyrighted by respective owners. Non-commercial use only.",
+        "sourceUrl": "https://musicbrainz.org/release/181b9a01-0446-4601-99be-b011ab615631"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=djV11Xbc914",
+      "title": "a-ha - Take On Me (Official Video)",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Take_On_Me",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/a4c0f22c-b6c3-4819-9d78-17b1e764ba7c",
+      "source": "MusicBrainz"
+    },
+    {
+      "url": "https://musicbrainz.org/release/181b9a01-0446-4601-99be-b011ab615631",
+      "source": "MusicBrainz (Release)"
+    }
+  ],
+  "_musicbrainz_recording_id": "a4c0f22c-b6c3-4819-9d78-17b1e764ba7c",
+  "_musicbrainz_release_id": "181b9a01-0446-4601-99be-b011ab615631"
+}

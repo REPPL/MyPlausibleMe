@@ -1,0 +1,98 @@
+{
+  "id": "taylor-swift-shake-it-off",
+  "title": "Shake It Off",
+  "artist": "taylor-swift",
+  "year": 2014,
+  "album": "1989",
+  "writers": [
+    "Taylor Swift",
+    "Max Martin",
+    "Shellback"
+  ],
+  "producers": [
+    "Max Martin",
+    "Shellback"
+  ],
+  "genres": [
+    "Electropop",
+    "Dance-pop"
+  ],
+  "duration": 219,
+  "label": "Big Machine Records",
+  "summary": "The lead single from Taylor Swift's full transition to pop music. The upbeat anthem about ignoring criticism spent four weeks at number one and was nominated for Record of the Year.",
+  "sales": {
+    "totalUnits": 10000000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Shake_It_Off_(Taylor_Swift_song)"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 1,
+      "weeks": 4,
+      "chart": "Billboard Hot 100",
+      "year": 2014
+    },
+    "UK": {
+      "peak": 2,
+      "chart": "UK Singles Chart",
+      "year": 2014
+    },
+    "Australia": {
+      "peak": 1,
+      "chart": "ARIA Charts",
+      "year": 2014
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "8x Platinum",
+      "units": 8000000
+    },
+    {
+      "region": "UK",
+      "certification": "3x Platinum",
+      "units": 1800000
+    }
+  ],
+  "rank": 58,
+  "images": [
+    {
+      "url": "https://coverartarchive.org/release/40924c0d-d84f-4034-8a09-dc3b041b1b9f/31606513464-500.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Album cover",
+      "attribution": {
+        "source": "Cover Art Archive",
+        "licence": "CC BY-NC-SA 3.0",
+        "licenceUrl": "https://wiki.musicbrainz.org/Cover_Art_Archive",
+        "note": "Cover art copyrighted by respective owners. Non-commercial use only.",
+        "sourceUrl": "https://musicbrainz.org/release/40924c0d-d84f-4034-8a09-dc3b041b1b9f"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=nfWlot6h_JM",
+      "title": "Taylor Swift - Shake It Off",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Shake_It_Off_(Taylor_Swift_song)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/2ccf1b28-9986-4643-85fc-41488db48619",
+      "source": "MusicBrainz"
+    },
+    {
+      "url": "https://musicbrainz.org/release/40924c0d-d84f-4034-8a09-dc3b041b1b9f",
+      "source": "MusicBrainz (Release)"
+    }
+  ],
+  "_musicbrainz_recording_id": "2ccf1b28-9986-4643-85fc-41488db48619",
+  "_musicbrainz_release_id": "40924c0d-d84f-4034-8a09-dc3b041b1b9f"
+}

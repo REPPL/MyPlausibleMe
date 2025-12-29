@@ -1,0 +1,63 @@
+{
+  "id": "wuthering-heights-1847",
+  "title": "Wuthering Heights",
+  "author": "emily-bronte",
+  "year": 1847,
+  "genres": [
+    "Novel",
+    "Gothic fiction",
+    "Romance"
+  ],
+  "pages": 416,
+  "publisher": "Thomas Cautley Newby",
+  "language": "English",
+  "country": "United Kingdom",
+  "summary": "The turbulent love story of Heathcliff and Catherine Earnshaw on the Yorkshire moors. Initially controversial for its dark themes, it is now considered one of the greatest novels in English literature.",
+  "sales": {
+    "copiesSold": 10000000,
+    "languages": 50,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Wuthering_Heights"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 3.89,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.07,
+      "max": 5,
+      "count": 266
+    }
+  },
+  "rank": 89,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/12818862-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Wuthering Heights cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL21177W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Wuthering_Heights",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL21177W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 2885,
+  "isbn": "9781546555919",
+  "description": "Wuthering Heights is an 1847 novel by Emily Brontë, initially published under the pseudonym Ellis Bell. It concerns two families of the landed gentry living on the West Yorkshire moors, the Earnshaws and the Lintons, and their turbulent relationships with Earnshaw's adopted son, Heathcliff. The novel was influenced by Romanticism and Gothic fiction.",
+  "_openlibrary_work_key": "/works/OL21177W"
+}

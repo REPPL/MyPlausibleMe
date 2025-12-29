@@ -1,0 +1,63 @@
+{
+  "id": "you-can-heal-your-life-1984",
+  "title": "You Can Heal Your Life",
+  "author": "louise-hay",
+  "year": 1984,
+  "genres": [
+    "Self-help",
+    "New Thought",
+    "Spirituality"
+  ],
+  "pages": 240,
+  "publisher": "Hay House",
+  "language": "English",
+  "country": "United States",
+  "summary": "A self-help book exploring the connection between mind, body, and health. Hay presents the idea that our thoughts and beliefs contribute to our physical ailments and that we can heal through affirmations and positive thinking.",
+  "sales": {
+    "copiesSold": 50000000,
+    "languages": 30,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/You_Can_Heal_Your_Life"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.08,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.6,
+      "max": 5,
+      "count": 15
+    }
+  },
+  "rank": 46,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/715608-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "You can heal your life cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL52866W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/You_Can_Heal_Your_Life",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL52866W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 8,
+  "isbn": "0937611018",
+  "description": "This book offers practical steps for dissolving both the fears and the causations of diseases. It helps clear away the blocks that keep people from robust health and having what they want in life.",
+  "_openlibrary_work_key": "/works/OL52866W"
+}

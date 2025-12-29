@@ -1,0 +1,25 @@
+{
+  "id": "nike-just-do-it",
+  "title": "Just Do It (Walt Stack)",
+  "brand": "nike",
+  "year": 1988,
+  "personalRank": 9,
+  "agency": "Wieden+Kennedy",
+  "director": "David Kennedy",
+  "duration": 30,
+  "summary": "The first 'Just Do It' commercial featuring 80-year-old runner Walt Stack, who ran 17 miles every morning across the Golden Gate Bridge. Simple, authentic, and launched one of advertising's most enduring taglines.",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Just_Do_It",
+      "source": "Wikipedia"
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=0yO7xLAGugQ",
+      "title": "Just Do It - Walt Stack",
+      "source": "YouTube",
+      "type": "commercial"
+    }
+  ]
+}

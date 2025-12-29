@@ -1,0 +1,51 @@
+{
+  "id": "splatoon-2-switch",
+  "title": "Splatoon 2",
+  "platform": "switch",
+  "myRank": 3,
+  "year": 2017,
+  "summary": "A third-person shooter focused on territorial control through ink-based combat, featuring both competitive multiplayer and a single-player campaign.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/49/Splatoon_2.jpg",
+      "type": "boxart",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Splatoon_2.jpg",
+        "licence": "fair-use"
+      },
+      "isPrimary": true,
+      "alt": "Splatoon 2 cover art"
+    }
+  ],
+  "myStartYear": 2018,
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Splatoon_2",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/game/73389/",
+      "source": "MobyGames"
+    }
+  ],
+  "originalReleaseDate": "2017",
+  "genres": [
+    "Shooter"
+  ],
+  "myVerdict": "I wish I could play that in coop",
+  "averageRating": {
+    "score": 4,
+    "sourceCount": 80,
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Splatoon_2#Reception"
+  },
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=qN4w5D2tzME",
+      "title": "Splatoon 2 - Full Story Mode",
+      "source": "Nintendo",
+      "type": "gameplay"
+    }
+  ]
+}

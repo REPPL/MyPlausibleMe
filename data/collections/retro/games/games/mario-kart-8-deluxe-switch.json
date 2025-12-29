@@ -1,0 +1,43 @@
+{
+  "id": "mario-kart-8-deluxe-switch",
+  "title": "Mario Kart 8 Deluxe",
+  "platform": "switch",
+  "myRank": 1,
+  "year": 2017,
+  "summary": "A kart racing game (subtitled Deluxe) that includes all DLC from the Wii U version and introduces new characters and battle modes.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/b5/MarioKart8Boxart.jpg",
+      "type": "boxart",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:MarioKart8Boxart.jpg",
+        "licence": "fair-use"
+      },
+      "isPrimary": true,
+      "alt": "Mario Kart 8 Deluxe cover art"
+    }
+  ],
+  "myStartYear": 2018,
+  "myVerdict": "Racing perfection",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mario_Kart_8_Deluxe",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.mobygames.com/game/87551/",
+      "source": "MobyGames"
+    }
+  ],
+  "originalReleaseDate": "2017",
+  "genres": [
+    "Racing"
+  ],
+  "averageRating": {
+    "score": 4.5,
+    "sourceCount": 60,
+    "source": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mario_Kart_8_Deluxe#Reception"
+  }
+}

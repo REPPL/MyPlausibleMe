@@ -1,0 +1,63 @@
+{
+  "id": "the-boy-in-the-striped-pyjamas-2006",
+  "title": "The Boy in the Striped Pyjamas",
+  "author": "john-boyne",
+  "year": 2006,
+  "genres": [
+    "Historical fiction",
+    "Children's literature",
+    "Holocaust literature"
+  ],
+  "pages": 216,
+  "publisher": "David Fickling Books",
+  "language": "English",
+  "country": "Ireland",
+  "summary": "Nine-year-old Bruno befriends a Jewish boy on the other side of a fence at a concentration camp. A fable exploring the Holocaust through a child's innocent perspective, adapted into a 2008 film.",
+  "sales": {
+    "copiesSold": 11000000,
+    "languages": 50,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Boy_in_the_Striped_Pyjamas"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.14,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.03,
+      "max": 5,
+      "count": 63
+    }
+  },
+  "rank": 84,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/12720687-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "The Boy in the Striped Pyjamas cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL5840870W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Boy_in_the_Striped_Pyjamas",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL5840870W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 98,
+  "isbn": "1448139880",
+  "description": "The Boy in the Striped Pyjamas is a 2006 Holocaust novel by Irish novelist John Boyne.",
+  "_openlibrary_work_key": "/works/OL5840870W"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "overwatch-2016",
+  "title": "Overwatch",
+  "publisher": "blizzard",
+  "developer": "Blizzard Entertainment",
+  "year": 2016,
+  "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch"],
+  "genres": ["First-person shooter", "Hero shooter"],
+  "modes": ["Multiplayer"],
+  "summary": "A team-based multiplayer first-person shooter featuring diverse heroes with unique abilities. Spawned a professional esports league.",
+  "sales": {
+    "unitsSold": 50000000,
+    "source": "Wikipedia/Blizzard",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Overwatch_(video_game)"
+  },
+  "ratings": {
+    "metacritic": { "score": 91, "max": 100 }
+  },
+  "rank": 9,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/51/Overwatch_cover_art.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Overwatch cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Overwatch_cover_art.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Overwatch_(video_game)",
+      "source": "Wikipedia"
+    }
+  ]
+}

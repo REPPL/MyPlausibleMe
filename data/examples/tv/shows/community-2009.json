@@ -1,0 +1,46 @@
+{
+  "id": "community-2009",
+  "title": "Community",
+  "network": "nbc",
+  "year": 2009,
+  "endYear": 2015,
+  "seasons": 6,
+  "episodes": 110,
+  "genres": ["Comedy", "Sitcom"],
+  "creators": ["Dan Harmon"],
+  "cast": ["Joel McHale", "Gillian Jacobs", "Danny Pudi", "Alison Brie", "Donald Glover"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 22,
+  "summary": "A diverse group of students form a study group at a community college. Known for its genre-bending episodes and meta-humour.",
+  "viewership": {
+    "peakViewers": 7800000,
+    "averageViewers": 4000000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Community_(TV_series)"
+  },
+  "ratings": {
+    "imdb": { "score": 8.5, "max": 10 },
+    "rottenTomatoes": { "critics": 88, "audience": 90 }
+  },
+  "rank": 88,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/53/Community_title.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Community title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Community_title.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Community_(TV_series)",
+      "source": "Wikipedia"
+    }
+  ]
+}

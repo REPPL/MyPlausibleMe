@@ -1,0 +1,30 @@
+{
+  "id": "playstation-4",
+  "title": "PlayStation 4",
+  "type": "console",
+  "manufacturer": "Sony",
+  "year": 2013,
+  "endYear": 2020,
+  "generation": 8,
+  "unitsSold": 117000000,
+  "summary": "Sony's eighth-generation home video game console. The second best-selling home console of all time after the PlayStation 2.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/PlayStation_logo.svg",
+      "type": "logo",
+      "isPrimary": true,
+      "alt": "PlayStation logo",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:PlayStation_logo.svg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/PlayStation_4",
+      "source": "Wikipedia"
+    }
+  ]
+}

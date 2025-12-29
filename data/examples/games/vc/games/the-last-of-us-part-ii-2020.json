@@ -1,0 +1,39 @@
+{
+  "id": "the-last-of-us-part-ii-2020",
+  "title": "The Last of Us Part II",
+  "publisher": "sony",
+  "developer": "Naughty Dog",
+  "year": 2020,
+  "platforms": ["PlayStation 4", "PlayStation 5", "PC"],
+  "genres": ["Action-adventure", "Survival horror"],
+  "modes": ["Single-player"],
+  "summary": "Ellie embarks on a journey of vengeance five years after the events of the first game. Won Game of the Year 2020 and holds the record for most Game Awards won.",
+  "sales": {
+    "unitsSold": 10000000,
+    "source": "Wikipedia/Sony",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Last_of_Us_Part_II"
+  },
+  "ratings": {
+    "metacritic": { "score": 93, "max": 100 }
+  },
+  "rank": 33,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/4f/TLOU_P2_Box_Art_2.png",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "The Last of Us Part II cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:TLOU_P2_Box_Art_2.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Last_of_Us_Part_II",
+      "source": "Wikipedia"
+    }
+  ]
+}

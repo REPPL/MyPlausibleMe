@@ -1,0 +1,92 @@
+{
+  "id": "ice-age-continental-drift-2012",
+  "title": "Ice Age: Continental Drift",
+  "studio": "20th-century",
+  "year": 2012,
+  "director": "Steve Martino, Mike Thurmeier",
+  "cast": [
+    "Ray Romano",
+    "John Leguizamo",
+    "Denis Leary",
+    "Queen Latifah",
+    "Peter Dinklage"
+  ],
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Adventure"
+  ],
+  "runtime": 88,
+  "language": "English",
+  "country": "USA",
+  "summary": "Manny, Diego, and Sid embark upon another adventure after their continent is set adrift. Using an iceberg as a ship, they encounter sea creatures and battle pirates as they explore a new world.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 877244782,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 161321843,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 715922939,
+      "currency": "USD"
+    },
+    "budget": 95000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ice_Age:_Continental_Drift"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": {
+      "score": 6.6,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 37,
+      "audience": 55
+    },
+    "metacritic": {
+      "score": 49,
+      "max": 100
+    }
+  },
+  "rank": 60,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/6c/Ice_Age_Continental_Drift.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Ice Age: Continental Drift movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Ice_Age_Continental_Drift_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=WlXorEidDvY",
+      "title": "Ice Age: Continental Drift Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ice_Age:_Continental_Drift",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt1667889/",
+      "source": "IMDB"
+    }
+  ]
+}

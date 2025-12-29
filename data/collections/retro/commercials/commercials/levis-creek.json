@@ -1,0 +1,26 @@
+{
+  "id": "levis-creek",
+  "title": "Creek",
+  "brand": "levis",
+  "year": 1994,
+  "personalRank": 5,
+  "agency": "BBH",
+  "director": "Vaughan Arnell",
+  "music": "Stiltskin - Inside",
+  "duration": 60,
+  "summary": "A striking black-and-white Levi's 501 commercial dramatising the 'shrink-to-fit' jeans. Set to Stiltskin's 'Inside', prime minister's daughters spy on a young man swimming in a creek and steal what they think are his jeans. Created with Ansel Adams-style imagery, it's considered one of the finest adverts ever made.",
+  "detailUrls": [
+    {
+      "url": "https://levis.fandom.com/wiki/Commercials",
+      "source": "Levi's Wiki"
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=skWFyop_pxU",
+      "title": "Levi's Creek",
+      "source": "YouTube",
+      "type": "commercial"
+    }
+  ]
+}

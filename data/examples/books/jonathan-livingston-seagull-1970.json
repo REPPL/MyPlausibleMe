@@ -1,0 +1,63 @@
+{
+  "id": "jonathan-livingston-seagull-1970",
+  "title": "Jonathan Livingston Seagull",
+  "author": "richard-bach",
+  "year": 1970,
+  "genres": [
+    "Fable",
+    "Allegory",
+    "Novella"
+  ],
+  "pages": 127,
+  "publisher": "Macmillan",
+  "language": "English",
+  "country": "United States",
+  "summary": "The story of a seagull who wants to fly for the joy of flying rather than merely to find food. A spiritual fable about self-perfection that became a massive bestseller in the early 1970s.",
+  "sales": {
+    "copiesSold": 44000000,
+    "languages": 28,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Jonathan_Livingston_Seagull"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 3.84,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 3.79,
+      "max": 5,
+      "count": 61
+    }
+  },
+  "rank": 34,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/6522230-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Jonathan Livingston Le Goeland cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL62073W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Jonathan_Livingston_Seagull",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL62073W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 62,
+  "isbn": "0708962556",
+  "description": "Jonathan Livingston Seagull, written by Richard Bach, is a fable in novella form about a seagull learning about life and flight, and a homily about self-perfection.",
+  "_openlibrary_work_key": "/works/OL62073W"
+}

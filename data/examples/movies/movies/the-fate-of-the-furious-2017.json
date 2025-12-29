@@ -1,0 +1,73 @@
+{
+  "id": "the-fate-of-the-furious-2017",
+  "title": "The Fate of the Furious",
+  "studio": "universal",
+  "year": 2017,
+  "director": "F. Gary Gray",
+  "cast": ["Vin Diesel", "Dwayne Johnson", "Jason Statham", "Michelle Rodriguez", "Charlize Theron"],
+  "genres": ["Action", "Thriller", "Crime"],
+  "runtime": 136,
+  "language": "English",
+  "country": "USA",
+  "summary": "When a mysterious woman seduces Dom into the world of terrorism and a betrayal of those closest to him, the crew face trials that will test them as never before. The eighth instalment continued the franchise's global box office dominance.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1236005118,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 226008385,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 1009996733,
+      "currency": "USD"
+    },
+    "budget": 250000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Fate_of_the_Furious"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 6.6, "max": 10 },
+    "rottenTomatoes": { "critics": 67, "audience": 66 },
+    "metacritic": { "score": 56, "max": 100 }
+  },
+  "rank": 25,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/2/2d/The_Fate_of_The_Furious_Theatrical_Poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Fate of the Furious movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:The_Fate_of_The_Furious_Theatrical_Poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=uisBaTkQAEs",
+      "title": "The Fate of the Furious Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Fate_of_the_Furious",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt4630562/",
+      "source": "IMDB"
+    }
+  ]
+}

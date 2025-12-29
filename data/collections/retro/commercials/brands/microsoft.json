@@ -1,0 +1,18 @@
+{
+  "id": "microsoft",
+  "title": "Microsoft",
+  "summary": "American technology corporation whose Windows 95 launch, featuring the Rolling Stones, was one of the largest product launches in history.",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Microsoft",
+      "source": "Wikipedia"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg",
+      "type": "logo",
+      "alt": "Microsoft logo"
+    }
+  ]
+}

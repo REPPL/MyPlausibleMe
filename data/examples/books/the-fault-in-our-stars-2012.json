@@ -1,0 +1,63 @@
+{
+  "id": "the-fault-in-our-stars-2012",
+  "title": "The Fault in Our Stars",
+  "author": "john-green",
+  "year": 2012,
+  "genres": [
+    "Young adult",
+    "Romance",
+    "Tragedy"
+  ],
+  "pages": 313,
+  "publisher": "Dutton Books",
+  "language": "English",
+  "country": "United States",
+  "summary": "The love story of two teenagers, Hazel and Augustus, who meet at a cancer support group. A critically acclaimed bestseller that was adapted into a successful 2014 film.",
+  "sales": {
+    "copiesSold": 23000000,
+    "languages": 56,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Fault_in_Our_Stars"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.14,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.22,
+      "max": 5,
+      "count": 194
+    }
+  },
+  "rank": 48,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/7418786-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "The Fault in Our Stars cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL16444438W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Fault_in_Our_Stars",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL16444438W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 77,
+  "isbn": "9780804171083",
+  "description": "Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.\r\n([source][1])\r\n\r\n\r\n  [1]: http://www.johngreenbooks.com/the-fault-in-our-stars",
+  "_openlibrary_work_key": "/works/OL16444438W"
+}

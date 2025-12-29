@@ -1,0 +1,77 @@
+{
+  "id": "bing-crosby-white-christmas",
+  "title": "White Christmas",
+  "artist": "bing-crosby",
+  "year": 1942,
+  "album": "Holiday Inn (soundtrack)",
+  "writers": [
+    "Irving Berlin"
+  ],
+  "producers": [
+    "Jack Kapp"
+  ],
+  "genres": [
+    "Christmas",
+    "Traditional pop"
+  ],
+  "duration": 183,
+  "label": "Decca Records",
+  "summary": "The best-selling single of all time, with estimated sales exceeding 50 million copies worldwide. Written by Irving Berlin, the song won the Academy Award for Best Original Song and has been covered by hundreds of artists.",
+  "sales": {
+    "totalUnits": 50000000,
+    "source": "Guinness World Records via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/White_Christmas_(song)"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 1,
+      "chart": "Billboard",
+      "year": 1942
+    },
+    "UK": {
+      "peak": 1,
+      "chart": "UK Singles Chart",
+      "year": 1942
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "Platinum",
+      "units": 1000000
+    }
+  ],
+  "rank": 1,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Bing_Crosby_-_White_Christmas_1942_10_inch.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "White Christmas single cover",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Single_Bing_Crosby-White_Christmas.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=w9QLn7gM-hY",
+      "title": "Bing Crosby - White Christmas",
+      "source": "YouTube",
+      "type": "audio"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/White_Christmas_(song)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/a9f95658-f037-4208-bf0b-86b0dda821d4",
+      "source": "MusicBrainz"
+    }
+  ],
+  "_musicbrainz_recording_id": "a9f95658-f037-4208-bf0b-86b0dda821d4"
+}

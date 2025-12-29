@@ -1,0 +1,73 @@
+{
+  "id": "the-twilight-saga-new-moon-2009",
+  "title": "The Twilight Saga: New Moon",
+  "studio": "lionsgate",
+  "year": 2009,
+  "director": "Chris Weitz",
+  "cast": ["Kristen Stewart", "Robert Pattinson", "Taylor Lautner", "Ashley Greene", "Michael Sheen"],
+  "genres": ["Fantasy", "Romance", "Drama"],
+  "runtime": 130,
+  "language": "English",
+  "country": "USA",
+  "summary": "Edward leaves Bella after an attack that nearly claimed her life, and in her depression she falls into yet another supernatural relationship - this time with werewolf Jacob Black. The sequel expanded the supernatural mythology.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 709827462,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 296623634,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 413203828,
+      "currency": "USD"
+    },
+    "budget": 50000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Twilight_Saga:_New_Moon"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 4.7, "max": 10 },
+    "rottenTomatoes": { "critics": 28, "audience": 62 },
+    "metacritic": { "score": 44, "max": 100 }
+  },
+  "rank": 95,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/93/The_Twilight_Saga-_New_Moon_poster.JPG",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Twilight Saga: New Moon movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:The_Twilight_Saga-_New_Moon_poster.JPG",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=6L8TJmMD4aw",
+      "title": "The Twilight Saga: New Moon Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Twilight_Saga:_New_Moon",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt1259571/",
+      "source": "IMDB"
+    }
+  ]
+}

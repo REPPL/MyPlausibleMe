@@ -1,0 +1,46 @@
+{
+  "id": "deadwood-2004",
+  "title": "Deadwood",
+  "network": "hbo",
+  "year": 2004,
+  "endYear": 2006,
+  "seasons": 3,
+  "episodes": 36,
+  "genres": ["Western", "Drama"],
+  "creators": ["David Milch"],
+  "cast": ["Timothy Olyphant", "Ian McShane", "Molly Parker", "Jim Beaver", "Powers Boothe"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 55,
+  "summary": "A western set in the lawless town of Deadwood, South Dakota during the 1870s gold rush. Known for its Shakespearean dialogue and complex characters.",
+  "viewership": {
+    "peakViewers": 5300000,
+    "averageViewers": 4200000,
+    "source": "Wikipedia/HBO",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Deadwood_(TV_series)"
+  },
+  "ratings": {
+    "imdb": { "score": 8.7, "max": 10 },
+    "rottenTomatoes": { "critics": 93, "audience": 93 }
+  },
+  "rank": 97,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/32/Deadwood_title_card.png",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Deadwood title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Deadwood_title_card.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Deadwood_(TV_series)",
+      "source": "Wikipedia"
+    }
+  ]
+}

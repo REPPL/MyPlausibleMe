@@ -1,0 +1,39 @@
+{
+  "id": "death-stranding-2019",
+  "title": "Death Stranding",
+  "publisher": "sony",
+  "developer": "Kojima Productions",
+  "year": 2019,
+  "platforms": ["PlayStation 4", "PlayStation 5", "PC"],
+  "genres": ["Action", "Walking simulator"],
+  "modes": ["Single-player"],
+  "summary": "Sam Porter Bridges reconnects isolated communities in a post-apocalyptic America. Hideo Kojima's first game after leaving Konami, featuring unique asynchronous multiplayer.",
+  "sales": {
+    "unitsSold": 5000000,
+    "source": "Wikipedia/Kojima Productions",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Death_Stranding"
+  },
+  "ratings": {
+    "metacritic": { "score": 82, "max": 100 }
+  },
+  "rank": 79,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/2/22/Death_Stranding.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Death Stranding cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Death_Stranding.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Death_Stranding",
+      "source": "Wikipedia"
+    }
+  ]
+}

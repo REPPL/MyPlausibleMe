@@ -1,0 +1,39 @@
+{
+  "id": "tetris-1989",
+  "title": "Tetris",
+  "publisher": "various",
+  "developer": "Alexey Pajitnov",
+  "year": 1989,
+  "platforms": ["Game Boy", "NES", "PC", "Arcade", "Mobile", "Various"],
+  "genres": ["Puzzle"],
+  "modes": ["Single-player", "Multiplayer"],
+  "summary": "A tile-matching puzzle game where players arrange falling tetrominoes. Originally developed by Soviet software engineer Alexey Pajitnov in 1985.",
+  "sales": {
+    "unitsSold": 520000000,
+    "source": "Wikipedia/The Tetris Company",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Tetris"
+  },
+  "ratings": {
+    "metacritic": { "score": 83, "max": 100 }
+  },
+  "rank": 3,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/7/7d/Tetris_NES_cover_art.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Tetris NES cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Tetris_NES_cover_art.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Tetris",
+      "source": "Wikipedia"
+    }
+  ]
+}

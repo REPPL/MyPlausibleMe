@@ -1,0 +1,62 @@
+{
+  "id": "think-and-grow-rich-1937",
+  "title": "Think and Grow Rich",
+  "author": "napoleon-hill",
+  "year": 1937,
+  "genres": [
+    "Self-help",
+    "Personal development"
+  ],
+  "pages": 238,
+  "publisher": "The Ralston Society",
+  "language": "English",
+  "country": "USA",
+  "summary": "One of the best-selling self-help books of all time, based on Hill's study of successful people including Andrew Carnegie. It outlines 13 principles for achieving success and wealth.",
+  "sales": {
+    "copiesSold": 70000000,
+    "languages": 25,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Think_and_Grow_Rich"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.17,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.0,
+      "max": 5,
+      "count": 536
+    }
+  },
+  "rank": 12,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/14542536-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Think and Grow Rich cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL527464W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Think_and_Grow_Rich",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL527464W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 287,
+  "isbn": "0976849143",
+  "description": "Napoleon Hill's quintessential volume Think and grow rich, the all-time bestseller in the field of professional success, outlines the laws of success and sets the standard of today's motivational thinking.",
+  "_openlibrary_work_key": "/works/OL527464W"
+}

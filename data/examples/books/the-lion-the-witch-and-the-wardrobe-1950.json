@@ -1,0 +1,63 @@
+{
+  "id": "the-lion-the-witch-and-the-wardrobe-1950",
+  "title": "The Lion, the Witch and the Wardrobe",
+  "author": "c-s-lewis",
+  "year": 1950,
+  "genres": [
+    "Fantasy",
+    "Children's literature"
+  ],
+  "pages": 208,
+  "publisher": "Geoffrey Bles",
+  "language": "English",
+  "country": "United Kingdom",
+  "series": "The Chronicles of Narnia",
+  "summary": "Four siblings discover a magical wardrobe leading to the land of Narnia, where they must help the lion Aslan defeat the White Witch. The first published and most popular of the Narnia series.",
+  "sales": {
+    "copiesSold": 85000000,
+    "languages": 47,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Lion,_the_Witch_and_the_Wardrobe"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.23,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.13,
+      "max": 5,
+      "count": 118
+    }
+  },
+  "rank": 9,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/8441376-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "The Lion, the Witch and the Wardrobe cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL71037W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Lion,_the_Witch_and_the_Wardrobe",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL71037W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 158,
+  "isbn": "0001854747",
+  "description": "Four adventurous siblings—Peter, Susan, Edmund, and Lucy Pevensie—step through a wardrobe door and into the land of Narnia, a land frozen in eternal winter and enslaved by the power of the White Witch. But when almost all hope is lost, the return of the Great Lion, Aslan, signals a great change . . . and a great sacrifice.\r\n\r\nJourney into the land beyond the wardrobe! The Lion, the Witch and the Wardrobe is the second book in C. S. Lewis's classic fantasy series, which has been captivating reade...",
+  "_openlibrary_work_key": "/works/OL71037W"
+}

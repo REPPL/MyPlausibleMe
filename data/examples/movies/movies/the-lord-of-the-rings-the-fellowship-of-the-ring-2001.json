@@ -1,0 +1,73 @@
+{
+  "id": "the-lord-of-the-rings-the-fellowship-of-the-ring-2001",
+  "title": "The Lord of the Rings: The Fellowship of the Ring",
+  "studio": "warner-bros",
+  "year": 2001,
+  "director": "Peter Jackson",
+  "cast": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen", "Sean Astin", "Liv Tyler"],
+  "genres": ["Fantasy", "Adventure", "Drama"],
+  "runtime": 178,
+  "language": "English",
+  "country": "New Zealand",
+  "summary": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron. Peter Jackson's adaptation launched one of cinema's greatest trilogies.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 897690072,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 316115420,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 581574652,
+      "currency": "USD"
+    },
+    "budget": 93000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 4,
+      "nominations": 13
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 8.9, "max": 10 },
+    "rottenTomatoes": { "critics": 91, "audience": 95 },
+    "metacritic": { "score": 92, "max": 100 }
+  },
+  "rank": 83,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/8a/The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_%282001%29.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Lord of the Rings: The Fellowship of the Ring movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_(2001).jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=V75dMMIW2B4",
+      "title": "The Lord of the Rings: The Fellowship of the Ring Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0120737/",
+      "source": "IMDB"
+    }
+  ]
+}

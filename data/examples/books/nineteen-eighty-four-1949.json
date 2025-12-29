@@ -1,0 +1,63 @@
+{
+  "id": "nineteen-eighty-four-1949",
+  "title": "Nineteen Eighty-Four",
+  "author": "george-orwell",
+  "year": 1949,
+  "genres": [
+    "Dystopian fiction",
+    "Political fiction",
+    "Science fiction"
+  ],
+  "pages": 328,
+  "publisher": "Secker & Warburg",
+  "language": "English",
+  "country": "United Kingdom",
+  "summary": "Winston Smith struggles against the totalitarian regime of Big Brother in a world of perpetual war, omnipresent surveillance, and public manipulation. Orwell's final novel introduced concepts like 'Big Brother', 'doublethink', and 'Newspeak' into common usage.",
+  "sales": {
+    "copiesSold": 30000000,
+    "languages": 65,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.19,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.3,
+      "max": 5,
+      "count": 380
+    }
+  },
+  "rank": 56,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/9267242-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Nineteen Eighty-Four cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL1168083W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL1168083W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 532,
+  "isbn": "8423335038",
+  "description": "Nineteen Eighty-Four: A Novel, often referred to as 1984, is a dystopian social science fiction novel by the English novelist George Orwell (the pen name of Eric Arthur Blair). It was published on 8 June 1949 by Secker & Warburg as Orwell's ninth and final book completed in his lifetime. Thematically, Nineteen Eighty-Four centres on the consequences of totalitarianism, mass surveillance, and repressive regimentation of persons and behaviours within society. Orwell, himself a democratic socialist...",
+  "_openlibrary_work_key": "/works/OL1168083W"
+}

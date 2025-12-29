@@ -1,0 +1,73 @@
+{
+  "id": "star-wars-the-force-awakens-2015",
+  "title": "Star Wars: The Force Awakens",
+  "studio": "disney",
+  "year": 2015,
+  "director": "J.J. Abrams",
+  "cast": ["Daisy Ridley", "John Boyega", "Oscar Isaac", "Adam Driver", "Harrison Ford"],
+  "genres": ["Science fiction", "Action", "Adventure"],
+  "runtime": 138,
+  "language": "English",
+  "country": "USA",
+  "summary": "Three decades after the Empire's defeat, a new threat arises in the militant First Order. Stormtrooper defector Finn and scavenger Rey are caught up in the Resistance's search for the missing Luke Skywalker. The first Star Wars film under Disney became the highest-grossing domestic film of all time.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 2071310218,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 936662225,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 1134647993,
+      "currency": "USD"
+    },
+    "budget": 245000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Star_Wars:_The_Force_Awakens"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 5
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 7.8, "max": 10 },
+    "rottenTomatoes": { "critics": 93, "audience": 85 },
+    "metacritic": { "score": 80, "max": 100 }
+  },
+  "rank": 5,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/a2/Star_Wars_The_Force_Awakens_Theatrical_Poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Star Wars: The Force Awakens movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Star_Wars_The_Force_Awakens_Theatrical_Poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=sGbxmsDFVnE",
+      "title": "Star Wars: The Force Awakens Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Star_Wars:_The_Force_Awakens",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt2488496/",
+      "source": "IMDB"
+    }
+  ]
+}

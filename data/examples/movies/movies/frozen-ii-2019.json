@@ -1,0 +1,73 @@
+{
+  "id": "frozen-ii-2019",
+  "title": "Frozen II",
+  "studio": "disney",
+  "year": 2019,
+  "director": "Chris Buck, Jennifer Lee",
+  "cast": ["Kristen Bell", "Idina Menzel", "Josh Gad", "Jonathan Groff", "Sterling K. Brown"],
+  "genres": ["Animation", "Musical", "Fantasy"],
+  "runtime": 103,
+  "language": "English",
+  "country": "USA",
+  "summary": "Anna, Elsa, Kristoff, Olaf, and Sven leave Arendelle to travel to an ancient, autumn-bound forest of an enchanted land. They set out to find the origin of Elsa's powers in order to save their kingdom. The sequel became the highest-grossing animated film at the time.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1453683476,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 477373578,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 976309898,
+      "currency": "USD"
+    },
+    "budget": 150000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Frozen_II"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 1
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 6.8, "max": 10 },
+    "rottenTomatoes": { "critics": 77, "audience": 92 },
+    "metacritic": { "score": 64, "max": 100 }
+  },
+  "rank": 14,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/4f/Frozen_2_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Frozen II movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Frozen_2_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=Zi4LMpSDccc",
+      "title": "Frozen II Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Frozen_II",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt4520988/",
+      "source": "IMDB"
+    }
+  ]
+}

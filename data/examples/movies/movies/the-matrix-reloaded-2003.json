@@ -1,0 +1,73 @@
+{
+  "id": "the-matrix-reloaded-2003",
+  "title": "The Matrix Reloaded",
+  "studio": "warner-bros",
+  "year": 2003,
+  "director": "Lana Wachowski, Lilly Wachowski",
+  "cast": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss", "Hugo Weaving", "Monica Bellucci"],
+  "genres": ["Science fiction", "Action"],
+  "runtime": 138,
+  "language": "English",
+  "country": "USA",
+  "summary": "Neo and the rebel leaders estimate they have 72 hours until 250,000 probes discover Zion and destroy it and its inhabitants. Neo must decide how he can save Trinity from a dark fate in his dreams. The ambitious sequel pushed visual effects boundaries.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 741847937,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 281576461,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 460271476,
+      "currency": "USD"
+    },
+    "budget": 150000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 7.2, "max": 10 },
+    "rottenTomatoes": { "critics": 73, "audience": 72 },
+    "metacritic": { "score": 62, "max": 100 }
+  },
+  "rank": 99,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/ba/Matrix_reloaded_ver15.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Matrix Reloaded movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Matrix_reloaded_ver15.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=kYzz0FSgpSU",
+      "title": "The Matrix Reloaded Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0234215/",
+      "source": "IMDB"
+    }
+  ]
+}

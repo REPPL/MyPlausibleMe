@@ -1,0 +1,55 @@
+{
+  "id": "war-and-peace-1869",
+  "title": "War and Peace",
+  "author": "leo-tolstoy",
+  "year": 1869,
+  "genres": [
+    "Historical fiction",
+    "Epic novel",
+    "Philosophical novel"
+  ],
+  "pages": 1225,
+  "publisher": "The Russian Messenger",
+  "language": "Russian",
+  "country": "Russia",
+  "summary": "An epic novel following five aristocratic families during the Napoleonic Wars in Russia. Considered one of the greatest works of world literature, it combines fiction with philosophical essays on history and warfare.",
+  "sales": {
+    "copiesSold": 36000000,
+    "languages": 100,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/War_and_Peace"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.18,
+      "max": 5
+    }
+  },
+  "rank": 38,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Tolstoy_-_War_and_Peace_-_first_edition%2C_1869.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "War and Peace first edition cover",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tolstoy_-_War_and_Peace_-_first_edition,_1869.jpg",
+        "licence": "public-domain"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/War_and_Peace",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL40255790W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 12,
+  "isbn": "9781717326386",
+  "_openlibrary_work_key": "/works/OL40255790W"
+}

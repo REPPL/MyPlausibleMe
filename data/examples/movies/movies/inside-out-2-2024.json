@@ -1,0 +1,73 @@
+{
+  "id": "inside-out-2-2024",
+  "title": "Inside Out 2",
+  "studio": "disney",
+  "year": 2024,
+  "director": "Kelsey Mann",
+  "cast": ["Amy Poehler", "Maya Hawke", "Kensington Tallman", "Liza Lapira", "Tony Hale"],
+  "genres": ["Animation", "Comedy", "Drama"],
+  "runtime": 96,
+  "language": "English",
+  "country": "USA",
+  "summary": "Follow Riley in her teenage years as new emotions join the mix inside her mind. When Anxiety arrives, Joy and the other emotions must figure out how to make room for her while keeping Riley on track. The film became the highest-grossing animated film of all time.",
+  "boxOffice": {
+    "worldwide": {
+      "gross": 1698640000,
+      "currency": "USD"
+    },
+    "domestic": {
+      "gross": 652980000,
+      "currency": "USD"
+    },
+    "international": {
+      "gross": 1045660000,
+      "currency": "USD"
+    },
+    "budget": 200000000,
+    "source": "Box Office Mojo via Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Inside_Out_2"
+  },
+  "awards": {
+    "oscars": {
+      "wins": 0,
+      "nominations": 0
+    }
+  },
+  "ratings": {
+    "imdb": { "score": 7.6, "max": 10 },
+    "rottenTomatoes": { "critics": 91, "audience": 95 },
+    "metacritic": { "score": 73, "max": 100 }
+  },
+  "rank": 8,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/f7/Inside_Out_2_poster.jpg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Inside Out 2 movie poster",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Inside_Out_2_poster.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=LEjhY15eCx0",
+      "title": "Inside Out 2 Official Trailer",
+      "source": "YouTube",
+      "type": "trailer"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Inside_Out_2",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt22022452/",
+      "source": "IMDB"
+    }
+  ]
+}

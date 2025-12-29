@@ -1,0 +1,45 @@
+{
+  "id": "ozark-2017",
+  "title": "Ozark",
+  "network": "netflix",
+  "year": 2017,
+  "endYear": 2022,
+  "seasons": 4,
+  "episodes": 44,
+  "genres": ["Crime", "Drama", "Thriller"],
+  "creators": ["Bill Dubuque", "Mark Williams"],
+  "cast": ["Jason Bateman", "Laura Linney", "Julia Garner", "Sofia Hublitz", "Skylar Gaertner"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 60,
+  "summary": "A financial adviser drags his family from Chicago to the Missouri Ozarks to launder money for a Mexican drug cartel. Julia Garner won three Emmy Awards for her role.",
+  "viewership": {
+    "hoursWatched": 500000000,
+    "source": "Netflix",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ozark_(TV_series)"
+  },
+  "ratings": {
+    "imdb": { "score": 8.5, "max": 10 },
+    "rottenTomatoes": { "critics": 81, "audience": 88 }
+  },
+  "rank": 38,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/30/Ozark_TV_series_logo.png",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Ozark logo",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Ozark_TV_series_logo.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ozark_(TV_series)",
+      "source": "Wikipedia"
+    }
+  ]
+}

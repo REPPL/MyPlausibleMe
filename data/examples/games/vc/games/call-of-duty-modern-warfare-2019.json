@@ -1,0 +1,39 @@
+{
+  "id": "call-of-duty-modern-warfare-2019",
+  "title": "Call of Duty: Modern Warfare",
+  "publisher": "activision",
+  "developer": "Infinity Ward",
+  "year": 2019,
+  "platforms": ["PC", "PlayStation 4", "Xbox One"],
+  "genres": ["First-person shooter"],
+  "modes": ["Single-player", "Multiplayer"],
+  "summary": "A soft reboot of the Modern Warfare series featuring a grittier, more realistic campaign and the free-to-play Warzone battle royale mode.",
+  "sales": {
+    "unitsSold": 30000000,
+    "source": "Wikipedia/Activision",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_(2019_video_game)"
+  },
+  "ratings": {
+    "metacritic": { "score": 80, "max": 100 }
+  },
+  "rank": 17,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/1f/Call_of_Duty_Modern_Warfare_%282019%29_cover.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Call of Duty: Modern Warfare cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Call_of_Duty_Modern_Warfare_(2019)_cover.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_(2019_video_game)",
+      "source": "Wikipedia"
+    }
+  ]
+}

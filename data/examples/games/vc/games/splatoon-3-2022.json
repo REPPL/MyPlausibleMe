@@ -1,0 +1,49 @@
+{
+  "id": "splatoon-3-2022",
+  "title": "Splatoon 3",
+  "publisher": "nintendo",
+  "developer": "Nintendo EPD",
+  "year": 2022,
+  "platforms": [
+    "Nintendo Switch"
+  ],
+  "genres": [
+    "Third-person shooter"
+  ],
+  "modes": [
+    "Single-player",
+    "Multiplayer"
+  ],
+  "summary": "Inklings and Octolings battle for territory in colourful ink-based combat. The fastest-selling game in Nintendo's history in Japan.",
+  "sales": {
+    "unitsSold": 12500000,
+    "source": "Wikipedia/Nintendo",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Splatoon_3"
+  },
+  "ratings": {
+    "metacritic": {
+      "score": 83,
+      "max": 100
+    }
+  },
+  "rank": 85,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/4f/Splatoon.3.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Splatoon 3 cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Splatoon_3_box_art.jpg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Splatoon_3",
+      "source": "Wikipedia"
+    }
+  ]
+}

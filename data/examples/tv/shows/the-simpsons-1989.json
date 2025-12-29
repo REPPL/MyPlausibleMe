@@ -1,0 +1,47 @@
+{
+  "id": "the-simpsons-1989",
+  "title": "The Simpsons",
+  "network": "fox",
+  "year": 1989,
+  "endYear": null,
+  "seasons": 35,
+  "episodes": 770,
+  "genres": ["Animated sitcom", "Comedy", "Satire"],
+  "creators": ["Matt Groening"],
+  "cast": ["Dan Castellaneta", "Julie Kavner", "Nancy Cartwright", "Yeardley Smith", "Hank Azaria"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 22,
+  "summary": "The satirical adventures of the Simpson family in the fictional town of Springfield. The longest-running American animated series, scripted primetime series, and sitcom.",
+  "viewership": {
+    "peakViewers": 33600000,
+    "peakEpisode": "Bart Gets an 'F'",
+    "averageViewers": 8000000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Simpsons"
+  },
+  "ratings": {
+    "imdb": { "score": 8.7, "max": 10 },
+    "rottenTomatoes": { "critics": 85, "audience": 88 }
+  },
+  "rank": 20,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/0d/Simpsons_FamilyPicture.png",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "The Simpsons family",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Simpsons_FamilyPicture.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Simpsons",
+      "source": "Wikipedia"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "barry-2018",
+  "title": "Barry",
+  "network": "hbo",
+  "year": 2018,
+  "endYear": 2023,
+  "seasons": 4,
+  "episodes": 32,
+  "genres": [
+    "Dark comedy",
+    "Crime",
+    "Drama"
+  ],
+  "creators": [
+    "Alec Berg",
+    "Bill Hader"
+  ],
+  "cast": [
+    "Bill Hader",
+    "Stephen Root",
+    "Sarah Goldberg",
+    "Anthony Carrigan",
+    "Henry Winkler"
+  ],
+  "country": "United States",
+  "language": "English",
+  "runtime": 30,
+  "summary": "A hitman from the Midwest moves to Los Angeles and gets caught up in the city's theatre arts scene. Bill Hader won two consecutive Emmy Awards for his performance.",
+  "viewership": {
+    "peakViewers": 2500000,
+    "source": "Wikipedia/HBO",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Barry_(TV_series)"
+  },
+  "ratings": {
+    "imdb": {
+      "score": 8.4,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 99,
+      "audience": 90
+    }
+  },
+  "rank": 68,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Barry_logo.svg",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "Barry title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Barry_HBO_title_card.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Barry_(TV_series)",
+      "source": "Wikipedia"
+    }
+  ]
+}

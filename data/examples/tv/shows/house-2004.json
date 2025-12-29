@@ -1,0 +1,47 @@
+{
+  "id": "house-2004",
+  "title": "House",
+  "network": "fox",
+  "year": 2004,
+  "endYear": 2012,
+  "seasons": 8,
+  "episodes": 177,
+  "genres": ["Drama", "Medical drama", "Mystery"],
+  "creators": ["David Shore"],
+  "cast": ["Hugh Laurie", "Lisa Edelstein", "Omar Epps", "Robert Sean Leonard", "Jesse Spencer"],
+  "country": "United States",
+  "language": "English",
+  "runtime": 44,
+  "summary": "An antisocial, brilliant diagnostician solves medical mysteries with his team while battling his own demons. Won numerous awards including Hugh Laurie's Golden Globe victories.",
+  "viewership": {
+    "peakViewers": 29050000,
+    "peakEpisode": "Super Bowl Post-Game",
+    "averageViewers": 15000000,
+    "source": "Wikipedia/Nielsen",
+    "sourceUrl": "https://en.wikipedia.org/wiki/House_(TV_series)"
+  },
+  "ratings": {
+    "imdb": { "score": 8.7, "max": 10 },
+    "rottenTomatoes": { "critics": 85, "audience": 92 }
+  },
+  "rank": 43,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/7/7c/House_title_card.png",
+      "type": "poster",
+      "isPrimary": true,
+      "alt": "House title card",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:House_title_card.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/House_(TV_series)",
+      "source": "Wikipedia"
+    }
+  ]
+}

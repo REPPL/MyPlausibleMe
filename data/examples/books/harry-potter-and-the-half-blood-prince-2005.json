@@ -1,0 +1,64 @@
+{
+  "id": "harry-potter-and-the-half-blood-prince-2005",
+  "title": "Harry Potter and the Half-Blood Prince",
+  "author": "j-k-rowling",
+  "year": 2005,
+  "genres": [
+    "Fantasy",
+    "Young adult",
+    "Children's literature"
+  ],
+  "pages": 607,
+  "publisher": "Bloomsbury",
+  "language": "English",
+  "country": "United Kingdom",
+  "series": "Harry Potter",
+  "summary": "Harry's sixth year reveals Voldemort's past through private lessons with Dumbledore, while a mysterious potions book belonging to the Half-Blood Prince aids his studies.",
+  "sales": {
+    "copiesSold": 55000000,
+    "languages": 79,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Half-Blood_Prince"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.57,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.36,
+      "max": 5,
+      "count": 200
+    }
+  },
+  "rank": 19,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/10716273-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Harry Potter and the Half-Blood Prince cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL82565W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Half-Blood_Prince",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL82565W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 151,
+  "isbn": "0545582997",
+  "description": "One summer night, when Dumbledore arrives at Privet Drive to collect Harry Potter, his wand hand is blackened and shriveled, but he will not reveal why.\r\n\r\nRumours and suspicion spread through the wizarding world – it feels as if even Hogwarts itself might be under threat.\r\n\r\nHarry is convinced that Malfoy bears the Dark Mark: could there be a Death Eater amongst them?\r\n\r\nHe will need powerful magic and true friends as, with the help of Dumbledore, he investigates Voldemort’s darkest secrets.\r\n\r...",
+  "_openlibrary_work_key": "/works/OL82565W"
+}

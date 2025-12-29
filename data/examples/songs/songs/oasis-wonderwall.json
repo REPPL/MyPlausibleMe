@@ -1,0 +1,90 @@
+{
+  "id": "oasis-wonderwall",
+  "title": "Wonderwall",
+  "artist": "oasis",
+  "year": 1995,
+  "album": "(What's the Story) Morning Glory?",
+  "writers": [
+    "Noel Gallagher"
+  ],
+  "producers": [
+    "Owen Morris",
+    "Noel Gallagher"
+  ],
+  "genres": [
+    "Britpop",
+    "Alternative rock"
+  ],
+  "duration": 258,
+  "label": "Creation Records",
+  "summary": "A Britpop ballad reportedly written about Noel Gallagher's then-girlfriend. It became one of the most covered songs ever and remains a pub singalong favourite worldwide.",
+  "sales": {
+    "totalUnits": 5000000,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Wonderwall_(song)"
+  },
+  "chartPositions": {
+    "US": {
+      "peak": 8,
+      "chart": "Billboard Hot 100",
+      "year": 1996
+    },
+    "UK": {
+      "peak": 2,
+      "chart": "UK Singles Chart",
+      "year": 1995
+    }
+  },
+  "certifications": [
+    {
+      "region": "US",
+      "certification": "4x Platinum",
+      "units": 4000000
+    },
+    {
+      "region": "UK",
+      "certification": "3x Platinum",
+      "units": 1800000
+    }
+  ],
+  "rank": 90,
+  "images": [
+    {
+      "url": "https://coverartarchive.org/release/3cac3754-701c-3390-9064-2241f9c22bb6/38266171273-500.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Album cover",
+      "attribution": {
+        "source": "Cover Art Archive",
+        "licence": "CC BY-NC-SA 3.0",
+        "licenceUrl": "https://wiki.musicbrainz.org/Cover_Art_Archive",
+        "note": "Cover art copyrighted by respective owners. Non-commercial use only.",
+        "sourceUrl": "https://musicbrainz.org/release/3cac3754-701c-3390-9064-2241f9c22bb6"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=bx1Bh8ZvH84",
+      "title": "Oasis - Wonderwall (Official Video)",
+      "source": "YouTube",
+      "type": "music-video"
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Wonderwall_(song)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://musicbrainz.org/recording/cac03b43-aede-48fa-89ce-0511c2671375",
+      "source": "MusicBrainz"
+    },
+    {
+      "url": "https://musicbrainz.org/release/3cac3754-701c-3390-9064-2241f9c22bb6",
+      "source": "MusicBrainz (Release)"
+    }
+  ],
+  "_musicbrainz_recording_id": "cac03b43-aede-48fa-89ce-0511c2671375",
+  "_musicbrainz_release_id": "3cac3754-701c-3390-9064-2241f9c22bb6"
+}

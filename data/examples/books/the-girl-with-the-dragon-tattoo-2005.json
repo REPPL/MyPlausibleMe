@@ -1,0 +1,63 @@
+{
+  "id": "the-girl-with-the-dragon-tattoo-2005",
+  "title": "The Girl with the Dragon Tattoo",
+  "author": "stieg-larsson",
+  "year": 2005,
+  "genres": [
+    "Crime fiction",
+    "Thriller",
+    "Mystery"
+  ],
+  "pages": 465,
+  "publisher": "Norstedts Förlag",
+  "language": "Swedish",
+  "country": "Sweden",
+  "summary": "Journalist Mikael Blomkvist and hacker Lisbeth Salander investigate the disappearance of a wealthy industrialist's niece 40 years earlier. The first book in the Millennium series, published posthumously after Larsson's death.",
+  "sales": {
+    "copiesSold": 80000000,
+    "languages": 50,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Girl_with_the_Dragon_Tattoo"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.14,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.18,
+      "max": 5,
+      "count": 92
+    }
+  },
+  "rank": 49,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/9274740-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Män som hatar kvinnor cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL5784622W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Girl_with_the_Dragon_Tattoo",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL5784622W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 77,
+  "isbn": "0307989542",
+  "description": "Mikael Blomkvist, ekonomireporter, döms till fängelse för förtal av finansmannen Wennerström, och beslutar sig för att ta time out från sitt jobb på tidskriften Millennium.\r\nI samma veva får han ett ovanligt uppdrag. Henrik Vanger, tidigare en av landets främsta industriledare, vill att Blomkvist ska skriva släkten Vangers historia. Men det visar sig snart bara vara en täckmantel för Blomkvists verkliga uppgift: att ta reda på vad som hänt Vangers unga släkting Harriet, som varit spårlöst försvu...",
+  "_openlibrary_work_key": "/works/OL5784622W"
+}

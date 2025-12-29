@@ -1,0 +1,63 @@
+{
+  "id": "the-godfather-1969",
+  "title": "The Godfather",
+  "author": "mario-puzo",
+  "year": 1969,
+  "genres": [
+    "Crime fiction",
+    "Family saga",
+    "Thriller"
+  ],
+  "pages": 448,
+  "publisher": "G. P. Putnam's Sons",
+  "language": "English",
+  "country": "United States",
+  "summary": "The epic story of the Corleone family, a powerful Italian-American crime dynasty. Stayed on The New York Times Best Seller list for 67 weeks and was adapted into the acclaimed film trilogy.",
+  "sales": {
+    "copiesSold": 21000000,
+    "languages": 30,
+    "source": "Wikipedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Godfather_(novel)"
+  },
+  "ratings": {
+    "goodreads": {
+      "score": 4.38,
+      "max": 5
+    },
+    "openLibrary": {
+      "score": 4.2,
+      "max": 5,
+      "count": 41
+    }
+  },
+  "rank": 52,
+  "images": [
+    {
+      "url": "https://covers.openlibrary.org/b/id/6507069-L.jpg",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "The Godfather cover",
+      "attribution": {
+        "source": "Open Library",
+        "licence": "open-data",
+        "licenceUrl": "https://openlibrary.org/developers/api",
+        "note": "Book data from Open Library (openlibrary.org), part of Internet Archive.",
+        "sourceUrl": "https://openlibrary.org/works/OL1673205W"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Godfather_(novel)",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL1673205W",
+      "source": "Open Library"
+    }
+  ],
+  "editionCount": 109,
+  "isbn": "0451157362",
+  "description": "The Godfather is a crime novel by American author Mario Puzo. Originally published in 1969 by G. P. Putnam's Sons, the novel details the story of a fictional Mafia family in New York City (and Long Beach, New York), headed by Vito Corleone. Puzo's dedication for The Godfather is \"For Anthony Cleri\". The novel's epigraph is by the French author Honoré de Balzac: \"Behind every great fortune there is a crime.\" The novel covers the years 1945 to 1955 and includes the back story of Vito Corleone from...",
+  "_openlibrary_work_key": "/works/OL1673205W"
+}

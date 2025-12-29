@@ -1,0 +1,39 @@
+{
+  "id": "demons-souls-2020",
+  "title": "Demon's Souls (Remake)",
+  "publisher": "sony",
+  "developer": "Bluepoint Games",
+  "year": 2020,
+  "platforms": ["PlayStation 5", "PC"],
+  "genres": ["Action RPG", "Souls-like"],
+  "modes": ["Single-player", "Multiplayer"],
+  "summary": "A ground-up remake of FromSoftware's 2009 original. The PlayStation 5 launch title showcasing next-gen graphics while preserving the classic difficulty.",
+  "sales": {
+    "unitsSold": 2000000,
+    "source": "Wikipedia/Sony",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Demon%27s_Souls_(2020_video_game)"
+  },
+  "ratings": {
+    "metacritic": { "score": 92, "max": 100 }
+  },
+  "rank": 84,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/d1/Demon%27s_Souls_2020_cover_art.png",
+      "type": "cover",
+      "isPrimary": true,
+      "alt": "Demon's Souls Remake cover art",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Demon%27s_Souls_2020_cover_art.png",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Demon%27s_Souls_(2020_video_game)",
+      "source": "Wikipedia"
+    }
+  ]
+}
