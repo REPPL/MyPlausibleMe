@@ -6,9 +6,20 @@
   "endYear": 2018,
   "seasons": 11,
   "episodes": 218,
-  "genres": ["Science fiction", "Horror", "Mystery"],
-  "creators": ["Chris Carter"],
-  "cast": ["David Duchovny", "Gillian Anderson", "Mitch Pileggi", "Robert Patrick"],
+  "genres": [
+    "Science fiction",
+    "Horror",
+    "Mystery"
+  ],
+  "creators": [
+    "Chris Carter"
+  ],
+  "cast": [
+    "David Duchovny",
+    "Gillian Anderson",
+    "Mitch Pileggi",
+    "Robert Patrick"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 44,
@@ -21,13 +32,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/The_X-Files"
   },
   "ratings": {
-    "imdb": { "score": 8.6, "max": 10 },
-    "rottenTomatoes": { "critics": 79, "audience": 89 }
+    "imdb": {
+      "score": 8.6,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 79,
+      "audience": 89
+    }
   },
   "rank": 30,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/b/bb/X-Files_title_card.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/5e/The_X-Files_original_title_screen.webp",
       "type": "poster",
       "isPrimary": true,
       "alt": "The X-Files title card",

@@ -4,8 +4,18 @@
   "studio": "sony",
   "year": 2017,
   "director": "Jake Kasdan",
-  "cast": ["Dwayne Johnson", "Jack Black", "Kevin Hart", "Karen Gillan", "Nick Jonas"],
-  "genres": ["Action", "Adventure", "Comedy"],
+  "cast": [
+    "Dwayne Johnson",
+    "Jack Black",
+    "Kevin Hart",
+    "Karen Gillan",
+    "Nick Jonas"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
   "runtime": 119,
   "language": "English",
   "country": "USA",
@@ -34,14 +44,23 @@
     }
   },
   "ratings": {
-    "imdb": { "score": 6.9, "max": 10 },
-    "rottenTomatoes": { "critics": 76, "audience": 88 },
-    "metacritic": { "score": 58, "max": 100 }
+    "imdb": {
+      "score": 6.9,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 76,
+      "audience": 88
+    },
+    "metacritic": {
+      "score": 58,
+      "max": 100
+    }
   },
   "rank": 72,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/b/b6/Jumanji_Welcome_to_the_Jungle.png",
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/dc/Jumanji_Welcome_to_the_Jungle.png",
       "type": "poster",
       "isPrimary": true,
       "alt": "Jumanji: Welcome to the Jungle movie poster",

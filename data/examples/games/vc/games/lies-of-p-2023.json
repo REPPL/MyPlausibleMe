@@ -4,9 +4,21 @@
   "publisher": "neowiz",
   "developer": "Round8 Studio",
   "year": 2023,
-  "platforms": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "Mac"],
-  "genres": ["Action RPG", "Souls-like"],
-  "modes": ["Single-player"],
+  "platforms": [
+    "PC",
+    "PlayStation 4",
+    "PlayStation 5",
+    "Xbox One",
+    "Xbox Series X/S",
+    "Mac"
+  ],
+  "genres": [
+    "Action RPG",
+    "Souls-like"
+  ],
+  "modes": [
+    "Single-player"
+  ],
   "summary": "A reimagining of Pinocchio as a Souls-like action RPG in a decayed Belle Époque world. Features a lie system that affects the story and ending.",
   "sales": {
     "unitsSold": 5000000,
@@ -14,12 +26,15 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Lies_of_P"
   },
   "ratings": {
-    "metacritic": { "score": 80, "max": 100 }
+    "metacritic": {
+      "score": 80,
+      "max": 100
+    }
   },
   "rank": 90,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/6/6c/Lies_of_P_cover_art.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/de/Lies_of_p_cover_art.jpg",
       "type": "cover",
       "isPrimary": true,
       "alt": "Lies of P cover art",

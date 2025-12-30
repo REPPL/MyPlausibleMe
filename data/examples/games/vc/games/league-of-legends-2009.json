@@ -4,9 +4,16 @@
   "publisher": "riot-games",
   "developer": "Riot Games",
   "year": 2009,
-  "platforms": ["PC", "Mac"],
-  "genres": ["MOBA"],
-  "modes": ["Multiplayer"],
+  "platforms": [
+    "PC",
+    "Mac"
+  ],
+  "genres": [
+    "MOBA"
+  ],
+  "modes": [
+    "Multiplayer"
+  ],
   "summary": "A free-to-play multiplayer online battle arena game with over 160 champions. One of the most popular esports titles with the largest competitive scene.",
   "sales": {
     "players": 150000000,
@@ -15,12 +22,15 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/League_of_Legends"
   },
   "ratings": {
-    "metacritic": { "score": 78, "max": 100 }
+    "metacritic": {
+      "score": 78,
+      "max": 100
+    }
   },
   "rank": 41,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/League_of_Legends_logo.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/League_of_Legends_2019_vector.svg",
       "type": "logo",
       "isPrimary": true,
       "alt": "League of Legends logo",

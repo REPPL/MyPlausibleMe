@@ -6,9 +6,21 @@
   "endYear": 2015,
   "seasons": 6,
   "episodes": 78,
-  "genres": ["Crime", "Drama", "Western"],
-  "creators": ["Graham Yost"],
-  "cast": ["Timothy Olyphant", "Nick Searcy", "Joelle Carter", "Jacob Pitts", "Walton Goggins"],
+  "genres": [
+    "Crime",
+    "Drama",
+    "Western"
+  ],
+  "creators": [
+    "Graham Yost"
+  ],
+  "cast": [
+    "Timothy Olyphant",
+    "Nick Searcy",
+    "Joelle Carter",
+    "Jacob Pitts",
+    "Walton Goggins"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 44,
@@ -20,13 +32,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Justified_(TV_series)"
   },
   "ratings": {
-    "imdb": { "score": 8.6, "max": 10 },
-    "rottenTomatoes": { "critics": 96, "audience": 93 }
+    "imdb": {
+      "score": 8.6,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 96,
+      "audience": 93
+    }
   },
   "rank": 100,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/a/a0/Justified_title_card.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/2/22/Justified_2010_Intertitle.png",
       "type": "poster",
       "isPrimary": true,
       "alt": "Justified title card",

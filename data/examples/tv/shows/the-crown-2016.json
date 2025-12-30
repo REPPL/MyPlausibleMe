@@ -6,9 +6,21 @@
   "endYear": 2023,
   "seasons": 6,
   "episodes": 60,
-  "genres": ["Drama", "Biography", "Historical drama"],
-  "creators": ["Peter Morgan"],
-  "cast": ["Claire Foy", "Olivia Colman", "Imelda Staunton", "Matt Smith", "Tobias Menzies"],
+  "genres": [
+    "Drama",
+    "Biography",
+    "Historical drama"
+  ],
+  "creators": [
+    "Peter Morgan"
+  ],
+  "cast": [
+    "Claire Foy",
+    "Olivia Colman",
+    "Imelda Staunton",
+    "Matt Smith",
+    "Tobias Menzies"
+  ],
   "country": "United Kingdom",
   "language": "English",
   "runtime": 58,
@@ -19,13 +31,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Crown_(TV_series)"
   },
   "ratings": {
-    "imdb": { "score": 8.6, "max": 10 },
-    "rottenTomatoes": { "critics": 90, "audience": 83 }
+    "imdb": {
+      "score": 8.6,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 90,
+      "audience": 83
+    }
   },
   "rank": 9,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/c/c3/The_Crown_season_5.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/18/The_Crown_Title_Card.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "The Crown poster",

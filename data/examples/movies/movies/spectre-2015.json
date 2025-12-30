@@ -4,8 +4,18 @@
   "studio": "sony",
   "year": 2015,
   "director": "Sam Mendes",
-  "cast": ["Daniel Craig", "Christoph Waltz", "Léa Seydoux", "Ben Whishaw", "Ralph Fiennes"],
-  "genres": ["Action", "Spy", "Thriller"],
+  "cast": [
+    "Daniel Craig",
+    "Christoph Waltz",
+    "Léa Seydoux",
+    "Ben Whishaw",
+    "Ralph Fiennes"
+  ],
+  "genres": [
+    "Action",
+    "Spy",
+    "Thriller"
+  ],
   "runtime": 148,
   "language": "English",
   "country": "UK",
@@ -34,14 +44,23 @@
     }
   },
   "ratings": {
-    "imdb": { "score": 6.8, "max": 10 },
-    "rottenTomatoes": { "critics": 63, "audience": 62 },
-    "metacritic": { "score": 60, "max": 100 }
+    "imdb": {
+      "score": 6.8,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 63,
+      "audience": 62
+    },
+    "metacritic": {
+      "score": 60,
+      "max": 100
+    }
   },
   "rank": 58,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/6/68/Spectre_poster.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/b9/Spectre_2015_poster.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Spectre movie poster",

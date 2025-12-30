@@ -6,9 +6,21 @@
   "endYear": 2012,
   "seasons": 8,
   "episodes": 177,
-  "genres": ["Drama", "Medical drama", "Mystery"],
-  "creators": ["David Shore"],
-  "cast": ["Hugh Laurie", "Lisa Edelstein", "Omar Epps", "Robert Sean Leonard", "Jesse Spencer"],
+  "genres": [
+    "Drama",
+    "Medical drama",
+    "Mystery"
+  ],
+  "creators": [
+    "David Shore"
+  ],
+  "cast": [
+    "Hugh Laurie",
+    "Lisa Edelstein",
+    "Omar Epps",
+    "Robert Sean Leonard",
+    "Jesse Spencer"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 44,
@@ -21,13 +33,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/House_(TV_series)"
   },
   "ratings": {
-    "imdb": { "score": 8.7, "max": 10 },
-    "rottenTomatoes": { "critics": 85, "audience": 92 }
+    "imdb": {
+      "score": 8.7,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 85,
+      "audience": 92
+    }
   },
   "rank": 43,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/7/7c/House_title_card.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Ambox_current_red_Asia_Australia.svg",
       "type": "poster",
       "isPrimary": true,
       "alt": "House title card",

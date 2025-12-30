@@ -6,9 +6,22 @@
   "endYear": 2003,
   "seasons": 2,
   "episodes": 14,
-  "genres": ["Comedy", "Mockumentary", "Cringe comedy"],
-  "creators": ["Ricky Gervais", "Stephen Merchant"],
-  "cast": ["Ricky Gervais", "Martin Freeman", "Mackenzie Crook", "Lucy Davis", "Stirling Gallacher"],
+  "genres": [
+    "Comedy",
+    "Mockumentary",
+    "Cringe comedy"
+  ],
+  "creators": [
+    "Ricky Gervais",
+    "Stephen Merchant"
+  ],
+  "cast": [
+    "Ricky Gervais",
+    "Martin Freeman",
+    "Mackenzie Crook",
+    "Lucy Davis",
+    "Stirling Gallacher"
+  ],
   "country": "United Kingdom",
   "language": "English",
   "runtime": 30,
@@ -19,13 +32,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Office_(British_TV_series)"
   },
   "ratings": {
-    "imdb": { "score": 8.5, "max": 10 },
-    "rottenTomatoes": { "critics": 96, "audience": 93 }
+    "imdb": {
+      "score": 8.5,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 96,
+      "audience": 93
+    }
   },
   "rank": 73,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/4/4a/TheOfficeUK.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/7/7e/Theoffice.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "The Office UK title card",

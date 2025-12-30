@@ -6,9 +6,21 @@
   "endYear": 2018,
   "seasons": 1,
   "episodes": 8,
-  "genres": ["Mystery", "Psychological thriller", "Drama"],
-  "creators": ["Marti Noxon"],
-  "cast": ["Amy Adams", "Patricia Clarkson", "Chris Messina", "Eliza Scanlen", "Matt Craven"],
+  "genres": [
+    "Mystery",
+    "Psychological thriller",
+    "Drama"
+  ],
+  "creators": [
+    "Marti Noxon"
+  ],
+  "cast": [
+    "Amy Adams",
+    "Patricia Clarkson",
+    "Chris Messina",
+    "Eliza Scanlen",
+    "Matt Craven"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 55,
@@ -19,13 +31,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Sharp_Objects_(miniseries)"
   },
   "ratings": {
-    "imdb": { "score": 8.1, "max": 10 },
-    "rottenTomatoes": { "critics": 92, "audience": 79 }
+    "imdb": {
+      "score": 8.1,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 92,
+      "audience": 79
+    }
   },
   "rank": 93,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/e/e9/Sharp_Objects_Title_Card.png",
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/b4/SharpObjects.png",
       "type": "poster",
       "isPrimary": true,
       "alt": "Sharp Objects title card",

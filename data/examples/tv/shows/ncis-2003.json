@@ -6,9 +6,22 @@
   "endYear": null,
   "seasons": 21,
   "episodes": 480,
-  "genres": ["Crime", "Drama", "Mystery"],
-  "creators": ["Donald P. Bellisario", "Don McGill"],
-  "cast": ["Mark Harmon", "Michael Weatherly", "Pauley Perrette", "Sean Murray", "David McCallum"],
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "creators": [
+    "Donald P. Bellisario",
+    "Don McGill"
+  ],
+  "cast": [
+    "Mark Harmon",
+    "Michael Weatherly",
+    "Pauley Perrette",
+    "Sean Murray",
+    "David McCallum"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 42,
@@ -20,13 +33,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/NCIS_(TV_series)"
   },
   "ratings": {
-    "imdb": { "score": 7.8, "max": 10 },
-    "rottenTomatoes": { "critics": 70, "audience": 82 }
+    "imdb": {
+      "score": 7.8,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 70,
+      "audience": 82
+    }
   },
   "rank": 52,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/NCIS_wordmark.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/NCIS_Filming_%288_March_2009%29.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "NCIS logo",

@@ -4,8 +4,18 @@
   "studio": "sony",
   "year": 2012,
   "director": "Sam Mendes",
-  "cast": ["Daniel Craig", "Javier Bardem", "Ralph Fiennes", "Judi Dench", "Naomie Harris"],
-  "genres": ["Action", "Spy", "Thriller"],
+  "cast": [
+    "Daniel Craig",
+    "Javier Bardem",
+    "Ralph Fiennes",
+    "Judi Dench",
+    "Naomie Harris"
+  ],
+  "genres": [
+    "Action",
+    "Spy",
+    "Thriller"
+  ],
   "runtime": 143,
   "language": "English",
   "country": "UK",
@@ -34,14 +44,23 @@
     }
   },
   "ratings": {
-    "imdb": { "score": 7.8, "max": 10 },
-    "rottenTomatoes": { "critics": 92, "audience": 86 },
-    "metacritic": { "score": 81, "max": 100 }
+    "imdb": {
+      "score": 7.8,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 92,
+      "audience": 86
+    },
+    "metacritic": {
+      "score": 81,
+      "max": 100
+    }
   },
   "rank": 31,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/c/c8/Skyfall_poster.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/a7/Skyfall_poster.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Skyfall movie poster",

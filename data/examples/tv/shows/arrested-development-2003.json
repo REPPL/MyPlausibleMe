@@ -6,9 +6,20 @@
   "endYear": 2019,
   "seasons": 5,
   "episodes": 84,
-  "genres": ["Comedy", "Sitcom"],
-  "creators": ["Mitchell Hurwitz"],
-  "cast": ["Jason Bateman", "Portia de Rossi", "Will Arnett", "Michael Cera", "Jeffrey Tambor"],
+  "genres": [
+    "Comedy",
+    "Sitcom"
+  ],
+  "creators": [
+    "Mitchell Hurwitz"
+  ],
+  "cast": [
+    "Jason Bateman",
+    "Portia de Rossi",
+    "Will Arnett",
+    "Michael Cera",
+    "Jeffrey Tambor"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 22,
@@ -20,13 +31,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Arrested_Development_(TV_series)"
   },
   "ratings": {
-    "imdb": { "score": 8.7, "max": 10 },
-    "rottenTomatoes": { "critics": 88, "audience": 89 }
+    "imdb": {
+      "score": 8.7,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 88,
+      "audience": 89
+    }
   },
   "rank": 87,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/1/10/Arrested_Development_title_card.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Redirect_arrow_without_text.svg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Arrested Development title card",

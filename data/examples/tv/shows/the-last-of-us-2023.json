@@ -6,9 +6,22 @@
   "endYear": null,
   "seasons": 1,
   "episodes": 9,
-  "genres": ["Post-apocalyptic", "Drama", "Action"],
-  "creators": ["Craig Mazin", "Neil Druckmann"],
-  "cast": ["Pedro Pascal", "Bella Ramsey", "Anna Torv", "Gabriel Luna", "Nick Offerman"],
+  "genres": [
+    "Post-apocalyptic",
+    "Drama",
+    "Action"
+  ],
+  "creators": [
+    "Craig Mazin",
+    "Neil Druckmann"
+  ],
+  "cast": [
+    "Pedro Pascal",
+    "Bella Ramsey",
+    "Anna Torv",
+    "Gabriel Luna",
+    "Nick Offerman"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 55,
@@ -21,13 +34,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Last_of_Us_(TV_series)"
   },
   "ratings": {
-    "imdb": { "score": 8.7, "max": 10 },
-    "rottenTomatoes": { "critics": 96, "audience": 87 }
+    "imdb": {
+      "score": 8.7,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 96,
+      "audience": 87
+    }
   },
   "rank": 15,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/5/51/The_Last_of_Us_%28TV%29_Title_Card.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Anna_Torv_headshot_%28further_cropped%29.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "The Last of Us title card",

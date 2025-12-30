@@ -6,9 +6,20 @@
   "endYear": 2024,
   "seasons": 12,
   "episodes": 120,
-  "genres": ["Comedy", "Improvisational comedy"],
-  "creators": ["Larry David"],
-  "cast": ["Larry David", "Jeff Garlin", "Cheryl Hines", "Susie Essman", "J.B. Smoove"],
+  "genres": [
+    "Comedy",
+    "Improvisational comedy"
+  ],
+  "creators": [
+    "Larry David"
+  ],
+  "cast": [
+    "Larry David",
+    "Jeff Garlin",
+    "Cheryl Hines",
+    "Susie Essman",
+    "J.B. Smoove"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 36,
@@ -20,13 +31,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm"
   },
   "ratings": {
-    "imdb": { "score": 8.7, "max": 10 },
-    "rottenTomatoes": { "critics": 93, "audience": 89 }
+    "imdb": {
+      "score": 8.7,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 93,
+      "audience": 89
+    }
   },
   "rank": 86,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/0/01/Curb_Your_Enthusiasm_title_card.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Cheryl_Hines_at_the_Tribeca_Film_Festival.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Curb Your Enthusiasm title card",

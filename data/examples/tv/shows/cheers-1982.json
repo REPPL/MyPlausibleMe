@@ -6,9 +6,23 @@
   "endYear": 1993,
   "seasons": 11,
   "episodes": 275,
-  "genres": ["Sitcom", "Comedy"],
-  "creators": ["James Burrows", "Glen Charles", "Les Charles"],
-  "cast": ["Ted Danson", "Shelley Long", "Rhea Perlman", "John Ratzenberger", "Woody Harrelson", "Kelsey Grammer"],
+  "genres": [
+    "Sitcom",
+    "Comedy"
+  ],
+  "creators": [
+    "James Burrows",
+    "Glen Charles",
+    "Les Charles"
+  ],
+  "cast": [
+    "Ted Danson",
+    "Shelley Long",
+    "Rhea Perlman",
+    "John Ratzenberger",
+    "Woody Harrelson",
+    "Kelsey Grammer"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 22,
@@ -21,13 +35,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Cheers"
   },
   "ratings": {
-    "imdb": { "score": 8.1, "max": 10 },
-    "rottenTomatoes": { "critics": 96, "audience": 90 }
+    "imdb": {
+      "score": 8.1,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 96,
+      "audience": 90
+    }
   },
   "rank": 19,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/4/4e/Cheers_intro_logo.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Cheers.svg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Cheers logo",

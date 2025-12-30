@@ -6,9 +6,21 @@
   "endYear": 2024,
   "seasons": 4,
   "episodes": 40,
-  "genres": ["Superhero", "Comedy-drama", "Science fiction"],
-  "creators": ["Steve Blackman"],
-  "cast": ["Elliot Page", "Tom Hopper", "David Castañeda", "Emmy Raver-Lampman", "Robert Sheehan"],
+  "genres": [
+    "Superhero",
+    "Comedy-drama",
+    "Science fiction"
+  ],
+  "creators": [
+    "Steve Blackman"
+  ],
+  "cast": [
+    "Elliot Page",
+    "Tom Hopper",
+    "David Castañeda",
+    "Emmy Raver-Lampman",
+    "Robert Sheehan"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 55,
@@ -19,13 +31,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Umbrella_Academy_(TV_series)"
   },
   "ratings": {
-    "imdb": { "score": 7.9, "max": 10 },
-    "rottenTomatoes": { "critics": 87, "audience": 82 }
+    "imdb": {
+      "score": 7.9,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 87,
+      "audience": 82
+    }
   },
   "rank": 58,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/9/90/The_Umbrella_Academy_season_1_title_card.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/The_Umbrella_Academy_logo.svg",
       "type": "poster",
       "isPrimary": true,
       "alt": "The Umbrella Academy title card",

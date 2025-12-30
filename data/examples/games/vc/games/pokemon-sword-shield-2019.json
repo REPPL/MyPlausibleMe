@@ -4,9 +4,16 @@
   "publisher": "nintendo",
   "developer": "Game Freak",
   "year": 2019,
-  "platforms": ["Nintendo Switch"],
-  "genres": ["RPG"],
-  "modes": ["Single-player", "Multiplayer"],
+  "platforms": [
+    "Nintendo Switch"
+  ],
+  "genres": [
+    "RPG"
+  ],
+  "modes": [
+    "Single-player",
+    "Multiplayer"
+  ],
   "summary": "The first mainline Pokémon games on a home console, set in the Galar region inspired by Great Britain. Introduced the Wild Area and Dynamax mechanic.",
   "sales": {
     "unitsSold": 26000000,
@@ -14,12 +21,15 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Sword_and_Shield"
   },
   "ratings": {
-    "metacritic": { "score": 80, "max": 100 }
+    "metacritic": {
+      "score": 80,
+      "max": 100
+    }
   },
   "rank": 29,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/c/c1/Pok%C3%A9mon_Sword_and_Shield_cover_art.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/fa/Pok%C3%A9mon_Sword_and_Shield.jpg",
       "type": "cover",
       "isPrimary": true,
       "alt": "Pokémon Sword and Shield cover art",

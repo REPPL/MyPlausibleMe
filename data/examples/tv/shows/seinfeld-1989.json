@@ -6,9 +6,20 @@
   "endYear": 1998,
   "seasons": 9,
   "episodes": 180,
-  "genres": ["Sitcom", "Comedy"],
-  "creators": ["Larry David", "Jerry Seinfeld"],
-  "cast": ["Jerry Seinfeld", "Julia Louis-Dreyfus", "Jason Alexander", "Michael Richards"],
+  "genres": [
+    "Sitcom",
+    "Comedy"
+  ],
+  "creators": [
+    "Larry David",
+    "Jerry Seinfeld"
+  ],
+  "cast": [
+    "Jerry Seinfeld",
+    "Julia Louis-Dreyfus",
+    "Jason Alexander",
+    "Michael Richards"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 22,
@@ -21,13 +32,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Seinfeld"
   },
   "ratings": {
-    "imdb": { "score": 8.9, "max": 10 },
-    "rottenTomatoes": { "critics": 89, "audience": 93 }
+    "imdb": {
+      "score": 8.9,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 89,
+      "audience": 93
+    }
   },
   "rank": 6,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/0/0e/Seinfeld_TV_Series_Logo.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Seinfeld_logo.svg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Seinfeld logo",

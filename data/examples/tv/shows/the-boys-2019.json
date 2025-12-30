@@ -6,9 +6,21 @@
   "endYear": null,
   "seasons": 4,
   "episodes": 32,
-  "genres": ["Superhero", "Action", "Black comedy"],
-  "creators": ["Eric Kripke"],
-  "cast": ["Karl Urban", "Jack Quaid", "Antony Starr", "Erin Moriarty", "Jessie T. Usher"],
+  "genres": [
+    "Superhero",
+    "Action",
+    "Black comedy"
+  ],
+  "creators": [
+    "Eric Kripke"
+  ],
+  "cast": [
+    "Karl Urban",
+    "Jack Quaid",
+    "Antony Starr",
+    "Erin Moriarty",
+    "Jessie T. Usher"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 60,
@@ -19,13 +31,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Boys_(TV_series)"
   },
   "ratings": {
-    "imdb": { "score": 8.7, "max": 10 },
-    "rottenTomatoes": { "critics": 93, "audience": 83 }
+    "imdb": {
+      "score": 8.7,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 93,
+      "audience": 83
+    }
   },
   "rank": 39,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/6/6f/The_Boys_Season_1.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/The_Boys_TV_series_logo.svg",
       "type": "poster",
       "isPrimary": true,
       "alt": "The Boys season 1 poster",

@@ -6,9 +6,20 @@
   "endYear": 2005,
   "seasons": 5,
   "episodes": 63,
-  "genres": ["Drama", "Comedy-drama"],
-  "creators": ["Alan Ball"],
-  "cast": ["Peter Krause", "Michael C. Hall", "Frances Conroy", "Lauren Ambrose", "Freddy Rodriguez"],
+  "genres": [
+    "Drama",
+    "Comedy-drama"
+  ],
+  "creators": [
+    "Alan Ball"
+  ],
+  "cast": [
+    "Peter Krause",
+    "Michael C. Hall",
+    "Frances Conroy",
+    "Lauren Ambrose",
+    "Freddy Rodriguez"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 55,
@@ -20,13 +31,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Six_Feet_Under_(TV_series)"
   },
   "ratings": {
-    "imdb": { "score": 8.7, "max": 10 },
-    "rottenTomatoes": { "critics": 94, "audience": 95 }
+    "imdb": {
+      "score": 8.7,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 94,
+      "audience": 95
+    }
   },
   "rank": 98,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/6/68/Six_Feet_Under_title_card.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/2/23/Sixfeetunderlogo.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Six Feet Under title card",

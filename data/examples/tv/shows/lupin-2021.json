@@ -6,9 +6,22 @@
   "endYear": null,
   "seasons": 3,
   "episodes": 17,
-  "genres": ["Crime", "Mystery", "Drama"],
-  "creators": ["George Kay", "François Uzan"],
-  "cast": ["Omar Sy", "Ludivine Sagnier", "Clotilde Hesme", "Nicole Garcia", "Antoine Gouy"],
+  "genres": [
+    "Crime",
+    "Mystery",
+    "Drama"
+  ],
+  "creators": [
+    "George Kay",
+    "François Uzan"
+  ],
+  "cast": [
+    "Omar Sy",
+    "Ludivine Sagnier",
+    "Clotilde Hesme",
+    "Nicole Garcia",
+    "Antoine Gouy"
+  ],
   "country": "France",
   "language": "French",
   "runtime": 50,
@@ -19,13 +32,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Lupin_(French_TV_series)"
   },
   "ratings": {
-    "imdb": { "score": 7.5, "max": 10 },
-    "rottenTomatoes": { "critics": 98, "audience": 78 }
+    "imdb": {
+      "score": 7.5,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 98,
+      "audience": 78
+    }
   },
   "rank": 59,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/4/4f/Lupin_%28TV_series%29.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Blank_television_set.svg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Lupin poster",

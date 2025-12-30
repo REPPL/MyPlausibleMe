@@ -6,9 +6,21 @@
   "endYear": 2019,
   "seasons": 1,
   "episodes": 5,
-  "genres": ["Drama", "Historical", "Disaster"],
-  "creators": ["Craig Mazin"],
-  "cast": ["Jared Harris", "Stellan Skarsgård", "Emily Watson", "Paul Ritter", "Jessie Buckley"],
+  "genres": [
+    "Drama",
+    "Historical",
+    "Disaster"
+  ],
+  "creators": [
+    "Craig Mazin"
+  ],
+  "cast": [
+    "Jared Harris",
+    "Stellan Skarsgård",
+    "Emily Watson",
+    "Paul Ritter",
+    "Jessie Buckley"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 70,
@@ -19,13 +31,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Chernobyl_(miniseries)"
   },
   "ratings": {
-    "imdb": { "score": 9.3, "max": 10 },
-    "rottenTomatoes": { "critics": 96, "audience": 96 }
+    "imdb": {
+      "score": 9.3,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 96,
+      "audience": 96
+    }
   },
   "rank": 24,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/a/a9/Chernobyl_2019_Miniseries.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/a7/Chernobyl_2019_Miniseries.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Chernobyl poster",

@@ -6,9 +6,21 @@
   "endYear": 2019,
   "seasons": 4,
   "episodes": 45,
-  "genres": ["Thriller", "Drama", "Cyberpunk"],
-  "creators": ["Sam Esmail"],
-  "cast": ["Rami Malek", "Christian Slater", "Carly Chaikin", "Portia Doubleday", "Martin Wallström"],
+  "genres": [
+    "Thriller",
+    "Drama",
+    "Cyberpunk"
+  ],
+  "creators": [
+    "Sam Esmail"
+  ],
+  "cast": [
+    "Rami Malek",
+    "Christian Slater",
+    "Carly Chaikin",
+    "Portia Doubleday",
+    "Martin Wallström"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 45,
@@ -20,13 +32,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Mr._Robot"
   },
   "ratings": {
-    "imdb": { "score": 8.5, "max": 10 },
-    "rottenTomatoes": { "critics": 94, "audience": 91 }
+    "imdb": {
+      "score": 8.5,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 94,
+      "audience": 91
+    }
   },
   "rank": 72,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/a/af/Mr._Robot_Logo.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Christian_Slater_%26_Rami_Malek_in_2015.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Mr. Robot logo",

@@ -4,8 +4,18 @@
   "studio": "sony",
   "year": 2004,
   "director": "Sam Raimi",
-  "cast": ["Tobey Maguire", "Kirsten Dunst", "James Franco", "Alfred Molina", "Rosemary Harris"],
-  "genres": ["Superhero", "Action", "Adventure"],
+  "cast": [
+    "Tobey Maguire",
+    "Kirsten Dunst",
+    "James Franco",
+    "Alfred Molina",
+    "Rosemary Harris"
+  ],
+  "genres": [
+    "Superhero",
+    "Action",
+    "Adventure"
+  ],
   "runtime": 127,
   "language": "English",
   "country": "USA",
@@ -34,14 +44,23 @@
     }
   },
   "ratings": {
-    "imdb": { "score": 7.5, "max": 10 },
-    "rottenTomatoes": { "critics": 93, "audience": 82 },
-    "metacritic": { "score": 83, "max": 100 }
+    "imdb": {
+      "score": 7.5,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 93,
+      "audience": 82
+    },
+    "metacritic": {
+      "score": 83,
+      "max": 100
+    }
   },
   "rank": 92,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/0/02/Spider-Man_2_Poster.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/4e/Spider-Man_2_poster.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Spider-Man 2 movie poster",

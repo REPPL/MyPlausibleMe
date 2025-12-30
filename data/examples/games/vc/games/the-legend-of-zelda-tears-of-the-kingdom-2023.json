@@ -4,9 +4,16 @@
   "publisher": "nintendo",
   "developer": "Nintendo EPD",
   "year": 2023,
-  "platforms": ["Nintendo Switch"],
-  "genres": ["Action-adventure", "Open world"],
-  "modes": ["Single-player"],
+  "platforms": [
+    "Nintendo Switch"
+  ],
+  "genres": [
+    "Action-adventure",
+    "Open world"
+  ],
+  "modes": [
+    "Single-player"
+  ],
   "summary": "Link explores a transformed Hyrule with new abilities to build machines and vehicles. The sequel to Breath of the Wild, praised for its creativity-enabling mechanics.",
   "sales": {
     "unitsSold": 20000000,
@@ -14,12 +21,15 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Tears_of_the_Kingdom"
   },
   "ratings": {
-    "metacritic": { "score": 96, "max": 100 }
+    "metacritic": {
+      "score": 96,
+      "max": 100
+    }
   },
   "rank": 86,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/f/fc/The_Legend_of_Zelda_Tears_of_the_Kingdom_cover.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/fb/The_Legend_of_Zelda_Tears_of_the_Kingdom_cover.jpg",
       "type": "cover",
       "isPrimary": true,
       "alt": "The Legend of Zelda: Tears of the Kingdom cover art",

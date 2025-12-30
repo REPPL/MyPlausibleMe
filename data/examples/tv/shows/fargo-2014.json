@@ -6,9 +6,21 @@
   "endYear": null,
   "seasons": 5,
   "episodes": 51,
-  "genres": ["Crime", "Drama", "Black comedy"],
-  "creators": ["Noah Hawley"],
-  "cast": ["Billy Bob Thornton", "Martin Freeman", "Kirsten Dunst", "Ewan McGregor", "Chris Rock"],
+  "genres": [
+    "Crime",
+    "Drama",
+    "Black comedy"
+  ],
+  "creators": [
+    "Noah Hawley"
+  ],
+  "cast": [
+    "Billy Bob Thornton",
+    "Martin Freeman",
+    "Kirsten Dunst",
+    "Ewan McGregor",
+    "Chris Rock"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 53,
@@ -20,13 +32,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Fargo_(TV_series)"
   },
   "ratings": {
-    "imdb": { "score": 8.9, "max": 10 },
-    "rottenTomatoes": { "critics": 93, "audience": 90 }
+    "imdb": {
+      "score": 8.9,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 93,
+      "audience": 90
+    }
   },
   "rank": 37,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/c/c2/Fargo_Season_1.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Fargo_%28TV_logo%29.svg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Fargo season 1 poster",

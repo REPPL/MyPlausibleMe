@@ -6,9 +6,22 @@
   "endYear": 2014,
   "seasons": 9,
   "episodes": 204,
-  "genres": ["Action", "Drama", "Thriller"],
-  "creators": ["Joel Surnow", "Robert Cochran"],
-  "cast": ["Kiefer Sutherland", "Mary Lynn Rajskub", "Carlos Bernard", "Dennis Haysbert", "Elisha Cuthbert"],
+  "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "creators": [
+    "Joel Surnow",
+    "Robert Cochran"
+  ],
+  "cast": [
+    "Kiefer Sutherland",
+    "Mary Lynn Rajskub",
+    "Carlos Bernard",
+    "Dennis Haysbert",
+    "Elisha Cuthbert"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 43,
@@ -20,13 +33,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/24_(TV_series)"
   },
   "ratings": {
-    "imdb": { "score": 8.4, "max": 10 },
-    "rottenTomatoes": { "critics": 87, "audience": 91 }
+    "imdb": {
+      "score": 8.4,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 87,
+      "audience": 91
+    }
   },
   "rank": 47,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/0/0d/24_Season_1_DVD_Cover.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/24-Logo.svg",
       "type": "poster",
       "isPrimary": true,
       "alt": "24 season 1 DVD cover",

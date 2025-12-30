@@ -6,9 +6,21 @@
   "endYear": null,
   "seasons": 4,
   "episodes": 40,
-  "genres": ["Comedy", "Mystery"],
-  "creators": ["Steve Martin", "John Hoffman"],
-  "cast": ["Steve Martin", "Martin Short", "Selena Gomez", "Nathan Lane", "Jane Lynch"],
+  "genres": [
+    "Comedy",
+    "Mystery"
+  ],
+  "creators": [
+    "Steve Martin",
+    "John Hoffman"
+  ],
+  "cast": [
+    "Steve Martin",
+    "Martin Short",
+    "Selena Gomez",
+    "Nathan Lane",
+    "Jane Lynch"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 35,
@@ -18,13 +30,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Only_Murders_in_the_Building"
   },
   "ratings": {
-    "imdb": { "score": 8.1, "max": 10 },
-    "rottenTomatoes": { "critics": 99, "audience": 86 }
+    "imdb": {
+      "score": 8.1,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 99,
+      "audience": 86
+    }
   },
   "rank": 79,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/c/c8/Only_Murders_in_the_Building_Title.png",
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/be/Only_Murders_logo.jpeg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Only Murders in the Building title card",

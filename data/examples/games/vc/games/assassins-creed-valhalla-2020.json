@@ -4,9 +4,23 @@
   "publisher": "ubisoft",
   "developer": "Ubisoft Montreal",
   "year": 2020,
-  "platforms": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "Stadia", "Luna"],
-  "genres": ["Action RPG", "Open world", "Stealth"],
-  "modes": ["Single-player"],
+  "platforms": [
+    "PC",
+    "PlayStation 4",
+    "PlayStation 5",
+    "Xbox One",
+    "Xbox Series X/S",
+    "Stadia",
+    "Luna"
+  ],
+  "genres": [
+    "Action RPG",
+    "Open world",
+    "Stealth"
+  ],
+  "modes": [
+    "Single-player"
+  ],
   "summary": "Viking Eivor leads their clan to settle in ninth-century England. Features Norse mythology, settlement building, and the largest Assassin's Creed world.",
   "sales": {
     "unitsSold": 13000000,
@@ -14,12 +28,15 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_Valhalla"
   },
   "ratings": {
-    "metacritic": { "score": 84, "max": 100 }
+    "metacritic": {
+      "score": 84,
+      "max": 100
+    }
   },
   "rank": 76,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/f/f4/Assassin%27s_Creed_Valhalla_cover.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/ff/Assassin%27s_Creed_Valhalla_cover.jpg",
       "type": "cover",
       "isPrimary": true,
       "alt": "Assassin's Creed Valhalla cover art",

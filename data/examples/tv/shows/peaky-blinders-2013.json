@@ -6,9 +6,21 @@
   "endYear": 2022,
   "seasons": 6,
   "episodes": 36,
-  "genres": ["Crime", "Drama", "Historical"],
-  "creators": ["Steven Knight"],
-  "cast": ["Cillian Murphy", "Helen McCrory", "Paul Anderson", "Tom Hardy", "Sam Neill"],
+  "genres": [
+    "Crime",
+    "Drama",
+    "Historical"
+  ],
+  "creators": [
+    "Steven Knight"
+  ],
+  "cast": [
+    "Cillian Murphy",
+    "Helen McCrory",
+    "Paul Anderson",
+    "Tom Hardy",
+    "Sam Neill"
+  ],
   "country": "United Kingdom",
   "language": "English",
   "runtime": 60,
@@ -20,13 +32,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Peaky_Blinders_(TV_series)"
   },
   "ratings": {
-    "imdb": { "score": 8.8, "max": 10 },
-    "rottenTomatoes": { "critics": 93, "audience": 90 }
+    "imdb": {
+      "score": 8.8,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 93,
+      "audience": 90
+    }
   },
   "rank": 35,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/d/d7/Peaky_Blinders_titlecard.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/e8/Peaky_Blinders_titlecard.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Peaky Blinders title card",

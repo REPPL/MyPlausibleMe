@@ -6,9 +6,21 @@
   "endYear": 2008,
   "seasons": 5,
   "episodes": 60,
-  "genres": ["Crime", "Drama", "Thriller"],
-  "creators": ["David Simon"],
-  "cast": ["Dominic West", "Idris Elba", "Michael K. Williams", "Wendell Pierce", "Lance Reddick"],
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "creators": [
+    "David Simon"
+  ],
+  "cast": [
+    "Dominic West",
+    "Idris Elba",
+    "Michael K. Williams",
+    "Wendell Pierce",
+    "Lance Reddick"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 60,
@@ -21,13 +33,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Wire"
   },
   "ratings": {
-    "imdb": { "score": 9.3, "max": 10 },
-    "rottenTomatoes": { "critics": 94, "audience": 96 }
+    "imdb": {
+      "score": 9.3,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 94,
+      "audience": 96
+    }
   },
   "rank": 4,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/a/a7/The_Wire_title_card.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/The_Wire_logo.svg",
       "type": "poster",
       "isPrimary": true,
       "alt": "The Wire title card",

@@ -6,9 +6,21 @@
   "endYear": 2015,
   "seasons": 7,
   "episodes": 125,
-  "genres": ["Comedy", "Mockumentary"],
-  "creators": ["Greg Daniels", "Michael Schur"],
-  "cast": ["Amy Poehler", "Nick Offerman", "Rashida Jones", "Aziz Ansari", "Chris Pratt"],
+  "genres": [
+    "Comedy",
+    "Mockumentary"
+  ],
+  "creators": [
+    "Greg Daniels",
+    "Michael Schur"
+  ],
+  "cast": [
+    "Amy Poehler",
+    "Nick Offerman",
+    "Rashida Jones",
+    "Aziz Ansari",
+    "Chris Pratt"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 22,
@@ -20,13 +32,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Parks_and_Recreation"
   },
   "ratings": {
-    "imdb": { "score": 8.6, "max": 10 },
-    "rottenTomatoes": { "critics": 93, "audience": 90 }
+    "imdb": {
+      "score": 8.6,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 93,
+      "audience": 90
+    }
   },
   "rank": 66,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/a/a6/Parks_and_recreation_logo.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Adam_Scott_by_Gage_Skidmore.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Parks and Recreation logo",

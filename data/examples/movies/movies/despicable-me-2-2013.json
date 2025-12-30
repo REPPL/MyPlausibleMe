@@ -4,8 +4,18 @@
   "studio": "universal",
   "year": 2013,
   "director": "Pierre Coffin, Chris Renaud",
-  "cast": ["Steve Carell", "Kristen Wiig", "Benjamin Bratt", "Miranda Cosgrove", "Russell Brand"],
-  "genres": ["Animation", "Comedy", "Adventure"],
+  "cast": [
+    "Steve Carell",
+    "Kristen Wiig",
+    "Benjamin Bratt",
+    "Miranda Cosgrove",
+    "Russell Brand"
+  ],
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Adventure"
+  ],
   "runtime": 98,
   "language": "English",
   "country": "USA",
@@ -34,14 +44,23 @@
     }
   },
   "ratings": {
-    "imdb": { "score": 7.3, "max": 10 },
-    "rottenTomatoes": { "critics": 74, "audience": 81 },
-    "metacritic": { "score": 62, "max": 100 }
+    "imdb": {
+      "score": 7.3,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 74,
+      "audience": 81
+    },
+    "metacritic": {
+      "score": 62,
+      "max": 100
+    }
   },
   "rank": 44,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/7/71/Despicable_Me_2_poster.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/2/29/Despicable_Me_2_poster.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Despicable Me 2 movie poster",

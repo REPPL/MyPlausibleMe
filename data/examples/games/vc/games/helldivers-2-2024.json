@@ -4,9 +4,17 @@
   "publisher": "sony",
   "developer": "Arrowhead Game Studios",
   "year": 2024,
-  "platforms": ["PC", "PlayStation 5"],
-  "genres": ["Third-person shooter", "Co-op"],
-  "modes": ["Multiplayer"],
+  "platforms": [
+    "PC",
+    "PlayStation 5"
+  ],
+  "genres": [
+    "Third-person shooter",
+    "Co-op"
+  ],
+  "modes": [
+    "Multiplayer"
+  ],
   "summary": "Elite soldiers spread democracy across the galaxy in chaotic co-op battles. A satirical take on military propaganda that became PlayStation's biggest PC launch.",
   "sales": {
     "unitsSold": 12000000,
@@ -14,12 +22,15 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Helldivers_2"
   },
   "ratings": {
-    "metacritic": { "score": 82, "max": 100 }
+    "metacritic": {
+      "score": 82,
+      "max": 100
+    }
   },
   "rank": 99,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/e/e7/Helldivers_2_cover_art.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/e7/Helldivers2cover.png",
       "type": "cover",
       "isPrimary": true,
       "alt": "Helldivers 2 cover art",

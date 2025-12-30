@@ -4,9 +4,20 @@
   "publisher": "ubisoft",
   "developer": "Ubisoft Montreal",
   "year": 2016,
-  "platforms": ["PC", "PlayStation 4", "Xbox One", "Stadia"],
-  "genres": ["Action-adventure", "Open world"],
-  "modes": ["Single-player", "Multiplayer"],
+  "platforms": [
+    "PC",
+    "PlayStation 4",
+    "Xbox One",
+    "Stadia"
+  ],
+  "genres": [
+    "Action-adventure",
+    "Open world"
+  ],
+  "modes": [
+    "Single-player",
+    "Multiplayer"
+  ],
   "summary": "Marcus Holloway joins DedSec to take down ctOS 2.0 in San Francisco. A more colourful and humorous approach to the hacking-focused franchise.",
   "sales": {
     "unitsSold": 6000000,
@@ -14,12 +25,15 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Watch_Dogs_2"
   },
   "ratings": {
-    "metacritic": { "score": 82, "max": 100 }
+    "metacritic": {
+      "score": 82,
+      "max": 100
+    }
   },
   "rank": 77,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/8/88/WatchDogs2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/b0/Watch_Dogs_2.jpg",
       "type": "cover",
       "isPrimary": true,
       "alt": "Watch Dogs 2 cover art",

@@ -4,8 +4,18 @@
   "studio": "lionsgate",
   "year": 2012,
   "director": "Bill Condon",
-  "cast": ["Kristen Stewart", "Robert Pattinson", "Taylor Lautner", "Peter Facinelli", "Ashley Greene"],
-  "genres": ["Fantasy", "Romance", "Drama"],
+  "cast": [
+    "Kristen Stewart",
+    "Robert Pattinson",
+    "Taylor Lautner",
+    "Peter Facinelli",
+    "Ashley Greene"
+  ],
+  "genres": [
+    "Fantasy",
+    "Romance",
+    "Drama"
+  ],
   "runtime": 115,
   "language": "English",
   "country": "USA",
@@ -34,14 +44,23 @@
     }
   },
   "ratings": {
-    "imdb": { "score": 5.5, "max": 10 },
-    "rottenTomatoes": { "critics": 49, "audience": 73 },
-    "metacritic": { "score": 52, "max": 100 }
+    "imdb": {
+      "score": 5.5,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 49,
+      "audience": 73
+    },
+    "metacritic": {
+      "score": 52,
+      "max": 100
+    }
   },
   "rank": 62,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/f/f8/Breaking_Dawn_Part_2_Poster.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/49/The_Twilight_Saga_Breaking_Dawn_Part_2_poster.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "The Twilight Saga: Breaking Dawn – Part 2 movie poster",

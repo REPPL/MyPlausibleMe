@@ -4,8 +4,17 @@
   "studio": "warner-bros",
   "year": 2003,
   "director": "Lana Wachowski, Lilly Wachowski",
-  "cast": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss", "Hugo Weaving", "Monica Bellucci"],
-  "genres": ["Science fiction", "Action"],
+  "cast": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Moss",
+    "Hugo Weaving",
+    "Monica Bellucci"
+  ],
+  "genres": [
+    "Science fiction",
+    "Action"
+  ],
   "runtime": 138,
   "language": "English",
   "country": "USA",
@@ -34,14 +43,23 @@
     }
   },
   "ratings": {
-    "imdb": { "score": 7.2, "max": 10 },
-    "rottenTomatoes": { "critics": 73, "audience": 72 },
-    "metacritic": { "score": 62, "max": 100 }
+    "imdb": {
+      "score": 7.2,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 73,
+      "audience": 72
+    },
+    "metacritic": {
+      "score": 62,
+      "max": 100
+    }
   },
   "rank": 99,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/b/ba/Matrix_reloaded_ver15.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/ba/Poster_-_The_Matrix_Reloaded.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "The Matrix Reloaded movie poster",

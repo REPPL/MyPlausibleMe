@@ -4,8 +4,18 @@
   "studio": "disney",
   "year": 2019,
   "director": "Jon Favreau",
-  "cast": ["Donald Glover", "Seth Rogen", "Chiwetel Ejiofor", "Billy Eichner", "Beyoncé"],
-  "genres": ["Animation", "Musical", "Drama"],
+  "cast": [
+    "Donald Glover",
+    "Seth Rogen",
+    "Chiwetel Ejiofor",
+    "Billy Eichner",
+    "Beyoncé"
+  ],
+  "genres": [
+    "Animation",
+    "Musical",
+    "Drama"
+  ],
   "runtime": 118,
   "language": "English",
   "country": "USA",
@@ -34,14 +44,23 @@
     }
   },
   "ratings": {
-    "imdb": { "score": 6.8, "max": 10 },
-    "rottenTomatoes": { "critics": 52, "audience": 88 },
-    "metacritic": { "score": 55, "max": 100 }
+    "imdb": {
+      "score": 6.8,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 52,
+      "audience": 88
+    },
+    "metacritic": {
+      "score": 55,
+      "max": 100
+    }
   },
   "rank": 10,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/9/9d/The_Lion_King_%282019_film%29.png",
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/9d/Disney_The_Lion_King_2019.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "The Lion King (2019) movie poster",

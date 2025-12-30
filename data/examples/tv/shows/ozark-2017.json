@@ -6,9 +6,22 @@
   "endYear": 2022,
   "seasons": 4,
   "episodes": 44,
-  "genres": ["Crime", "Drama", "Thriller"],
-  "creators": ["Bill Dubuque", "Mark Williams"],
-  "cast": ["Jason Bateman", "Laura Linney", "Julia Garner", "Sofia Hublitz", "Skylar Gaertner"],
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "creators": [
+    "Bill Dubuque",
+    "Mark Williams"
+  ],
+  "cast": [
+    "Jason Bateman",
+    "Laura Linney",
+    "Julia Garner",
+    "Sofia Hublitz",
+    "Skylar Gaertner"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 60,
@@ -19,13 +32,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Ozark_(TV_series)"
   },
   "ratings": {
-    "imdb": { "score": 8.5, "max": 10 },
-    "rottenTomatoes": { "critics": 81, "audience": 88 }
+    "imdb": {
+      "score": 8.5,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 81,
+      "audience": 88
+    }
   },
   "rank": 38,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/3/30/Ozark_TV_series_logo.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Blank_television_set.svg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Ozark logo",

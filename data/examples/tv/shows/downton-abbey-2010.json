@@ -6,9 +6,21 @@
   "endYear": 2015,
   "seasons": 6,
   "episodes": 52,
-  "genres": ["Drama", "Historical drama", "Period piece"],
-  "creators": ["Julian Fellowes"],
-  "cast": ["Hugh Bonneville", "Maggie Smith", "Michelle Dockery", "Elizabeth McGovern", "Laura Carmichael"],
+  "genres": [
+    "Drama",
+    "Historical drama",
+    "Period piece"
+  ],
+  "creators": [
+    "Julian Fellowes"
+  ],
+  "cast": [
+    "Hugh Bonneville",
+    "Maggie Smith",
+    "Michelle Dockery",
+    "Elizabeth McGovern",
+    "Laura Carmichael"
+  ],
   "country": "United Kingdom",
   "language": "English",
   "runtime": 60,
@@ -20,13 +32,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Downton_Abbey"
   },
   "ratings": {
-    "imdb": { "score": 8.7, "max": 10 },
-    "rottenTomatoes": { "critics": 87, "audience": 89 }
+    "imdb": {
+      "score": 8.7,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 87,
+      "audience": 89
+    }
   },
   "rank": 31,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/d/da/Downton_Abbey.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/c4/Downton_Abbey_Title_Card.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Downton Abbey poster",

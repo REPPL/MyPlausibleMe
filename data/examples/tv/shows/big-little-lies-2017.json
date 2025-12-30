@@ -6,9 +6,21 @@
   "endYear": 2019,
   "seasons": 2,
   "episodes": 14,
-  "genres": ["Drama", "Dark comedy", "Mystery"],
-  "creators": ["David E. Kelley"],
-  "cast": ["Reese Witherspoon", "Nicole Kidman", "Shailene Woodley", "Laura Dern", "Meryl Streep"],
+  "genres": [
+    "Drama",
+    "Dark comedy",
+    "Mystery"
+  ],
+  "creators": [
+    "David E. Kelley"
+  ],
+  "cast": [
+    "Reese Witherspoon",
+    "Nicole Kidman",
+    "Shailene Woodley",
+    "Laura Dern",
+    "Meryl Streep"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 55,
@@ -20,13 +32,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Big_Little_Lies_(TV_series)"
   },
   "ratings": {
-    "imdb": { "score": 8.5, "max": 10 },
-    "rottenTomatoes": { "critics": 89, "audience": 86 }
+    "imdb": {
+      "score": 8.5,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 89,
+      "audience": 86
+    }
   },
   "rank": 94,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/5/58/BigLittleLiesTitle.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Alexander_Skarsgard_%2829485267411%29_%28cropped%29.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Big Little Lies title card",

@@ -6,9 +6,23 @@
   "endYear": 2010,
   "seasons": 6,
   "episodes": 121,
-  "genres": ["Drama", "Mystery", "Science fiction"],
-  "creators": ["J. J. Abrams", "Damon Lindelof", "Jeffrey Lieber"],
-  "cast": ["Matthew Fox", "Evangeline Lilly", "Josh Holloway", "Terry O'Quinn", "Jorge Garcia"],
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Science fiction"
+  ],
+  "creators": [
+    "J. J. Abrams",
+    "Damon Lindelof",
+    "Jeffrey Lieber"
+  ],
+  "cast": [
+    "Matthew Fox",
+    "Evangeline Lilly",
+    "Josh Holloway",
+    "Terry O'Quinn",
+    "Jorge Garcia"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 44,
@@ -21,13 +35,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Lost_(TV_series)"
   },
   "ratings": {
-    "imdb": { "score": 8.3, "max": 10 },
-    "rottenTomatoes": { "critics": 85, "audience": 86 }
+    "imdb": {
+      "score": 8.3,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 85,
+      "audience": 86
+    }
   },
   "rank": 26,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/d/d7/Lost-season1.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Lost_main_title.svg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Lost season 1 poster",

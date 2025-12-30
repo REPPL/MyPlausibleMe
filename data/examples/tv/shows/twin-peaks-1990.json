@@ -6,9 +6,22 @@
   "endYear": 2017,
   "seasons": 3,
   "episodes": 48,
-  "genres": ["Mystery", "Drama", "Surrealism"],
-  "creators": ["David Lynch", "Mark Frost"],
-  "cast": ["Kyle MacLachlan", "Michael Ontkean", "Mädchen Amick", "Sherilyn Fenn", "Sheryl Lee"],
+  "genres": [
+    "Mystery",
+    "Drama",
+    "Surrealism"
+  ],
+  "creators": [
+    "David Lynch",
+    "Mark Frost"
+  ],
+  "cast": [
+    "Kyle MacLachlan",
+    "Michael Ontkean",
+    "Mädchen Amick",
+    "Sherilyn Fenn",
+    "Sheryl Lee"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 47,
@@ -19,13 +32,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Twin_Peaks"
   },
   "ratings": {
-    "imdb": { "score": 8.8, "max": 10 },
-    "rottenTomatoes": { "critics": 92, "audience": 93 }
+    "imdb": {
+      "score": 8.8,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 92,
+      "audience": 93
+    }
   },
   "rank": 74,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/5/5a/Twin_Peaks_%281990_TV_series%29_title_card.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/David_Lynch_at_the_1990_Emmy_Awards.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Twin Peaks title card",

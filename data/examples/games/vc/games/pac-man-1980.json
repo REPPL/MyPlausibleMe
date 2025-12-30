@@ -4,9 +4,19 @@
   "publisher": "namco",
   "developer": "Namco",
   "year": 1980,
-  "platforms": ["Arcade", "Atari 2600", "NES", "Various"],
-  "genres": ["Maze", "Action"],
-  "modes": ["Single-player"],
+  "platforms": [
+    "Arcade",
+    "Atari 2600",
+    "NES",
+    "Various"
+  ],
+  "genres": [
+    "Maze",
+    "Action"
+  ],
+  "modes": [
+    "Single-player"
+  ],
   "summary": "Navigate Pac-Man through a maze while eating dots and avoiding ghosts. One of the most iconic and influential video games of all time.",
   "sales": {
     "unitsSold": 43000000,
@@ -14,12 +24,15 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Pac-Man"
   },
   "ratings": {
-    "metacritic": { "score": 85, "max": 100 }
+    "metacritic": {
+      "score": 85,
+      "max": 100
+    }
   },
   "rank": 14,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/5/59/Pac-man.png",
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/16/Pac_flyer.png",
       "type": "cover",
       "isPrimary": true,
       "alt": "Pac-Man arcade flyer",

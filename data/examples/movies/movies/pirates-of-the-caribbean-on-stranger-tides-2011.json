@@ -4,8 +4,18 @@
   "studio": "disney",
   "year": 2011,
   "director": "Rob Marshall",
-  "cast": ["Johnny Depp", "Penélope Cruz", "Ian McShane", "Geoffrey Rush", "Kevin McNally"],
-  "genres": ["Fantasy", "Action", "Adventure"],
+  "cast": [
+    "Johnny Depp",
+    "Penélope Cruz",
+    "Ian McShane",
+    "Geoffrey Rush",
+    "Kevin McNally"
+  ],
+  "genres": [
+    "Fantasy",
+    "Action",
+    "Adventure"
+  ],
   "runtime": 136,
   "language": "English",
   "country": "USA",
@@ -34,14 +44,23 @@
     }
   },
   "ratings": {
-    "imdb": { "score": 6.6, "max": 10 },
-    "rottenTomatoes": { "critics": 33, "audience": 54 },
-    "metacritic": { "score": 45, "max": 100 }
+    "imdb": {
+      "score": 6.6,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 33,
+      "audience": 54
+    },
+    "metacritic": {
+      "score": 45,
+      "max": 100
+    }
   },
   "rank": 43,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/a/a5/Pirates_of_the_Caribbean_On_Stranger_Tides_poster.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/5e/Pirates_of_the_Caribbean_-_On_Stranger_Tides.png",
       "type": "poster",
       "isPrimary": true,
       "alt": "Pirates of the Caribbean: On Stranger Tides movie poster",

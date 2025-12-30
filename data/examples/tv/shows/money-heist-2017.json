@@ -6,9 +6,21 @@
   "endYear": 2021,
   "seasons": 5,
   "episodes": 41,
-  "genres": ["Crime", "Drama", "Thriller"],
-  "creators": ["Álex Pina"],
-  "cast": ["Álvaro Morte", "Úrsula Corberó", "Itziar Ituño", "Pedro Alonso", "Miguel Herrán"],
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "creators": [
+    "Álex Pina"
+  ],
+  "cast": [
+    "Álvaro Morte",
+    "Úrsula Corberó",
+    "Itziar Ituño",
+    "Pedro Alonso",
+    "Miguel Herrán"
+  ],
   "country": "Spain",
   "language": "Spanish",
   "runtime": 50,
@@ -19,13 +31,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Money_Heist"
   },
   "ratings": {
-    "imdb": { "score": 8.2, "max": 10 },
-    "rottenTomatoes": { "critics": 90, "audience": 77 }
+    "imdb": {
+      "score": 8.2,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 90,
+      "audience": 77
+    }
   },
   "rank": 56,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/9/91/Money_Heist_title_card.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Casa_de_Papel_at_Patras_Carnival_%28cropped%29.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Money Heist title card",

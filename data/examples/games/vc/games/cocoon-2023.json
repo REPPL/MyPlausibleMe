@@ -4,9 +4,21 @@
   "publisher": "annapurna-interactive",
   "developer": "Geometric Interactive",
   "year": 2023,
-  "platforms": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "Nintendo Switch"],
-  "genres": ["Puzzle", "Adventure"],
-  "modes": ["Single-player"],
+  "platforms": [
+    "PC",
+    "PlayStation 4",
+    "PlayStation 5",
+    "Xbox One",
+    "Xbox Series X/S",
+    "Nintendo Switch"
+  ],
+  "genres": [
+    "Puzzle",
+    "Adventure"
+  ],
+  "modes": [
+    "Single-player"
+  ],
   "summary": "Worlds exist within orbs you carry on your back, creating mind-bending puzzles. From the lead gameplay designer of Limbo and Inside.",
   "sales": {
     "unitsSold": 500000,
@@ -14,12 +26,15 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Cocoon_(video_game)"
   },
   "ratings": {
-    "metacritic": { "score": 89, "max": 100 }
+    "metacritic": {
+      "score": 89,
+      "max": 100
+    }
   },
   "rank": 95,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/f/f5/Cocoon_video_game_cover_art.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/96/Cocoon_Cover_Art.png",
       "type": "cover",
       "isPrimary": true,
       "alt": "Cocoon cover art",

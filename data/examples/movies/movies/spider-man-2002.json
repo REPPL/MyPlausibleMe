@@ -4,8 +4,18 @@
   "studio": "sony",
   "year": 2002,
   "director": "Sam Raimi",
-  "cast": ["Tobey Maguire", "Willem Dafoe", "Kirsten Dunst", "James Franco", "Cliff Robertson"],
-  "genres": ["Superhero", "Action", "Adventure"],
+  "cast": [
+    "Tobey Maguire",
+    "Willem Dafoe",
+    "Kirsten Dunst",
+    "James Franco",
+    "Cliff Robertson"
+  ],
+  "genres": [
+    "Superhero",
+    "Action",
+    "Adventure"
+  ],
   "runtime": 121,
   "language": "English",
   "country": "USA",
@@ -34,14 +44,23 @@
     }
   },
   "ratings": {
-    "imdb": { "score": 7.4, "max": 10 },
-    "rottenTomatoes": { "critics": 90, "audience": 67 },
-    "metacritic": { "score": 73, "max": 100 }
+    "imdb": {
+      "score": 7.4,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 90,
+      "audience": 67
+    },
+    "metacritic": {
+      "score": 73,
+      "max": 100
+    }
   },
   "rank": 87,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/f/f3/Spider-Man2002Poster.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/6c/Spider-Man_%282002_film%29_poster.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Spider-Man movie poster",

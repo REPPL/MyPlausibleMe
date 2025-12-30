@@ -4,8 +4,18 @@
   "studio": "warner-bros",
   "year": 2001,
   "director": "Chris Columbus",
-  "cast": ["Daniel Radcliffe", "Rupert Grint", "Emma Watson", "Richard Harris", "Alan Rickman"],
-  "genres": ["Fantasy", "Adventure", "Family"],
+  "cast": [
+    "Daniel Radcliffe",
+    "Rupert Grint",
+    "Emma Watson",
+    "Richard Harris",
+    "Alan Rickman"
+  ],
+  "genres": [
+    "Fantasy",
+    "Adventure",
+    "Family"
+  ],
   "runtime": 152,
   "language": "English",
   "country": "UK",
@@ -34,14 +44,23 @@
     }
   },
   "ratings": {
-    "imdb": { "score": 7.6, "max": 10 },
-    "rottenTomatoes": { "critics": 81, "audience": 82 },
-    "metacritic": { "score": 65, "max": 100 }
+    "imdb": {
+      "score": 7.6,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 81,
+      "audience": 82
+    },
+    "metacritic": {
+      "score": 65,
+      "max": 100
+    }
   },
   "rank": 75,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/7/7a/Harry_Potter_and_the_Philosopher%27s_Stone_poster.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/7/7a/Harry_Potter_and_the_Philosopher%27s_Stone_banner.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Harry Potter and the Philosopher's Stone movie poster",

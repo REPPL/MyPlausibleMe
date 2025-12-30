@@ -6,9 +6,20 @@
   "endYear": 2015,
   "seasons": 6,
   "episodes": 110,
-  "genres": ["Comedy", "Sitcom"],
-  "creators": ["Dan Harmon"],
-  "cast": ["Joel McHale", "Gillian Jacobs", "Danny Pudi", "Alison Brie", "Donald Glover"],
+  "genres": [
+    "Comedy",
+    "Sitcom"
+  ],
+  "creators": [
+    "Dan Harmon"
+  ],
+  "cast": [
+    "Joel McHale",
+    "Gillian Jacobs",
+    "Danny Pudi",
+    "Alison Brie",
+    "Donald Glover"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 22,
@@ -20,13 +31,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Community_(TV_series)"
   },
   "ratings": {
-    "imdb": { "score": 8.5, "max": 10 },
-    "rottenTomatoes": { "critics": 88, "audience": 90 }
+    "imdb": {
+      "score": 8.5,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 88,
+      "audience": 90
+    }
   },
   "rank": 88,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/5/53/Community_title.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Chris_McKenna_at_Wondercon_2012.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Community title card",

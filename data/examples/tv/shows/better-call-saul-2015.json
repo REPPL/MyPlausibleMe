@@ -6,9 +6,22 @@
   "endYear": 2022,
   "seasons": 6,
   "episodes": 63,
-  "genres": ["Crime", "Drama", "Black comedy"],
-  "creators": ["Vince Gilligan", "Peter Gould"],
-  "cast": ["Bob Odenkirk", "Rhea Seehorn", "Jonathan Banks", "Michael McKean", "Giancarlo Esposito"],
+  "genres": [
+    "Crime",
+    "Drama",
+    "Black comedy"
+  ],
+  "creators": [
+    "Vince Gilligan",
+    "Peter Gould"
+  ],
+  "cast": [
+    "Bob Odenkirk",
+    "Rhea Seehorn",
+    "Jonathan Banks",
+    "Michael McKean",
+    "Giancarlo Esposito"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 47,
@@ -21,13 +34,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Better_Call_Saul"
   },
   "ratings": {
-    "imdb": { "score": 9.0, "max": 10 },
-    "rottenTomatoes": { "critics": 98, "audience": 95 }
+    "imdb": {
+      "score": 9.0,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 98,
+      "audience": 95
+    }
   },
   "rank": 27,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/0/03/Better_Call_Saul_logo.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/8a/Better_Call_Saul_logo.svg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Better Call Saul logo",

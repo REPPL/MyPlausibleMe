@@ -6,9 +6,22 @@
   "endYear": 2022,
   "seasons": 4,
   "episodes": 36,
-  "genres": ["Science fiction", "Drama", "Dystopian"],
-  "creators": ["Jonathan Nolan", "Lisa Joy"],
-  "cast": ["Evan Rachel Wood", "Thandiwe Newton", "Jeffrey Wright", "Ed Harris", "Anthony Hopkins"],
+  "genres": [
+    "Science fiction",
+    "Drama",
+    "Dystopian"
+  ],
+  "creators": [
+    "Jonathan Nolan",
+    "Lisa Joy"
+  ],
+  "cast": [
+    "Evan Rachel Wood",
+    "Thandiwe Newton",
+    "Jeffrey Wright",
+    "Ed Harris",
+    "Anthony Hopkins"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 62,
@@ -20,13 +33,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Westworld_(TV_series)"
   },
   "ratings": {
-    "imdb": { "score": 8.5, "max": 10 },
-    "rottenTomatoes": { "critics": 85, "audience": 74 }
+    "imdb": {
+      "score": 8.5,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 85,
+      "audience": 74
+    }
   },
   "rank": 70,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/5/51/Westworld_title_card.png",
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/eb/Westworld_%28TV_series%29_title_card.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Westworld title card",

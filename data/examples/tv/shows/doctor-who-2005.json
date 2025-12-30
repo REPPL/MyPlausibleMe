@@ -6,9 +6,21 @@
   "endYear": null,
   "seasons": 14,
   "episodes": 180,
-  "genres": ["Science fiction", "Drama", "Adventure"],
-  "creators": ["Russell T Davies"],
-  "cast": ["David Tennant", "Matt Smith", "Peter Capaldi", "Jodie Whittaker", "Ncuti Gatwa"],
+  "genres": [
+    "Science fiction",
+    "Drama",
+    "Adventure"
+  ],
+  "creators": [
+    "Russell T Davies"
+  ],
+  "cast": [
+    "David Tennant",
+    "Matt Smith",
+    "Peter Capaldi",
+    "Jodie Whittaker",
+    "Ncuti Gatwa"
+  ],
   "country": "United Kingdom",
   "language": "English",
   "runtime": 45,
@@ -21,13 +33,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Doctor_Who"
   },
   "ratings": {
-    "imdb": { "score": 8.6, "max": 10 },
-    "rottenTomatoes": { "critics": 92, "audience": 78 }
+    "imdb": {
+      "score": 8.6,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 92,
+      "audience": 78
+    }
   },
   "rank": 34,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/0/03/DW_2023_logo_neg.png",
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/d1/Doctor_Who_title_card.png",
       "type": "poster",
       "isPrimary": true,
       "alt": "Doctor Who logo",

@@ -4,8 +4,18 @@
   "studio": "disney",
   "year": 2016,
   "director": "Byron Howard, Rich Moore, Jared Bush",
-  "cast": ["Ginnifer Goodwin", "Jason Bateman", "Idris Elba", "Jenny Slate", "Nate Torrence"],
-  "genres": ["Animation", "Comedy", "Adventure"],
+  "cast": [
+    "Ginnifer Goodwin",
+    "Jason Bateman",
+    "Idris Elba",
+    "Jenny Slate",
+    "Nate Torrence"
+  ],
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Adventure"
+  ],
   "runtime": 108,
   "language": "English",
   "country": "USA",
@@ -34,14 +44,23 @@
     }
   },
   "ratings": {
-    "imdb": { "score": 8.0, "max": 10 },
-    "rottenTomatoes": { "critics": 98, "audience": 92 },
-    "metacritic": { "score": 78, "max": 100 }
+    "imdb": {
+      "score": 8.0,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 98,
+      "audience": 92
+    },
+    "metacritic": {
+      "score": 78,
+      "max": 100
+    }
   },
   "rank": 48,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/e/ea/Zootopia_%282016_film%29.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/96/Zootopia_%28movie_poster%29.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Zootopia movie poster",

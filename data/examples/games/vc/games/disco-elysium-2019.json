@@ -4,9 +4,22 @@
   "publisher": "zao-um",
   "developer": "ZA/UM",
   "year": 2019,
-  "platforms": ["PC", "Mac", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "Nintendo Switch"],
-  "genres": ["RPG", "Adventure"],
-  "modes": ["Single-player"],
+  "platforms": [
+    "PC",
+    "Mac",
+    "PlayStation 4",
+    "PlayStation 5",
+    "Xbox One",
+    "Xbox Series X/S",
+    "Nintendo Switch"
+  ],
+  "genres": [
+    "RPG",
+    "Adventure"
+  ],
+  "modes": [
+    "Single-player"
+  ],
   "summary": "An amnesiac detective investigates a murder in a decaying city. Features unprecedented depth in dialogue and character development with no combat.",
   "sales": {
     "unitsSold": 2000000,
@@ -14,12 +27,15 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Disco_Elysium"
   },
   "ratings": {
-    "metacritic": { "score": 91, "max": 100 }
+    "metacritic": {
+      "score": 91,
+      "max": 100
+    }
   },
   "rank": 69,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/0/07/Disco_Elysium_cover_art.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/0d/Disco_Elysium_Poster.jpeg",
       "type": "cover",
       "isPrimary": true,
       "alt": "Disco Elysium cover art",

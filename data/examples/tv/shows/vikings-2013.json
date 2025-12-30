@@ -6,9 +6,21 @@
   "endYear": 2020,
   "seasons": 6,
   "episodes": 89,
-  "genres": ["Drama", "Action", "Historical"],
-  "creators": ["Michael Hirst"],
-  "cast": ["Travis Fimmel", "Katheryn Winnick", "Gustaf Skarsgård", "Alexander Ludwig", "Clive Standen"],
+  "genres": [
+    "Drama",
+    "Action",
+    "Historical"
+  ],
+  "creators": [
+    "Michael Hirst"
+  ],
+  "cast": [
+    "Travis Fimmel",
+    "Katheryn Winnick",
+    "Gustaf Skarsgård",
+    "Alexander Ludwig",
+    "Clive Standen"
+  ],
   "country": "Ireland",
   "language": "English",
   "runtime": 44,
@@ -20,13 +32,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Vikings_(TV_series)"
   },
   "ratings": {
-    "imdb": { "score": 8.5, "max": 10 },
-    "rottenTomatoes": { "critics": 93, "audience": 89 }
+    "imdb": {
+      "score": 8.5,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 93,
+      "audience": 89
+    }
   },
   "rank": 40,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/f/f6/Vikings_title_card.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/99/Vikings_Title.png",
       "type": "poster",
       "isPrimary": true,
       "alt": "Vikings title card",

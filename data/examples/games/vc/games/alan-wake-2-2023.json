@@ -4,9 +4,18 @@
   "publisher": "epic-games",
   "developer": "Remedy Entertainment",
   "year": 2023,
-  "platforms": ["PC", "PlayStation 5", "Xbox Series X/S"],
-  "genres": ["Survival horror", "Action-adventure"],
-  "modes": ["Single-player"],
+  "platforms": [
+    "PC",
+    "PlayStation 5",
+    "Xbox Series X/S"
+  ],
+  "genres": [
+    "Survival horror",
+    "Action-adventure"
+  ],
+  "modes": [
+    "Single-player"
+  ],
   "summary": "FBI agent Saga Anderson investigates murders in Bright Falls while Alan Wake remains trapped in the Dark Place. A psychological horror masterpiece.",
   "sales": {
     "unitsSold": 2000000,
@@ -14,12 +23,15 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Alan_Wake_2"
   },
   "ratings": {
-    "metacritic": { "score": 89, "max": 100 }
+    "metacritic": {
+      "score": 89,
+      "max": 100
+    }
   },
   "rank": 89,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/6/6c/Alan_Wake_2_box_art.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/ed/Alan_Wake_2_box_art.jpg",
       "type": "cover",
       "isPrimary": true,
       "alt": "Alan Wake 2 cover art",

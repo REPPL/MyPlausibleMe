@@ -4,8 +4,18 @@
   "studio": "warner-bros",
   "year": 2017,
   "director": "Patty Jenkins",
-  "cast": ["Gal Gadot", "Chris Pine", "Robin Wright", "Danny Huston", "David Thewlis"],
-  "genres": ["Superhero", "Action", "Adventure"],
+  "cast": [
+    "Gal Gadot",
+    "Chris Pine",
+    "Robin Wright",
+    "Danny Huston",
+    "David Thewlis"
+  ],
+  "genres": [
+    "Superhero",
+    "Action",
+    "Adventure"
+  ],
   "runtime": 141,
   "language": "English",
   "country": "USA",
@@ -34,14 +44,23 @@
     }
   },
   "ratings": {
-    "imdb": { "score": 7.4, "max": 10 },
-    "rottenTomatoes": { "critics": 93, "audience": 83 },
-    "metacritic": { "score": 76, "max": 100 }
+    "imdb": {
+      "score": 7.4,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 93,
+      "audience": 83
+    },
+    "metacritic": {
+      "score": 76,
+      "max": 100
+    }
   },
   "rank": 69,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/e/ed/Wonder_Woman_%282017_film%29.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/b0/Wonder_Woman_%282017_film%29_poster.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Wonder Woman movie poster",

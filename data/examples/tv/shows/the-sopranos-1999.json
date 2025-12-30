@@ -6,9 +6,20 @@
   "endYear": 2007,
   "seasons": 6,
   "episodes": 86,
-  "genres": ["Crime", "Drama"],
-  "creators": ["David Chase"],
-  "cast": ["James Gandolfini", "Edie Falco", "Lorraine Bracco", "Michael Imperioli", "Tony Sirico"],
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "creators": [
+    "David Chase"
+  ],
+  "cast": [
+    "James Gandolfini",
+    "Edie Falco",
+    "Lorraine Bracco",
+    "Michael Imperioli",
+    "Tony Sirico"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 55,
@@ -21,13 +32,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Sopranos"
   },
   "ratings": {
-    "imdb": { "score": 9.2, "max": 10 },
-    "rottenTomatoes": { "critics": 92, "audience": 96 }
+    "imdb": {
+      "score": 9.2,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 92,
+      "audience": 96
+    }
   },
   "rank": 3,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/5/5a/The_Sopranos_titlecard.PNG",
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/6e/Sopranos_titlescreen.png",
       "type": "poster",
       "isPrimary": true,
       "alt": "The Sopranos title card",

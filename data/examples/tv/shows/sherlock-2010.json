@@ -6,9 +6,22 @@
   "endYear": 2017,
   "seasons": 4,
   "episodes": 15,
-  "genres": ["Crime", "Drama", "Mystery"],
-  "creators": ["Mark Gatiss", "Steven Moffat"],
-  "cast": ["Benedict Cumberbatch", "Martin Freeman", "Una Stubbs", "Rupert Graves", "Andrew Scott"],
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "creators": [
+    "Mark Gatiss",
+    "Steven Moffat"
+  ],
+  "cast": [
+    "Benedict Cumberbatch",
+    "Martin Freeman",
+    "Una Stubbs",
+    "Rupert Graves",
+    "Andrew Scott"
+  ],
   "country": "United Kingdom",
   "language": "English",
   "runtime": 88,
@@ -21,13 +34,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Sherlock_(TV_series)"
   },
   "ratings": {
-    "imdb": { "score": 9.1, "max": 10 },
-    "rottenTomatoes": { "critics": 78, "audience": 91 }
+    "imdb": {
+      "score": 9.1,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 78,
+      "audience": 91
+    }
   },
   "rank": 32,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/4/4b/Sherlock_titlecard.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/4d/Sherlock_titlecard.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Sherlock title card",

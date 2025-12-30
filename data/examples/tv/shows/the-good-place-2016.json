@@ -6,9 +6,22 @@
   "endYear": 2020,
   "seasons": 4,
   "episodes": 53,
-  "genres": ["Comedy", "Fantasy", "Drama"],
-  "creators": ["Michael Schur"],
-  "cast": ["Kristen Bell", "Ted Danson", "William Jackson Harper", "Jameela Jamil", "Manny Jacinto", "D'Arcy Carden"],
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Drama"
+  ],
+  "creators": [
+    "Michael Schur"
+  ],
+  "cast": [
+    "Kristen Bell",
+    "Ted Danson",
+    "William Jackson Harper",
+    "Jameela Jamil",
+    "Manny Jacinto",
+    "D'Arcy Carden"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 22,
@@ -20,13 +33,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Good_Place"
   },
   "ratings": {
-    "imdb": { "score": 8.2, "max": 10 },
-    "rottenTomatoes": { "critics": 97, "audience": 86 }
+    "imdb": {
+      "score": 8.2,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 97,
+      "audience": 86
+    }
   },
   "rank": 63,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/b/bd/The_Good_Place_title_card.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/The_Good_Place_title_card.svg",
       "type": "poster",
       "isPrimary": true,
       "alt": "The Good Place title card",

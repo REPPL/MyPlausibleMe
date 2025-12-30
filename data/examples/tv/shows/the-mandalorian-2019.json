@@ -6,9 +6,20 @@
   "endYear": null,
   "seasons": 3,
   "episodes": 24,
-  "genres": ["Science fiction", "Space Western", "Action"],
-  "creators": ["Jon Favreau"],
-  "cast": ["Pedro Pascal", "Giancarlo Esposito", "Carl Weathers", "Katee Sackhoff"],
+  "genres": [
+    "Science fiction",
+    "Space Western",
+    "Action"
+  ],
+  "creators": [
+    "Jon Favreau"
+  ],
+  "cast": [
+    "Pedro Pascal",
+    "Giancarlo Esposito",
+    "Carl Weathers",
+    "Katee Sackhoff"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 40,
@@ -19,13 +30,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Mandalorian"
   },
   "ratings": {
-    "imdb": { "score": 8.7, "max": 10 },
-    "rottenTomatoes": { "critics": 93, "audience": 88 }
+    "imdb": {
+      "score": 8.7,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 93,
+      "audience": 88
+    }
   },
   "rank": 12,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/3/3b/TheMandalorian2019.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Blank_television_set.svg",
       "type": "poster",
       "isPrimary": true,
       "alt": "The Mandalorian poster",

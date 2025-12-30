@@ -4,8 +4,18 @@
   "studio": "warner-bros",
   "year": 2009,
   "director": "David Yates",
-  "cast": ["Daniel Radcliffe", "Rupert Grint", "Emma Watson", "Michael Gambon", "Jim Broadbent"],
-  "genres": ["Fantasy", "Adventure", "Mystery"],
+  "cast": [
+    "Daniel Radcliffe",
+    "Rupert Grint",
+    "Emma Watson",
+    "Michael Gambon",
+    "Jim Broadbent"
+  ],
+  "genres": [
+    "Fantasy",
+    "Adventure",
+    "Mystery"
+  ],
   "runtime": 153,
   "language": "English",
   "country": "UK",
@@ -34,14 +44,23 @@
     }
   },
   "ratings": {
-    "imdb": { "score": 7.6, "max": 10 },
-    "rottenTomatoes": { "critics": 84, "audience": 84 },
-    "metacritic": { "score": 78, "max": 100 }
+    "imdb": {
+      "score": 7.6,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 84,
+      "audience": 84
+    },
+    "metacritic": {
+      "score": 78,
+      "max": 100
+    }
   },
   "rank": 94,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/b/b4/Half-Blood_Prince_poster.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/3f/Harry_Potter_and_the_Half-Blood_Prince_poster.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Harry Potter and the Half-Blood Prince movie poster",

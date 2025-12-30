@@ -6,9 +6,16 @@
   "endYear": 2006,
   "seasons": 1,
   "episodes": 11,
-  "genres": ["Documentary", "Nature"],
-  "creators": ["Alastair Fothergill"],
-  "cast": ["David Attenborough"],
+  "genres": [
+    "Documentary",
+    "Nature"
+  ],
+  "creators": [
+    "Alastair Fothergill"
+  ],
+  "cast": [
+    "David Attenborough"
+  ],
   "country": "United Kingdom",
   "language": "English",
   "runtime": 50,
@@ -19,13 +26,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Planet_Earth_(2006_TV_series)"
   },
   "ratings": {
-    "imdb": { "score": 9.4, "max": 10 },
-    "rottenTomatoes": { "critics": 100, "audience": 96 }
+    "imdb": {
+      "score": 9.4,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 100,
+      "audience": 96
+    }
   },
   "rank": 22,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/5/55/Planet_Earth_title_card.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/e3/BBC_PE_title.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Planet Earth title card",

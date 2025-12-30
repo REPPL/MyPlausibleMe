@@ -4,9 +4,22 @@
   "publisher": "epic-games",
   "developer": "Epic Games",
   "year": 2017,
-  "platforms": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "Nintendo Switch", "Mobile"],
-  "genres": ["Battle royale", "Third-person shooter"],
-  "modes": ["Multiplayer"],
+  "platforms": [
+    "PC",
+    "PlayStation 4",
+    "PlayStation 5",
+    "Xbox One",
+    "Xbox Series X/S",
+    "Nintendo Switch",
+    "Mobile"
+  ],
+  "genres": [
+    "Battle royale",
+    "Third-person shooter"
+  ],
+  "modes": [
+    "Multiplayer"
+  ],
   "summary": "A free-to-play battle royale game featuring 100 players competing to be the last one standing. Known for building mechanics and pop culture collaborations.",
   "sales": {
     "unitsSold": 500000000,
@@ -15,12 +28,15 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Fortnite"
   },
   "ratings": {
-    "metacritic": { "score": 81, "max": 100 }
+    "metacritic": {
+      "score": 81,
+      "max": 100
+    }
   },
   "rank": 39,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Fortnite_F_letterance_logo.png",
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/8c/Extended-protection-shackle.svg",
       "type": "logo",
       "isPrimary": true,
       "alt": "Fortnite logo",

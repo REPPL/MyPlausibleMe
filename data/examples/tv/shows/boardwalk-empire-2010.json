@@ -6,9 +6,21 @@
   "endYear": 2014,
   "seasons": 5,
   "episodes": 56,
-  "genres": ["Crime", "Drama", "Period drama"],
-  "creators": ["Terence Winter"],
-  "cast": ["Steve Buscemi", "Kelly Macdonald", "Michael Shannon", "Shea Whigham", "Michael Stuhlbarg"],
+  "genres": [
+    "Crime",
+    "Drama",
+    "Period drama"
+  ],
+  "creators": [
+    "Terence Winter"
+  ],
+  "cast": [
+    "Steve Buscemi",
+    "Kelly Macdonald",
+    "Michael Shannon",
+    "Shea Whigham",
+    "Michael Stuhlbarg"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 55,
@@ -20,13 +32,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Boardwalk_Empire"
   },
   "ratings": {
-    "imdb": { "score": 8.5, "max": 10 },
-    "rottenTomatoes": { "critics": 92, "audience": 87 }
+    "imdb": {
+      "score": 8.5,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 92,
+      "audience": 87
+    }
   },
   "rank": 96,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/3/3e/Boardwalk_Empire_title_card.png",
+      "url": "https://upload.wikimedia.org/wikipedia/en/2/2d/Boardwalk_Empire_2010_Intertitle.png",
       "type": "poster",
       "isPrimary": true,
       "alt": "Boardwalk Empire title card",

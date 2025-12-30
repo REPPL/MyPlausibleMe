@@ -6,9 +6,20 @@
   "endYear": 2019,
   "seasons": 7,
   "episodes": 65,
-  "genres": ["Comedy", "Political satire"],
-  "creators": ["Armando Iannucci"],
-  "cast": ["Julia Louis-Dreyfus", "Tony Hale", "Anna Chlumsky", "Reid Scott", "Timothy Simons"],
+  "genres": [
+    "Comedy",
+    "Political satire"
+  ],
+  "creators": [
+    "Armando Iannucci"
+  ],
+  "cast": [
+    "Julia Louis-Dreyfus",
+    "Tony Hale",
+    "Anna Chlumsky",
+    "Reid Scott",
+    "Timothy Simons"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 28,
@@ -20,13 +31,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Veep"
   },
   "ratings": {
-    "imdb": { "score": 8.4, "max": 10 },
-    "rottenTomatoes": { "critics": 92, "audience": 83 }
+    "imdb": {
+      "score": 8.4,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 92,
+      "audience": 83
+    }
   },
   "rank": 90,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/5/5e/Veep_title_card.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Anna_Chlumsky_%282018%29_%28cropped%29.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Veep title card",

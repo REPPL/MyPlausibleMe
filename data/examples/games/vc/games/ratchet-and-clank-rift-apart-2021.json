@@ -4,9 +4,18 @@
   "publisher": "sony",
   "developer": "Insomniac Games",
   "year": 2021,
-  "platforms": ["PlayStation 5", "PC"],
-  "genres": ["Action", "Platformer", "Third-person shooter"],
-  "modes": ["Single-player"],
+  "platforms": [
+    "PlayStation 5",
+    "PC"
+  ],
+  "genres": [
+    "Action",
+    "Platformer",
+    "Third-person shooter"
+  ],
+  "modes": [
+    "Single-player"
+  ],
   "summary": "Ratchet and Clank travel between dimensions to stop Dr. Nefarious. A PlayStation 5 showcase featuring instant dimension-hopping via the SSD.",
   "sales": {
     "unitsSold": 4500000,
@@ -14,12 +23,15 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Ratchet_%26_Clank:_Rift_Apart"
   },
   "ratings": {
-    "metacritic": { "score": 88, "max": 100 }
+    "metacritic": {
+      "score": 88,
+      "max": 100
+    }
   },
   "rank": 82,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/b/b5/Ratchet_%26_Clank_-_Rift_Apart_cover_art.png",
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/a3/Ratchet_%26_Clank_-_Rift_Apart.png",
       "type": "cover",
       "isPrimary": true,
       "alt": "Ratchet & Clank: Rift Apart cover art",

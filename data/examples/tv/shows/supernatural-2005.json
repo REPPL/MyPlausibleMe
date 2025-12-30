@@ -6,9 +6,21 @@
   "endYear": 2020,
   "seasons": 15,
   "episodes": 327,
-  "genres": ["Fantasy", "Horror", "Drama"],
-  "creators": ["Eric Kripke"],
-  "cast": ["Jared Padalecki", "Jensen Ackles", "Misha Collins", "Mark Sheppard", "Jim Beaver"],
+  "genres": [
+    "Fantasy",
+    "Horror",
+    "Drama"
+  ],
+  "creators": [
+    "Eric Kripke"
+  ],
+  "cast": [
+    "Jared Padalecki",
+    "Jensen Ackles",
+    "Misha Collins",
+    "Mark Sheppard",
+    "Jim Beaver"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 42,
@@ -20,13 +32,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Supernatural_(American_TV_series)"
   },
   "ratings": {
-    "imdb": { "score": 8.4, "max": 10 },
-    "rottenTomatoes": { "critics": 93, "audience": 90 }
+    "imdb": {
+      "score": 8.4,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 93,
+      "audience": 90
+    }
   },
   "rank": 53,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/2/21/Supernatural_Season_6_DVD.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Andrew_Dabb_by_Gage_Skidmore.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Supernatural poster",

@@ -6,9 +6,21 @@
   "endYear": 2022,
   "seasons": 4,
   "episodes": 32,
-  "genres": ["Spy thriller", "Drama", "Black comedy"],
-  "creators": ["Phoebe Waller-Bridge"],
-  "cast": ["Sandra Oh", "Jodie Comer", "Fiona Shaw", "Kim Bodnia", "Owen McDonnell"],
+  "genres": [
+    "Spy thriller",
+    "Drama",
+    "Black comedy"
+  ],
+  "creators": [
+    "Phoebe Waller-Bridge"
+  ],
+  "cast": [
+    "Sandra Oh",
+    "Jodie Comer",
+    "Fiona Shaw",
+    "Kim Bodnia",
+    "Owen McDonnell"
+  ],
   "country": "United Kingdom",
   "language": "English",
   "runtime": 42,
@@ -20,13 +32,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Killing_Eve"
   },
   "ratings": {
-    "imdb": { "score": 8.1, "max": 10 },
-    "rottenTomatoes": { "critics": 89, "audience": 79 }
+    "imdb": {
+      "score": 8.1,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 89,
+      "audience": 79
+    }
   },
   "rank": 65,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/e/e5/Killing_Eve_Title_Card.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Killing_Eve_logo.svg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Killing Eve title card",

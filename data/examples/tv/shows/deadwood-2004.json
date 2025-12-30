@@ -6,9 +6,20 @@
   "endYear": 2006,
   "seasons": 3,
   "episodes": 36,
-  "genres": ["Western", "Drama"],
-  "creators": ["David Milch"],
-  "cast": ["Timothy Olyphant", "Ian McShane", "Molly Parker", "Jim Beaver", "Powers Boothe"],
+  "genres": [
+    "Western",
+    "Drama"
+  ],
+  "creators": [
+    "David Milch"
+  ],
+  "cast": [
+    "Timothy Olyphant",
+    "Ian McShane",
+    "Molly Parker",
+    "Jim Beaver",
+    "Powers Boothe"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 55,
@@ -20,13 +31,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Deadwood_(TV_series)"
   },
   "ratings": {
-    "imdb": { "score": 8.7, "max": 10 },
-    "rottenTomatoes": { "critics": 93, "audience": 93 }
+    "imdb": {
+      "score": 8.7,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 93,
+      "audience": 93
+    }
   },
   "rank": 97,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/3/32/Deadwood_title_card.png",
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/18/Deadwood_titleimage.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Deadwood title card",

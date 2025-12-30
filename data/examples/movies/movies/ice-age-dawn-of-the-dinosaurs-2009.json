@@ -4,8 +4,18 @@
   "studio": "20th-century",
   "year": 2009,
   "director": "Carlos Saldanha, Mike Thurmeier",
-  "cast": ["Ray Romano", "John Leguizamo", "Denis Leary", "Queen Latifah", "Simon Pegg"],
-  "genres": ["Animation", "Comedy", "Adventure"],
+  "cast": [
+    "Ray Romano",
+    "John Leguizamo",
+    "Denis Leary",
+    "Queen Latifah",
+    "Simon Pegg"
+  ],
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Adventure"
+  ],
   "runtime": 94,
   "language": "English",
   "country": "USA",
@@ -34,14 +44,23 @@
     }
   },
   "ratings": {
-    "imdb": { "score": 6.9, "max": 10 },
-    "rottenTomatoes": { "critics": 45, "audience": 70 },
-    "metacritic": { "score": 50, "max": 100 }
+    "imdb": {
+      "score": 6.9,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 45,
+      "audience": 70
+    },
+    "metacritic": {
+      "score": 50,
+      "max": 100
+    }
   },
   "rank": 57,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/b/b2/Ice_Age_3_poster.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/2/24/Ice_Age_Dawn_of_the_Dinosaurs_theatrical_poster.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Ice Age: Dawn of the Dinosaurs movie poster",

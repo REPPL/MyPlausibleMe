@@ -6,9 +6,19 @@
   "endYear": null,
   "seasons": 3,
   "episodes": 28,
-  "genres": ["Comedy-drama"],
-  "creators": ["Christopher Storer"],
-  "cast": ["Jeremy Allen White", "Ebon Moss-Bachrach", "Ayo Edebiri", "Lionel Boyce", "Abby Elliott"],
+  "genres": [
+    "Comedy-drama"
+  ],
+  "creators": [
+    "Christopher Storer"
+  ],
+  "cast": [
+    "Jeremy Allen White",
+    "Ebon Moss-Bachrach",
+    "Ayo Edebiri",
+    "Lionel Boyce",
+    "Abby Elliott"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 30,
@@ -18,13 +28,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Bear_(TV_series)"
   },
   "ratings": {
-    "imdb": { "score": 8.6, "max": 10 },
-    "rottenTomatoes": { "critics": 98, "audience": 87 }
+    "imdb": {
+      "score": 8.6,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 98,
+      "audience": 87
+    }
   },
   "rank": 76,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/4/47/The_Bear_%28TV_series%29_Title_Card.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/The_Bear_Title_Card.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "The Bear title card",

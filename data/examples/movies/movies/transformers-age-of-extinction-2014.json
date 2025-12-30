@@ -4,8 +4,18 @@
   "studio": "paramount",
   "year": 2014,
   "director": "Michael Bay",
-  "cast": ["Mark Wahlberg", "Stanley Tucci", "Kelsey Grammer", "Nicola Peltz", "Jack Reynor"],
-  "genres": ["Science fiction", "Action", "Adventure"],
+  "cast": [
+    "Mark Wahlberg",
+    "Stanley Tucci",
+    "Kelsey Grammer",
+    "Nicola Peltz",
+    "Jack Reynor"
+  ],
+  "genres": [
+    "Science fiction",
+    "Action",
+    "Adventure"
+  ],
   "runtime": 165,
   "language": "English",
   "country": "USA",
@@ -34,14 +44,23 @@
     }
   },
   "ratings": {
-    "imdb": { "score": 5.6, "max": 10 },
-    "rottenTomatoes": { "critics": 18, "audience": 50 },
-    "metacritic": { "score": 32, "max": 100 }
+    "imdb": {
+      "score": 5.6,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 18,
+      "audience": 50
+    },
+    "metacritic": {
+      "score": 32,
+      "max": 100
+    }
   },
   "rank": 34,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/7/7f/Transformers_Age_of_Extinction_poster.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/0f/Transformers_Age_of_Extinction_poster.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Transformers: Age of Extinction movie poster",

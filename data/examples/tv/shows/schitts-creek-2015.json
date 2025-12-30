@@ -6,9 +6,21 @@
   "endYear": 2020,
   "seasons": 6,
   "episodes": 80,
-  "genres": ["Comedy", "Sitcom"],
-  "creators": ["Eugene Levy", "Dan Levy"],
-  "cast": ["Eugene Levy", "Catherine O'Hara", "Dan Levy", "Annie Murphy", "Chris Elliott"],
+  "genres": [
+    "Comedy",
+    "Sitcom"
+  ],
+  "creators": [
+    "Eugene Levy",
+    "Dan Levy"
+  ],
+  "cast": [
+    "Eugene Levy",
+    "Catherine O'Hara",
+    "Dan Levy",
+    "Annie Murphy",
+    "Chris Elliott"
+  ],
   "country": "Canada",
   "language": "English",
   "runtime": 22,
@@ -19,13 +31,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Schitt%27s_Creek"
   },
   "ratings": {
-    "imdb": { "score": 8.5, "max": 10 },
-    "rottenTomatoes": { "critics": 93, "audience": 89 }
+    "imdb": {
+      "score": 8.5,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 93,
+      "audience": 89
+    }
   },
   "rank": 67,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/d/d8/Schitt%27s_Creek_logo.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Schitt%27s_Creek_logo.svg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Schitt's Creek logo",

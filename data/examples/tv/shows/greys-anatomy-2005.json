@@ -6,9 +6,21 @@
   "endYear": null,
   "seasons": 20,
   "episodes": 433,
-  "genres": ["Medical drama", "Drama", "Romance"],
-  "creators": ["Shonda Rhimes"],
-  "cast": ["Ellen Pompeo", "Patrick Dempsey", "Sandra Oh", "Justin Chambers", "Katherine Heigl"],
+  "genres": [
+    "Medical drama",
+    "Drama",
+    "Romance"
+  ],
+  "creators": [
+    "Shonda Rhimes"
+  ],
+  "cast": [
+    "Ellen Pompeo",
+    "Patrick Dempsey",
+    "Sandra Oh",
+    "Justin Chambers",
+    "Katherine Heigl"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 43,
@@ -21,13 +33,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Grey%27s_Anatomy"
   },
   "ratings": {
-    "imdb": { "score": 7.6, "max": 10 },
-    "rottenTomatoes": { "critics": 84, "audience": 77 }
+    "imdb": {
+      "score": 7.6,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 84,
+      "audience": 77
+    }
   },
   "rank": 46,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/e/ee/GreysAnatomySeasonTitle.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Blank_television_set.svg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Grey's Anatomy title card",

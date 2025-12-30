@@ -6,9 +6,21 @@
   "endYear": null,
   "seasons": 2,
   "episodes": 13,
-  "genres": ["Comedy-drama", "Satire", "Anthology"],
-  "creators": ["Mike White"],
-  "cast": ["Murray Bartlett", "Connie Britton", "Jennifer Coolidge", "Alexandra Daddario", "Jake Lacy"],
+  "genres": [
+    "Comedy-drama",
+    "Satire",
+    "Anthology"
+  ],
+  "creators": [
+    "Mike White"
+  ],
+  "cast": [
+    "Murray Bartlett",
+    "Connie Britton",
+    "Jennifer Coolidge",
+    "Alexandra Daddario",
+    "Jake Lacy"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 60,
@@ -19,13 +31,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/The_White_Lotus"
   },
   "ratings": {
-    "imdb": { "score": 7.9, "max": 10 },
-    "rottenTomatoes": { "critics": 90, "audience": 75 }
+    "imdb": {
+      "score": 7.9,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 90,
+      "audience": 75
+    }
   },
   "rank": 80,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/f/fb/The_White_Lotus_Title_Card.jpeg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Jennifer_Coolidge_at_the_2024_Toronto_International_Film_Festival_6_%28cropped%29.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "The White Lotus title card",

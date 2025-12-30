@@ -6,9 +6,17 @@
   "endYear": null,
   "seasons": 6,
   "episodes": 27,
-  "genres": ["Science fiction", "Thriller", "Anthology"],
-  "creators": ["Charlie Brooker"],
-  "cast": ["Various"],
+  "genres": [
+    "Science fiction",
+    "Thriller",
+    "Anthology"
+  ],
+  "creators": [
+    "Charlie Brooker"
+  ],
+  "cast": [
+    "Various"
+  ],
   "country": "United Kingdom",
   "language": "English",
   "runtime": 60,
@@ -18,13 +26,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Black_Mirror"
   },
   "ratings": {
-    "imdb": { "score": 8.7, "max": 10 },
-    "rottenTomatoes": { "critics": 83, "audience": 84 }
+    "imdb": {
+      "score": 8.7,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 83,
+      "audience": 84
+    }
   },
   "rank": 33,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/a/a6/Black_Mirror_title_card.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/%27The_Martian%27_World_Premiere_%28NHQ201509110005%29_%28cropped%29.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Black Mirror title card",

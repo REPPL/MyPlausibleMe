@@ -4,8 +4,18 @@
   "studio": "lionsgate",
   "year": 2010,
   "director": "David Slade",
-  "cast": ["Kristen Stewart", "Robert Pattinson", "Taylor Lautner", "Bryce Dallas Howard", "Xavier Samuel"],
-  "genres": ["Fantasy", "Romance", "Drama"],
+  "cast": [
+    "Kristen Stewart",
+    "Robert Pattinson",
+    "Taylor Lautner",
+    "Bryce Dallas Howard",
+    "Xavier Samuel"
+  ],
+  "genres": [
+    "Fantasy",
+    "Romance",
+    "Drama"
+  ],
   "runtime": 124,
   "language": "English",
   "country": "USA",
@@ -34,14 +44,23 @@
     }
   },
   "ratings": {
-    "imdb": { "score": 5.0, "max": 10 },
-    "rottenTomatoes": { "critics": 48, "audience": 66 },
-    "metacritic": { "score": 58, "max": 100 }
+    "imdb": {
+      "score": 5.0,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 48,
+      "audience": 66
+    },
+    "metacritic": {
+      "score": 58,
+      "max": 100
+    }
   },
   "rank": 97,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/d/d4/The_Twilight_Saga-_Eclipse.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/d7/Eclipse_Theatrical_One-Sheet.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "The Twilight Saga: Eclipse movie poster",

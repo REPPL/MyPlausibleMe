@@ -4,8 +4,18 @@
   "studio": "universal",
   "year": 2022,
   "director": "Kyle Balda, Brad Ableson, Jonathan del Val",
-  "cast": ["Steve Carell", "Pierre Coffin", "Alan Arkin", "Taraji P. Henson", "Michelle Yeoh"],
-  "genres": ["Animation", "Comedy", "Adventure"],
+  "cast": [
+    "Steve Carell",
+    "Pierre Coffin",
+    "Alan Arkin",
+    "Taraji P. Henson",
+    "Michelle Yeoh"
+  ],
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Adventure"
+  ],
   "runtime": 87,
   "language": "English",
   "country": "USA",
@@ -34,14 +44,23 @@
     }
   },
   "ratings": {
-    "imdb": { "score": 6.5, "max": 10 },
-    "rottenTomatoes": { "critics": 70, "audience": 89 },
-    "metacritic": { "score": 56, "max": 100 }
+    "imdb": {
+      "score": 6.5,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 70,
+      "audience": 89
+    },
+    "metacritic": {
+      "score": 56,
+      "max": 100
+    }
   },
   "rank": 70,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/4/4c/Minions_The_Rise_of_Gru_poster.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/45/Minions_The_Rise_of_Gru_poster.jpg",
       "type": "poster",
       "isPrimary": true,
       "alt": "Minions: The Rise of Gru movie poster",

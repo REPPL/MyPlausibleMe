@@ -6,9 +6,21 @@
   "endYear": 2021,
   "seasons": 1,
   "episodes": 7,
-  "genres": ["Crime", "Drama", "Mystery"],
-  "creators": ["Brad Ingelsby"],
-  "cast": ["Kate Winslet", "Julianne Nicholson", "Jean Smart", "Angourie Rice", "Evan Peters"],
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "creators": [
+    "Brad Ingelsby"
+  ],
+  "cast": [
+    "Kate Winslet",
+    "Julianne Nicholson",
+    "Jean Smart",
+    "Angourie Rice",
+    "Evan Peters"
+  ],
   "country": "United States",
   "language": "English",
   "runtime": 57,
@@ -19,13 +31,19 @@
     "sourceUrl": "https://en.wikipedia.org/wiki/Mare_of_Easttown"
   },
   "ratings": {
-    "imdb": { "score": 8.4, "max": 10 },
-    "rottenTomatoes": { "critics": 95, "audience": 85 }
+    "imdb": {
+      "score": 8.4,
+      "max": 10
+    },
+    "rottenTomatoes": {
+      "critics": 95,
+      "audience": 85
+    }
   },
   "rank": 95,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/d/d9/Mare_of_Easttown_Title_Card.png",
+      "url": "https://upload.wikimedia.org/wikipedia/en/2/26/Mare_of_Easttown_2021_Television_Series_poster.png",
       "type": "poster",
       "isPrimary": true,
       "alt": "Mare of Easttown title card",
