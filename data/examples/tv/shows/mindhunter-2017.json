@@ -24,13 +24,13 @@
   "rank": 61,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/b/b5/Mindhunter_Title_Card.jpeg",
-      "type": "poster",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Mindhunter_Logo.svg",
+      "type": "logo",
       "isPrimary": true,
-      "alt": "Mindhunter title card",
+      "alt": "Mindhunter logo",
       "attribution": {
-        "source": "Wikipedia",
-        "sourceUrl": "https://en.wikipedia.org/wiki/File:Mindhunter_Title_Card.jpeg",
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mindhunter_Logo.svg",
         "licence": "fair-use"
       }
     }

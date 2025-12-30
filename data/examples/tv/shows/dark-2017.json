@@ -24,13 +24,13 @@
   "rank": 57,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/6/69/Dark_%28TV_series%29_title_card.jpg",
-      "type": "poster",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Dark_logo.png",
+      "type": "logo",
       "isPrimary": true,
-      "alt": "Dark title card",
+      "alt": "Dark logo",
       "attribution": {
-        "source": "Wikipedia",
-        "sourceUrl": "https://en.wikipedia.org/wiki/File:Dark_(TV_series)_title_card.jpg",
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dark_logo.png",
         "licence": "fair-use"
       }
     }
