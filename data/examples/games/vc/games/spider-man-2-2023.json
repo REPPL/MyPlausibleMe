@@ -28,6 +28,16 @@
         "sourceUrl": "https://en.wikipedia.org/wiki/File:SpiderMan2PS5BoxArt.jpeg",
         "licence": "fair-use"
       }
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/d2/Spider-Man_2_gameplay_screenshot.jpg",
+      "type": "screenshot",
+      "alt": "Spider-Man 2 gameplay",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Spider-Man_2_gameplay_screenshot.jpg",
+        "licence": "fair-use"
+      }
     }
   ],
   "detailUrls": [
