@@ -38,7 +38,18 @@
       "alt": "Pac-Man arcade flyer",
       "attribution": {
         "source": "Wikipedia",
-        "sourceUrl": "https://en.wikipedia.org/wiki/File:Pac-man.png",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Pac_flyer.png",
+        "licence": "fair-use"
+      }
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Pac-Man_gameplay_%281x_pixel-perfect_recreation%29.png",
+      "type": "screenshot",
+      "isPrimary": false,
+      "alt": "Pac-Man gameplay screenshot",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pac-Man_gameplay_(1x_pixel-perfect_recreation).png",
         "licence": "fair-use"
       }
     }
