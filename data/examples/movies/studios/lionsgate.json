@@ -8,14 +8,14 @@
   "summary": "Lionsgate Films is a major independent film studio known for commercially successful franchises and genre films. The studio is behind The Hunger Games, John Wick, Saw, and Twilight franchises, establishing itself as a major player through strategic acquisitions and franchise development.",
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/1/1d/Lionsgate_logo.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Lionsgate_Logo.svg",
       "type": "logo",
       "isPrimary": true,
       "alt": "Lionsgate logo",
       "attribution": {
-        "source": "Wikipedia",
-        "sourceUrl": "https://en.wikipedia.org/wiki/File:Lionsgate_logo.svg",
-        "licence": "fair-use"
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lionsgate_Logo.svg",
+        "licence": "public-domain"
       }
     }
   ],

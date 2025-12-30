@@ -8,14 +8,14 @@
   "summary": "DreamWorks Pictures was founded by Steven Spielberg, Jeffrey Katzenberg, and David Geffen as an ambitious new Hollywood studio. Known for producing critically acclaimed dramas and Oscar-winning films. DreamWorks Animation, originally part of the company, became the powerhouse behind Shrek and other animated franchises.",
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/5/5e/DreamWorks_Pictures_logo.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/DreamWorks_Pictures.svg",
       "type": "logo",
       "isPrimary": true,
       "alt": "DreamWorks logo",
       "attribution": {
-        "source": "Wikipedia",
-        "sourceUrl": "https://en.wikipedia.org/wiki/File:DreamWorks_Pictures_logo.svg",
-        "licence": "fair-use"
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:DreamWorks_Pictures.svg",
+        "licence": "public-domain"
       }
     }
   ],
