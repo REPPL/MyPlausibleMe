@@ -19,13 +19,23 @@
   "rank": 83,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/en/6/6f/Returnal_cover_art.png",
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/91/Returnal_cover_art.jpg",
       "type": "cover",
       "isPrimary": true,
       "alt": "Returnal cover art",
       "attribution": {
         "source": "Wikipedia",
-        "sourceUrl": "https://en.wikipedia.org/wiki/File:Returnal_cover_art.png",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Returnal_cover_art.jpg",
+        "licence": "fair-use"
+      }
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/3a/Returnal_gameplay.gif",
+      "type": "screenshot",
+      "alt": "Returnal gameplay",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Returnal_gameplay.gif",
         "licence": "fair-use"
       }
     }
