@@ -1,0 +1,28 @@
+{
+  "id": "lionsgate",
+  "title": "Lionsgate Films",
+  "shortTitle": "Lionsgate",
+  "founded": 1997,
+  "headquarters": "Santa Monica, California, USA",
+  "parent": "Lionsgate Entertainment",
+  "summary": "Lionsgate Films is a major independent film studio known for commercially successful franchises and genre films. The studio is behind The Hunger Games, John Wick, Saw, and Twilight franchises, establishing itself as a major player through strategic acquisitions and franchise development.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/1d/Lionsgate_logo.svg",
+      "type": "logo",
+      "isPrimary": true,
+      "alt": "Lionsgate logo",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Lionsgate_logo.svg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Lionsgate_Films",
+      "source": "Wikipedia"
+    }
+  ]
+}

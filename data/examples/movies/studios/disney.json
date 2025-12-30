@@ -1,0 +1,28 @@
+{
+  "id": "disney",
+  "title": "Walt Disney Studios",
+  "shortTitle": "Disney",
+  "founded": 1923,
+  "headquarters": "Burbank, California, USA",
+  "parent": "The Walt Disney Company",
+  "summary": "Walt Disney Studios is one of the largest and most successful film studios in the world. Originally founded as Disney Brothers Cartoon Studio, it has grown to encompass Walt Disney Pictures, Pixar, Marvel Studios, Lucasfilm, and 20th Century Studios, dominating global box office with family entertainment and blockbuster franchises.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg",
+      "type": "logo",
+      "isPrimary": true,
+      "alt": "Disney logo",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Disney%2B_logo.svg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Walt_Disney_Studios_(film)",
+      "source": "Wikipedia"
+    }
+  ]
+}

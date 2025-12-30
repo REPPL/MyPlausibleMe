@@ -1,0 +1,28 @@
+{
+  "id": "warner-bros",
+  "title": "Warner Bros. Pictures",
+  "shortTitle": "Warner Bros",
+  "founded": 1923,
+  "headquarters": "Burbank, California, USA",
+  "parent": "Warner Bros. Discovery",
+  "summary": "Warner Bros. Pictures is one of the Big Five major American film studios. Founded by the Warner brothers, the studio is home to iconic franchises including DC Comics adaptations, Harry Potter, The Matrix, and numerous prestige films. Known for both blockbusters and critically acclaimed dramas.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Warner_Bros_logo.svg",
+      "type": "logo",
+      "isPrimary": true,
+      "alt": "Warner Bros logo",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Warner_Bros_logo.svg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Warner_Bros._Pictures",
+      "source": "Wikipedia"
+    }
+  ]
+}

@@ -25,7 +25,7 @@
         "boxOffice": { "type": "object", "description": "Box office revenue data", "required": true },
         "awards": { "type": "object", "description": "Oscar wins/nominations" },
         "ratings": { "type": "object", "description": "Aggregated ratings", "required": true },
-        "rank": { "type": "number", "description": "Box office ranking (1-100)", "required": true },
+        "rank": { "type": "number", "description": "Box office ranking (1-100)", "sortPreference": "asc", "required": true },
         "images": { "type": "images", "required": true },
         "videos": { "type": "videos" },
         "detailUrls": { "type": "detailUrls", "required": true }

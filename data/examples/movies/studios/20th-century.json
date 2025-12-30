@@ -1,0 +1,28 @@
+{
+  "id": "20th-century",
+  "title": "20th Century Studios",
+  "shortTitle": "20th Century",
+  "founded": 1935,
+  "headquarters": "Los Angeles, California, USA",
+  "parent": "The Walt Disney Company",
+  "summary": "20th Century Studios, formerly 20th Century Fox, is a major American film studio acquired by Disney in 2019. The studio produced iconic franchises including Avatar, X-Men, Alien, Planet of the Apes, and Die Hard. Its distinctive fanfare opening is one of the most recognisable in cinema.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/20th_Century_Studios_2024.svg",
+      "type": "logo",
+      "isPrimary": true,
+      "alt": "20th Century Studios logo",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:20th_Century_Studios_2024.svg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/20th_Century_Studios",
+      "source": "Wikipedia"
+    }
+  ]
+}

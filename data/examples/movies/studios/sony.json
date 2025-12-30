@@ -1,0 +1,28 @@
+{
+  "id": "sony",
+  "title": "Sony Pictures",
+  "shortTitle": "Sony",
+  "founded": 1987,
+  "headquarters": "Culver City, California, USA",
+  "parent": "Sony Group Corporation",
+  "summary": "Sony Pictures Entertainment is a major American film studio owned by Japanese conglomerate Sony. The studio encompasses Columbia Pictures and TriStar Pictures, and holds the film rights to Spider-Man and other properties. Known for blockbusters, animated films, and prestige productions.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Sony_Pictures_Television_logo.svg",
+      "type": "logo",
+      "isPrimary": true,
+      "alt": "Sony Pictures logo",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Sony_Pictures_Television_logo.svg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sony_Pictures",
+      "source": "Wikipedia"
+    }
+  ]
+}

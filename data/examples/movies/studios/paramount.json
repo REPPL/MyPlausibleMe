@@ -1,0 +1,28 @@
+{
+  "id": "paramount",
+  "title": "Paramount Pictures",
+  "shortTitle": "Paramount",
+  "founded": 1912,
+  "headquarters": "Hollywood, California, USA",
+  "parent": "Paramount Global",
+  "summary": "Paramount Pictures is one of the oldest and most iconic film studios in Hollywood. Home to franchises including Mission: Impossible, Transformers, Star Trek, and Top Gun, the studio is known for its distinctive mountain logo. Paramount was the last major studio to be headquartered in Hollywood proper.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Paramount_Pictures_2022_%28Blue%29.svg",
+      "type": "logo",
+      "isPrimary": true,
+      "alt": "Paramount Pictures logo",
+      "attribution": {
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/File:Paramount_Pictures_2022_(Blue).svg",
+        "licence": "fair-use"
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Paramount_Pictures",
+      "source": "Wikipedia"
+    }
+  ]
+}
