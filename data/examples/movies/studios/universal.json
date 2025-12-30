@@ -8,13 +8,13 @@
   "summary": "Universal Pictures is the oldest surviving American film studio and one of the Big Five. The studio is behind major franchises including Jurassic Park, Fast & Furious, Despicable Me, and has produced countless horror classics. Universal also operates the Universal Studios theme parks worldwide.",
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Universal_Pictures_logo_2024.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Universal_Pictures_logo.svg",
       "type": "logo",
       "isPrimary": true,
       "alt": "Universal Pictures logo",
       "attribution": {
-        "source": "Wikipedia",
-        "sourceUrl": "https://en.wikipedia.org/wiki/File:Universal_Pictures_logo_2024.svg",
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Universal_Pictures_logo.svg",
         "licence": "fair-use"
       }
     }
