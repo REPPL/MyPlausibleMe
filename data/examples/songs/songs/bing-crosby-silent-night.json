@@ -40,13 +40,13 @@
   "rank": 3,
   "images": [
     {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bing_Crosby_by_Muky.jpg/440px-Bing_Crosby_by_Muky.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Bing_Crosby_Paramount_Pictures.jpg",
       "type": "artist",
       "isPrimary": true,
       "alt": "Bing Crosby portrait",
       "attribution": {
         "source": "Wikimedia Commons",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bing_Crosby_by_Muky.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bing_Crosby_Paramount_Pictures.jpg",
         "licence": "public-domain"
       }
     }
