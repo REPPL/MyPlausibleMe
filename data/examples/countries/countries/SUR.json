@@ -1,0 +1,64 @@
+{
+  "id": "SUR",
+  "title": "Suriname",
+  "officialName": "Republic of Suriname",
+  "capital": "Paramaribo",
+  "region": "americas",
+  "subregion": "South America",
+  "languages": [
+    "Dutch"
+  ],
+  "currencies": [
+    "SRD"
+  ],
+  "geography": {
+    "area": 163820.0,
+    "landlocked": false,
+    "borders": [
+      "BRA",
+      "GUF",
+      "GUY"
+    ],
+    "neighbourCount": 3
+  },
+  "population": {
+    "total": 616500,
+    "density": 3.76
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+597",
+  "timezones": [
+    "UTC-03:00"
+  ],
+  "summary": "Suriname is a country in South America. The capital is Paramaribo. Population: 616,500. Area: 163,820 km².",
+  "rank": 171,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/sr.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Suriname is composed of five horizontal bands of green, white, red, white and green in the ratio of 2:1:4:1:2. A large five-pointed yellow star is centered in the red band.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Suriname",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/suriname/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.903146Z"
+  }
+}

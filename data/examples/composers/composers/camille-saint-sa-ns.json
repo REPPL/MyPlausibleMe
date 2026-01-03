@@ -1,0 +1,52 @@
+{
+  "id": "camille-saint-sa-ns",
+  "title": "Camille Saint-Saëns",
+  "shortTitle": "Saint-Saëns",
+  "birthYear": 1813,
+  "deathYear": 1901,
+  "nationality": "Kingdom of Italy",
+  "birthPlace": "Le Roncole",
+  "era": "romantic",
+  "statistics": {
+    "totalWorks": 8,
+    "lifespan": 88,
+    "activeYears": 70
+  },
+  "notableWorks": [
+    "Messa da Requiem",
+    "Falstaff",
+    "Il trovatore",
+    "Nabucco",
+    "Rigoletto"
+  ],
+  "summary": "Camille Saint-Saëns was a Kingdom of Italy romantic composer born in 1813 who lived until 1901.",
+  "rank": 35,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Giuseppi%20Verdi%20by%20Ferdinand%20Mulnier%20c1870.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Camille Saint-Saëns",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Camille_Saint-Saëns",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q7317",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q7317",
+    "fetchedAt": "2026-01-03T12:25:14.529699Z"
+  }
+}

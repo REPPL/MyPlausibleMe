@@ -1,0 +1,62 @@
+{
+  "id": "SYC",
+  "title": "Seychelles",
+  "officialName": "Republic of Seychelles",
+  "capital": "Victoria",
+  "region": "africa",
+  "subregion": "Eastern Africa",
+  "languages": [
+    "Seychellois Creole",
+    "English",
+    "French"
+  ],
+  "currencies": [
+    "SCR"
+  ],
+  "geography": {
+    "area": 452.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 122729,
+    "density": 271.52
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+248",
+  "timezones": [
+    "UTC+04:00"
+  ],
+  "summary": "Seychelles is a country in Eastern Africa. The capital is Victoria. Population: 122,729. Area: 452 km².",
+  "rank": 193,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/sc.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Seychelles is composed of five broadening oblique bands of blue, yellow, red, white and green, which extend from the hoist side of the bottom edge to the top and fly edges of the field.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Seychelles",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/seychelles/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.906130Z"
+  }
+}

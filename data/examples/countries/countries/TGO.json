@@ -1,0 +1,64 @@
+{
+  "id": "TGO",
+  "title": "Togo",
+  "officialName": "Togolese Republic",
+  "capital": "Lomé",
+  "region": "africa",
+  "subregion": "Western Africa",
+  "languages": [
+    "French"
+  ],
+  "currencies": [
+    "XOF"
+  ],
+  "geography": {
+    "area": 56785.0,
+    "landlocked": false,
+    "borders": [
+      "BEN",
+      "BFA",
+      "GHA"
+    ],
+    "neighbourCount": 3
+  },
+  "population": {
+    "total": 8095498,
+    "density": 142.56
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+228",
+  "timezones": [
+    "UTC"
+  ],
+  "summary": "Togo is a country in Western Africa. The capital is Lomé. Population: 8.1 million. Area: 56,785 km².",
+  "rank": 102,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/tg.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Togo is composed of five equal horizontal bands of green alternating with yellow. A red square bearing a five-pointed white star is superimposed in the canton.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Togo",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/togo/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.892483Z"
+  }
+}

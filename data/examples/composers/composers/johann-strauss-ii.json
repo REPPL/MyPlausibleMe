@@ -1,0 +1,36 @@
+{
+  "id": "johann-strauss-ii",
+  "title": "Johann Strauss II",
+  "shortTitle": "II",
+  "era": "romantic",
+  "summary": "Johann Strauss II was a European romantic composer.",
+  "rank": 52,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/SubmergedEgyptianHarbour%20TyreSour%20Lebanon%20RomanDeckert04112019.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Johann Strauss II",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Johann_Strauss_II",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q82070",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q82070",
+    "fetchedAt": "2026-01-03T12:25:54.159836Z"
+  }
+}

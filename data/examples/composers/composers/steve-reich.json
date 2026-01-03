@@ -1,0 +1,23 @@
+{
+  "id": "steve-reich",
+  "title": "Steve Reich",
+  "shortTitle": "Reich",
+  "era": "modern",
+  "summary": "Steve Reich was a European modern composer.",
+  "rank": 84,
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Steve_Reich",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q151955",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q151955",
+    "fetchedAt": "2026-01-03T12:27:13.727670Z"
+  }
+}

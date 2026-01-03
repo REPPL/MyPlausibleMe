@@ -1,0 +1,60 @@
+{
+  "id": "MYT",
+  "title": "Mayotte",
+  "officialName": "Department of Mayotte",
+  "capital": "Mamoudzou",
+  "region": "africa",
+  "subregion": "Eastern Africa",
+  "languages": [
+    "French"
+  ],
+  "currencies": [
+    "EUR"
+  ],
+  "geography": {
+    "area": 374.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 320901,
+    "density": 858.02
+  },
+  "independent": false,
+  "drivingSide": "right",
+  "callingCode": "+262",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "summary": "Mayotte is a country in Eastern Africa. The capital is Mamoudzou. Population: 320,901. Area: 374 km².",
+  "rank": 183,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/yt.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "Flag of Mayotte",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mayotte",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/mayotte/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.904782Z"
+  }
+}

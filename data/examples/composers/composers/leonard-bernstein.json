@@ -1,0 +1,49 @@
+{
+  "id": "leonard-bernstein",
+  "title": "Leonard Bernstein",
+  "shortTitle": "Bernstein",
+  "birthYear": 1993,
+  "nationality": "United States",
+  "birthPlace": "Boca Raton",
+  "era": "modern",
+  "statistics": {
+    "totalWorks": 4,
+    "activeYears": 14
+  },
+  "notableWorks": [
+    "Wicked",
+    "Swindle",
+    "Sam & Cat",
+    "Victorious"
+  ],
+  "summary": "Leonard Bernstein was a United States modern composer born in 1993.",
+  "rank": 64,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ariana%20Grande%20promoting%20Wicked%20%282024%29%203.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Leonard Bernstein",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Leonard_Bernstein",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q151892",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q151892",
+    "fetchedAt": "2026-01-03T12:26:21.651761Z"
+  }
+}

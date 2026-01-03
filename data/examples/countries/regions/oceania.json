@@ -1,0 +1,11 @@
+{
+  "id": "oceania",
+  "title": "Oceania",
+  "summary": "A geographic region comprising Australasia, Melanesia, Micronesia, and Polynesia.",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Oceania",
+      "source": "Wikipedia"
+    }
+  ]
+}

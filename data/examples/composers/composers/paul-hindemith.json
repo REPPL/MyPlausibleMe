@@ -1,0 +1,36 @@
+{
+  "id": "paul-hindemith",
+  "title": "Paul Hindemith",
+  "shortTitle": "Hindemith",
+  "era": "modern",
+  "summary": "Paul Hindemith was a European modern composer.",
+  "rank": 73,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Decoration%2C%20military%20%28AM%20768518-4%29.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Paul Hindemith",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Paul_Hindemith",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q154554",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q154554",
+    "fetchedAt": "2026-01-03T12:26:49.016931Z"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "ESH",
+  "title": "Western Sahara",
+  "officialName": "Sahrawi Arab Democratic Republic",
+  "capital": "El Aaiún",
+  "region": "africa",
+  "subregion": "Northern Africa",
+  "languages": [
+    "Berber",
+    "Hassaniya",
+    "Spanish"
+  ],
+  "currencies": [
+    "DZD",
+    "MAD",
+    "MRU"
+  ],
+  "geography": {
+    "area": 266000.0,
+    "landlocked": false,
+    "borders": [
+      "DZA",
+      "MRT",
+      "MAR"
+    ],
+    "neighbourCount": 3
+  },
+  "population": {
+    "total": 600904,
+    "density": 2.26
+  },
+  "independent": false,
+  "drivingSide": "right",
+  "callingCode": "+2125288",
+  "timezones": [
+    "UTC+00:00"
+  ],
+  "summary": "Western Sahara is a country in Northern Africa. The capital is El Aaiún. Population: 600,904. Area: 266,000 km².",
+  "rank": 172,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/eh.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "Flag of Western Sahara",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Western_Sahara",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/western-sahara/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.903289Z"
+  }
+}

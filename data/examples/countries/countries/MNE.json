@@ -1,0 +1,66 @@
+{
+  "id": "MNE",
+  "title": "Montenegro",
+  "officialName": "Montenegro",
+  "capital": "Podgorica",
+  "region": "europe",
+  "subregion": "Southeast Europe",
+  "languages": [
+    "Montenegrin"
+  ],
+  "currencies": [
+    "EUR"
+  ],
+  "geography": {
+    "area": 13812.0,
+    "landlocked": false,
+    "borders": [
+      "ALB",
+      "BIH",
+      "HRV",
+      "UNK",
+      "SRB"
+    ],
+    "neighbourCount": 5
+  },
+  "population": {
+    "total": 623327,
+    "density": 45.13
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+382",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "summary": "Montenegro is a country in Southeast Europe. The capital is Podgorica. Population: 623,327. Area: 13,812 km².",
+  "rank": 170,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/me.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Montenegro features a large red central rectangular area surrounded by a golden-yellow border. The coat of arms of Montenegro is centered in the red rectangle.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Montenegro",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/montenegro/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.902969Z"
+  }
+}

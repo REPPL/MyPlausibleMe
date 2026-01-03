@@ -1,0 +1,44 @@
+{
+  "id": "wingspan",
+  "title": "Wingspan",
+  "year": 2019,
+  "publishers": [
+    "999 Games"
+  ],
+  "players": {
+    "min": 1,
+    "max": 2
+  },
+  "playTime": 40,
+  "category": "strategy",
+  "summary": "2019 board game by Elizabeth Hargrave",
+  "rank": 41,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Birdfeeder%20dice%20tower%20in%20Wingspan%20board%20game.jpg",
+      "type": "photo",
+      "isPrimary": true,
+      "alt": "Wingspan board game",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "varies",
+        "note": "Image from Wikimedia Commons. Check individual file for licence."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/266192",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wingspan",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "266192",
+    "fetchedAt": "2026-01-03T11:39:11.956632Z"
+  }
+}

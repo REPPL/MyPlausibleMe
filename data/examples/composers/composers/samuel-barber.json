@@ -1,0 +1,36 @@
+{
+  "id": "samuel-barber",
+  "title": "Samuel Barber",
+  "shortTitle": "Barber",
+  "era": "modern",
+  "summary": "Samuel Barber was a European modern composer.",
+  "rank": 69,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Reichstagsgeb%C3%A4ude%20von%20Westen.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Samuel Barber",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Samuel_Barber",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q151897",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q151897",
+    "fetchedAt": "2026-01-03T12:26:39.771696Z"
+  }
+}

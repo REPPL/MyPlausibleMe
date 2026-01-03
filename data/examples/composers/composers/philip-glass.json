@@ -1,0 +1,42 @@
+{
+  "id": "philip-glass",
+  "title": "Philip Glass",
+  "shortTitle": "Glass",
+  "birthYear": 1969,
+  "nationality": "Japan",
+  "birthPlace": "Hiroshima",
+  "era": "modern",
+  "statistics": {
+    "activeYears": 38
+  },
+  "summary": "Philip Glass was a Japan modern composer born in 1969.",
+  "rank": 83,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mana%20moi%20dix%20mois.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Philip Glass",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Philip_Glass",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q355341",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q355341",
+    "fetchedAt": "2026-01-03T12:27:11.492022Z"
+  }
+}

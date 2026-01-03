@@ -1,0 +1,61 @@
+{
+  "id": "LKA",
+  "title": "Sri Lanka",
+  "officialName": "Democratic Socialist Republic of Sri Lanka",
+  "capital": "Sri Jayawardenepura Kotte",
+  "region": "asia",
+  "subregion": "Southern Asia",
+  "languages": [
+    "Sinhala",
+    "Tamil"
+  ],
+  "currencies": [
+    "LKR"
+  ],
+  "geography": {
+    "area": 65610.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 21763170,
+    "density": 331.71
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+94",
+  "timezones": [
+    "UTC+05:30"
+  ],
+  "summary": "Sri Lanka is a country in Southern Asia. The capital is Sri Jayawardenepura Kotte. Population: 21.8 million. Area: 65,610 km².",
+  "rank": 61,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/lk.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Sri Lanka features two large adjacent but separate rectangular areas, centered on a golden-yellow field. The smaller hoist-side rectangle is divided into two equal vertical bands of teal and orange, and the larger fly-side rectangle is maroon with a centered golden-yellow lion holding a Kastane sword in its right fore-paw and four golden-yellow Bo leaves, one in each corner.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sri_Lanka",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/sri-lanka/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.884811Z"
+  }
+}

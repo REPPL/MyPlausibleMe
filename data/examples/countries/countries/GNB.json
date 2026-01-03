@@ -1,0 +1,64 @@
+{
+  "id": "GNB",
+  "title": "Guinea-Bissau",
+  "officialName": "Republic of Guinea-Bissau",
+  "capital": "Bissau",
+  "region": "africa",
+  "subregion": "Western Africa",
+  "languages": [
+    "Portuguese",
+    "Upper Guinea Creole"
+  ],
+  "currencies": [
+    "XOF"
+  ],
+  "geography": {
+    "area": 36125.0,
+    "landlocked": false,
+    "borders": [
+      "GIN",
+      "SEN"
+    ],
+    "neighbourCount": 2
+  },
+  "population": {
+    "total": 1781308,
+    "density": 49.31
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+245",
+  "timezones": [
+    "UTC"
+  ],
+  "summary": "Guinea-Bissau is a country in Western Africa. The capital is Bissau. Population: 1.8 million. Area: 36,125 km².",
+  "rank": 151,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/gw.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Guinea-Bissau features a red vertical band on its hoist side that takes up about two-fifth the width of the field, and two equal horizontal bands of yellow and green adjoining the vertical band. A five-pointed black star is centered in the vertical band.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Guinea-Bissau",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/guinea-bissau/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.900148Z"
+  }
+}

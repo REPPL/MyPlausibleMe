@@ -1,0 +1,46 @@
+{
+  "id": "scythe",
+  "title": "Scythe",
+  "year": 2016,
+  "designers": [
+    "Jamey Stegmeier"
+  ],
+  "publishers": [
+    "Matagot"
+  ],
+  "players": {
+    "min": 1,
+    "max": 5
+  },
+  "category": "strategy",
+  "summary": "A scythe (, rhyming with writhe) is an agricultural hand-tool for mowing grass or harvesting crops. It was historically used to cut down or reap edible grains before they underwent the process of threshing. Horse-drawn and then tractor machinery largely replaced the scythe, but it is still used in some areas of Europe and Asia, especially in Yakutia, Siberia.",
+  "rank": 10,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Scythe%20set-up%201.jpg",
+      "type": "photo",
+      "isPrimary": true,
+      "alt": "Scythe board game",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "varies",
+        "note": "Image from Wikimedia Commons. Check individual file for licence."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/169786",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Scythe",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "169786",
+    "fetchedAt": "2026-01-03T11:37:39.698524Z"
+  }
+}

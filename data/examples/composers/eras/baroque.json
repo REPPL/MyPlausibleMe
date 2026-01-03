@@ -1,0 +1,12 @@
+{
+  "id": "baroque",
+  "title": "Baroque",
+  "period": "1600-1750",
+  "summary": "The Baroque era emphasised ornamental melodies, contrast, and the development of opera and instrumental music.",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Baroque_music",
+      "source": "Wikipedia"
+    }
+  ]
+}

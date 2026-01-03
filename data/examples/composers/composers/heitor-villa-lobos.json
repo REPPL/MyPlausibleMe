@@ -1,0 +1,23 @@
+{
+  "id": "heitor-villa-lobos",
+  "title": "Heitor Villa-Lobos",
+  "shortTitle": "Villa-Lobos",
+  "era": "modern",
+  "summary": "Heitor Villa-Lobos was a European modern composer.",
+  "rank": 74,
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Heitor_Villa-Lobos",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q318343",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q318343",
+    "fetchedAt": "2026-01-03T12:26:51.198563Z"
+  }
+}

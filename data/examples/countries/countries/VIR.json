@@ -1,0 +1,60 @@
+{
+  "id": "VIR",
+  "title": "United States Virgin Islands",
+  "officialName": "Virgin Islands of the United States",
+  "capital": "Charlotte Amalie",
+  "region": "americas",
+  "subregion": "Caribbean",
+  "languages": [
+    "English"
+  ],
+  "currencies": [
+    "USD"
+  ],
+  "geography": {
+    "area": 347.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 87146,
+    "density": 251.14
+  },
+  "independent": false,
+  "drivingSide": "right",
+  "callingCode": "+1340",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "summary": "United States Virgin Islands is a country in Caribbean. The capital is Charlotte Amalie. Population: 87,146. Area: 347 km².",
+  "rank": 203,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/vi.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "Flag of United States Virgin Islands",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/United_States_Virgin_Islands",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/united-states-virgin-islands/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.907533Z"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "ARM",
+  "title": "Armenia",
+  "officialName": "Republic of Armenia",
+  "capital": "Yerevan",
+  "region": "asia",
+  "subregion": "Western Asia",
+  "languages": [
+    "Armenian"
+  ],
+  "currencies": [
+    "AMD"
+  ],
+  "geography": {
+    "area": 29743.0,
+    "landlocked": true,
+    "borders": [
+      "AZE",
+      "GEO",
+      "IRN",
+      "TUR"
+    ],
+    "neighbourCount": 4
+  },
+  "population": {
+    "total": 3076200,
+    "density": 103.43
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+374",
+  "timezones": [
+    "UTC+04:00"
+  ],
+  "summary": "Armenia is a country in Western Asia. The capital is Yerevan. Population: 3.1 million. Area: 29,743 km².",
+  "rank": 138,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/am.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Armenia is composed of three equal horizontal bands of red, blue and orange.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Armenia",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/armenia/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.898106Z"
+  }
+}

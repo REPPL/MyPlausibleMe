@@ -1,0 +1,60 @@
+{
+  "id": "MTQ",
+  "title": "Martinique",
+  "officialName": "Martinique",
+  "capital": "Fort-de-France",
+  "region": "americas",
+  "subregion": "Caribbean",
+  "languages": [
+    "French"
+  ],
+  "currencies": [
+    "EUR"
+  ],
+  "geography": {
+    "area": 1128.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 349925,
+    "density": 310.22
+  },
+  "independent": false,
+  "drivingSide": "right",
+  "callingCode": "+596",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "summary": "Martinique is a country in Caribbean. The capital is Fort-de-France. Population: 349,925. Area: 1,128 km².",
+  "rank": 181,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/mq.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "Flag of Martinique",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Martinique",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/martinique/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.904502Z"
+  }
+}

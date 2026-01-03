@@ -1,0 +1,60 @@
+{
+  "id": "NCL",
+  "title": "New Caledonia",
+  "officialName": "New Caledonia",
+  "capital": "Nouméa",
+  "region": "oceania",
+  "subregion": "Melanesia",
+  "languages": [
+    "French"
+  ],
+  "currencies": [
+    "XPF"
+  ],
+  "geography": {
+    "area": 18575.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 264596,
+    "density": 14.24
+  },
+  "independent": false,
+  "drivingSide": "right",
+  "callingCode": "+687",
+  "timezones": [
+    "UTC+11:00"
+  ],
+  "summary": "New Caledonia is a country in Melanesia. The capital is Nouméa. Population: 264,596. Area: 18,575 km².",
+  "rank": 187,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/nc.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "Flag of New Caledonia",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/New_Caledonia",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/new-caledonia/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.905321Z"
+  }
+}

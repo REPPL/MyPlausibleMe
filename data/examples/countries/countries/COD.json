@@ -1,0 +1,75 @@
+{
+  "id": "COD",
+  "title": "DR Congo",
+  "officialName": "Democratic Republic of the Congo",
+  "capital": "Kinshasa",
+  "region": "africa",
+  "subregion": "Middle Africa",
+  "languages": [
+    "French",
+    "Kikongo",
+    "Lingala",
+    "Tshiluba",
+    "Swahili"
+  ],
+  "currencies": [
+    "CDF"
+  ],
+  "geography": {
+    "area": 2344858.0,
+    "landlocked": false,
+    "borders": [
+      "AGO",
+      "BDI",
+      "CAF",
+      "COG",
+      "RWA",
+      "SSD",
+      "TZA",
+      "UGA",
+      "ZMB"
+    ],
+    "neighbourCount": 9
+  },
+  "population": {
+    "total": 112832000,
+    "density": 48.12
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+243",
+  "timezones": [
+    "UTC+01:00",
+    "UTC+02:00"
+  ],
+  "summary": "DR Congo is a country in Middle Africa. The capital is Kinshasa. Population: 112.8 million. Area: 2,344,858 km².",
+  "rank": 13,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/cd.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of the Democratic Republic of the Congo has a sky-blue field with a yellow-edged red diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. A large five-pointed yellow star is situated above the diagonal band on the upper hoist side of the field.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/DR_Congo",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/dr-congo/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.874677Z"
+  }
+}

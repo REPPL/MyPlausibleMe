@@ -1,0 +1,64 @@
+{
+  "id": "ECU",
+  "title": "Ecuador",
+  "officialName": "Republic of Ecuador",
+  "capital": "Quito",
+  "region": "americas",
+  "subregion": "South America",
+  "languages": [
+    "Spanish"
+  ],
+  "currencies": [
+    "USD"
+  ],
+  "geography": {
+    "area": 276841.0,
+    "landlocked": false,
+    "borders": [
+      "COL",
+      "PER"
+    ],
+    "neighbourCount": 2
+  },
+  "population": {
+    "total": 18103660,
+    "density": 65.39
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+593",
+  "timezones": [
+    "UTC-06:00",
+    "UTC-05:00"
+  ],
+  "summary": "Ecuador is a country in South America. The capital is Quito. Population: 18.1 million. Area: 276,841 km².",
+  "rank": 70,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/ec.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Ecuador is composed of the horizontal bands of yellow, blue and red, with the yellow band twice the height of the other two bands. The Ecuadorian coat of arms is superimposed in the center of the field.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ecuador",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/ecuador/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.886625Z"
+  }
+}

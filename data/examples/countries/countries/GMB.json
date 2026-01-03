@@ -1,0 +1,62 @@
+{
+  "id": "GMB",
+  "title": "Gambia",
+  "officialName": "Republic of the Gambia",
+  "capital": "Banjul",
+  "region": "africa",
+  "subregion": "Western Africa",
+  "languages": [
+    "English"
+  ],
+  "currencies": [
+    "GMD"
+  ],
+  "geography": {
+    "area": 10689.0,
+    "landlocked": false,
+    "borders": [
+      "SEN"
+    ],
+    "neighbourCount": 1
+  },
+  "population": {
+    "total": 2422712,
+    "density": 226.65
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+220",
+  "timezones": [
+    "UTC+00:00"
+  ],
+  "summary": "Gambia is a country in Western Africa. The capital is Banjul. Population: 2.4 million. Area: 10,689 km².",
+  "rank": 144,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/gm.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Gambia is composed of three equal horizontal bands of red, blue with white top and bottom edges, and green.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Gambia",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/gambia/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.899034Z"
+  }
+}

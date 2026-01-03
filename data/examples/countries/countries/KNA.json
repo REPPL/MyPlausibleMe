@@ -1,0 +1,60 @@
+{
+  "id": "KNA",
+  "title": "Saint Kitts and Nevis",
+  "officialName": "Federation of Saint Christopher and Nevis",
+  "capital": "Basseterre",
+  "region": "americas",
+  "subregion": "Caribbean",
+  "languages": [
+    "English"
+  ],
+  "currencies": [
+    "XCD"
+  ],
+  "geography": {
+    "area": 261.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 51320,
+    "density": 196.63
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+1869",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "summary": "Saint Kitts and Nevis is a country in Caribbean. The capital is Basseterre. Population: 51,320. Area: 261 km².",
+  "rank": 211,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/kn.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Saint Kitts and Nevis features two large five-pointed white stars within a yellow-edged black diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. Above and beneath this band are a green and red triangle respectively.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/saint-kitts-and-nevis/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.908595Z"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "henry-purcell",
+  "title": "Henry Purcell",
+  "shortTitle": "Purcell",
+  "birthYear": 1916,
+  "deathYear": 2009,
+  "nationality": "Russia",
+  "birthPlace": "Moscow",
+  "era": "baroque",
+  "statistics": {
+    "lifespan": 93,
+    "activeYears": 75
+  },
+  "summary": "Henry Purcell (, rare: ; c. 10 September 1659 – 21 November 1695) was an English composer and organist of the middle Baroque era.  He composed more than 100 songs, a tragic opera Dido and Aeneas, and wrote incidental music to a version of Shakespeare's A Midsummer Night's Dream called The Fairy Queen. \nPurcell's musical style was uniquely English, although it incorporated Italian and French elements.",
+  "rank": 5,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B9%20%D0%9B%D0%B0%D0%B7%D0%B0%D1%80%D0%B5%D0%B2%D0%B8%D1%87%20%D0%93%D0%B8%D0%BD%D0%B7%D0%B1%D1%83%D1%80%D0%B3.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Henry Purcell",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Henry_Purcell",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q104668",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q104668",
+    "fetchedAt": "2026-01-03T12:16:04.112531Z"
+  }
+}

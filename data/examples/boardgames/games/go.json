@@ -1,0 +1,39 @@
+{
+  "id": "go",
+  "title": "Go",
+  "players": {
+    "min": null,
+    "max": 2
+  },
+  "category": "abstract",
+  "summary": "board game for two players that originated in China more than 2,500 years ago",
+  "rank": 37,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Go%20board.jpg",
+      "type": "photo",
+      "isPrimary": true,
+      "alt": "Go board game",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "varies",
+        "note": "Image from Wikimedia Commons. Check individual file for licence."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/188",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Go",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "188",
+    "fetchedAt": "2026-01-03T11:38:41.189565Z"
+  }
+}

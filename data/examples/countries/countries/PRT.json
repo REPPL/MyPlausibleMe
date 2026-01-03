@@ -1,0 +1,63 @@
+{
+  "id": "PRT",
+  "title": "Portugal",
+  "officialName": "Portuguese Republic",
+  "capital": "Lisbon",
+  "region": "europe",
+  "subregion": "Southern Europe",
+  "languages": [
+    "Portuguese"
+  ],
+  "currencies": [
+    "EUR"
+  ],
+  "geography": {
+    "area": 92090.0,
+    "landlocked": false,
+    "borders": [
+      "ESP"
+    ],
+    "neighbourCount": 1
+  },
+  "population": {
+    "total": 10749635,
+    "density": 116.73
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+351",
+  "timezones": [
+    "UTC-01:00",
+    "UTC"
+  ],
+  "summary": "Portugal is a country in Southern Europe. The capital is Lisbon. Population: 10.7 million. Area: 92,090 km².",
+  "rank": 89,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/pt.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Portugal is composed of two vertical bands of green and red in the ratio of 2:3, with the coat of arms of Portugal centered over the two-color boundary.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Portugal",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/portugal/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.890257Z"
+  }
+}

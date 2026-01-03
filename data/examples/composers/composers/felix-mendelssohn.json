@@ -1,0 +1,52 @@
+{
+  "id": "felix-mendelssohn",
+  "title": "Felix Mendelssohn",
+  "shortTitle": "Mendelssohn",
+  "birthYear": 1809,
+  "deathYear": 1847,
+  "nationality": "Hamburg",
+  "birthPlace": "Hamburg",
+  "era": "romantic",
+  "statistics": {
+    "totalWorks": 7,
+    "lifespan": 38,
+    "activeYears": 20
+  },
+  "notableWorks": [
+    "Violin Concerto in E minor",
+    "The Hebrides",
+    "Symphony No. 4",
+    "Symphony No. 3",
+    "St. Paul"
+  ],
+  "summary": "Felix Mendelssohn was a Hamburg romantic composer born in 1809 who lived until 1847.",
+  "rank": 27,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Felix%20Mendelssohn%20Bartholdy%20by%20Eduard%20Magnus%20%281833%29.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Felix Mendelssohn",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Felix_Mendelssohn",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q46096",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q46096",
+    "fetchedAt": "2026-01-03T12:24:54.990099Z"
+  }
+}

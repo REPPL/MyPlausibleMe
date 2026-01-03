@@ -1,0 +1,36 @@
+{
+  "id": "aaron-copland",
+  "title": "Aaron Copland",
+  "shortTitle": "Copland",
+  "era": "modern",
+  "summary": "Aaron Copland was a European modern composer.",
+  "rank": 62,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Wismar%20Markt%20Nosferatu%2001%20%28cropped%29.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Aaron Copland",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Aaron_Copland",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q151895",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q151895",
+    "fetchedAt": "2026-01-03T12:26:17.038090Z"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "twilight-imperium-fourth-edition",
+  "title": "Twilight Imperium: Fourth Edition",
+  "category": "strategy",
+  "summary": "Twilight Imperium: Fourth Edition is a board game.",
+  "rank": 5,
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/233078",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Twilight_Imperium:_Fourth_Edition",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "233078",
+    "fetchedAt": "2026-01-03T11:35:06.077994Z"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "AGO",
+  "title": "Angola",
+  "officialName": "Republic of Angola",
+  "capital": "Luanda",
+  "region": "africa",
+  "subregion": "Middle Africa",
+  "languages": [
+    "Portuguese"
+  ],
+  "currencies": [
+    "AOA"
+  ],
+  "geography": {
+    "area": 1246700.0,
+    "landlocked": false,
+    "borders": [
+      "COG",
+      "COD",
+      "ZMB",
+      "NAM"
+    ],
+    "neighbourCount": 4
+  },
+  "population": {
+    "total": 36170961,
+    "density": 29.01
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+244",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "summary": "Angola is a country in Middle Africa. The capital is Luanda. Population: 36.2 million. Area: 1,246,700 km².",
+  "rank": 41,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/ao.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Angola features two equal horizontal bands of red and black, with a yellow emblem at its centre. This emblem consists of a five-pointed star within the hoist-side facing half of a cogwheel that is crossed on its lower end by a machete.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Angola",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/angola/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.880956Z"
+  }
+}

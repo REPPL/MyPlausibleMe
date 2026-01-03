@@ -1,0 +1,52 @@
+{
+  "id": "johann-sebastian-bach",
+  "title": "Johann Sebastian Bach",
+  "shortTitle": "Bach",
+  "birthYear": 1685,
+  "deathYear": 1750,
+  "nationality": "Holy Roman Empire",
+  "birthPlace": "Eisenach",
+  "era": "baroque",
+  "statistics": {
+    "totalWorks": 25,
+    "lifespan": 65,
+    "activeYears": 47
+  },
+  "notableWorks": [
+    "Italian Concerto",
+    "Klavierbüchlein für Wilhelm Friedemann Bach",
+    "Gottes Zeit ist die allerbeste Zeit, BWV 106",
+    "Geschwinde, ihr wirbelnden Winde",
+    "Inventions and Sinfonias"
+  ],
+  "summary": "Johann Sebastian Bach (31 March [O.S. 21 March] 1685 – 28 July 1750) was a German composer and musician of the late Baroque period. He is known for his prolific output across a variety of instruments and forms, including the orchestral Brandenburg Concertos; solo instrumental works such as the cello suites and sonatas and partitas for solo violin; keyboard works such as the Goldberg Variations and The Well-Tempered Clavier; organ works such as the Schübler Chorales and the Toccata and Fugue in D minor; and choral works such as the St Matthew Passion and the Mass in B minor.",
+  "rank": 1,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Johann%20Sebastian%20Bach.png",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Johann Sebastian Bach",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q1339",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q1339",
+    "fetchedAt": "2026-01-03T12:13:46.815751Z"
+  }
+}

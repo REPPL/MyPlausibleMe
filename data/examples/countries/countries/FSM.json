@@ -1,0 +1,61 @@
+{
+  "id": "FSM",
+  "title": "Micronesia",
+  "officialName": "Federated States of Micronesia",
+  "capital": "Palikir",
+  "region": "oceania",
+  "subregion": "Micronesia",
+  "languages": [
+    "English"
+  ],
+  "currencies": [
+    "USD"
+  ],
+  "geography": {
+    "area": 702.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 105564,
+    "density": 150.38
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+691",
+  "timezones": [
+    "UTC+10:00",
+    "UTC+11:00"
+  ],
+  "summary": "Micronesia is a country in Micronesia. The capital is Palikir. Population: 105,564. Area: 702 km².",
+  "rank": 198,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/fm.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Micronesia has a light blue field, at the center of which are four five-pointed white stars arranged in the shape of a diamond.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Micronesia",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/micronesia/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.906849Z"
+  }
+}

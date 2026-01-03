@@ -1,0 +1,36 @@
+{
+  "id": "domenico-scarlatti",
+  "title": "Domenico Scarlatti",
+  "shortTitle": "Scarlatti",
+  "era": "baroque",
+  "summary": "Giuseppe Domenico Scarlatti (26 October 1685 – 23 July 1757) was an Italian composer. He is classified primarily as a Baroque composer chronologically, although his music was influential in the development of the Classical style. Like his renowned father Alessandro Scarlatti, he composed in a variety of musical forms, although today he is known mainly for his 555 keyboard sonatas.",
+  "rank": 7,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rowing%20Worlds%20-%20Fantastic%20Four%20of%20Fours.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Domenico Scarlatti",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Domenico_Scarlatti",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q80063",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q80063",
+    "fetchedAt": "2026-01-03T12:17:11.664878Z"
+  }
+}

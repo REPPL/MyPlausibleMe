@@ -1,0 +1,61 @@
+{
+  "id": "PLW",
+  "title": "Palau",
+  "officialName": "Republic of Palau",
+  "capital": "Ngerulmud",
+  "region": "oceania",
+  "subregion": "Micronesia",
+  "languages": [
+    "English",
+    "Palauan"
+  ],
+  "currencies": [
+    "USD"
+  ],
+  "geography": {
+    "area": 459.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 16733,
+    "density": 36.46
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+680",
+  "timezones": [
+    "UTC+09:00"
+  ],
+  "summary": "Palau is a country in Micronesia. The capital is Ngerulmud. Population: 16,733. Area: 459 km².",
+  "rank": 225,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/pw.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Palau has a light blue field with a large golden-yellow circle that is offset slightly towards the hoist side of center.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Palau",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/palau/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.910468Z"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "johannes-brahms",
+  "title": "Johannes Brahms",
+  "shortTitle": "Brahms",
+  "birthYear": 1833,
+  "deathYear": 1897,
+  "nationality": "Hamburg",
+  "birthPlace": "Hamburg",
+  "era": "romantic",
+  "statistics": {
+    "totalWorks": 8,
+    "lifespan": 64,
+    "activeYears": 46
+  },
+  "notableWorks": [
+    "Clarinet Sonatas",
+    "Tragic Overture",
+    "Hungarian Dances",
+    "A German Requiem",
+    "Academic Festival Overture"
+  ],
+  "summary": "Johannes Brahms was a Hamburg romantic composer born in 1833 who lived until 1897.",
+  "rank": 23,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/JohannesBrahms.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Johannes Brahms",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Johannes_Brahms",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q7294",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q7294",
+    "fetchedAt": "2026-01-03T12:24:45.474600Z"
+  }
+}

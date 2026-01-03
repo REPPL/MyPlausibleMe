@@ -1,0 +1,64 @@
+{
+  "id": "MNG",
+  "title": "Mongolia",
+  "officialName": "Mongolia",
+  "capital": "Ulan Bator",
+  "region": "asia",
+  "subregion": "Eastern Asia",
+  "languages": [
+    "Mongolian"
+  ],
+  "currencies": [
+    "MNT"
+  ],
+  "geography": {
+    "area": 1564110.0,
+    "landlocked": true,
+    "borders": [
+      "CHN",
+      "RUS"
+    ],
+    "neighbourCount": 2
+  },
+  "population": {
+    "total": 3544835,
+    "density": 2.27
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+976",
+  "timezones": [
+    "UTC+07:00",
+    "UTC+08:00"
+  ],
+  "summary": "Mongolia is a country in Eastern Asia. The capital is Ulan Bator. Population: 3.5 million. Area: 1,564,110 km².",
+  "rank": 133,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/mn.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Mongolia is composed of three equal vertical bands of red, blue and red, with the national emblem — the Soyombo — in gold centered in the hoist-side red band.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mongolia",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/mongolia/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.897348Z"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "benjamin-britten",
+  "title": "Benjamin Britten",
+  "shortTitle": "Britten",
+  "era": "modern",
+  "summary": "Benjamin Britten was a European modern composer.",
+  "rank": 65,
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Benjamin_Britten",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q151621",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q151621",
+    "fetchedAt": "2026-01-03T12:26:23.865941Z"
+  }
+}

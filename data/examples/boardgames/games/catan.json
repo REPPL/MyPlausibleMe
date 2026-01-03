@@ -1,0 +1,46 @@
+{
+  "id": "catan",
+  "title": "Catan",
+  "year": 1995,
+  "designers": [
+    "Klaus Teuber"
+  ],
+  "publishers": [
+    "Franckh-Kosmos"
+  ],
+  "players": {
+    "min": 3,
+    "max": 4
+  },
+  "category": "family",
+  "summary": "board game",
+  "rank": 21,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Nepomuk%20280%20-%20Osadn%C3%ADci%20z%20Katanu.jpg",
+      "type": "photo",
+      "isPrimary": true,
+      "alt": "Catan board game",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "varies",
+        "note": "Image from Wikimedia Commons. Check individual file for licence."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/13",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Catan",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "13",
+    "fetchedAt": "2026-01-03T11:38:10.451776Z"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "AUT",
+  "title": "Austria",
+  "officialName": "Republic of Austria",
+  "capital": "Vienna",
+  "region": "europe",
+  "subregion": "Central Europe",
+  "languages": [
+    "German"
+  ],
+  "currencies": [
+    "EUR"
+  ],
+  "geography": {
+    "area": 83871.0,
+    "landlocked": true,
+    "borders": [
+      "CZE",
+      "DEU",
+      "HUN",
+      "ITA",
+      "LIE",
+      "SVK",
+      "SVN",
+      "CHE"
+    ],
+    "neighbourCount": 8
+  },
+  "population": {
+    "total": 9200931,
+    "density": 109.7
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+43",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "summary": "Austria is a country in Central Europe. The capital is Vienna. Population: 9.2 million. Area: 83,871 km².",
+  "rank": 98,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/at.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Austria is composed of three equal horizontal bands of red, white and red.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Austria",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/austria/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.891764Z"
+  }
+}

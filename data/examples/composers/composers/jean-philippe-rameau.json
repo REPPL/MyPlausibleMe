@@ -1,0 +1,44 @@
+{
+  "id": "jean-philippe-rameau",
+  "title": "Jean-Philippe Rameau",
+  "shortTitle": "Rameau",
+  "birthYear": 1608,
+  "deathYear": 1660,
+  "nationality": "Sweden",
+  "birthPlace": "Ulm",
+  "era": "baroque",
+  "statistics": {
+    "lifespan": 52,
+    "activeYears": 34
+  },
+  "summary": "Jean-Philippe Rameau (; French: [ʒɑ̃filip ʁamo]; (1683-09-25)25 September 1683 – (1764-09-12)12 September 1764) was a French Baroque composer and music theorist. Regarded as one of the most important French composers and music theorists of the 18th century, he replaced Jean-Baptiste Lully as the dominant composer of French opera and is also considered the leading French composer of his time for the harpsichord, alongside François Couperin.\nLittle is known about Rameau's early years. It was not until the 1720s that he won fame as a major theorist of music with his Treatise on Harmony (1722) and also in the following years as a composer of masterpieces for the harpsichord, which circulated throughout Europe.",
+  "rank": 8,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20Johann%20Freinsheim%2C%20RP-P-1914-1001.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Jean-Philippe Rameau",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Jean-Philippe_Rameau",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q85927",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q85927",
+    "fetchedAt": "2026-01-03T12:17:45.560018Z"
+  }
+}

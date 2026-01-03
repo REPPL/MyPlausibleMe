@@ -1,0 +1,52 @@
+{
+  "id": "anton-bruckner",
+  "title": "Anton Bruckner",
+  "shortTitle": "Bruckner",
+  "birthYear": 1860,
+  "deathYear": 1911,
+  "nationality": "Austrian Empire",
+  "birthPlace": "Kaliště",
+  "era": "romantic",
+  "statistics": {
+    "totalWorks": 5,
+    "lifespan": 51,
+    "activeYears": 33
+  },
+  "notableWorks": [
+    "Symphony No. 8",
+    "Symphony No. 5",
+    "Symphony No. 2",
+    "Symphony No. 1",
+    "Symphony No. 9"
+  ],
+  "summary": "Anton Bruckner was a Austrian Empire romantic composer born in 1860 who lived until 1911.",
+  "rank": 31,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Photo%20of%20Gustav%20Mahler%20by%20Moritz%20N%C3%A4hr%2001.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Anton Bruckner",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Anton_Bruckner",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q7304",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q7304",
+    "fetchedAt": "2026-01-03T12:25:04.971725Z"
+  }
+}

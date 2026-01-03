@@ -1,0 +1,31 @@
+{
+  "id": "richard-strauss",
+  "title": "Richard Strauss",
+  "shortTitle": "Strauss",
+  "birthYear": 1926,
+  "deathYear": 2007,
+  "nationality": "Germany",
+  "birthPlace": "Marienberg",
+  "era": "modern",
+  "statistics": {
+    "lifespan": 81,
+    "activeYears": 63
+  },
+  "summary": "Richard Strauss was a Germany modern composer born in 1926 who lived until 2007.",
+  "rank": 61,
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Richard_Strauss",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q60486",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q60486",
+    "fetchedAt": "2026-01-03T12:26:14.625198Z"
+  }
+}

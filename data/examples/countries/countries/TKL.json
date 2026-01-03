@@ -1,0 +1,62 @@
+{
+  "id": "TKL",
+  "title": "Tokelau",
+  "officialName": "Tokelau",
+  "capital": "Fakaofo",
+  "region": "oceania",
+  "subregion": "Polynesia",
+  "languages": [
+    "English",
+    "Samoan",
+    "Tokelauan"
+  ],
+  "currencies": [
+    "NZD"
+  ],
+  "geography": {
+    "area": 12.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 2608,
+    "density": 217.33
+  },
+  "independent": false,
+  "drivingSide": "left",
+  "callingCode": "+690",
+  "timezones": [
+    "UTC+13:00"
+  ],
+  "summary": "Tokelau is a country in Polynesia. The capital is Fakaofo. Population: 2,608. Area: 12 km².",
+  "rank": 236,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/tk.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "Flag of Tokelau",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Tokelau",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/tokelau/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.911852Z"
+  }
+}

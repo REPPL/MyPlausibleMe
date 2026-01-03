@@ -1,0 +1,60 @@
+{
+  "id": "WLF",
+  "title": "Wallis and Futuna",
+  "officialName": "Territory of the Wallis and Futuna Islands",
+  "capital": "Mata-Utu",
+  "region": "oceania",
+  "subregion": "Polynesia",
+  "languages": [
+    "French"
+  ],
+  "currencies": [
+    "XPF"
+  ],
+  "geography": {
+    "area": 142.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 11620,
+    "density": 81.83
+  },
+  "independent": false,
+  "drivingSide": "right",
+  "callingCode": "+681",
+  "timezones": [
+    "UTC+12:00"
+  ],
+  "summary": "Wallis and Futuna is a country in Polynesia. The capital is Mata-Utu. Population: 11,620. Area: 142 km².",
+  "rank": 229,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/wf.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "Flag of Wallis and Futuna",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Wallis_and_Futuna",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/wallis-and-futuna/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.910975Z"
+  }
+}

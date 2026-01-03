@@ -1,0 +1,43 @@
+{
+  "id": "agricola",
+  "title": "Agricola",
+  "year": 2007,
+  "designers": [
+    "Uwe Rosenberg"
+  ],
+  "players": {
+    "min": 1,
+    "max": 4
+  },
+  "category": "strategy",
+  "summary": "2007 board game",
+  "rank": 12,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Agricola%20board%20game.jpg",
+      "type": "photo",
+      "isPrimary": true,
+      "alt": "Agricola board game",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "varies",
+        "note": "Image from Wikimedia Commons. Check individual file for licence."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/31260",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Agricola",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "31260",
+    "fetchedAt": "2026-01-03T11:37:39.699511Z"
+  }
+}

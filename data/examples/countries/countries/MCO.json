@@ -1,0 +1,62 @@
+{
+  "id": "MCO",
+  "title": "Monaco",
+  "officialName": "Principality of Monaco",
+  "capital": "Monaco",
+  "region": "europe",
+  "subregion": "Western Europe",
+  "languages": [
+    "French"
+  ],
+  "currencies": [
+    "EUR"
+  ],
+  "geography": {
+    "area": 2.02,
+    "landlocked": false,
+    "borders": [
+      "FRA"
+    ],
+    "neighbourCount": 1
+  },
+  "population": {
+    "total": 38423,
+    "density": 19021.29
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+377",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "summary": "Monaco is a country in Western Europe. The capital is Monaco. Population: 38,423. Area: 2 km².",
+  "rank": 219,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/mc.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Monaco is composed of two equal horizontal bands of red and white.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Monaco",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/monaco/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.909669Z"
+  }
+}

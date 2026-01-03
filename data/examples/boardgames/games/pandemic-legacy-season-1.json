@@ -1,0 +1,34 @@
+{
+  "id": "pandemic-legacy-season-1",
+  "title": "Pandemic Legacy: Season 1",
+  "year": 2015,
+  "designers": [
+    "Rob Daviau"
+  ],
+  "publishers": [
+    "Devir"
+  ],
+  "players": {
+    "min": 2,
+    "max": 4
+  },
+  "playTime": 60,
+  "category": "cooperative",
+  "summary": "2015 board game",
+  "rank": 3,
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/161936",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pandemic_Legacy:_Season_1",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "161936",
+    "fetchedAt": "2026-01-03T11:34:04.703230Z"
+  }
+}

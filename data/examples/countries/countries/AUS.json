@@ -1,0 +1,67 @@
+{
+  "id": "AUS",
+  "title": "Australia",
+  "officialName": "Commonwealth of Australia",
+  "capital": "Canberra",
+  "region": "oceania",
+  "subregion": "Australia and New Zealand",
+  "languages": [
+    "English"
+  ],
+  "currencies": [
+    "AUD"
+  ],
+  "geography": {
+    "area": 7692024.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 27536874,
+    "density": 3.58
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+61",
+  "timezones": [
+    "UTC+05:00",
+    "UTC+06:30",
+    "UTC+07:00",
+    "UTC+08:00",
+    "UTC+09:30",
+    "UTC+10:00",
+    "UTC+10:30",
+    "UTC+11:30"
+  ],
+  "summary": "Australia is a country in Australia and New Zealand. The capital is Canberra. Population: 27.5 million. Area: 7,692,024 km².",
+  "rank": 54,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/au.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Australia has a dark blue field. It features the flag of the United Kingdom — the Union Jack — in the canton, beneath which is a large white seven-pointed star. A representation of the Southern Cross constellation, made up of one small five-pointed and four larger seven-pointed white stars, is situated on the fly side of the field.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Australia",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/australia/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.883450Z"
+  }
+}

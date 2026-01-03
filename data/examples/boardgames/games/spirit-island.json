@@ -1,0 +1,44 @@
+{
+  "id": "spirit-island",
+  "title": "Spirit Island",
+  "year": 2017,
+  "publishers": [
+    "Pegasus Spiele"
+  ],
+  "players": {
+    "min": 1,
+    "max": 4
+  },
+  "playTime": 90,
+  "category": "cooperative",
+  "summary": "Spirit Island may refer to:\n\nSpirit Island (Alberta)\nSpirit Island (Minnesota), an island in Lake Minnetonka\nSpirit Island (board game).",
+  "rank": 7,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mission%20completed%20in%20Spirit%20Island.jpg",
+      "type": "photo",
+      "isPrimary": true,
+      "alt": "Spirit Island board game",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "varies",
+        "note": "Image from Wikimedia Commons. Check individual file for licence."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/162886",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Spirit_Island",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "162886",
+    "fetchedAt": "2026-01-03T11:36:07.438050Z"
+  }
+}

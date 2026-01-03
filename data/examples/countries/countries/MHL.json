@@ -1,0 +1,61 @@
+{
+  "id": "MHL",
+  "title": "Marshall Islands",
+  "officialName": "Republic of the Marshall Islands",
+  "capital": "Majuro",
+  "region": "oceania",
+  "subregion": "Micronesia",
+  "languages": [
+    "English",
+    "Marshallese"
+  ],
+  "currencies": [
+    "USD"
+  ],
+  "geography": {
+    "area": 181.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 42418,
+    "density": 234.35
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+692",
+  "timezones": [
+    "UTC+12:00"
+  ],
+  "summary": "Marshall Islands is a country in Micronesia. The capital is Majuro. Population: 42,418. Area: 181 km².",
+  "rank": 215,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/mh.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Marshall Islands has a blue field with two broadening adjacent diagonal bands of orange and white that extend from the lower hoist-side corner to the upper fly-side corner of the field. A large white star with twenty-four rays — four large rays at the cardinal points and twenty smaller rays — is situated in the upper hoist-side corner above the diagonal bands.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Marshall_Islands",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/marshall-islands/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.909111Z"
+  }
+}

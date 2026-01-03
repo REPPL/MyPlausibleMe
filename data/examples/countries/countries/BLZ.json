@@ -1,0 +1,65 @@
+{
+  "id": "BLZ",
+  "title": "Belize",
+  "officialName": "Belize",
+  "capital": "Belmopan",
+  "region": "americas",
+  "subregion": "Central America",
+  "languages": [
+    "Belizean Creole",
+    "English",
+    "Spanish"
+  ],
+  "currencies": [
+    "BZD"
+  ],
+  "geography": {
+    "area": 22966.0,
+    "landlocked": false,
+    "borders": [
+      "GTM",
+      "MEX"
+    ],
+    "neighbourCount": 2
+  },
+  "population": {
+    "total": 417634,
+    "density": 18.18
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+501",
+  "timezones": [
+    "UTC-06:00"
+  ],
+  "summary": "Belize is a country in Central America. The capital is Belmopan. Population: 417,634. Area: 22,966 km².",
+  "rank": 177,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/bz.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Belize has a royal blue field with a thin red horizontal band at the top and bottom of the field and the national coat of arms in the center.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Belize",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/belize/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.903964Z"
+  }
+}

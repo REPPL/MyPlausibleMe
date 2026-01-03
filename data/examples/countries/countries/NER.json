@@ -1,0 +1,68 @@
+{
+  "id": "NER",
+  "title": "Niger",
+  "officialName": "Republic of Niger",
+  "capital": "Niamey",
+  "region": "africa",
+  "subregion": "Western Africa",
+  "languages": [
+    "French"
+  ],
+  "currencies": [
+    "XOF"
+  ],
+  "geography": {
+    "area": 1267000.0,
+    "landlocked": true,
+    "borders": [
+      "DZA",
+      "BEN",
+      "BFA",
+      "TCD",
+      "LBY",
+      "MLI",
+      "NGA"
+    ],
+    "neighbourCount": 7
+  },
+  "population": {
+    "total": 26312034,
+    "density": 20.77
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+227",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "summary": "Niger is a country in Western Africa. The capital is Niamey. Population: 26.3 million. Area: 1,267,000 km².",
+  "rank": 55,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/ne.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Niger features three equal horizontal bands of orange, white and green, with an orange circle centered in the white band.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Niger",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/niger/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.883660Z"
+  }
+}

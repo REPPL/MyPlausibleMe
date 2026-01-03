@@ -1,0 +1,52 @@
+{
+  "id": "franz-schubert",
+  "title": "Franz Schubert",
+  "shortTitle": "Schubert",
+  "birthYear": 1797,
+  "deathYear": 1828,
+  "nationality": "Austrian Empire",
+  "birthPlace": "Himmelpfortgrund",
+  "era": "romantic",
+  "statistics": {
+    "totalWorks": 6,
+    "lifespan": 31,
+    "activeYears": 13
+  },
+  "notableWorks": [
+    "Symphony No. 8",
+    "Winterreise",
+    "Death and the Maiden",
+    "Symphony No. 9",
+    "Symphony No. 3"
+  ],
+  "summary": "Franz Peter Schubert (; German: [fʁants ˈpeːtɐ ˈʃuːbɐt]; 31 January 1797 – 19 November 1828) was an Austrian composer of the late Classical and early Romantic eras. Despite his short life, Schubert left behind a vast oeuvre, including more than 600 Lieder (art songs in German) and other vocal works, seven complete symphonies, sacred music, operas, incidental music, and a large body of piano and chamber music. His major works include the songs \"Erlkönig\", \"Gretchen am Spinnrade\", and \"Ave Maria\"; the Trout Quintet; the Symphony No.",
+  "rank": 20,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Franz%20Schubert%20by%20Wilhelm%20August%20Rieder%201875%20larger%20version.png",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Franz Schubert",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Franz_Schubert",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q7312",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q7312",
+    "fetchedAt": "2026-01-03T12:24:37.418532Z"
+  }
+}

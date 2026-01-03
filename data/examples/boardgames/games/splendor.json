@@ -1,0 +1,30 @@
+{
+  "id": "splendor",
+  "title": "Splendor",
+  "year": 2014,
+  "designers": [
+    "Marc André"
+  ],
+  "players": {
+    "min": 2,
+    "max": 4
+  },
+  "category": "family",
+  "summary": "2014 board game",
+  "rank": 29,
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/148228",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Splendor",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "148228",
+    "fetchedAt": "2026-01-03T11:38:10.453184Z"
+  }
+}

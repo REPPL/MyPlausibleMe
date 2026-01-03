@@ -1,0 +1,30 @@
+{
+  "id": "dominant-species",
+  "title": "Dominant Species",
+  "year": 2010,
+  "publishers": [
+    "GMT Games"
+  ],
+  "players": {
+    "min": 2,
+    "max": 6
+  },
+  "category": "strategy",
+  "summary": "2010 competitive, area control board game published by GMT Games, designed by Chad Jensen",
+  "rank": 44,
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/62219",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dominant_Species",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "62219",
+    "fetchedAt": "2026-01-03T11:39:11.957030Z"
+  }
+}

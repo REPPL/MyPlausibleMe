@@ -1,0 +1,23 @@
+{
+  "id": "pierre-boulez",
+  "title": "Pierre Boulez",
+  "shortTitle": "Boulez",
+  "era": "modern",
+  "summary": "Pierre Boulez was a European modern composer.",
+  "rank": 81,
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Pierre_Boulez",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q155821",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q155821",
+    "fetchedAt": "2026-01-03T12:27:06.932640Z"
+  }
+}

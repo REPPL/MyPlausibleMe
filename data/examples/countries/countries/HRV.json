@@ -1,0 +1,66 @@
+{
+  "id": "HRV",
+  "title": "Croatia",
+  "officialName": "Republic of Croatia",
+  "capital": "Zagreb",
+  "region": "europe",
+  "subregion": "Southeast Europe",
+  "languages": [
+    "Croatian"
+  ],
+  "currencies": [
+    "EUR"
+  ],
+  "geography": {
+    "area": 56594.0,
+    "landlocked": false,
+    "borders": [
+      "BIH",
+      "HUN",
+      "MNE",
+      "SRB",
+      "SVN"
+    ],
+    "neighbourCount": 5
+  },
+  "population": {
+    "total": 3866233,
+    "density": 68.32
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+385",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "summary": "Croatia is a country in Southeast Europe. The capital is Zagreb. Population: 3.9 million. Area: 56,594 km².",
+  "rank": 131,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/hr.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Croatia is composed of three equal horizontal bands of red, white and blue, with the coat of arms of Croatia superimposed in the center.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Croatia",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/croatia/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.897051Z"
+  }
+}

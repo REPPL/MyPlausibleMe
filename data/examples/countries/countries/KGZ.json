@@ -1,0 +1,66 @@
+{
+  "id": "KGZ",
+  "title": "Kyrgyzstan",
+  "officialName": "Kyrgyz Republic",
+  "capital": "Bishkek",
+  "region": "asia",
+  "subregion": "Central Asia",
+  "languages": [
+    "Kyrgyz",
+    "Russian"
+  ],
+  "currencies": [
+    "KGS"
+  ],
+  "geography": {
+    "area": 199951.0,
+    "landlocked": true,
+    "borders": [
+      "CHN",
+      "KAZ",
+      "TJK",
+      "UZB"
+    ],
+    "neighbourCount": 4
+  },
+  "population": {
+    "total": 7281800,
+    "density": 36.42
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+996",
+  "timezones": [
+    "UTC+06:00"
+  ],
+  "summary": "Kyrgyzstan is a country in Central Asia. The capital is Bishkek. Population: 7.3 million. Area: 199,951 km².",
+  "rank": 106,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/kg.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Kyrgyzstan features a yellow sun with forty rays at the center of a red field. At the center of the sun is a stylized depiction of a tunduk.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Kyrgyzstan",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/kyrgyzstan/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.893150Z"
+  }
+}

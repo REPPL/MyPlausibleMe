@@ -1,0 +1,36 @@
+{
+  "id": "franz-liszt",
+  "title": "Franz Liszt",
+  "shortTitle": "Liszt",
+  "era": "romantic",
+  "summary": "Franz Liszt was a European romantic composer.",
+  "rank": 28,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Leet%2031337%20h4x0r.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Franz Liszt",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Franz_Liszt",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q1337",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q1337",
+    "fetchedAt": "2026-01-03T12:24:57.228201Z"
+  }
+}

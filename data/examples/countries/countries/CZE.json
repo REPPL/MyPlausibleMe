@@ -1,0 +1,66 @@
+{
+  "id": "CZE",
+  "title": "Czechia",
+  "officialName": "Czech Republic",
+  "capital": "Prague",
+  "region": "europe",
+  "subregion": "Central Europe",
+  "languages": [
+    "Czech",
+    "Slovak"
+  ],
+  "currencies": [
+    "CZK"
+  ],
+  "geography": {
+    "area": 78865.0,
+    "landlocked": true,
+    "borders": [
+      "AUT",
+      "DEU",
+      "POL",
+      "SVK"
+    ],
+    "neighbourCount": 4
+  },
+  "population": {
+    "total": 10882341,
+    "density": 137.99
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+420",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "summary": "Czechia is a country in Central Europe. The capital is Prague. Population: 10.9 million. Area: 78,865 km².",
+  "rank": 87,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/cz.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Czechia is composed of two equal horizontal bands of white and red, with a blue isosceles triangle superimposed on the hoist side of the field. The triangle has its base on the hoist end and spans about two-fifth the width of the field.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Czechia",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/czechia/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.889930Z"
+  }
+}

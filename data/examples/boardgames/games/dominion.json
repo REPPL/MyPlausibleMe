@@ -1,0 +1,46 @@
+{
+  "id": "dominion",
+  "title": "Dominion",
+  "year": 2008,
+  "designers": [
+    "Donald X. Vaccarino"
+  ],
+  "publishers": [
+    "ASS Altenburger"
+  ],
+  "players": {
+    "min": 2,
+    "max": 4
+  },
+  "category": "strategy",
+  "summary": "2008 designer card game created by Donald X. Vaccarino",
+  "rank": 18,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Hry%20a%20hlavolamy%202009%20-%20Dominion%200143u%20%28cropped%29.jpg",
+      "type": "photo",
+      "isPrimary": true,
+      "alt": "Dominion board game",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "varies",
+        "note": "Image from Wikimedia Commons. Check individual file for licence."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/36218",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dominion",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "36218",
+    "fetchedAt": "2026-01-03T11:37:39.701191Z"
+  }
+}

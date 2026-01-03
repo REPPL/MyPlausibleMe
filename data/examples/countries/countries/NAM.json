@@ -1,0 +1,74 @@
+{
+  "id": "NAM",
+  "title": "Namibia",
+  "officialName": "Republic of Namibia",
+  "capital": "Windhoek",
+  "region": "africa",
+  "subregion": "Southern Africa",
+  "languages": [
+    "Afrikaans",
+    "German",
+    "English",
+    "Herero",
+    "Khoekhoe",
+    "Kwangali",
+    "Lozi",
+    "Ndonga",
+    "Tswana"
+  ],
+  "currencies": [
+    "NAD",
+    "ZAR"
+  ],
+  "geography": {
+    "area": 825615.0,
+    "landlocked": false,
+    "borders": [
+      "AGO",
+      "BWA",
+      "ZAF",
+      "ZMB"
+    ],
+    "neighbourCount": 4
+  },
+  "population": {
+    "total": 3022401,
+    "density": 3.66
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+264",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "summary": "Namibia is a country in Southern Africa. The capital is Windhoek. Population: 3.0 million. Area: 825,615 km².",
+  "rank": 139,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/na.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Namibia features a white-edged red diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. Above and beneath this band are a blue and green triangle respectively. A gold sun with twelve triangular rays is situated on the hoist side of the upper triangle.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Namibia",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/namibia/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.898261Z"
+  }
+}

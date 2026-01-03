@@ -1,0 +1,66 @@
+{
+  "id": "MMR",
+  "title": "Myanmar",
+  "officialName": "Republic of the Union of Myanmar",
+  "capital": "Naypyidaw",
+  "region": "asia",
+  "subregion": "South-Eastern Asia",
+  "languages": [
+    "Burmese"
+  ],
+  "currencies": [
+    "MMK"
+  ],
+  "geography": {
+    "area": 676578.0,
+    "landlocked": false,
+    "borders": [
+      "BGD",
+      "CHN",
+      "IND",
+      "LAO",
+      "THA"
+    ],
+    "neighbourCount": 5
+  },
+  "population": {
+    "total": 51316756,
+    "density": 75.85
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+95",
+  "timezones": [
+    "UTC+06:30"
+  ],
+  "summary": "Myanmar is a country in South-Eastern Asia. The capital is Naypyidaw. Population: 51.3 million. Area: 676,578 km².",
+  "rank": 29,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/mm.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Myanmar is composed of three equal horizontal bands of yellow, green and red, with a large five-pointed white star superimposed at the center of the field.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Myanmar",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/myanmar/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.878340Z"
+  }
+}

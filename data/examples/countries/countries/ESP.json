@@ -1,0 +1,70 @@
+{
+  "id": "ESP",
+  "title": "Spain",
+  "officialName": "Kingdom of Spain",
+  "capital": "Madrid",
+  "region": "europe",
+  "subregion": "Southern Europe",
+  "languages": [
+    "Spanish",
+    "Catalan",
+    "Basque",
+    "Galician"
+  ],
+  "currencies": [
+    "EUR"
+  ],
+  "geography": {
+    "area": 505992.0,
+    "landlocked": false,
+    "borders": [
+      "AND",
+      "FRA",
+      "GIB",
+      "PRT",
+      "MAR"
+    ],
+    "neighbourCount": 5
+  },
+  "population": {
+    "total": 49315949,
+    "density": 97.46
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+34",
+  "timezones": [
+    "UTC",
+    "UTC+01:00"
+  ],
+  "summary": "Spain is a country in Southern Europe. The capital is Madrid. Population: 49.3 million. Area: 505,992 km².",
+  "rank": 31,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/es.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Spain is composed of three horizontal bands of red, yellow and red, with the yellow band twice the height of the red bands. In the yellow band is the national coat of arms offset slightly towards the hoist side of center.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Spain",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/spain/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.878779Z"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SVN",
+  "title": "Slovenia",
+  "officialName": "Republic of Slovenia",
+  "capital": "Ljubljana",
+  "region": "europe",
+  "subregion": "Central Europe",
+  "languages": [
+    "Slovene"
+  ],
+  "currencies": [
+    "EUR"
+  ],
+  "geography": {
+    "area": 20273.0,
+    "landlocked": false,
+    "borders": [
+      "AUT",
+      "HRV",
+      "ITA",
+      "HUN"
+    ],
+    "neighbourCount": 4
+  },
+  "population": {
+    "total": 2130638,
+    "density": 105.1
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+386",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "summary": "Slovenia is a country in Central Europe. The capital is Ljubljana. Population: 2.1 million. Area: 20,273 km².",
+  "rank": 147,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/si.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Slovenia is composed of three equal horizontal bands of white, blue and red. The national coat of arms is situated in the upper hoist side of the field centered on the boundary between the white and blue bands.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Slovenia",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/slovenia/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.899529Z"
+  }
+}

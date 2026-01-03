@@ -1,0 +1,97 @@
+{
+  "$schema": "https://itemdeck.app/schemas/v2/collection.json",
+  "id": "world-countries",
+  "name": "Countries of the World",
+  "description": "Geographic and demographic data for all countries, sourced from REST Countries API and CIA World Factbook.",
+  "schemaVersion": "v2",
+  "version": "1.0.0",
+  "entityTypes": {
+    "country": {
+      "primary": true,
+      "label": "Country",
+      "labelPlural": "Countries",
+      "description": "A sovereign nation or territory.",
+      "fields": {
+        "id": { "type": "string", "description": "ISO 3166-1 alpha-3 code", "required": true },
+        "title": { "type": "string", "description": "Common name", "required": true },
+        "officialName": { "type": "string", "description": "Official name" },
+        "capital": { "type": "string", "description": "Capital city" },
+        "region": { "type": "string", "ref": "region", "required": true },
+        "subregion": { "type": "string", "description": "Geographic subregion" },
+        "languages": { "type": "array", "description": "Official languages" },
+        "currencies": { "type": "array", "description": "Official currencies" },
+        "geography": {
+          "type": "object",
+          "description": "Geographic data",
+          "properties": {
+            "area": { "type": "number", "description": "Land area in km²" },
+            "landlocked": { "type": "boolean", "description": "Is landlocked" },
+            "coastline": { "type": "number", "description": "Coastline in km" },
+            "borders": { "type": "array", "description": "Bordering country codes" },
+            "neighbourCount": { "type": "number", "description": "Number of border countries" }
+          }
+        },
+        "population": {
+          "type": "object",
+          "description": "Population statistics",
+          "properties": {
+            "total": { "type": "number", "description": "Total population" },
+            "density": { "type": "number", "description": "People per km²" },
+            "growthRate": { "type": "number", "description": "Annual growth rate %" }
+          }
+        },
+        "economy": {
+          "type": "object",
+          "description": "Economic indicators",
+          "properties": {
+            "gdp": { "type": "number", "description": "GDP in USD" },
+            "gdpPerCapita": { "type": "number", "description": "GDP per capita in USD" },
+            "gdpGrowth": { "type": "number", "description": "Annual GDP growth %" }
+          }
+        },
+        "independence": { "type": "number", "description": "Year of independence" },
+        "drivingSide": { "type": "string", "description": "left or right" },
+        "callingCode": { "type": "string", "description": "International dialling code" },
+        "timezones": { "type": "array", "description": "Timezones" },
+        "summary": { "type": "text", "description": "Country description", "required": true },
+        "rank": { "type": "number", "description": "Rank by population" },
+        "images": { "type": "images" },
+        "detailUrls": { "type": "detailUrls", "required": true }
+      }
+    },
+    "region": {
+      "label": "Region",
+      "labelPlural": "Regions",
+      "description": "A continental region.",
+      "fields": {
+        "title": { "type": "string", "required": true },
+        "summary": { "type": "text", "description": "Region description", "required": true },
+        "images": { "type": "images" },
+        "detailUrls": { "type": "detailUrls" }
+      }
+    }
+  },
+  "relationships": {
+    "country.region": {
+      "target": "region",
+      "cardinality": "many-to-one",
+      "required": true
+    },
+    "country.rank": {
+      "type": "ordinal"
+    }
+  },
+  "display": {
+    "primaryEntity": "country",
+    "groupBy": "region",
+    "sortWithinGroup": ["rank", "asc"],
+    "card": {
+      "front": {
+        "title": "title",
+        "subtitle": "capital",
+        "badge": "rank",
+        "footer": ["region.title", "population.total"]
+      }
+    }
+  }
+}

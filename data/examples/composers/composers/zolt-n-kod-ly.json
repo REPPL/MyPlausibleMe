@@ -1,0 +1,36 @@
+{
+  "id": "zolt-n-kod-ly",
+  "title": "Zoltán Kodály",
+  "shortTitle": "Kodály",
+  "era": "modern",
+  "summary": "Zoltán Kodály was a European modern composer.",
+  "rank": 71,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Thonon%20les%20bains%20-%20port%20de%20rives.JPG",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Zoltán Kodály",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Zoltán_Kodály",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q206165",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q206165",
+    "fetchedAt": "2026-01-03T12:26:44.512475Z"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "NPL",
+  "title": "Nepal",
+  "officialName": "Federal Democratic Republic of Nepal",
+  "capital": "Kathmandu",
+  "region": "asia",
+  "subregion": "Southern Asia",
+  "languages": [
+    "Nepali"
+  ],
+  "currencies": [
+    "NPR"
+  ],
+  "geography": {
+    "area": 147181.0,
+    "landlocked": true,
+    "borders": [
+      "CHN",
+      "IND"
+    ],
+    "neighbourCount": 2
+  },
+  "population": {
+    "total": 29911840,
+    "density": 203.23
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+977",
+  "timezones": [
+    "UTC+05:45"
+  ],
+  "summary": "Nepal is a country in Southern Asia. The capital is Kathmandu. Population: 29.9 million. Area: 147,181 km².",
+  "rank": 51,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/np.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Nepal is the world's only non-quadrilateral flag of a sovereign country. It takes the shape of two adjoining right-angled triangles and has a crimson red field with deep blue edges. Within the smaller upper triangle is an emblem of the upper half of a white sun resting on an upward facing white crescent. The lower triangle bears a white sun with twelve rays.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Nepal",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/nepal/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.882889Z"
+  }
+}

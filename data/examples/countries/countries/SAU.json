@@ -1,0 +1,68 @@
+{
+  "id": "SAU",
+  "title": "Saudi Arabia",
+  "officialName": "Kingdom of Saudi Arabia",
+  "capital": "Riyadh",
+  "region": "asia",
+  "subregion": "Western Asia",
+  "languages": [
+    "Arabic"
+  ],
+  "currencies": [
+    "SAR"
+  ],
+  "geography": {
+    "area": 2149690.0,
+    "landlocked": false,
+    "borders": [
+      "IRQ",
+      "JOR",
+      "KWT",
+      "OMN",
+      "QAT",
+      "ARE",
+      "YEM"
+    ],
+    "neighbourCount": 7
+  },
+  "population": {
+    "total": 35300280,
+    "density": 16.42
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+966",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "summary": "Saudi Arabia is a country in Western Asia. The capital is Riyadh. Population: 35.3 million. Area: 2,149,690 km².",
+  "rank": 42,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/sa.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Saudi Arabia has a green field, at the center of which is an Arabic inscription — the Shahada — in white above a white horizontal sabre with its tip pointed to the hoist side of the field.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Saudi_Arabia",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/saudi-arabia/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.881149Z"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "joseph-haydn",
+  "title": "Joseph Haydn",
+  "shortTitle": "Haydn",
+  "birthYear": 1732,
+  "deathYear": 1809,
+  "nationality": "Holy Roman Empire",
+  "birthPlace": "Rohrau",
+  "era": "classical",
+  "statistics": {
+    "totalWorks": 3,
+    "lifespan": 77,
+    "activeYears": 59
+  },
+  "notableWorks": [
+    "Symphony No. 101",
+    "Symphony No. 100",
+    "Deutschlandlied"
+  ],
+  "summary": "Franz Joseph Haydn ( HY-dən; German: [ˈfʁants ˈjoːzɛf ˈhaɪdn̩] ; 31 March 1732 – 31 May 1809) was a composer of the Classical period. He was instrumental in the development of chamber music such as the string quartet and piano trio. His contributions to musical form have led him to be called \"Father of the Symphony\" and \"Father of the String quartet\".\nHaydn arose from humble origins, the child of working people in a rural village.",
+  "rank": 12,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Haydn%2C%20m%C3%A5lning%20av%20Thomas%20Hardy%20fr%C3%A5n%201792.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Joseph Haydn",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Joseph_Haydn",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q7349",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q7349",
+    "fetchedAt": "2026-01-03T12:20:07.119585Z"
+  }
+}

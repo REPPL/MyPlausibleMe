@@ -1,0 +1,68 @@
+{
+  "id": "POL",
+  "title": "Poland",
+  "officialName": "Republic of Poland",
+  "capital": "Warsaw",
+  "region": "europe",
+  "subregion": "Central Europe",
+  "languages": [
+    "Polish"
+  ],
+  "currencies": [
+    "PLN"
+  ],
+  "geography": {
+    "area": 312679.0,
+    "landlocked": false,
+    "borders": [
+      "BLR",
+      "CZE",
+      "DEU",
+      "LTU",
+      "RUS",
+      "SVK",
+      "UKR"
+    ],
+    "neighbourCount": 7
+  },
+  "population": {
+    "total": 37392000,
+    "density": 119.59
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+48",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "summary": "Poland is a country in Central Europe. The capital is Warsaw. Population: 37.4 million. Area: 312,679 km².",
+  "rank": 39,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/pl.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Poland is composed of two equal horizontal bands of white and red.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Poland",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/poland/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.880581Z"
+  }
+}

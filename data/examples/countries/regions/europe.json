@@ -1,0 +1,11 @@
+{
+  "id": "europe",
+  "title": "Europe",
+  "summary": "A continent located entirely in the Northern Hemisphere, known for its cultural and economic influence.",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Europe",
+      "source": "Wikipedia"
+    }
+  ]
+}

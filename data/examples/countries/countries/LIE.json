@@ -1,0 +1,63 @@
+{
+  "id": "LIE",
+  "title": "Liechtenstein",
+  "officialName": "Principality of Liechtenstein",
+  "capital": "Vaduz",
+  "region": "europe",
+  "subregion": "Western Europe",
+  "languages": [
+    "German"
+  ],
+  "currencies": [
+    "CHF"
+  ],
+  "geography": {
+    "area": 160.0,
+    "landlocked": true,
+    "borders": [
+      "AUT",
+      "CHE"
+    ],
+    "neighbourCount": 2
+  },
+  "population": {
+    "total": 40900,
+    "density": 255.62
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+423",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "summary": "Liechtenstein is a country in Western Europe. The capital is Vaduz. Population: 40,900. Area: 160 km².",
+  "rank": 217,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/li.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Liechtenstein is composed of two equal horizontal bands of blue and red, with a golden-yellow crown on the hoist side of the blue band.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Liechtenstein",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/liechtenstein/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.909369Z"
+  }
+}

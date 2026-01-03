@@ -1,0 +1,23 @@
+{
+  "id": "leo-jan-ek",
+  "title": "Leoš Janáček",
+  "shortTitle": "Janáček",
+  "era": "modern",
+  "summary": "Leoš Janáček was a European modern composer.",
+  "rank": 77,
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Leoš_Janáček",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q155820",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q155820",
+    "fetchedAt": "2026-01-03T12:26:57.938289Z"
+  }
+}

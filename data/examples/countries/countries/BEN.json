@@ -1,0 +1,65 @@
+{
+  "id": "BEN",
+  "title": "Benin",
+  "officialName": "Republic of Benin",
+  "capital": "Porto-Novo",
+  "region": "africa",
+  "subregion": "Western Africa",
+  "languages": [
+    "French"
+  ],
+  "currencies": [
+    "XOF"
+  ],
+  "geography": {
+    "area": 112622.0,
+    "landlocked": false,
+    "borders": [
+      "BFA",
+      "NER",
+      "NGA",
+      "TGO"
+    ],
+    "neighbourCount": 4
+  },
+  "population": {
+    "total": 13224860,
+    "density": 117.43
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+229",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "summary": "Benin is a country in Western Africa. The capital is Porto-Novo. Population: 13.2 million. Area: 112,622 km².",
+  "rank": 78,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/bj.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Benin features a green vertical band on its hoist side that takes up about two-fifth the width of the field and two equal horizontal bands of yellow and red adjoining the vertical band.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Benin",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/benin/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.888284Z"
+  }
+}

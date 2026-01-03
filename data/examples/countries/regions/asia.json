@@ -1,0 +1,11 @@
+{
+  "id": "asia",
+  "title": "Asia",
+  "summary": "The world's largest and most populous continent, spanning from the Middle East to the Pacific.",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Asia",
+      "source": "Wikipedia"
+    }
+  ]
+}

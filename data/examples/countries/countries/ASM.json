@@ -1,0 +1,61 @@
+{
+  "id": "ASM",
+  "title": "American Samoa",
+  "officialName": "American Samoa",
+  "capital": "Pago Pago",
+  "region": "oceania",
+  "subregion": "Polynesia",
+  "languages": [
+    "English",
+    "Samoan"
+  ],
+  "currencies": [
+    "USD"
+  ],
+  "geography": {
+    "area": 199.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 49710,
+    "density": 249.8
+  },
+  "independent": false,
+  "drivingSide": "right",
+  "callingCode": "+1684",
+  "timezones": [
+    "UTC-11:00"
+  ],
+  "summary": "American Samoa is a country in Polynesia. The capital is Pago Pago. Population: 49,710. Area: 199 km².",
+  "rank": 213,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/as.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "Flag of American Samoa",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/American_Samoa",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/american-samoa/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.908843Z"
+  }
+}

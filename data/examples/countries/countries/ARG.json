@@ -1,0 +1,67 @@
+{
+  "id": "ARG",
+  "title": "Argentina",
+  "officialName": "Argentine Republic",
+  "capital": "Buenos Aires",
+  "region": "americas",
+  "subregion": "South America",
+  "languages": [
+    "Guaraní",
+    "Spanish"
+  ],
+  "currencies": [
+    "ARS"
+  ],
+  "geography": {
+    "area": 2780400.0,
+    "landlocked": false,
+    "borders": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "PRY",
+      "URY"
+    ],
+    "neighbourCount": 5
+  },
+  "population": {
+    "total": 46735004,
+    "density": 16.81
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+54",
+  "timezones": [
+    "UTC-03:00"
+  ],
+  "summary": "Argentina is a country in South America. The capital is Buenos Aires. Population: 46.7 million. Area: 2,780,400 km².",
+  "rank": 33,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/ar.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Argentina features three equal horizontal bands of light blue, white and light blue. A brown-edged golden sun is centered in the white band.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Argentina",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/argentina/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.879253Z"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "TUR",
+  "title": "Turkey",
+  "officialName": "Republic of Turkey",
+  "capital": "Ankara",
+  "region": "asia",
+  "subregion": "Western Asia",
+  "languages": [
+    "Turkish"
+  ],
+  "currencies": [
+    "TRY"
+  ],
+  "geography": {
+    "area": 783562.0,
+    "landlocked": false,
+    "borders": [
+      "ARM",
+      "AZE",
+      "BGR",
+      "GEO",
+      "GRC",
+      "IRN",
+      "IRQ",
+      "SYR"
+    ],
+    "neighbourCount": 8
+  },
+  "population": {
+    "total": 85664944,
+    "density": 109.33
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+90",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "summary": "Turkey is a country in Western Asia. The capital is Ankara. Population: 85.7 million. Area: 783,562 km².",
+  "rank": 18,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/tr.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Turkey has a red field bearing a large fly-side facing white crescent and a smaller five-pointed white star placed just outside the crescent opening. The white crescent and star are offset slightly towards the hoist side of center.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Turkey",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/turkey/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.875793Z"
+  }
+}

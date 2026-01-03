@@ -1,0 +1,30 @@
+{
+  "id": "everdell",
+  "title": "Everdell",
+  "year": 2018,
+  "publishers": [
+    "Pegasus Spiele"
+  ],
+  "players": {
+    "min": 1,
+    "max": 4
+  },
+  "category": "strategy",
+  "summary": "2018 board game",
+  "rank": 49,
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/199792",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Everdell",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "199792",
+    "fetchedAt": "2026-01-03T11:39:11.957556Z"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "erik-satie",
+  "title": "Erik Satie",
+  "shortTitle": "Satie",
+  "era": "modern",
+  "summary": "Erik Satie was a European modern composer.",
+  "rank": 68,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Map%20-%20Deutscher%20Bund%201820.png",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Erik Satie",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Erik_Satie",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q151624",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q151624",
+    "fetchedAt": "2026-01-03T12:26:37.523961Z"
+  }
+}

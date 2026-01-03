@@ -1,0 +1,63 @@
+{
+  "id": "HKG",
+  "title": "Hong Kong",
+  "officialName": "Hong Kong Special Administrative Region of the People's Republic of China",
+  "capital": "City of Victoria",
+  "region": "asia",
+  "subregion": "Eastern Asia",
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "currencies": [
+    "HKD"
+  ],
+  "geography": {
+    "area": 1104.0,
+    "landlocked": false,
+    "borders": [
+      "CHN"
+    ],
+    "neighbourCount": 1
+  },
+  "population": {
+    "total": 7527500,
+    "density": 6818.39
+  },
+  "independent": false,
+  "drivingSide": "left",
+  "callingCode": "+852",
+  "timezones": [
+    "UTC+08:00"
+  ],
+  "summary": "Hong Kong is a country in Eastern Asia. The capital is City of Victoria. Population: 7.5 million. Area: 1,104 km².",
+  "rank": 104,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/hk.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "Flag of Hong Kong",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Hong_Kong",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/hong-kong/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.892825Z"
+  }
+}

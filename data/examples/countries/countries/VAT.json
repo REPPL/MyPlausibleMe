@@ -1,0 +1,63 @@
+{
+  "id": "VAT",
+  "title": "Vatican City",
+  "officialName": "Vatican City State",
+  "capital": "Vatican City",
+  "region": "europe",
+  "subregion": "Southern Europe",
+  "languages": [
+    "Italian",
+    "Latin"
+  ],
+  "currencies": [
+    "EUR"
+  ],
+  "geography": {
+    "area": 0.49,
+    "landlocked": true,
+    "borders": [
+      "ITA"
+    ],
+    "neighbourCount": 1
+  },
+  "population": {
+    "total": 882,
+    "density": 1800.0
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+3906698",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "summary": "Vatican City is a country in Southern Europe. The capital is Vatican City. Population: 882. Area: 0 km².",
+  "rank": 242,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/va.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Vatican City is square shaped. It is composed of two equal vertical bands of yellow and white, with national coat of arms centered in the white band. The national coat of arms comprises the Papal Tiara superimposed on two crossed keys.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Vatican_City",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/vatican-city/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.912642Z"
+  }
+}

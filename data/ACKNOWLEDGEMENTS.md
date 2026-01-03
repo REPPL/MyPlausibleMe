@@ -40,6 +40,24 @@ The following services were accessed via their **official APIs** with proper rat
 - **Licence:** CC BY-SA 3.0 / CC BY-SA 4.0
 - **Files fixed:** 79 broken image URLs across books, games, movies, songs, and TV shows
 
+### REST Countries API
+
+- https://restcountries.com/
+- **API endpoint:** `restcountries.com/v3.1/independent`
+- **Used for:** Country metadata (names, capitals, regions, population, area, borders, languages, currencies, flags)
+- **Licence:** MPL-2.0 (Mozilla Public Licence 2.0)
+- **Files created:** 250 countries and 6 regions in `examples/countries/`
+
+### Wikidata SPARQL API
+
+- https://query.wikidata.org/
+- **API endpoint:** `query.wikidata.org/sparql`
+- **Used for:** Board game and composer metadata (names, dates, nationalities, notable works)
+- **Licence:** CC0 (public domain dedication)
+- **Files created:**
+  - 50 board games and 8 categories in `examples/boardgames/`
+  - 93 composers and 4 eras in `examples/composers/`
+
 ---
 
 ## Planned API Integration
@@ -76,8 +94,10 @@ Each image includes individual licence information in its `attribution` field:
 |---------|-------------|
 | `CC0` | Public domain, no restrictions |
 | `CC BY-NC-SA 3.0` | Attribution, non-commercial, share-alike |
+| `MPL-2.0` | Mozilla Public Licence 2.0 |
 | `open-data` | Open Library's open data policy |
 | `cc-by-sa-3.0` | Wikipedia/Wikimedia content |
+| `public-domain` | National flags and similar content |
 | `fair-use` | Limited educational use (legacy images) |
 
 ---
@@ -101,6 +121,9 @@ Each image includes individual licence information in its `attribution` field:
 | `examples/movies/` | ❌ (TMDB planned) | ✅ Wikipedia |
 | `examples/tv/` | ❌ (TMDB planned) | ✅ Wikipedia |
 | `examples/games/vc/` | ❌ | ✅ Wikipedia |
+| `examples/countries/` | ✅ REST Countries | ❌ |
+| `examples/boardgames/` | ✅ Wikidata | ✅ Wikipedia |
+| `examples/composers/` | ✅ Wikidata | ✅ Wikipedia |
 | `collections/retro/` | ❌ | ✅ Wikipedia, YouTube links |
 
 ---

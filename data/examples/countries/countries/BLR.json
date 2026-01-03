@@ -1,0 +1,67 @@
+{
+  "id": "BLR",
+  "title": "Belarus",
+  "officialName": "Republic of Belarus",
+  "capital": "Minsk",
+  "region": "europe",
+  "subregion": "Eastern Europe",
+  "languages": [
+    "Belarusian",
+    "Russian"
+  ],
+  "currencies": [
+    "BYN"
+  ],
+  "geography": {
+    "area": 207600.0,
+    "landlocked": true,
+    "borders": [
+      "LVA",
+      "LTU",
+      "POL",
+      "RUS",
+      "UKR"
+    ],
+    "neighbourCount": 5
+  },
+  "population": {
+    "total": 9109280,
+    "density": 43.88
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+375",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "summary": "Belarus is a country in Eastern Europe. The capital is Minsk. Population: 9.1 million. Area: 207,600 km².",
+  "rank": 99,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/by.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Belarus features a vertical band, with a white and red ornamental pattern, spanning about one-fifth the width of the field on the hoist side. Adjoining the vertical band are two horizontal bands of red and green, with the red band twice the height of the green band.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Belarus",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/belarus/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.891990Z"
+  }
+}

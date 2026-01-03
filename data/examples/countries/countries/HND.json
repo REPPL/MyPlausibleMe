@@ -1,0 +1,64 @@
+{
+  "id": "HND",
+  "title": "Honduras",
+  "officialName": "Republic of Honduras",
+  "capital": "Tegucigalpa",
+  "region": "americas",
+  "subregion": "Central America",
+  "languages": [
+    "Spanish"
+  ],
+  "currencies": [
+    "HNL"
+  ],
+  "geography": {
+    "area": 112492.0,
+    "landlocked": false,
+    "borders": [
+      "GTM",
+      "SLV",
+      "NIC"
+    ],
+    "neighbourCount": 3
+  },
+  "population": {
+    "total": 9892632,
+    "density": 87.94
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+504",
+  "timezones": [
+    "UTC-06:00"
+  ],
+  "summary": "Honduras is a country in Central America. The capital is Tegucigalpa. Population: 9.9 million. Area: 112,492 km².",
+  "rank": 95,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/hn.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Honduras is composed of three equal horizontal bands of turquoise, white and turquoise, with five small five-pointed turquoise stars arranged in a quincuncial pattern at the center of the white band.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Honduras",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/honduras/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.891256Z"
+  }
+}

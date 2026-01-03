@@ -1,0 +1,31 @@
+{
+  "id": "dune-imperium",
+  "title": "Dune: Imperium",
+  "year": 2020,
+  "publishers": [
+    "Arclight"
+  ],
+  "players": {
+    "min": 1,
+    "max": 4
+  },
+  "playTime": 60,
+  "category": "strategy",
+  "summary": "Dune: Imperium is a 2020 board game designed by Paul Dennen and published by Dire Wolf Digital. In the board game, which is set in Frank Herbert's Dune universe, players use deck-building and worker placement to gain alliances with factions and combat to earn victory points. Upon its release, the game was nominated for several awards, including the Kennerspiel des Jahres.\n\n.",
+  "rank": 9,
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/316554",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dune:_Imperium",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "316554",
+    "fetchedAt": "2026-01-03T11:37:08.990184Z"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "TCD",
+  "title": "Chad",
+  "officialName": "Republic of Chad",
+  "capital": "N'Djamena",
+  "region": "africa",
+  "subregion": "Middle Africa",
+  "languages": [
+    "Arabic",
+    "French"
+  ],
+  "currencies": [
+    "XAF"
+  ],
+  "geography": {
+    "area": 1284000.0,
+    "landlocked": true,
+    "borders": [
+      "CMR",
+      "CAF",
+      "LBY",
+      "NER",
+      "NGA",
+      "SDN"
+    ],
+    "neighbourCount": 6
+  },
+  "population": {
+    "total": 19340757,
+    "density": 15.06
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+235",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "summary": "Chad is a country in Middle Africa. The capital is N'Djamena. Population: 19.3 million. Area: 1,284,000 km².",
+  "rank": 67,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/td.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Chad is composed of three equal vertical bands of blue, gold and red.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Chad",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/chad/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.886031Z"
+  }
+}

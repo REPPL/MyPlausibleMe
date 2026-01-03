@@ -1,0 +1,67 @@
+{
+  "id": "BFA",
+  "title": "Burkina Faso",
+  "officialName": "Burkina Faso",
+  "capital": "Ouagadougou",
+  "region": "africa",
+  "subregion": "Western Africa",
+  "languages": [
+    "French"
+  ],
+  "currencies": [
+    "XOF"
+  ],
+  "geography": {
+    "area": 272967.0,
+    "landlocked": true,
+    "borders": [
+      "BEN",
+      "CIV",
+      "GHA",
+      "MLI",
+      "NER",
+      "TGO"
+    ],
+    "neighbourCount": 6
+  },
+  "population": {
+    "total": 24070553,
+    "density": 88.18
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+226",
+  "timezones": [
+    "UTC"
+  ],
+  "summary": "Burkina Faso is a country in Western Africa. The capital is Ouagadougou. Population: 24.1 million. Area: 272,967 km².",
+  "rank": 58,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/bf.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Burkina Faso features two equal horizontal bands of red and green, with a yellow five-pointed star in the center.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Burkina_Faso",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/burkina-faso/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.884232Z"
+  }
+}

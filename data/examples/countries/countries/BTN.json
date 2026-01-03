@@ -1,0 +1,64 @@
+{
+  "id": "BTN",
+  "title": "Bhutan",
+  "officialName": "Kingdom of Bhutan",
+  "capital": "Thimphu",
+  "region": "asia",
+  "subregion": "Southern Asia",
+  "languages": [
+    "Dzongkha"
+  ],
+  "currencies": [
+    "BTN",
+    "INR"
+  ],
+  "geography": {
+    "area": 38394.0,
+    "landlocked": true,
+    "borders": [
+      "CHN",
+      "IND"
+    ],
+    "neighbourCount": 2
+  },
+  "population": {
+    "total": 784043,
+    "density": 20.42
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+975",
+  "timezones": [
+    "UTC+06:00"
+  ],
+  "summary": "Bhutan is a country in Southern Asia. The capital is Thimphu. Population: 784,043. Area: 38,394 km².",
+  "rank": 165,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/bt.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Bhutan is divided diagonally, from the lower hoist-side corner to the upper fly-side corner, into an upper yellow and a lower orange triangle. A fly-side facing white dragon holding four jewels in its claws is situated along the boundary of the two triangles.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Bhutan",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/bhutan/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.902268Z"
+  }
+}

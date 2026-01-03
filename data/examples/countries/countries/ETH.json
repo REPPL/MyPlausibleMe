@@ -1,0 +1,67 @@
+{
+  "id": "ETH",
+  "title": "Ethiopia",
+  "officialName": "Federal Democratic Republic of Ethiopia",
+  "capital": "Addis Ababa",
+  "region": "africa",
+  "subregion": "Eastern Africa",
+  "languages": [
+    "Amharic"
+  ],
+  "currencies": [
+    "ETB"
+  ],
+  "geography": {
+    "area": 1104300.0,
+    "landlocked": true,
+    "borders": [
+      "DJI",
+      "ERI",
+      "KEN",
+      "SOM",
+      "SSD",
+      "SDN"
+    ],
+    "neighbourCount": 6
+  },
+  "population": {
+    "total": 111652998,
+    "density": 101.11
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+251",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "summary": "Ethiopia is a country in Eastern Africa. The capital is Addis Ababa. Population: 111.7 million. Area: 1,104,300 km².",
+  "rank": 14,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/et.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Ethiopia is composed of three equal horizontal bands of green, yellow and red, with the national emblem superimposed at the center of the field. The national emblem comprises a light blue circle bearing a golden-yellow pentagram with single yellow rays emanating from the angles between the points of the pentagram.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ethiopia",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/ethiopia/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.874914Z"
+  }
+}

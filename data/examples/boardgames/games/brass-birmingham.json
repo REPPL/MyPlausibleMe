@@ -1,0 +1,31 @@
+{
+  "id": "brass-birmingham",
+  "title": "Brass: Birmingham",
+  "year": 2018,
+  "publishers": [
+    "Arclight"
+  ],
+  "players": {
+    "min": 2,
+    "max": 4
+  },
+  "playTime": 60,
+  "category": "economic",
+  "summary": "2018 boardgame",
+  "rank": 2,
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/224517",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Brass:_Birmingham",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "224517",
+    "fetchedAt": "2026-01-03T11:33:34.001972Z"
+  }
+}

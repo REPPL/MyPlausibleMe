@@ -1,0 +1,66 @@
+{
+  "id": "IDN",
+  "title": "Indonesia",
+  "officialName": "Republic of Indonesia",
+  "capital": "Jakarta",
+  "region": "asia",
+  "subregion": "South-Eastern Asia",
+  "languages": [
+    "Indonesian"
+  ],
+  "currencies": [
+    "IDR"
+  ],
+  "geography": {
+    "area": 1904569.0,
+    "landlocked": false,
+    "borders": [
+      "TLS",
+      "MYS",
+      "PNG"
+    ],
+    "neighbourCount": 3
+  },
+  "population": {
+    "total": 284438782,
+    "density": 149.35
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+62",
+  "timezones": [
+    "UTC+07:00",
+    "UTC+08:00",
+    "UTC+09:00"
+  ],
+  "summary": "Indonesia is a country in South-Eastern Asia. The capital is Jakarta. Population: 284.4 million. Area: 1,904,569 km².",
+  "rank": 4,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/id.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Indonesia is composed of two equal horizontal bands of red and white.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Indonesia",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/indonesia/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.871886Z"
+  }
+}

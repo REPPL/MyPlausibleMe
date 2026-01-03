@@ -1,0 +1,52 @@
+{
+  "id": "wolfgang-amadeus-mozart",
+  "title": "Wolfgang Amadeus Mozart",
+  "shortTitle": "Mozart",
+  "birthYear": 1756,
+  "deathYear": 1791,
+  "nationality": "Prince-Archbishopric of Salzburg",
+  "birthPlace": "Salzburg",
+  "era": "classical",
+  "statistics": {
+    "totalWorks": 8,
+    "lifespan": 35,
+    "activeYears": 17
+  },
+  "notableWorks": [
+    "Die Entführung aus dem Serail",
+    "Requiem",
+    "Così fan tutte",
+    "The Marriage of Figaro",
+    "Don Giovanni"
+  ],
+  "summary": "Wolfgang Amadeus Mozart (27 January 1756 – 5 December 1791) was a prolific and influential composer of the Classical period. Despite his short life, his rapid pace of composition and proficiency from an early age resulted in more than 800 works representing virtually every Western classical genre of his time. Many of these compositions are acknowledged as pinnacles of the symphonic, concertante, chamber, opera, and choral repertoires.",
+  "rank": 11,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Wolfgang-amadeus-mozart%201.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Wolfgang Amadeus Mozart",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q254",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q254",
+    "fetchedAt": "2026-01-03T12:19:33.144338Z"
+  }
+}

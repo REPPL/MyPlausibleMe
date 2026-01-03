@@ -1,0 +1,42 @@
+{
+  "id": "george-gershwin",
+  "title": "George Gershwin",
+  "shortTitle": "Gershwin",
+  "birthYear": 1956,
+  "nationality": "United States",
+  "birthPlace": "Chicago",
+  "era": "modern",
+  "statistics": {
+    "activeYears": 51
+  },
+  "summary": "George Gershwin was a United States modern composer born in 1956.",
+  "rank": 63,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/U.S.%20Department%20of%20Energy%20-%20Science%20-%20389%20005%20009%20%289786312446%29%20%28cropped%202%29.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of George Gershwin",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/George_Gershwin",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q151891",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q151891",
+    "fetchedAt": "2026-01-03T12:26:19.336357Z"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "PRK",
+  "title": "North Korea",
+  "officialName": "Democratic People's Republic of Korea",
+  "capital": "Pyongyang",
+  "region": "asia",
+  "subregion": "Eastern Asia",
+  "languages": [
+    "Korean"
+  ],
+  "currencies": [
+    "KPW"
+  ],
+  "geography": {
+    "area": 120538.0,
+    "landlocked": false,
+    "borders": [
+      "CHN",
+      "KOR",
+      "RUS"
+    ],
+    "neighbourCount": 3
+  },
+  "population": {
+    "total": 25950000,
+    "density": 215.28
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+850",
+  "timezones": [
+    "UTC+09:00"
+  ],
+  "summary": "North Korea is a country in Eastern Asia. The capital is Pyongyang. Population: 25.9 million. Area: 120,538 km².",
+  "rank": 56,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/kp.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of North Korea is composed of three horizontal bands — a large central white-edged red band, and a blue band above and beneath the red band. On the hoist side of the red band is a red five-pointed star within a white circle.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/North_Korea",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/north-korea/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.883846Z"
+  }
+}

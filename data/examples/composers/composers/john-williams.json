@@ -1,0 +1,50 @@
+{
+  "id": "john-williams",
+  "title": "John Williams",
+  "shortTitle": "Williams",
+  "birthYear": 1818,
+  "deathYear": 1893,
+  "nationality": "France",
+  "birthPlace": "Paris",
+  "era": "modern",
+  "statistics": {
+    "totalWorks": 3,
+    "lifespan": 75,
+    "activeYears": 57
+  },
+  "notableWorks": [
+    "Funeral March of a Marionette",
+    "Roméo et Juliete",
+    "Faust"
+  ],
+  "summary": "John Williams was a France modern composer born in 1818 who lived until 1893.",
+  "rank": 89,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Gounod%20%281890%29%20by%20Nadar.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of John Williams",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/John_Williams",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q180278",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q180278",
+    "fetchedAt": "2026-01-03T12:27:25.190204Z"
+  }
+}

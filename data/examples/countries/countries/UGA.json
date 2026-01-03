@@ -1,0 +1,67 @@
+{
+  "id": "UGA",
+  "title": "Uganda",
+  "officialName": "Republic of Uganda",
+  "capital": "Kampala",
+  "region": "africa",
+  "subregion": "Eastern Africa",
+  "languages": [
+    "English",
+    "Swahili"
+  ],
+  "currencies": [
+    "UGX"
+  ],
+  "geography": {
+    "area": 241550.0,
+    "landlocked": true,
+    "borders": [
+      "COD",
+      "KEN",
+      "RWA",
+      "SSD",
+      "TZA"
+    ],
+    "neighbourCount": 5
+  },
+  "population": {
+    "total": 45905417,
+    "density": 190.05
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+256",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "summary": "Uganda is a country in Eastern Africa. The capital is Kampala. Population: 45.9 million. Area: 241,550 km².",
+  "rank": 35,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/ug.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Uganda is composed of six equal horizontal bands of black, yellow, red, black, yellow and red. A white circle bearing a hoist-side facing grey red-crested crane is superimposed in the center of the field.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Uganda",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/uganda/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.879693Z"
+  }
+}

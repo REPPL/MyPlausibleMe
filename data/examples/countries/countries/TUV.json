@@ -1,0 +1,62 @@
+{
+  "id": "TUV",
+  "title": "Tuvalu",
+  "officialName": "Tuvalu",
+  "capital": "Funafuti",
+  "region": "oceania",
+  "subregion": "Polynesia",
+  "languages": [
+    "English",
+    "Tuvaluan"
+  ],
+  "currencies": [
+    "AUD",
+    "TVD"
+  ],
+  "geography": {
+    "area": 26.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 10643,
+    "density": 409.35
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+688",
+  "timezones": [
+    "UTC+12:00"
+  ],
+  "summary": "Tuvalu is a country in Polynesia. The capital is Funafuti. Population: 10,643. Area: 26 km².",
+  "rank": 230,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/tv.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Tuvalu has a light blue field with the flag of the United Kingdom — the Union Jack — in the canton. A representation of the country's nine Islands using nine five-pointed yellow stars is situated in the fly half of the field.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Tuvalu",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/tuvalu/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.911094Z"
+  }
+}

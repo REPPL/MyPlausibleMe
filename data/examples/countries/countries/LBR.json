@@ -1,0 +1,64 @@
+{
+  "id": "LBR",
+  "title": "Liberia",
+  "officialName": "Republic of Liberia",
+  "capital": "Monrovia",
+  "region": "africa",
+  "subregion": "Western Africa",
+  "languages": [
+    "English"
+  ],
+  "currencies": [
+    "LRD"
+  ],
+  "geography": {
+    "area": 111369.0,
+    "landlocked": false,
+    "borders": [
+      "GIN",
+      "CIV",
+      "SLE"
+    ],
+    "neighbourCount": 3
+  },
+  "population": {
+    "total": 5248621,
+    "density": 47.13
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+231",
+  "timezones": [
+    "UTC"
+  ],
+  "summary": "Liberia is a country in Western Africa. The capital is Monrovia. Population: 5.2 million. Area: 111,369 km².",
+  "rank": 126,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/lr.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Liberia is composed of eleven equal horizontal bands of red alternating with white. A blue square bearing a five-pointed white star is superimposed in the canton.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Liberia",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/liberia/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.896307Z"
+  }
+}

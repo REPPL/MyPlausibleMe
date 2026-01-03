@@ -1,0 +1,69 @@
+{
+  "id": "ZMB",
+  "title": "Zambia",
+  "officialName": "Republic of Zambia",
+  "capital": "Lusaka",
+  "region": "africa",
+  "subregion": "Eastern Africa",
+  "languages": [
+    "English"
+  ],
+  "currencies": [
+    "ZMW"
+  ],
+  "geography": {
+    "area": 752612.0,
+    "landlocked": true,
+    "borders": [
+      "AGO",
+      "BWA",
+      "COD",
+      "MWI",
+      "MOZ",
+      "NAM",
+      "TZA",
+      "ZWE"
+    ],
+    "neighbourCount": 8
+  },
+  "population": {
+    "total": 19693423,
+    "density": 26.17
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+260",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "summary": "Zambia is a country in Eastern Africa. The capital is Lusaka. Population: 19.7 million. Area: 752,612 km².",
+  "rank": 65,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/zm.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Zambia has a green field, on the fly side of which is a soaring orange African fish eagle above a rectangular area divided into three equal vertical bands of red, black and orange.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Zambia",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/zambia/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.885605Z"
+  }
+}

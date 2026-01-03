@@ -1,0 +1,33 @@
+{
+  "id": "blood-rage",
+  "title": "Blood Rage",
+  "year": 2015,
+  "designers": [
+    "Eric M. Lang"
+  ],
+  "publishers": [
+    "Asmodee"
+  ],
+  "players": {
+    "min": 2,
+    "max": 4
+  },
+  "category": "strategy",
+  "summary": "2015 board game",
+  "rank": 45,
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/170216",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Blood_Rage",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "170216",
+    "fetchedAt": "2026-01-03T11:39:11.957137Z"
+  }
+}

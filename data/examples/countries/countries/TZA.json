@@ -1,0 +1,70 @@
+{
+  "id": "TZA",
+  "title": "Tanzania",
+  "officialName": "United Republic of Tanzania",
+  "capital": "Dodoma",
+  "region": "africa",
+  "subregion": "Eastern Africa",
+  "languages": [
+    "English",
+    "Swahili"
+  ],
+  "currencies": [
+    "TZS"
+  ],
+  "geography": {
+    "area": 947303.0,
+    "landlocked": false,
+    "borders": [
+      "BDI",
+      "COD",
+      "KEN",
+      "MWI",
+      "MOZ",
+      "RWA",
+      "UGA",
+      "ZMB"
+    ],
+    "neighbourCount": 8
+  },
+  "population": {
+    "total": 68153004,
+    "density": 71.94
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+255",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "summary": "Tanzania is a country in Eastern Africa. The capital is Dodoma. Population: 68.2 million. Area: 947,303 km².",
+  "rank": 21,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/tz.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Tanzania features a yellow-edged black diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. Above and beneath this band are a green and light blue triangle respectively.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Tanzania",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/tanzania/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.876470Z"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "LVA",
+  "title": "Latvia",
+  "officialName": "Republic of Latvia",
+  "capital": "Riga",
+  "region": "europe",
+  "subregion": "Northern Europe",
+  "languages": [
+    "Latvian"
+  ],
+  "currencies": [
+    "EUR"
+  ],
+  "geography": {
+    "area": 64559.0,
+    "landlocked": false,
+    "borders": [
+      "BLR",
+      "EST",
+      "LTU",
+      "RUS"
+    ],
+    "neighbourCount": 4
+  },
+  "population": {
+    "total": 1829000,
+    "density": 28.33
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+371",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "summary": "Latvia is a country in Northern Europe. The capital is Riga. Population: 1.8 million. Area: 64,559 km².",
+  "rank": 149,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/lv.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Latvia has a carmine-red field with a thin white horizontal band across the middle of the field.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Latvia",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/latvia/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.899853Z"
+  }
+}

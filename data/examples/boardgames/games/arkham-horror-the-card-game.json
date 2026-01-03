@@ -1,0 +1,22 @@
+{
+  "id": "arkham-horror-the-card-game",
+  "title": "Arkham Horror: The Card Game",
+  "category": "cooperative",
+  "summary": "2016 card game",
+  "rank": 43,
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/205637",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Arkham_Horror:_The_Card_Game",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "205637",
+    "fetchedAt": "2026-01-03T11:39:11.956921Z"
+  }
+}

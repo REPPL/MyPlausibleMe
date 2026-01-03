@@ -1,0 +1,46 @@
+{
+  "id": "carcassonne",
+  "title": "Carcassonne",
+  "year": 2000,
+  "designers": [
+    "Klaus-Jürgen Wrede"
+  ],
+  "publishers": [
+    "Hans im Glück"
+  ],
+  "players": {
+    "min": 2,
+    "max": 6
+  },
+  "category": "family",
+  "summary": "2000 board game",
+  "rank": 24,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Deskohran%C3%AD%2008-10-05%20006.jpg",
+      "type": "photo",
+      "isPrimary": true,
+      "alt": "Carcassonne board game",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "varies",
+        "note": "Image from Wikimedia Commons. Check individual file for licence."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/822",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Carcassonne",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "822",
+    "fetchedAt": "2026-01-03T11:38:10.452387Z"
+  }
+}

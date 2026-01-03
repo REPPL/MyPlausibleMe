@@ -1,0 +1,46 @@
+{
+  "id": "dixit",
+  "title": "Dixit",
+  "year": 2008,
+  "designers": [
+    "Jean-Louis Roubira"
+  ],
+  "publishers": [
+    "Libellud"
+  ],
+  "players": {
+    "min": 3,
+    "max": 8
+  },
+  "category": "party",
+  "summary": "2008 party card game",
+  "rank": 26,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dixit%20game%200001.jpg",
+      "type": "photo",
+      "isPrimary": true,
+      "alt": "Dixit board game",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "varies",
+        "note": "Image from Wikimedia Commons. Check individual file for licence."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/39856",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dixit",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "39856",
+    "fetchedAt": "2026-01-03T11:38:10.452712Z"
+  }
+}

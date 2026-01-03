@@ -1,0 +1,62 @@
+{
+  "id": "MNP",
+  "title": "Northern Mariana Islands",
+  "officialName": "Commonwealth of the Northern Mariana Islands",
+  "capital": "Saipan",
+  "region": "oceania",
+  "subregion": "Micronesia",
+  "languages": [
+    "Carolinian",
+    "Chamorro",
+    "English"
+  ],
+  "currencies": [
+    "USD"
+  ],
+  "geography": {
+    "area": 464.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 47329,
+    "density": 102.0
+  },
+  "independent": false,
+  "drivingSide": "right",
+  "callingCode": "+1670",
+  "timezones": [
+    "UTC+10:00"
+  ],
+  "summary": "Northern Mariana Islands is a country in Micronesia. The capital is Saipan. Population: 47,329. Area: 464 km².",
+  "rank": 214,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/mp.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "Flag of Northern Mariana Islands",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Northern_Mariana_Islands",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/northern-mariana-islands/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.908983Z"
+  }
+}

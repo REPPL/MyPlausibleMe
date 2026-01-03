@@ -1,0 +1,63 @@
+{
+  "id": "KWT",
+  "title": "Kuwait",
+  "officialName": "State of Kuwait",
+  "capital": "Kuwait City",
+  "region": "asia",
+  "subregion": "Western Asia",
+  "languages": [
+    "Arabic"
+  ],
+  "currencies": [
+    "KWD"
+  ],
+  "geography": {
+    "area": 17818.0,
+    "landlocked": false,
+    "borders": [
+      "IRQ",
+      "SAU"
+    ],
+    "neighbourCount": 2
+  },
+  "population": {
+    "total": 4881254,
+    "density": 273.95
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+965",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "summary": "Kuwait is a country in Western Asia. The capital is Kuwait City. Population: 4.9 million. Area: 17,818 km².",
+  "rank": 128,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/kw.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Kuwait is composed of three equal horizontal bands of green, white and red, with a black trapezium superimposed on the hoist side of the field. This trapezium has its base on the hoist end and spans about one-fourth the width of the field.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Kuwait",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/kuwait/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.896604Z"
+  }
+}

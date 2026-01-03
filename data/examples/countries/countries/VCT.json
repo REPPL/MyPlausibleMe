@@ -1,0 +1,60 @@
+{
+  "id": "VCT",
+  "title": "Saint Vincent and the Grenadines",
+  "officialName": "Saint Vincent and the Grenadines",
+  "capital": "Kingstown",
+  "region": "americas",
+  "subregion": "Caribbean",
+  "languages": [
+    "English"
+  ],
+  "currencies": [
+    "XCD"
+  ],
+  "geography": {
+    "area": 389.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 110872,
+    "density": 285.02
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+1784",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "summary": "Saint Vincent and the Grenadines is a country in Caribbean. The capital is Kingstown. Population: 110,872. Area: 389 km².",
+  "rank": 195,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/vc.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Saint Vincent and the Grenadines is composed of three vertical bands of blue, gold and green. The gold band is twice as wide as the other two bands and bears three green diamonds arranged to form the letter V at its center.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/saint-vincent-and-the-grenadines/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.906448Z"
+  }
+}

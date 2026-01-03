@@ -1,0 +1,62 @@
+{
+  "id": "MUS",
+  "title": "Mauritius",
+  "officialName": "Republic of Mauritius",
+  "capital": "Port Louis",
+  "region": "africa",
+  "subregion": "Eastern Africa",
+  "languages": [
+    "English",
+    "French",
+    "Mauritian Creole"
+  ],
+  "currencies": [
+    "MUR"
+  ],
+  "geography": {
+    "area": 2040.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 1243741,
+    "density": 609.68
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+230",
+  "timezones": [
+    "UTC+04:00"
+  ],
+  "summary": "Mauritius is a country in Eastern Africa. The capital is Port Louis. Population: 1.2 million. Area: 2,040 km².",
+  "rank": 159,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/mu.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Mauritius is composed of four equal horizontal bands of red, blue, yellow and green.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mauritius",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/mauritius/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.901360Z"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "carl-philipp-emanuel-bach",
+  "title": "Carl Philipp Emanuel Bach",
+  "shortTitle": "Bach",
+  "birthYear": 1780,
+  "deathYear": 1831,
+  "nationality": "Kingdom of Prussia",
+  "birthPlace": "Burg",
+  "era": "classical",
+  "statistics": {
+    "totalWorks": 1,
+    "lifespan": 51,
+    "activeYears": 33
+  },
+  "notableWorks": [
+    "On War"
+  ],
+  "summary": "Carl Philipp Emanuel Bach (8 March 1714 – 14 December 1788), also formerly spelled Karl Philipp Emmanuel Bach, and commonly abbreviated C. P. E.",
+  "rank": 14,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Clausewitz.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Carl Philipp Emanuel Bach",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q76430",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q76430",
+    "fetchedAt": "2026-01-03T12:21:14.806070Z"
+  }
+}

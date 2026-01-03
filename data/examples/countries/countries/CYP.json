@@ -1,0 +1,61 @@
+{
+  "id": "CYP",
+  "title": "Cyprus",
+  "officialName": "Republic of Cyprus",
+  "capital": "Nicosia",
+  "region": "europe",
+  "subregion": "Southern Europe",
+  "languages": [
+    "Greek",
+    "Turkish"
+  ],
+  "currencies": [
+    "EUR"
+  ],
+  "geography": {
+    "area": 9251.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 1442614,
+    "density": 155.94
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+357",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "summary": "Cyprus is a country in Southern Europe. The capital is Nicosia. Population: 1.4 million. Area: 9,251 km².",
+  "rank": 155,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/cy.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Cyprus has a white field, at the center of which is a copper-colored silhouette of the Island of Cyprus above two green olive branches crossed at the stem.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Cyprus",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/cyprus/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.900743Z"
+  }
+}

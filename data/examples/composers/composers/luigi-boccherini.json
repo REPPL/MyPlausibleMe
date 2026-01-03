@@ -1,0 +1,44 @@
+{
+  "id": "luigi-boccherini",
+  "title": "Luigi Boccherini",
+  "shortTitle": "Boccherini",
+  "birthYear": 1912,
+  "deathYear": 1943,
+  "nationality": "Czechoslovakia",
+  "birthPlace": "Louny",
+  "era": "classical",
+  "statistics": {
+    "lifespan": 31,
+    "activeYears": 13
+  },
+  "summary": "Ridolfo Luigi Boccherini (, also US: ; Italian: [riˈdɔlfo luˈiːdʒi bokkeˈriːni] ; 19 February 1743 – 28 May 1805) was an Italian composer and cellist of the Classical era whose music retained a courtly and galante style even while he matured somewhat apart from the major classical musical centers. He is best known for a minuet from his String Quintet in E, Op. 11, No.",
+  "rank": 15,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Soviet%20Union%201969%20CPA%203746%20stamp%20%28World%20War%20II%20First%20Foreign%20Hero%20Otakar%20Jaro%C5%A1%29.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Luigi Boccherini",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Luigi_Boccherini",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q156070",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q156070",
+    "fetchedAt": "2026-01-03T12:21:48.558805Z"
+  }
+}

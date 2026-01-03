@@ -1,0 +1,66 @@
+{
+  "id": "COL",
+  "title": "Colombia",
+  "officialName": "Republic of Colombia",
+  "capital": "Bogotá",
+  "region": "americas",
+  "subregion": "South America",
+  "languages": [
+    "Spanish"
+  ],
+  "currencies": [
+    "COP"
+  ],
+  "geography": {
+    "area": 1141748.0,
+    "landlocked": false,
+    "borders": [
+      "BRA",
+      "ECU",
+      "PAN",
+      "PER",
+      "VEN"
+    ],
+    "neighbourCount": 5
+  },
+  "population": {
+    "total": 53057212,
+    "density": 46.47
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+57",
+  "timezones": [
+    "UTC-05:00"
+  ],
+  "summary": "Colombia is a country in South America. The capital is Bogotá. Population: 53.1 million. Area: 1,141,748 km².",
+  "rank": 27,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/co.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Colombia is composed of three horizontal bands of yellow, blue and red, with the yellow band twice the height of the other two bands.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Colombia",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/colombia/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.877826Z"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "robert-schumann",
+  "title": "Robert Schumann",
+  "shortTitle": "Schumann",
+  "birthYear": 1810,
+  "deathYear": 1856,
+  "nationality": "Kingdom of Saxony",
+  "birthPlace": "Zwickau",
+  "era": "romantic",
+  "statistics": {
+    "totalWorks": 4,
+    "lifespan": 46,
+    "activeYears": 28
+  },
+  "notableWorks": [
+    "Kinderszenen",
+    "Symphony No. 3",
+    "Symphony No. 2",
+    "Symphony No. 1"
+  ],
+  "summary": "Robert Schumann was a Kingdom of Saxony romantic composer born in 1810 who lived until 1856.",
+  "rank": 22,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert-schumann.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Robert Schumann",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Robert_Schumann",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q7351",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q7351",
+    "fetchedAt": "2026-01-03T12:24:42.532015Z"
+  }
+}

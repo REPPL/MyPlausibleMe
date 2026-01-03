@@ -1,0 +1,63 @@
+{
+  "id": "IRL",
+  "title": "Ireland",
+  "officialName": "Republic of Ireland",
+  "capital": "Dublin",
+  "region": "europe",
+  "subregion": "Northern Europe",
+  "languages": [
+    "English",
+    "Irish"
+  ],
+  "currencies": [
+    "EUR"
+  ],
+  "geography": {
+    "area": 70273.0,
+    "landlocked": false,
+    "borders": [
+      "GBR"
+    ],
+    "neighbourCount": 1
+  },
+  "population": {
+    "total": 5458600,
+    "density": 77.68
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+353",
+  "timezones": [
+    "UTC"
+  ],
+  "summary": "Ireland is a country in Northern Europe. The capital is Dublin. Population: 5.5 million. Area: 70,273 km².",
+  "rank": 121,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/ie.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Ireland is composed of three equal vertical bands of green, white and orange.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ireland",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/ireland/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.895463Z"
+  }
+}

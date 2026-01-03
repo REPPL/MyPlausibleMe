@@ -1,0 +1,66 @@
+{
+  "id": "MKD",
+  "title": "North Macedonia",
+  "officialName": "Republic of North Macedonia",
+  "capital": "Skopje",
+  "region": "europe",
+  "subregion": "Southeast Europe",
+  "languages": [
+    "Macedonian"
+  ],
+  "currencies": [
+    "MKD"
+  ],
+  "geography": {
+    "area": 25713.0,
+    "landlocked": true,
+    "borders": [
+      "ALB",
+      "BGR",
+      "GRC",
+      "UNK",
+      "SRB"
+    ],
+    "neighbourCount": 5
+  },
+  "population": {
+    "total": 1822612,
+    "density": 70.88
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+389",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "summary": "North Macedonia is a country in Southeast Europe. The capital is Skopje. Population: 1.8 million. Area: 25,713 km².",
+  "rank": 150,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/mk.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of North Macedonia has a red field, at the center of which is a golden-yellow sun with eight broadening rays that extend to the edges of the field.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/North_Macedonia",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/north-macedonia/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.900000Z"
+  }
+}

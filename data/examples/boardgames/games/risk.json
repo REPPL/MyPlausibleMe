@@ -1,0 +1,43 @@
+{
+  "id": "risk",
+  "title": "Risk",
+  "year": 1959,
+  "publishers": [
+    "Miro Company"
+  ],
+  "players": {
+    "min": 2,
+    "max": 7
+  },
+  "category": "war",
+  "summary": "strategic board game",
+  "rank": 32,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/DiplomacyBoard.png",
+      "type": "photo",
+      "isPrimary": true,
+      "alt": "Risk board game",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "varies",
+        "note": "Image from Wikimedia Commons. Check individual file for licence."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/483",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Risk",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "483",
+    "fetchedAt": "2026-01-03T11:38:41.188107Z"
+  }
+}

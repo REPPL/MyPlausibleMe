@@ -1,0 +1,68 @@
+{
+  "id": "IRN",
+  "title": "Iran",
+  "officialName": "Islamic Republic of Iran",
+  "capital": "Tehran",
+  "region": "asia",
+  "subregion": "Southern Asia",
+  "languages": [
+    "Persian (Farsi)"
+  ],
+  "currencies": [
+    "IRR"
+  ],
+  "geography": {
+    "area": 1648195.0,
+    "landlocked": false,
+    "borders": [
+      "AFG",
+      "ARM",
+      "AZE",
+      "IRQ",
+      "PAK",
+      "TUR",
+      "TKM"
+    ],
+    "neighbourCount": 7
+  },
+  "population": {
+    "total": 85961000,
+    "density": 52.15
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+98",
+  "timezones": [
+    "UTC+03:30"
+  ],
+  "summary": "Iran is a country in Southern Asia. The capital is Tehran. Population: 86.0 million. Area: 1,648,195 km².",
+  "rank": 17,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/ir.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Iran is composed of three equal horizontal bands of green, white and red. A red emblem of Iran is centered in the white band and Arabic inscriptions in white span the bottom edge of the green band and the top edge of the red band.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Iran",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/iran/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.875574Z"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "REU",
+  "title": "Réunion",
+  "officialName": "Réunion Island",
+  "capital": "Saint-Denis",
+  "region": "africa",
+  "subregion": "Eastern Africa",
+  "languages": [
+    "French"
+  ],
+  "currencies": [
+    "EUR"
+  ],
+  "geography": {
+    "area": 2511.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 896175,
+    "density": 356.9
+  },
+  "independent": false,
+  "drivingSide": "right",
+  "callingCode": "+262",
+  "timezones": [
+    "UTC+04:00"
+  ],
+  "summary": "Réunion is a country in Eastern Africa. The capital is Saint-Denis. Population: 896,175. Area: 2,511 km².",
+  "rank": 164,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/re.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "Flag of Réunion",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Réunion",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/r-union/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.902123Z"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "SLE",
+  "title": "Sierra Leone",
+  "officialName": "Republic of Sierra Leone",
+  "capital": "Freetown",
+  "region": "africa",
+  "subregion": "Western Africa",
+  "languages": [
+    "English"
+  ],
+  "currencies": [
+    "SLE"
+  ],
+  "geography": {
+    "area": 71740.0,
+    "landlocked": false,
+    "borders": [
+      "GIN",
+      "LBR"
+    ],
+    "neighbourCount": 2
+  },
+  "population": {
+    "total": 9077691,
+    "density": 126.54
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+232",
+  "timezones": [
+    "UTC"
+  ],
+  "summary": "Sierra Leone is a country in Western Africa. The capital is Freetown. Population: 9.1 million. Area: 71,740 km².",
+  "rank": 101,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/sl.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Sierra Leone is composed of three equal horizontal bands of green, white and blue.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sierra_Leone",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/sierra-leone/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.892322Z"
+  }
+}

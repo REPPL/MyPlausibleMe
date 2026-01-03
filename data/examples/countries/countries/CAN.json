@@ -1,0 +1,68 @@
+{
+  "id": "CAN",
+  "title": "Canada",
+  "officialName": "Canada",
+  "capital": "Ottawa",
+  "region": "americas",
+  "subregion": "North America",
+  "languages": [
+    "English",
+    "French"
+  ],
+  "currencies": [
+    "CAD"
+  ],
+  "geography": {
+    "area": 9984670.0,
+    "landlocked": false,
+    "borders": [
+      "USA"
+    ],
+    "neighbourCount": 1
+  },
+  "population": {
+    "total": 41651653,
+    "density": 4.17
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+1",
+  "timezones": [
+    "UTC-08:00",
+    "UTC-07:00",
+    "UTC-06:00",
+    "UTC-05:00",
+    "UTC-04:00",
+    "UTC-03:30"
+  ],
+  "summary": "Canada is a country in North America. The capital is Ottawa. Population: 41.7 million. Area: 9,984,670 km².",
+  "rank": 37,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/ca.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Canada is composed of a red vertical band on the hoist and fly sides and a central white square that is twice the width of the vertical bands. A large eleven-pointed red maple leaf is centered in the white square.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Canada",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/canada/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.880152Z"
+  }
+}

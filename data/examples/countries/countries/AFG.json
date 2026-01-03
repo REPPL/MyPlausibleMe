@@ -1,0 +1,69 @@
+{
+  "id": "AFG",
+  "title": "Afghanistan",
+  "officialName": "Islamic Republic of Afghanistan",
+  "capital": "Kabul",
+  "region": "asia",
+  "subregion": "Southern Asia",
+  "languages": [
+    "Dari",
+    "Pashto",
+    "Turkmen"
+  ],
+  "currencies": [
+    "AFN"
+  ],
+  "geography": {
+    "area": 652230.0,
+    "landlocked": true,
+    "borders": [
+      "IRN",
+      "PAK",
+      "TKM",
+      "UZB",
+      "TJK",
+      "CHN"
+    ],
+    "neighbourCount": 6
+  },
+  "population": {
+    "total": 43844000,
+    "density": 67.22
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+93",
+  "timezones": [
+    "UTC+04:30"
+  ],
+  "summary": "Afghanistan is a country in Southern Asia. The capital is Kabul. Population: 43.8 million. Area: 652,230 km².",
+  "rank": 36,
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of the Islamic Emirate of Afghanistan has a white field with Arabic inscriptions — the Shahada — in black across its center.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Afghanistan",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/afghanistan/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.879921Z"
+  }
+}

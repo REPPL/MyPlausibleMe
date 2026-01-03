@@ -1,0 +1,31 @@
+{
+  "id": "brass-lancashire",
+  "title": "Brass: Lancashire",
+  "year": 2007,
+  "publishers": [
+    "Arclight"
+  ],
+  "players": {
+    "min": 2,
+    "max": 4
+  },
+  "playTime": 60,
+  "category": "economic",
+  "summary": "2007 boardgame",
+  "rank": 15,
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/28720",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Brass:_Lancashire",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "28720",
+    "fetchedAt": "2026-01-03T11:37:39.700506Z"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "BVT",
+  "title": "Bouvet Island",
+  "officialName": "Bouvet Island",
+  "capital": null,
+  "region": "antarctic",
+  "subregion": "",
+  "languages": [
+    "Norwegian"
+  ],
+  "currencies": [],
+  "geography": {
+    "area": 49.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 0,
+    "density": 0.0
+  },
+  "independent": false,
+  "drivingSide": "right",
+  "callingCode": "+47",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "summary": "Bouvet Island is a country in Antarctic. Area: 49 km².",
+  "rank": 248,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/bv.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "Flag of Bouvet Island",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Bouvet_Island",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/bouvet-island/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.913457Z"
+  }
+}

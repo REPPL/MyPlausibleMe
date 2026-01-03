@@ -1,0 +1,60 @@
+{
+  "id": "STP",
+  "title": "São Tomé and Príncipe",
+  "officialName": "Democratic Republic of São Tomé and Príncipe",
+  "capital": "São Tomé",
+  "region": "africa",
+  "subregion": "Middle Africa",
+  "languages": [
+    "Portuguese"
+  ],
+  "currencies": [
+    "STN"
+  ],
+  "geography": {
+    "area": 964.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 209607,
+    "density": 217.43
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+239",
+  "timezones": [
+    "UTC"
+  ],
+  "summary": "São Tomé and Príncipe is a country in Middle Africa. The capital is São Tomé. Population: 209,607. Area: 964 km².",
+  "rank": 188,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/st.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "Flag of São Tomé and Príncipe",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/São_Tomé_and_Príncipe",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/s-o-tom-and-pr-ncipe/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.905461Z"
+  }
+}

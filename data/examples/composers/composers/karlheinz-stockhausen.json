@@ -1,0 +1,23 @@
+{
+  "id": "karlheinz-stockhausen",
+  "title": "Karlheinz Stockhausen",
+  "shortTitle": "Stockhausen",
+  "era": "modern",
+  "summary": "Karlheinz Stockhausen was a European modern composer.",
+  "rank": 80,
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Karlheinz_Stockhausen",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q155815",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q155815",
+    "fetchedAt": "2026-01-03T12:27:04.714905Z"
+  }
+}

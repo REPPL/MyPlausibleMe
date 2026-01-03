@@ -1,0 +1,83 @@
+{
+  "id": "RUS",
+  "title": "Russia",
+  "officialName": "Russian Federation",
+  "capital": "Moscow",
+  "region": "europe",
+  "subregion": "Eastern Europe",
+  "languages": [
+    "Russian"
+  ],
+  "currencies": [
+    "RUB"
+  ],
+  "geography": {
+    "area": 17098246.0,
+    "landlocked": false,
+    "borders": [
+      "AZE",
+      "BLR",
+      "CHN",
+      "EST",
+      "FIN",
+      "GEO",
+      "KAZ",
+      "PRK",
+      "LVA",
+      "LTU",
+      "MNG",
+      "NOR",
+      "POL",
+      "UKR"
+    ],
+    "neighbourCount": 14
+  },
+  "population": {
+    "total": 146028325,
+    "density": 8.54
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+73",
+  "timezones": [
+    "UTC+03:00",
+    "UTC+04:00",
+    "UTC+06:00",
+    "UTC+07:00",
+    "UTC+08:00",
+    "UTC+09:00",
+    "UTC+10:00",
+    "UTC+11:00",
+    "UTC+12:00"
+  ],
+  "summary": "Russia is a country in Eastern Europe. The capital is Moscow. Population: 146.0 million. Area: 17,098,246 km².",
+  "rank": 9,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/ru.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Russia is composed of three equal horizontal bands of white, blue and red.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Russia",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/russia/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.873788Z"
+  }
+}

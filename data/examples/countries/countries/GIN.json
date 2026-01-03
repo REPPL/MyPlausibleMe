@@ -1,0 +1,67 @@
+{
+  "id": "GIN",
+  "title": "Guinea",
+  "officialName": "Republic of Guinea",
+  "capital": "Conakry",
+  "region": "africa",
+  "subregion": "Western Africa",
+  "languages": [
+    "French"
+  ],
+  "currencies": [
+    "GNF"
+  ],
+  "geography": {
+    "area": 245857.0,
+    "landlocked": false,
+    "borders": [
+      "CIV",
+      "GNB",
+      "LBR",
+      "MLI",
+      "SEN",
+      "SLE"
+    ],
+    "neighbourCount": 6
+  },
+  "population": {
+    "total": 14363931,
+    "density": 58.42
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+224",
+  "timezones": [
+    "UTC"
+  ],
+  "summary": "Guinea is a country in Western Africa. The capital is Conakry. Population: 14.4 million. Area: 245,857 km².",
+  "rank": 76,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/gn.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Guinea is composed of three equal vertical bands of red, yellow and green.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Guinea",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/guinea/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.887897Z"
+  }
+}

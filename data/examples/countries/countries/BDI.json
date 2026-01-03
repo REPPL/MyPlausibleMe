@@ -1,0 +1,65 @@
+{
+  "id": "BDI",
+  "title": "Burundi",
+  "officialName": "Republic of Burundi",
+  "capital": "Gitega",
+  "region": "africa",
+  "subregion": "Eastern Africa",
+  "languages": [
+    "French",
+    "Kirundi"
+  ],
+  "currencies": [
+    "BIF"
+  ],
+  "geography": {
+    "area": 27834.0,
+    "landlocked": true,
+    "borders": [
+      "COD",
+      "RWA",
+      "TZA"
+    ],
+    "neighbourCount": 3
+  },
+  "population": {
+    "total": 12332788,
+    "density": 443.08
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+257",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "summary": "Burundi is a country in Eastern Africa. The capital is Gitega. Population: 12.3 million. Area: 27,834 km².",
+  "rank": 79,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/bi.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Burundi is divided by a white diagonal cross into four alternating triangular areas of red at the top and bottom, and green on the hoist and fly sides. A white circle, with three green-edged red six-pointed stars arranged to form a triangle, is superimposed at the center of the cross.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Burundi",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/burundi/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.888480Z"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "IOT",
+  "title": "British Indian Ocean Territory",
+  "officialName": "British Indian Ocean Territory",
+  "capital": "Diego Garcia",
+  "region": "africa",
+  "subregion": "Eastern Africa",
+  "languages": [
+    "English"
+  ],
+  "currencies": [
+    "USD"
+  ],
+  "geography": {
+    "area": 60.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 0,
+    "density": 0.0
+  },
+  "independent": false,
+  "drivingSide": "right",
+  "callingCode": "+246",
+  "timezones": [
+    "UTC+06:00"
+  ],
+  "summary": "British Indian Ocean Territory is a country in Eastern Africa. The capital is Diego Garcia. Area: 60 km².",
+  "rank": 246,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/io.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "Flag of British Indian Ocean Territory",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/British_Indian_Ocean_Territory",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/british-indian-ocean-territory/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.913208Z"
+  }
+}

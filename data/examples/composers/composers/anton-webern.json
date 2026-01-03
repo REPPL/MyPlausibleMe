@@ -1,0 +1,23 @@
+{
+  "id": "anton-webern",
+  "title": "Anton Webern",
+  "shortTitle": "Webern",
+  "era": "modern",
+  "summary": "Anton Webern was a European modern composer.",
+  "rank": 76,
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Anton_Webern",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q155819",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q155819",
+    "fetchedAt": "2026-01-03T12:26:55.723250Z"
+  }
+}

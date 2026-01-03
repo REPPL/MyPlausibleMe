@@ -1,0 +1,65 @@
+{
+  "id": "KHM",
+  "title": "Cambodia",
+  "officialName": "Kingdom of Cambodia",
+  "capital": "Phnom Penh",
+  "region": "asia",
+  "subregion": "South-Eastern Asia",
+  "languages": [
+    "Khmer"
+  ],
+  "currencies": [
+    "KHR",
+    "USD"
+  ],
+  "geography": {
+    "area": 181035.0,
+    "landlocked": false,
+    "borders": [
+      "LAO",
+      "THA",
+      "VNM"
+    ],
+    "neighbourCount": 3
+  },
+  "population": {
+    "total": 17577760,
+    "density": 97.1
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+855",
+  "timezones": [
+    "UTC+07:00"
+  ],
+  "summary": "Cambodia is a country in South-Eastern Asia. The capital is Phnom Penh. Population: 17.6 million. Area: 181,035 km².",
+  "rank": 73,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/kh.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Cambodia features three horizontal bands of blue, red and blue, with a white depiction of the temple complex, Angkor Wat centered in the red band.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Cambodia",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/cambodia/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.887216Z"
+  }
+}

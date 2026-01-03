@@ -1,0 +1,43 @@
+{
+  "id": "pandemic",
+  "title": "Pandemic",
+  "year": 2008,
+  "designers": [
+    "Matt Leacock"
+  ],
+  "players": {
+    "min": 2,
+    "max": 4
+  },
+  "category": "cooperative",
+  "summary": "2008 cooperative board game",
+  "rank": 23,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Essen%202008%2050101.jpg",
+      "type": "photo",
+      "isPrimary": true,
+      "alt": "Pandemic board game",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "varies",
+        "note": "Image from Wikimedia Commons. Check individual file for licence."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/30549",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pandemic",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "30549",
+    "fetchedAt": "2026-01-03T11:38:10.452213Z"
+  }
+}

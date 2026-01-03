@@ -1,0 +1,52 @@
+{
+  "id": "jacques-offenbach",
+  "title": "Jacques Offenbach",
+  "shortTitle": "Offenbach",
+  "birthYear": 1928,
+  "deathYear": 2007,
+  "nationality": "Germany",
+  "birthPlace": "Mödrath castle",
+  "era": "romantic",
+  "statistics": {
+    "totalWorks": 6,
+    "lifespan": 79,
+    "activeYears": 61
+  },
+  "notableWorks": [
+    "Solo",
+    "Momente",
+    "Jubilee",
+    "Mixtur",
+    "Klang"
+  ],
+  "summary": "Jacques Offenbach was a Germany romantic composer born in 1928 who lived until 2007.",
+  "rank": 53,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/St.%20im%20Garten%20Mai%202005%20RGB.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Jacques Offenbach",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Jacques_Offenbach",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q154556",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q154556",
+    "fetchedAt": "2026-01-03T12:25:56.467689Z"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "caverna",
+  "title": "Caverna",
+  "year": 2013,
+  "designers": [
+    "Uwe Rosenberg"
+  ],
+  "players": {
+    "min": 1,
+    "max": 7
+  },
+  "category": "strategy",
+  "summary": "2013 board game",
+  "rank": 14,
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/102794",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Caverna",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "102794",
+    "fetchedAt": "2026-01-03T11:37:39.700293Z"
+  }
+}

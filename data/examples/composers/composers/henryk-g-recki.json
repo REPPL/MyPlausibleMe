@@ -1,0 +1,44 @@
+{
+  "id": "henryk-g-recki",
+  "title": "Henryk Górecki",
+  "shortTitle": "Górecki",
+  "birthYear": 1854,
+  "deathYear": 1931,
+  "nationality": "United Kingdom",
+  "birthPlace": "London",
+  "era": "modern",
+  "statistics": {
+    "lifespan": 77,
+    "activeYears": 59
+  },
+  "summary": "Henryk Górecki was a United Kingdom modern composer born in 1854 who lived until 1931.",
+  "rank": 88,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Algernon%20Parsons.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Henryk Górecki",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Henryk_Górecki",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q150910",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q150910",
+    "fetchedAt": "2026-01-03T12:27:22.955935Z"
+  }
+}

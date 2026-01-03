@@ -1,0 +1,66 @@
+{
+  "id": "JOR",
+  "title": "Jordan",
+  "officialName": "Hashemite Kingdom of Jordan",
+  "capital": "Amman",
+  "region": "asia",
+  "subregion": "Western Asia",
+  "languages": [
+    "Arabic"
+  ],
+  "currencies": [
+    "JOD"
+  ],
+  "geography": {
+    "area": 89342.0,
+    "landlocked": false,
+    "borders": [
+      "IRQ",
+      "ISR",
+      "PSE",
+      "SAU",
+      "SYR"
+    ],
+    "neighbourCount": 5
+  },
+  "population": {
+    "total": 11734000,
+    "density": 131.34
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+962",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "summary": "Jordan is a country in Western Asia. The capital is Amman. Population: 11.7 million. Area: 89,342 km².",
+  "rank": 84,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/jo.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Jordan is composed of three equal horizontal bands of black, white and green, with a red isosceles triangle superimposed on the hoist side of the field. This triangle has its base on the hoist end, spans about half the width of the field and bears a small seven-pointed white star at its center.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Jordan",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/jordan/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.889424Z"
+  }
+}

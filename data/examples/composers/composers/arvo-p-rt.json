@@ -1,0 +1,42 @@
+{
+  "id": "arvo-p-rt",
+  "title": "Arvo Pärt",
+  "shortTitle": "Pärt",
+  "birthYear": 1976,
+  "nationality": "United Kingdom",
+  "birthPlace": "Beirut",
+  "era": "modern",
+  "statistics": {
+    "activeYears": 31
+  },
+  "summary": "Arvo Pärt was a United Kingdom modern composer born in 1976.",
+  "rank": 86,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Yasmien%20Hamdan%20Berlin%20Nov%202013f.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Arvo Pärt",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Arvo_Pärt",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q195788",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q195788",
+    "fetchedAt": "2026-01-03T12:27:18.253409Z"
+  }
+}

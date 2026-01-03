@@ -1,0 +1,50 @@
+{
+  "id": "alexander-borodin",
+  "title": "Alexander Borodin",
+  "shortTitle": "Borodin",
+  "birthYear": 1874,
+  "deathYear": 1951,
+  "nationality": "United States",
+  "birthPlace": "Vienna",
+  "era": "romantic",
+  "statistics": {
+    "totalWorks": 3,
+    "lifespan": 77,
+    "activeYears": 59
+  },
+  "notableWorks": [
+    "Erwartung",
+    "A Survivor from Warsaw",
+    "Verklärte Nacht"
+  ],
+  "summary": "Alexander Borodin was a United States romantic composer born in 1874 who lived until 1951.",
+  "rank": 42,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Arnold%20sch%C3%B6nberg%20man%20ray.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Alexander Borodin",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Alexander_Borodin",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q154770",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q154770",
+    "fetchedAt": "2026-01-03T12:25:30.566328Z"
+  }
+}

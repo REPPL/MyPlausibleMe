@@ -1,0 +1,64 @@
+{
+  "id": "PAN",
+  "title": "Panama",
+  "officialName": "Republic of Panama",
+  "capital": "Panama City",
+  "region": "americas",
+  "subregion": "Central America",
+  "languages": [
+    "Spanish"
+  ],
+  "currencies": [
+    "PAB",
+    "USD"
+  ],
+  "geography": {
+    "area": 75417.0,
+    "landlocked": false,
+    "borders": [
+      "COL",
+      "CRI"
+    ],
+    "neighbourCount": 2
+  },
+  "population": {
+    "total": 4064780,
+    "density": 53.9
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+507",
+  "timezones": [
+    "UTC-05:00"
+  ],
+  "summary": "Panama is a country in Central America. The capital is Panama City. Population: 4.1 million. Area: 75,417 km².",
+  "rank": 129,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/pa.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Panama is composed of four equal rectangular areas — a white rectangular area with a blue five-pointed star at its center, a red rectangular area, a white rectangular area with a red five-pointed star at its center, and a blue rectangular area — in the upper hoist side, upper fly side, lower fly side and lower hoist side respectively.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Panama",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/panama/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.896748Z"
+  }
+}

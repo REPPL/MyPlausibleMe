@@ -1,0 +1,67 @@
+{
+  "id": "UZB",
+  "title": "Uzbekistan",
+  "officialName": "Republic of Uzbekistan",
+  "capital": "Tashkent",
+  "region": "asia",
+  "subregion": "Central Asia",
+  "languages": [
+    "Russian",
+    "Uzbek"
+  ],
+  "currencies": [
+    "UZS"
+  ],
+  "geography": {
+    "area": 447400.0,
+    "landlocked": true,
+    "borders": [
+      "AFG",
+      "KAZ",
+      "KGZ",
+      "TJK",
+      "TKM"
+    ],
+    "neighbourCount": 5
+  },
+  "population": {
+    "total": 37859698,
+    "density": 84.62
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+998",
+  "timezones": [
+    "UTC+05:00"
+  ],
+  "summary": "Uzbekistan is a country in Central Asia. The capital is Tashkent. Population: 37.9 million. Area: 447,400 km².",
+  "rank": 38,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/uz.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Uzbekistan is composed of three equal horizontal bands of turquoise, white with red top and bottom edges, and green. On the hoist side of the turquoise band is a fly-side facing white crescent and twelve five-pointed white stars arranged just outside the crescent opening in three rows comprising three, four and five stars.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Uzbekistan",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/uzbekistan/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.880371Z"
+  }
+}

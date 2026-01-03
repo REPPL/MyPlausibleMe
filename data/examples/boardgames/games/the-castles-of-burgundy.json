@@ -1,0 +1,44 @@
+{
+  "id": "the-castles-of-burgundy",
+  "title": "The Castles of Burgundy",
+  "year": 2011,
+  "publishers": [
+    "Giochi Uniti"
+  ],
+  "players": {
+    "min": 2,
+    "max": 4
+  },
+  "playTime": 30,
+  "category": "strategy",
+  "summary": "2011 board game",
+  "rank": 13,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Castles%20of%20Burgundy%20%28Board%20Game%29.jpg",
+      "type": "photo",
+      "isPrimary": true,
+      "alt": "The Castles of Burgundy board game",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "varies",
+        "note": "Image from Wikimedia Commons. Check individual file for licence."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/84876",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Castles_of_Burgundy",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "84876",
+    "fetchedAt": "2026-01-03T11:37:39.700015Z"
+  }
+}

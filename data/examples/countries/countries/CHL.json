@@ -1,0 +1,65 @@
+{
+  "id": "CHL",
+  "title": "Chile",
+  "officialName": "Republic of Chile",
+  "capital": "Santiago",
+  "region": "americas",
+  "subregion": "South America",
+  "languages": [
+    "Spanish"
+  ],
+  "currencies": [
+    "CLP"
+  ],
+  "geography": {
+    "area": 756102.0,
+    "landlocked": false,
+    "borders": [
+      "ARG",
+      "BOL",
+      "PER"
+    ],
+    "neighbourCount": 3
+  },
+  "population": {
+    "total": 20206953,
+    "density": 26.73
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+56",
+  "timezones": [
+    "UTC-06:00",
+    "UTC-04:00"
+  ],
+  "summary": "Chile is a country in South America. The capital is Santiago. Population: 20.2 million. Area: 756,102 km².",
+  "rank": 64,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/cl.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Chile is composed of two equal horizontal bands of white and red, with a blue square of the same height as the white band superimposed in the canton. A white five-pointed star is centered in the blue square.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Chile",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/chile/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.885415Z"
+  }
+}

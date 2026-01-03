@@ -1,0 +1,63 @@
+{
+  "id": "EST",
+  "title": "Estonia",
+  "officialName": "Republic of Estonia",
+  "capital": "Tallinn",
+  "region": "europe",
+  "subregion": "Northern Europe",
+  "languages": [
+    "Estonian"
+  ],
+  "currencies": [
+    "EUR"
+  ],
+  "geography": {
+    "area": 45227.0,
+    "landlocked": false,
+    "borders": [
+      "LVA",
+      "RUS"
+    ],
+    "neighbourCount": 2
+  },
+  "population": {
+    "total": 1369995,
+    "density": 30.29
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+372",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "summary": "Estonia is a country in Northern Europe. The capital is Tallinn. Population: 1.4 million. Area: 45,227 km².",
+  "rank": 157,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/ee.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Estonia is composed of three equal horizontal bands of blue, black and white.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Estonia",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/estonia/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.901034Z"
+  }
+}

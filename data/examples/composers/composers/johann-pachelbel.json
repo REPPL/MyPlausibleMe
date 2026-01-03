@@ -1,0 +1,23 @@
+{
+  "id": "johann-pachelbel",
+  "title": "Johann Pachelbel",
+  "shortTitle": "Pachelbel",
+  "era": "baroque",
+  "summary": "Johann Pachelbel (also Bachelbel; baptised 11 September [O.S. 1 September] 1653 – buried 9 March 1706) was a German composer, organist, and teacher who brought the south German organ schools to their peak. He composed a large body of sacred and secular music, and his contributions to the development of the chorale prelude and fugue have earned him a place among the most important composers of the middle Baroque era.\nPachelbel's music enjoyed enormous popularity during his lifetime; he had many pupils and his music became a model for the composers of south and central Germany.",
+  "rank": 9,
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Johann_Pachelbel",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q311612",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q311612",
+    "fetchedAt": "2026-01-03T12:18:19.436331Z"
+  }
+}

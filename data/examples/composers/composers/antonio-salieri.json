@@ -1,0 +1,23 @@
+{
+  "id": "antonio-salieri",
+  "title": "Antonio Salieri",
+  "shortTitle": "Salieri",
+  "era": "classical",
+  "summary": "Antonio Salieri (18 August 1750 – 7 May 1825) was an Italian composer and teacher of the classical period. He was born in Legnago, south of Verona, in the Republic of Venice, and spent his adult life and career as a subject of the Habsburg monarchy.\nSalieri was a pivotal figure in the development of late 18th-century opera. As a student of Florian Leopold Gassmann, and a protégé of Christoph Willibald Gluck, Salieri was a cosmopolitan composer who wrote operas in three languages.",
+  "rank": 18,
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Antonio_Salieri",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q151829",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q151829",
+    "fetchedAt": "2026-01-03T12:23:29.823072Z"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "LTU",
+  "title": "Lithuania",
+  "officialName": "Republic of Lithuania",
+  "capital": "Vilnius",
+  "region": "europe",
+  "subregion": "Northern Europe",
+  "languages": [
+    "Lithuanian"
+  ],
+  "currencies": [
+    "EUR"
+  ],
+  "geography": {
+    "area": 65300.0,
+    "landlocked": false,
+    "borders": [
+      "BLR",
+      "LVA",
+      "POL",
+      "RUS"
+    ],
+    "neighbourCount": 4
+  },
+  "population": {
+    "total": 2894886,
+    "density": 44.33
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+370",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "summary": "Lithuania is a country in Northern Europe. The capital is Vilnius. Population: 2.9 million. Area: 65,300 km².",
+  "rank": 140,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/lt.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Lithuania is composed of three equal horizontal bands of yellow, green and red.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Lithuania",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/lithuania/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.898410Z"
+  }
+}

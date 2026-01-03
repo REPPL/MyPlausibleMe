@@ -1,0 +1,23 @@
+{
+  "id": "alfred-schnittke",
+  "title": "Alfred Schnittke",
+  "shortTitle": "Schnittke",
+  "era": "modern",
+  "summary": "Alfred Schnittke was a European modern composer.",
+  "rank": 87,
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Alfred_Schnittke",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q206193",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q206193",
+    "fetchedAt": "2026-01-03T12:27:20.457924Z"
+  }
+}

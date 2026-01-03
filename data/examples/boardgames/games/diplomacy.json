@@ -1,0 +1,42 @@
+{
+  "id": "diplomacy",
+  "title": "Diplomacy",
+  "publishers": [
+    "Lansay"
+  ],
+  "players": {
+    "min": 2,
+    "max": 2
+  },
+  "category": "war",
+  "summary": "strategy board game",
+  "rank": 31,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Othello-Standard-Board.jpg",
+      "type": "photo",
+      "isPrimary": true,
+      "alt": "Diplomacy board game",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "varies",
+        "note": "Image from Wikimedia Commons. Check individual file for licence."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/2389",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Diplomacy",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "2389",
+    "fetchedAt": "2026-01-03T11:38:41.187753Z"
+  }
+}

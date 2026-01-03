@@ -1,0 +1,29 @@
+{
+  "id": "twilight-struggle",
+  "title": "Twilight Struggle",
+  "publishers": [
+    "GMT Games"
+  ],
+  "players": {
+    "min": 2,
+    "max": 2
+  },
+  "category": "war",
+  "summary": "2005 board game",
+  "rank": 11,
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/12333",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Twilight_Struggle",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "12333",
+    "fetchedAt": "2026-01-03T11:37:39.699198Z"
+  }
+}

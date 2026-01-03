@@ -1,0 +1,63 @@
+{
+  "id": "TLS",
+  "title": "Timor-Leste",
+  "officialName": "Democratic Republic of Timor-Leste",
+  "capital": "Dili",
+  "region": "asia",
+  "subregion": "South-Eastern Asia",
+  "languages": [
+    "Portuguese",
+    "Tetum"
+  ],
+  "currencies": [
+    "USD"
+  ],
+  "geography": {
+    "area": 14874.0,
+    "landlocked": false,
+    "borders": [
+      "IDN"
+    ],
+    "neighbourCount": 1
+  },
+  "population": {
+    "total": 1391221,
+    "density": 93.53
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+670",
+  "timezones": [
+    "UTC+09:00"
+  ],
+  "summary": "Timor-Leste is a country in South-Eastern Asia. The capital is Dili. Population: 1.4 million. Area: 14,874 km².",
+  "rank": 156,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/tl.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Timor-Leste has a red field with two isosceles triangles which share a common base on the hoist end. The smaller black triangle, which bears a five-pointed white star at its center and spans one-third the width of the field, is superimposed on the larger yellow triangle that extends to the center of the field.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Timor-Leste",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/timor-leste/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.900888Z"
+  }
+}

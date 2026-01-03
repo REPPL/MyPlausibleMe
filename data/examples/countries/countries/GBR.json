@@ -1,0 +1,70 @@
+{
+  "id": "GBR",
+  "title": "United Kingdom",
+  "officialName": "United Kingdom of Great Britain and Northern Ireland",
+  "capital": "London",
+  "region": "europe",
+  "subregion": "Northern Europe",
+  "languages": [
+    "English"
+  ],
+  "currencies": [
+    "GBP"
+  ],
+  "geography": {
+    "area": 244376.0,
+    "landlocked": false,
+    "borders": [
+      "IRL"
+    ],
+    "neighbourCount": 1
+  },
+  "population": {
+    "total": 69281437,
+    "density": 283.5
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+44",
+  "timezones": [
+    "UTC-08:00",
+    "UTC-05:00",
+    "UTC-04:00",
+    "UTC-03:00",
+    "UTC-02:00",
+    "UTC",
+    "UTC+01:00",
+    "UTC+02:00",
+    "UTC+06:00"
+  ],
+  "summary": "United Kingdom is a country in Northern Europe. The capital is London. Population: 69.3 million. Area: 244,376 km².",
+  "rank": 20,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/gb.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of the United Kingdom — the Union Jack — has a blue field. It features the white-edged red cross of Saint George superimposed on the diagonal red cross of Saint Patrick which is superimposed on the diagonal white cross of Saint Andrew.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/United_Kingdom",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/united-kingdom/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.876245Z"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "carl-maria-von-weber",
+  "title": "Carl Maria von Weber",
+  "shortTitle": "von Weber",
+  "birthYear": 1885,
+  "deathYear": 1971,
+  "nationality": "Hungary",
+  "birthPlace": "Budapest",
+  "era": "romantic",
+  "statistics": {
+    "lifespan": 86,
+    "activeYears": 68
+  },
+  "summary": "Carl Maria von Weber was a Hungary romantic composer born in 1885 who lived until 1971.",
+  "rank": 51,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Luk%C3%A1cs%20Gy%C3%B6rgy.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Carl Maria von Weber",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Carl_Maria_von_Weber",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q151523",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q151523",
+    "fetchedAt": "2026-01-03T12:25:51.820710Z"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "$schema": "https://itemdeck.app/schemas/v2/collection.json",
+  "id": "classical-composers",
+  "name": "Classical Composers",
+  "description": "Great composers from the Baroque, Classical, Romantic, and Modern eras. Sourced from Wikidata.",
+  "schemaVersion": "v2",
+  "version": "1.0.0",
+  "entityTypes": {
+    "composer": {
+      "primary": true,
+      "label": "Composer",
+      "labelPlural": "Composers",
+      "description": "A classical music composer.",
+      "fields": {
+        "id": { "type": "string", "description": "Slug identifier", "required": true },
+        "title": { "type": "string", "description": "Full name", "required": true },
+        "shortTitle": { "type": "string", "description": "Common surname" },
+        "birthYear": { "type": "number", "description": "Year of birth" },
+        "deathYear": { "type": "number", "description": "Year of death (null if living)" },
+        "nationality": { "type": "string", "description": "Nationality or country of origin" },
+        "birthPlace": { "type": "string", "description": "Place of birth" },
+        "era": { "type": "string", "ref": "era", "description": "Musical era" },
+        "genres": { "type": "array", "description": "Musical genres and forms" },
+        "statistics": {
+          "type": "object",
+          "description": "Composition statistics",
+          "properties": {
+            "totalWorks": { "type": "number", "description": "Total known compositions" },
+            "symphonies": { "type": "number", "description": "Number of symphonies" },
+            "operas": { "type": "number", "description": "Number of operas" },
+            "concertos": { "type": "number", "description": "Number of concertos" },
+            "lifespan": { "type": "number", "description": "Years lived" },
+            "activeYears": { "type": "number", "description": "Estimated years composing" }
+          }
+        },
+        "notableWorks": { "type": "array", "description": "Famous compositions" },
+        "summary": { "type": "text", "description": "Biography summary", "required": true },
+        "rank": { "type": "number", "description": "Rank in this collection" },
+        "images": { "type": "images" },
+        "detailUrls": { "type": "detailUrls", "required": true }
+      }
+    },
+    "era": {
+      "label": "Era",
+      "labelPlural": "Eras",
+      "description": "A period in classical music history.",
+      "fields": {
+        "title": { "type": "string", "required": true },
+        "period": { "type": "string", "description": "Date range" },
+        "summary": { "type": "text", "description": "Era description", "required": true },
+        "images": { "type": "images" },
+        "detailUrls": { "type": "detailUrls" }
+      }
+    }
+  },
+  "relationships": {
+    "composer.era": {
+      "target": "era",
+      "cardinality": "many-to-one"
+    },
+    "composer.rank": {
+      "type": "ordinal"
+    }
+  },
+  "display": {
+    "primaryEntity": "composer",
+    "groupBy": "era",
+    "sortWithinGroup": ["rank", "asc"],
+    "card": {
+      "front": {
+        "title": "title",
+        "subtitle": "nationality",
+        "badge": "rank",
+        "footer": ["birthYear", "deathYear", "era.title"]
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "ALA",
+  "title": "Åland Islands",
+  "officialName": "Åland Islands",
+  "capital": "Mariehamn",
+  "region": "europe",
+  "subregion": "Northern Europe",
+  "languages": [
+    "Swedish"
+  ],
+  "currencies": [
+    "EUR"
+  ],
+  "geography": {
+    "area": 1580.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 30654,
+    "density": 19.4
+  },
+  "independent": false,
+  "drivingSide": "right",
+  "callingCode": "+35818",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "summary": "Åland Islands is a country in Northern Europe. The capital is Mariehamn. Population: 30,654. Area: 1,580 km².",
+  "rank": 224,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/ax.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "Flag of Åland Islands",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Åland_Islands",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/land-islands/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.910332Z"
+  }
+}

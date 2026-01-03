@@ -1,0 +1,66 @@
+{
+  "id": "MEX",
+  "title": "Mexico",
+  "officialName": "United Mexican States",
+  "capital": "Mexico City",
+  "region": "americas",
+  "subregion": "North America",
+  "languages": [
+    "Spanish"
+  ],
+  "currencies": [
+    "MXN"
+  ],
+  "geography": {
+    "area": 1964375.0,
+    "landlocked": false,
+    "borders": [
+      "BLZ",
+      "GTM",
+      "USA"
+    ],
+    "neighbourCount": 3
+  },
+  "population": {
+    "total": 130575786,
+    "density": 66.47
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+52",
+  "timezones": [
+    "UTC-08:00",
+    "UTC-07:00",
+    "UTC-06:00"
+  ],
+  "summary": "Mexico is a country in North America. The capital is Mexico City. Population: 130.6 million. Area: 1,964,375 km².",
+  "rank": 10,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/mx.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Mexico is composed of three equal vertical bands of green, white and red, with the national coat of arms centered in the white band.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mexico",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/mexico/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.874015Z"
+  }
+}

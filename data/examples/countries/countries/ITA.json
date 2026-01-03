@@ -1,0 +1,68 @@
+{
+  "id": "ITA",
+  "title": "Italy",
+  "officialName": "Italian Republic",
+  "capital": "Rome",
+  "region": "europe",
+  "subregion": "Southern Europe",
+  "languages": [
+    "Italian",
+    "Catalan"
+  ],
+  "currencies": [
+    "EUR"
+  ],
+  "geography": {
+    "area": 301336.0,
+    "landlocked": false,
+    "borders": [
+      "AUT",
+      "FRA",
+      "SMR",
+      "SVN",
+      "CHE",
+      "VAT"
+    ],
+    "neighbourCount": 6
+  },
+  "population": {
+    "total": 58927633,
+    "density": 195.55
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+39",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "summary": "Italy is a country in Southern Europe. The capital is Rome. Population: 58.9 million. Area: 301,336 km².",
+  "rank": 25,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/it.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Italy is composed of three equal vertical bands of green, white and red.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Italy",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/italy/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.877401Z"
+  }
+}

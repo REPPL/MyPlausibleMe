@@ -1,0 +1,52 @@
+{
+  "id": "modest-mussorgsky",
+  "title": "Modest Mussorgsky",
+  "shortTitle": "Mussorgsky",
+  "birthYear": 1881,
+  "deathYear": 1945,
+  "nationality": "Hungary",
+  "birthPlace": "Sânnicolau Mare",
+  "era": "romantic",
+  "statistics": {
+    "totalWorks": 6,
+    "lifespan": 64,
+    "activeYears": 46
+  },
+  "notableWorks": [
+    "Music for Strings, Percussion and Celesta",
+    "Sonata for Two Pianos and Percussion",
+    "Concerto for Orchestra",
+    "String Quartet No. 1",
+    "String Quartet No. 2"
+  ],
+  "summary": "Modest Mussorgsky was a Hungary romantic composer born in 1881 who lived until 1945.",
+  "rank": 40,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/B%C3%A9la%20Bart%C3%B3k%201943.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Modest Mussorgsky",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Modest_Mussorgsky",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q83326",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q83326",
+    "fetchedAt": "2026-01-03T12:25:25.961369Z"
+  }
+}

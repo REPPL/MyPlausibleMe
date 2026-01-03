@@ -1,0 +1,60 @@
+{
+  "id": "ATG",
+  "title": "Antigua and Barbuda",
+  "officialName": "Antigua and Barbuda",
+  "capital": "Saint John's",
+  "region": "americas",
+  "subregion": "Caribbean",
+  "languages": [
+    "English"
+  ],
+  "currencies": [
+    "XCD"
+  ],
+  "geography": {
+    "area": 442.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 103603,
+    "density": 234.4
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+1268",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "summary": "Antigua and Barbuda is a country in Caribbean. The capital is Saint John's. Population: 103,603. Area: 442 km².",
+  "rank": 199,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/ag.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Antigua and Barbuda has a red field with an inverted isosceles triangle based on the top edge and spanning the height of the field. This triangle has three horizontal bands of black, light blue and white, with the light blue band half the height of the two other bands. The top half of a golden-yellow sun is situated in the lower two-third of the black band to depict a rising sun.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Antigua_and_Barbuda",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/antigua-and-barbuda/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.906974Z"
+  }
+}

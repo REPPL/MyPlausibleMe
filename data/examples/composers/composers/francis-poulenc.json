@@ -1,0 +1,23 @@
+{
+  "id": "francis-poulenc",
+  "title": "Francis Poulenc",
+  "shortTitle": "Poulenc",
+  "era": "modern",
+  "summary": "Francis Poulenc was a European modern composer.",
+  "rank": 67,
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Francis_Poulenc",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q155831",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q155831",
+    "fetchedAt": "2026-01-03T12:26:34.843488Z"
+  }
+}

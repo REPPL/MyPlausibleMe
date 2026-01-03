@@ -1,0 +1,35 @@
+{
+  "id": "7-wonders-duel",
+  "title": "7 Wonders Duel",
+  "category": "strategy",
+  "summary": "2015 card game",
+  "rank": 48,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/7WDuel.png",
+      "type": "photo",
+      "isPrimary": true,
+      "alt": "7 Wonders Duel board game",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "varies",
+        "note": "Image from Wikimedia Commons. Check individual file for licence."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/173346",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/7_Wonders_Duel",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "173346",
+    "fetchedAt": "2026-01-03T11:39:11.957452Z"
+  }
+}

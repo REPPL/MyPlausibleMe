@@ -1,0 +1,43 @@
+{
+  "id": "small-world",
+  "title": "Small World",
+  "year": 2009,
+  "publishers": [
+    "Asmodee"
+  ],
+  "players": {
+    "min": 2,
+    "max": 5
+  },
+  "category": "strategy",
+  "summary": "2009 board game",
+  "rank": 28,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/GOADA%202009%20-%20Small%20World%20016-1.jpg",
+      "type": "photo",
+      "isPrimary": true,
+      "alt": "Small World board game",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "varies",
+        "note": "Image from Wikimedia Commons. Check individual file for licence."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/40692",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Small_World",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "40692",
+    "fetchedAt": "2026-01-03T11:38:10.453025Z"
+  }
+}

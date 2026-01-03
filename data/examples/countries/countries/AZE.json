@@ -1,0 +1,66 @@
+{
+  "id": "AZE",
+  "title": "Azerbaijan",
+  "officialName": "Republic of Azerbaijan",
+  "capital": "Baku",
+  "region": "asia",
+  "subregion": "Western Asia",
+  "languages": [
+    "Azerbaijani"
+  ],
+  "currencies": [
+    "AZN"
+  ],
+  "geography": {
+    "area": 86600.0,
+    "landlocked": true,
+    "borders": [
+      "ARM",
+      "GEO",
+      "IRN",
+      "RUS",
+      "TUR"
+    ],
+    "neighbourCount": 5
+  },
+  "population": {
+    "total": 10241722,
+    "density": 118.26
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+994",
+  "timezones": [
+    "UTC+04:00"
+  ],
+  "summary": "Azerbaijan is a country in Western Asia. The capital is Baku. Population: 10.2 million. Area: 86,600 km².",
+  "rank": 93,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/az.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Azerbaijan features three equal horizontal bands of blue, red and green, with a white fly-side facing crescent and eight-pointed star centered in the red band.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Azerbaijan",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/azerbaijan/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.890924Z"
+  }
+}

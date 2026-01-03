@@ -1,0 +1,61 @@
+{
+  "id": "SHN",
+  "title": "Saint Helena, Ascension and Tristan da Cunha",
+  "officialName": "Saint Helena, Ascension and Tristan da Cunha",
+  "capital": "Jamestown",
+  "region": "africa",
+  "subregion": "Western Africa",
+  "languages": [
+    "English"
+  ],
+  "currencies": [
+    "GBP",
+    "SHP"
+  ],
+  "geography": {
+    "area": 394.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 5651,
+    "density": 14.34
+  },
+  "independent": false,
+  "drivingSide": "left",
+  "callingCode": "+290",
+  "timezones": [
+    "UTC+00:00"
+  ],
+  "summary": "Saint Helena, Ascension and Tristan da Cunha is a country in Western Africa. The capital is Jamestown. Population: 5,651. Area: 394 km².",
+  "rank": 233,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/sh.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "Flag of Saint Helena, Ascension and Tristan da Cunha",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/saint-helena-ascension-and-tristan-da-cunha/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.911487Z"
+  }
+}

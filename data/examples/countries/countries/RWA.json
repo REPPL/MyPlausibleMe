@@ -1,0 +1,67 @@
+{
+  "id": "RWA",
+  "title": "Rwanda",
+  "officialName": "Republic of Rwanda",
+  "capital": "Kigali",
+  "region": "africa",
+  "subregion": "Eastern Africa",
+  "languages": [
+    "English",
+    "French",
+    "Kinyarwanda"
+  ],
+  "currencies": [
+    "RWF"
+  ],
+  "geography": {
+    "area": 26338.0,
+    "landlocked": true,
+    "borders": [
+      "BDI",
+      "COD",
+      "TZA",
+      "UGA"
+    ],
+    "neighbourCount": 4
+  },
+  "population": {
+    "total": 14104969,
+    "density": 535.54
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+250",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "summary": "Rwanda is a country in Eastern Africa. The capital is Kigali. Population: 14.1 million. Area: 26,338 km².",
+  "rank": 77,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/rw.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Rwanda is composed of three horizontal bands of light blue, yellow and green. The light blue band is twice the height of the other two bands and bears a yellow sun with twenty-four rays on its fly side.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Rwanda",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/rwanda/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.888092Z"
+  }
+}

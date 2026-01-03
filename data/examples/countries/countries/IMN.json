@@ -1,0 +1,62 @@
+{
+  "id": "IMN",
+  "title": "Isle of Man",
+  "officialName": "Isle of Man",
+  "capital": "Douglas",
+  "region": "europe",
+  "subregion": "Northern Europe",
+  "languages": [
+    "English",
+    "Manx"
+  ],
+  "currencies": [
+    "GBP",
+    "IMP"
+  ],
+  "geography": {
+    "area": 572.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 84530,
+    "density": 147.78
+  },
+  "independent": false,
+  "drivingSide": "left",
+  "callingCode": "+44",
+  "timezones": [
+    "UTC+00:00"
+  ],
+  "summary": "Isle of Man is a country in Northern Europe. The capital is Douglas. Population: 84,530. Area: 572 km².",
+  "rank": 205,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/im.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "Flag of Isle of Man",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Isle_of_Man",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/isle-of-man/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.907856Z"
+  }
+}

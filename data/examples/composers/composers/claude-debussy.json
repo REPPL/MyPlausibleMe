@@ -1,0 +1,44 @@
+{
+  "id": "claude-debussy",
+  "title": "Claude Debussy",
+  "shortTitle": "Debussy",
+  "birthYear": 1492,
+  "deathYear": 1557,
+  "nationality": "Kingdom of France",
+  "birthPlace": "Saint-Malo",
+  "era": "modern",
+  "statistics": {
+    "lifespan": 65,
+    "activeYears": 47
+  },
+  "summary": "Claude Debussy was a Kingdom of France modern composer born in 1492 who lived until 1557.",
+  "rank": 54,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques%20Cartier%201851-1852.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Claude Debussy",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Claude_Debussy",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q7321",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q7321",
+    "fetchedAt": "2026-01-03T12:25:58.735551Z"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "BIH",
+  "title": "Bosnia and Herzegovina",
+  "officialName": "Bosnia and Herzegovina",
+  "capital": "Sarajevo",
+  "region": "europe",
+  "subregion": "Southeast Europe",
+  "languages": [
+    "Bosnian",
+    "Croatian",
+    "Serbian"
+  ],
+  "currencies": [
+    "BAM"
+  ],
+  "geography": {
+    "area": 51209.0,
+    "landlocked": false,
+    "borders": [
+      "HRV",
+      "MNE",
+      "SRB"
+    ],
+    "neighbourCount": 3
+  },
+  "population": {
+    "total": 3422000,
+    "density": 66.82
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+387",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "summary": "Bosnia and Herzegovina is a country in Southeast Europe. The capital is Sarajevo. Population: 3.4 million. Area: 51,209 km².",
+  "rank": 135,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/ba.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Bosnia and Herzegovina has a blue field, at the center of which is a large yellow hoist-side facing right-angled triangle that is based on the top edge and spans the height of the field. Adjacent to the hypotenuse of this triangle are nine adjoining five-pointed white stars with the top and bottom stars cut in half by the edges of the field.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/bosnia-and-herzegovina/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.897660Z"
+  }
+}

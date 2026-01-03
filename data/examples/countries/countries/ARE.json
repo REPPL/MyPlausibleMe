@@ -1,0 +1,63 @@
+{
+  "id": "ARE",
+  "title": "United Arab Emirates",
+  "officialName": "United Arab Emirates",
+  "capital": "Abu Dhabi",
+  "region": "asia",
+  "subregion": "Western Asia",
+  "languages": [
+    "Arabic"
+  ],
+  "currencies": [
+    "AED"
+  ],
+  "geography": {
+    "area": 83600.0,
+    "landlocked": false,
+    "borders": [
+      "OMN",
+      "SAU"
+    ],
+    "neighbourCount": 2
+  },
+  "population": {
+    "total": 11294243,
+    "density": 135.1
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+971",
+  "timezones": [
+    "UTC+04:00"
+  ],
+  "summary": "United Arab Emirates is a country in Western Asia. The capital is Abu Dhabi. Population: 11.3 million. Area: 83,600 km².",
+  "rank": 86,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/ae.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of United Arab Emirates features a red vertical band on its hoist side that takes up about one-fourth the width of the field and three equal horizontal bands of green, white and black adjoining the vertical band.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/United_Arab_Emirates",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/united-arab-emirates/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.889764Z"
+  }
+}

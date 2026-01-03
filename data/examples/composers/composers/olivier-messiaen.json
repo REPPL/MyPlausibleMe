@@ -1,0 +1,23 @@
+{
+  "id": "olivier-messiaen",
+  "title": "Olivier Messiaen",
+  "shortTitle": "Messiaen",
+  "era": "modern",
+  "summary": "Olivier Messiaen was a European modern composer.",
+  "rank": 66,
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Olivier_Messiaen",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q154505",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q154505",
+    "fetchedAt": "2026-01-03T12:26:32.468023Z"
+  }
+}

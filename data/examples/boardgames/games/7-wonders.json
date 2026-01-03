@@ -1,0 +1,44 @@
+{
+  "id": "7-wonders",
+  "title": "7 Wonders",
+  "year": 2010,
+  "publishers": [
+    "Repos Production"
+  ],
+  "players": {
+    "min": 2,
+    "max": 7
+  },
+  "playTime": 30,
+  "category": "strategy",
+  "summary": "2010 card game",
+  "rank": 19,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/7%20Wonders%20game.jpg",
+      "type": "photo",
+      "isPrimary": true,
+      "alt": "7 Wonders board game",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "varies",
+        "note": "Image from Wikimedia Commons. Check individual file for licence."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/68448",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/7_Wonders",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "68448",
+    "fetchedAt": "2026-01-03T11:37:39.701548Z"
+  }
+}

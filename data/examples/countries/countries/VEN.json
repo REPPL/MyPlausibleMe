@@ -1,0 +1,64 @@
+{
+  "id": "VEN",
+  "title": "Venezuela",
+  "officialName": "Bolivarian Republic of Venezuela",
+  "capital": "Caracas",
+  "region": "americas",
+  "subregion": "South America",
+  "languages": [
+    "Spanish"
+  ],
+  "currencies": [
+    "VES"
+  ],
+  "geography": {
+    "area": 916445.0,
+    "landlocked": false,
+    "borders": [
+      "BRA",
+      "COL",
+      "GUY"
+    ],
+    "neighbourCount": 3
+  },
+  "population": {
+    "total": 28517000,
+    "density": 31.12
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+58",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "summary": "Venezuela is a country in South America. The capital is Caracas. Population: 28.5 million. Area: 916,445 km².",
+  "rank": 53,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/ve.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Venezuela is composed of three equal horizontal bands of yellow, blue and red. At the center of the blue band are eight five-pointed white stars arranged in a horizontal arc.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Venezuela",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/venezuela/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.883258Z"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "KAZ",
+  "title": "Kazakhstan",
+  "officialName": "Republic of Kazakhstan",
+  "capital": "Astana",
+  "region": "asia",
+  "subregion": "Central Asia",
+  "languages": [
+    "Kazakh",
+    "Russian"
+  ],
+  "currencies": [
+    "KZT"
+  ],
+  "geography": {
+    "area": 2724900.0,
+    "landlocked": true,
+    "borders": [
+      "CHN",
+      "KGZ",
+      "RUS",
+      "TKM",
+      "UZB"
+    ],
+    "neighbourCount": 5
+  },
+  "population": {
+    "total": 20426568,
+    "density": 7.5
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+76",
+  "timezones": [
+    "UTC+05:00",
+    "UTC+06:00"
+  ],
+  "summary": "Kazakhstan is a country in Central Asia. The capital is Astana. Population: 20.4 million. Area: 2,724,900 km².",
+  "rank": 63,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/kz.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Kazakhstan has a turquoise field, at the center of which is a gold sun with thirty-two rays above a soaring golden steppe eagle. A thin vertical band displays a national ornamental pattern — koshkar-muiz — in gold near the hoist end.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Kazakhstan",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/kazakhstan/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.885211Z"
+  }
+}

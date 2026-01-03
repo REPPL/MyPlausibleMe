@@ -1,0 +1,63 @@
+{
+  "id": "SWE",
+  "title": "Sweden",
+  "officialName": "Kingdom of Sweden",
+  "capital": "Stockholm",
+  "region": "europe",
+  "subregion": "Northern Europe",
+  "languages": [
+    "Swedish"
+  ],
+  "currencies": [
+    "SEK"
+  ],
+  "geography": {
+    "area": 450295.0,
+    "landlocked": false,
+    "borders": [
+      "FIN",
+      "NOR"
+    ],
+    "neighbourCount": 2
+  },
+  "population": {
+    "total": 10605098,
+    "density": 23.55
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+46",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "summary": "Sweden is a country in Northern Europe. The capital is Stockholm. Population: 10.6 million. Area: 450,295 km².",
+  "rank": 90,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/se.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Sweden has a blue field with a large golden-yellow cross that extend to the edges of the field. The vertical part of this cross is offset towards the hoist side.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sweden",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/sweden/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.890425Z"
+  }
+}

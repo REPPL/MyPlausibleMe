@@ -1,0 +1,52 @@
+{
+  "id": "niccol-paganini",
+  "title": "Niccolò Paganini",
+  "shortTitle": "Paganini",
+  "birthYear": 1835,
+  "deathYear": 1921,
+  "nationality": "France",
+  "birthPlace": "11th arrondissement of Paris",
+  "era": "romantic",
+  "statistics": {
+    "totalWorks": 5,
+    "lifespan": 86,
+    "activeYears": 68
+  },
+  "notableWorks": [
+    "Danse macabre",
+    "The Carnival of the Animals",
+    "Symphony No. 3",
+    "Piano Concerto No. 2",
+    "Piano Concerto No. 1"
+  ],
+  "summary": "Niccolò Paganini was a France romantic composer born in 1835 who lived until 1921.",
+  "rank": 38,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Camille%20Saint-Saens%20b%20Meurisse%201921.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Niccolò Paganini",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Niccolò_Paganini",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q150445",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q150445",
+    "fetchedAt": "2026-01-03T12:25:21.319149Z"
+  }
+}

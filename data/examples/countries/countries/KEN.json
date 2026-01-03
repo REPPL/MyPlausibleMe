@@ -1,0 +1,67 @@
+{
+  "id": "KEN",
+  "title": "Kenya",
+  "officialName": "Republic of Kenya",
+  "capital": "Nairobi",
+  "region": "africa",
+  "subregion": "Eastern Africa",
+  "languages": [
+    "English",
+    "Swahili"
+  ],
+  "currencies": [
+    "KES"
+  ],
+  "geography": {
+    "area": 580367.0,
+    "landlocked": false,
+    "borders": [
+      "ETH",
+      "SOM",
+      "SSD",
+      "TZA",
+      "UGA"
+    ],
+    "neighbourCount": 5
+  },
+  "population": {
+    "total": 53330978,
+    "density": 91.89
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+254",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "summary": "Kenya is a country in Eastern Africa. The capital is Nairobi. Population: 53.3 million. Area: 580,367 km².",
+  "rank": 26,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/ke.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Kenya is composed of three equal horizontal bands of black, red with white top and bottom edges, and green. An emblem comprising a red, black and white Maasai shield covering two crossed white spears is superimposed at the center of the field.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Kenya",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/kenya/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.877611Z"
+  }
+}

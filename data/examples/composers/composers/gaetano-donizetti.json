@@ -1,0 +1,36 @@
+{
+  "id": "gaetano-donizetti",
+  "title": "Gaetano Donizetti",
+  "shortTitle": "Donizetti",
+  "era": "romantic",
+  "summary": "Gaetano Donizetti was a European romantic composer.",
+  "rank": 49,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kuwait.svg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Gaetano Donizetti",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Gaetano_Donizetti",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q150647",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q150647",
+    "fetchedAt": "2026-01-03T12:25:47.097433Z"
+  }
+}

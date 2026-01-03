@@ -1,0 +1,62 @@
+{
+  "id": "FRO",
+  "title": "Faroe Islands",
+  "officialName": "Faroe Islands",
+  "capital": "Tórshavn",
+  "region": "europe",
+  "subregion": "Northern Europe",
+  "languages": [
+    "Danish",
+    "Faroese"
+  ],
+  "currencies": [
+    "DKK",
+    "FOK"
+  ],
+  "geography": {
+    "area": 1393.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 54885,
+    "density": 39.4
+  },
+  "independent": false,
+  "drivingSide": "right",
+  "callingCode": "+298",
+  "timezones": [
+    "UTC+00:00"
+  ],
+  "summary": "Faroe Islands is a country in Northern Europe. The capital is Tórshavn. Population: 54,885. Area: 1,393 km².",
+  "rank": 210,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/fo.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "Flag of Faroe Islands",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Faroe_Islands",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/faroe-islands/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.908472Z"
+  }
+}

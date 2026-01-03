@@ -1,0 +1,52 @@
+{
+  "id": "christoph-willibald-gluck",
+  "title": "Christoph Willibald Gluck",
+  "shortTitle": "Gluck",
+  "birthYear": 1875,
+  "deathYear": 1926,
+  "nationality": "Austria",
+  "birthPlace": "Prague",
+  "era": "classical",
+  "statistics": {
+    "totalWorks": 5,
+    "lifespan": 51,
+    "activeYears": 33
+  },
+  "notableWorks": [
+    "Worpswede",
+    "Sonnets to Orpheus",
+    "The carousel",
+    "Die Aufzeichnungen des Malte Laurids Brigge",
+    "Duino Elegies"
+  ],
+  "summary": "Christoph Willibald (Ritter von) Gluck (; German: [ˈkʁɪstɔf ˈvɪlɪbalt ˈɡlʊk]; 2 July 1714 – 15 November 1787) was a German composer of Italian and French opera in the early classical period. Born in the Upper Palatinate and raised in Bohemia, both part of the Holy Roman Empire at the time, he gained prominence at the Habsburg court in Vienna. There he brought about the practical reform of opera's dramaturgical practices for which many intellectuals had been campaigning.",
+  "rank": 13,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Rainer%20Maria%20Rilke%201900.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Christoph Willibald Gluck",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Christoph_Willibald_Gluck",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q76483",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q76483",
+    "fetchedAt": "2026-01-03T12:20:40.872550Z"
+  }
+}

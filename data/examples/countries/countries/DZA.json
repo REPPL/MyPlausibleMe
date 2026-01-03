@@ -1,0 +1,68 @@
+{
+  "id": "DZA",
+  "title": "Algeria",
+  "officialName": "People's Democratic Republic of Algeria",
+  "capital": "Algiers",
+  "region": "africa",
+  "subregion": "Northern Africa",
+  "languages": [
+    "Arabic"
+  ],
+  "currencies": [
+    "DZD"
+  ],
+  "geography": {
+    "area": 2381741.0,
+    "landlocked": false,
+    "borders": [
+      "TUN",
+      "LBY",
+      "NER",
+      "ESH",
+      "MRT",
+      "MLI",
+      "MAR"
+    ],
+    "neighbourCount": 7
+  },
+  "population": {
+    "total": 47400000,
+    "density": 19.9
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+213",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "summary": "Algeria is a country in Northern Africa. The capital is Algiers. Population: 47.4 million. Area: 2,381,741 km².",
+  "rank": 32,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/dz.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Algeria features two equal vertical bands of green and white. A five-pointed red star within a fly-side facing red crescent is centered over the two-color boundary.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Algeria",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/algeria/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.879023Z"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SWZ",
+  "title": "Eswatini",
+  "officialName": "Kingdom of Eswatini",
+  "capital": "Mbabane",
+  "region": "africa",
+  "subregion": "Southern Africa",
+  "languages": [
+    "English",
+    "Swazi"
+  ],
+  "currencies": [
+    "SZL",
+    "ZAR"
+  ],
+  "geography": {
+    "area": 17364.0,
+    "landlocked": true,
+    "borders": [
+      "MOZ",
+      "ZAF"
+    ],
+    "neighbourCount": 2
+  },
+  "population": {
+    "total": 1235549,
+    "density": 71.16
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+268",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "summary": "Eswatini is a country in Southern Africa. The capital is Mbabane. Population: 1.2 million. Area: 17,364 km².",
+  "rank": 160,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/sz.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Eswatini is composed of three horizontal bands — a large central yellow-edged red band, and a light blue band above and beneath the red band. The red band is three times the height of the blue bands and bears a centered emblem made up of a large black and white Nguni shield covering two spears and a staff decorated with feather tassels, all placed horizontally.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Eswatini",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/eswatini/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.901517Z"
+  }
+}

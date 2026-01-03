@@ -1,0 +1,23 @@
+{
+  "id": "carl-orff",
+  "title": "Carl Orff",
+  "shortTitle": "Orff",
+  "era": "modern",
+  "summary": "Carl Orff was a European modern composer.",
+  "rank": 72,
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Carl_Orff",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q191226",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q191226",
+    "fetchedAt": "2026-01-03T12:26:46.751691Z"
+  }
+}

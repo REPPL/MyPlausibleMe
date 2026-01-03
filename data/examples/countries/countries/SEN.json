@@ -1,0 +1,66 @@
+{
+  "id": "SEN",
+  "title": "Senegal",
+  "officialName": "Republic of Senegal",
+  "capital": "Dakar",
+  "region": "africa",
+  "subregion": "Western Africa",
+  "languages": [
+    "French"
+  ],
+  "currencies": [
+    "XOF"
+  ],
+  "geography": {
+    "area": 196722.0,
+    "landlocked": false,
+    "borders": [
+      "GMB",
+      "GIN",
+      "GNB",
+      "MLI",
+      "MRT"
+    ],
+    "neighbourCount": 5
+  },
+  "population": {
+    "total": 18593258,
+    "density": 94.52
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+221",
+  "timezones": [
+    "UTC"
+  ],
+  "summary": "Senegal is a country in Western Africa. The capital is Dakar. Population: 18.6 million. Area: 196,722 km².",
+  "rank": 69,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/sn.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Senegal is composed of three equal vertical bands of green, golden-yellow and red, with a five-pointed green star centered in the golden-yellow band.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Senegal",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/senegal/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.886422Z"
+  }
+}

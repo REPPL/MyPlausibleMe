@@ -1,0 +1,66 @@
+{
+  "id": "SVK",
+  "title": "Slovakia",
+  "officialName": "Slovak Republic",
+  "capital": "Bratislava",
+  "region": "europe",
+  "subregion": "Central Europe",
+  "languages": [
+    "Slovak"
+  ],
+  "currencies": [
+    "EUR"
+  ],
+  "geography": {
+    "area": 49037.0,
+    "landlocked": true,
+    "borders": [
+      "AUT",
+      "CZE",
+      "HUN",
+      "POL",
+      "UKR"
+    ],
+    "neighbourCount": 5
+  },
+  "population": {
+    "total": 5413813,
+    "density": 110.4
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+421",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "summary": "Slovakia is a country in Central Europe. The capital is Bratislava. Population: 5.4 million. Area: 49,037 km².",
+  "rank": 122,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/sk.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Slovakia is composed of three equal horizontal bands of white, blue and red. The coat of arms of Slovakia is superimposed at the center of the field slightly towards the hoist side.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Slovakia",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/slovakia/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.895640Z"
+  }
+}

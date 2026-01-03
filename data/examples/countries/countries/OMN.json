@@ -1,0 +1,64 @@
+{
+  "id": "OMN",
+  "title": "Oman",
+  "officialName": "Sultanate of Oman",
+  "capital": "Muscat",
+  "region": "asia",
+  "subregion": "Western Asia",
+  "languages": [
+    "Arabic"
+  ],
+  "currencies": [
+    "OMR"
+  ],
+  "geography": {
+    "area": 309500.0,
+    "landlocked": false,
+    "borders": [
+      "SAU",
+      "ARE",
+      "YEM"
+    ],
+    "neighbourCount": 3
+  },
+  "population": {
+    "total": 5343630,
+    "density": 17.27
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+968",
+  "timezones": [
+    "UTC+04:00"
+  ],
+  "summary": "Oman is a country in Western Asia. The capital is Muscat. Population: 5.3 million. Area: 309,500 km².",
+  "rank": 123,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/om.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Oman features a red vertical band on the hoist side that takes up about one-fourth the width of the field, and three equal horizontal bands of white, red and green adjoining the vertical band. At the top of the vertical band is the white emblem of Oman.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Oman",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/oman/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.895849Z"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "BMU",
+  "title": "Bermuda",
+  "officialName": "Bermuda",
+  "capital": "Hamilton",
+  "region": "americas",
+  "subregion": "North America",
+  "languages": [
+    "English"
+  ],
+  "currencies": [
+    "BMD"
+  ],
+  "geography": {
+    "area": 54.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 64055,
+    "density": 1186.2
+  },
+  "independent": false,
+  "drivingSide": "left",
+  "callingCode": "+1441",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "summary": "Bermuda is a country in North America. The capital is Hamilton. Population: 64,055. Area: 54 km².",
+  "rank": 208,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/bm.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "Flag of Bermuda",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Bermuda",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/bermuda/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.908226Z"
+  }
+}

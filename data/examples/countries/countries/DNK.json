@@ -1,0 +1,66 @@
+{
+  "id": "DNK",
+  "title": "Denmark",
+  "officialName": "Kingdom of Denmark",
+  "capital": "Copenhagen",
+  "region": "europe",
+  "subregion": "Northern Europe",
+  "languages": [
+    "Danish"
+  ],
+  "currencies": [
+    "DKK"
+  ],
+  "geography": {
+    "area": 43094.0,
+    "landlocked": false,
+    "borders": [
+      "DEU"
+    ],
+    "neighbourCount": 1
+  },
+  "population": {
+    "total": 6011488,
+    "density": 139.5
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+45",
+  "timezones": [
+    "UTC-04:00",
+    "UTC-03:00",
+    "UTC-01:00",
+    "UTC",
+    "UTC+01:00"
+  ],
+  "summary": "Denmark is a country in Northern Europe. The capital is Copenhagen. Population: 6.0 million. Area: 43,094 km².",
+  "rank": 116,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/dk.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Denmark has a red field with a large white cross that extend to the edges of the field. The vertical part of this cross is offset towards the hoist side.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Denmark",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/denmark/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.894713Z"
+  }
+}

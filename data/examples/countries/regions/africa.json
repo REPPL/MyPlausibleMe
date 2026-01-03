@@ -1,0 +1,11 @@
+{
+  "id": "africa",
+  "title": "Africa",
+  "summary": "The world's second-largest and second-most populous continent, home to 54 countries.",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Africa",
+      "source": "Wikipedia"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "YEM",
+  "title": "Yemen",
+  "officialName": "Republic of Yemen",
+  "capital": "Sana'a",
+  "region": "asia",
+  "subregion": "Western Asia",
+  "languages": [
+    "Arabic"
+  ],
+  "currencies": [
+    "YER"
+  ],
+  "geography": {
+    "area": 527968.0,
+    "landlocked": false,
+    "borders": [
+      "OMN",
+      "SAU"
+    ],
+    "neighbourCount": 2
+  },
+  "population": {
+    "total": 32684503,
+    "density": 61.91
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+967",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "summary": "Yemen is a country in Western Asia. The capital is Sana'a. Population: 32.7 million. Area: 527,968 km².",
+  "rank": 48,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/ye.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Yemen is composed of three equal horizontal bands of red, white and black.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Yemen",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/yemen/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.882276Z"
+  }
+}

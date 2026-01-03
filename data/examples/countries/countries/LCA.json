@@ -1,0 +1,60 @@
+{
+  "id": "LCA",
+  "title": "Saint Lucia",
+  "officialName": "Saint Lucia",
+  "capital": "Castries",
+  "region": "americas",
+  "subregion": "Caribbean",
+  "languages": [
+    "English"
+  ],
+  "currencies": [
+    "XCD"
+  ],
+  "geography": {
+    "area": 616.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 184100,
+    "density": 298.86
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+1758",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "summary": "Saint Lucia is a country in Caribbean. The capital is Castries. Population: 184,100. Area: 616 km².",
+  "rank": 190,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/lc.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Saint Lucia has a light blue field, at the center of which are two triangles which share a common base — a small golden-yellow isosceles triangle superimposed on a large white-edged black isosceles triangle.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Saint_Lucia",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/saint-lucia/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.905725Z"
+  }
+}

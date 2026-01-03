@@ -1,0 +1,36 @@
+{
+  "id": "claudio-monteverdi",
+  "title": "Claudio Monteverdi",
+  "shortTitle": "Monteverdi",
+  "era": "baroque",
+  "summary": "Claudio Giovanni Antonio Monteverdi (baptized 15 May 1567 – 29 November 1643) was an Italian composer, choirmaster and string player. A composer of both secular and sacred music, and a pioneer in the development of opera, he is considered a crucial transitional figure between the Renaissance and Baroque periods of music history.\nBorn in Cremona, where he undertook his first musical studies and compositions, Monteverdi developed his career first at the court of Mantua (c. 1590–1613) and then until his death in the Republic of Venice where he was maestro di cappella at the basilica of San Marco. His surviving letters give insight into the life of a professional musician in Italy of the period, including problems of income, patronage and politics.\nMuch of Monteverdi's output, including many stage works, has been lost.",
+  "rank": 10,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Resident%20evil%20extinction.png",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Claudio Monteverdi",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Claudio_Monteverdi",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q156069",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q156069",
+    "fetchedAt": "2026-01-03T12:18:59.236253Z"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "FRA",
+  "title": "France",
+  "officialName": "French Republic",
+  "capital": "Paris",
+  "region": "europe",
+  "subregion": "Western Europe",
+  "languages": [
+    "French"
+  ],
+  "currencies": [
+    "EUR"
+  ],
+  "geography": {
+    "area": 543908.0,
+    "landlocked": false,
+    "borders": [
+      "AND",
+      "BEL",
+      "DEU",
+      "ITA",
+      "LUX",
+      "MCO",
+      "ESP",
+      "CHE"
+    ],
+    "neighbourCount": 8
+  },
+  "population": {
+    "total": 66351959,
+    "density": 121.99
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+33",
+  "timezones": [
+    "UTC-10:00",
+    "UTC-09:30",
+    "UTC-09:00",
+    "UTC-08:00",
+    "UTC-04:00",
+    "UTC-03:00",
+    "UTC+01:00",
+    "UTC+02:00",
+    "UTC+03:00",
+    "UTC+04:00",
+    "UTC+05:00",
+    "UTC+10:00",
+    "UTC+11:00",
+    "UTC+12:00"
+  ],
+  "summary": "France is a country in Western Europe. The capital is Paris. Population: 66.4 million. Area: 543,908 km².",
+  "rank": 22,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/fr.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of France is composed of three equal vertical bands of blue, white and red.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/France",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/france/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.876696Z"
+  }
+}

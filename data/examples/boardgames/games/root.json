@@ -1,0 +1,33 @@
+{
+  "id": "root",
+  "title": "Root",
+  "year": 2018,
+  "designers": [
+    "Cole Wehrle"
+  ],
+  "publishers": [
+    "CrowD Games"
+  ],
+  "players": {
+    "min": 2,
+    "max": 4
+  },
+  "category": "strategy",
+  "summary": "2018 board game",
+  "rank": 42,
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/237182",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Root",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "237182",
+    "fetchedAt": "2026-01-03T11:39:11.956797Z"
+  }
+}

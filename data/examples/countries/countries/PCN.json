@@ -1,0 +1,60 @@
+{
+  "id": "PCN",
+  "title": "Pitcairn Islands",
+  "officialName": "Pitcairn Group of Islands",
+  "capital": "Adamstown",
+  "region": "oceania",
+  "subregion": "Polynesia",
+  "languages": [
+    "English"
+  ],
+  "currencies": [
+    "NZD"
+  ],
+  "geography": {
+    "area": 47.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 35,
+    "density": 0.74
+  },
+  "independent": false,
+  "drivingSide": "left",
+  "callingCode": "+64",
+  "timezones": [
+    "UTC-08:00"
+  ],
+  "summary": "Pitcairn Islands is a country in Polynesia. The capital is Adamstown. Population: 35. Area: 47 km².",
+  "rank": 245,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/pn.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "Flag of Pitcairn Islands",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Pitcairn_Islands",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/pitcairn-islands/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.913076Z"
+  }
+}

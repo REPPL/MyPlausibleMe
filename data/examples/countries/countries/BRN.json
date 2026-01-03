@@ -1,0 +1,63 @@
+{
+  "id": "BRN",
+  "title": "Brunei",
+  "officialName": "Nation of Brunei, Abode of Peace",
+  "capital": "Bandar Seri Begawan",
+  "region": "asia",
+  "subregion": "South-Eastern Asia",
+  "languages": [
+    "Malay"
+  ],
+  "currencies": [
+    "BND",
+    "SGD"
+  ],
+  "geography": {
+    "area": 5765.0,
+    "landlocked": false,
+    "borders": [
+      "MYS"
+    ],
+    "neighbourCount": 1
+  },
+  "population": {
+    "total": 455500,
+    "density": 79.01
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+673",
+  "timezones": [
+    "UTC+08:00"
+  ],
+  "summary": "Brunei is a country in South-Eastern Asia. The capital is Bandar Seri Begawan. Population: 455,500. Area: 5,765 km².",
+  "rank": 176,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/bn.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Brunei has a yellow field with two adjoining diagonal bands of white and black that extend from the upper hoist side of the field to the lower fly side. The red emblem of Brunei is centered on the field.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Brunei",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/brunei/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.903834Z"
+  }
+}

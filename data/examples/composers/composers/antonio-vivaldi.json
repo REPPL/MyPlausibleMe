@@ -1,0 +1,44 @@
+{
+  "id": "antonio-vivaldi",
+  "title": "Antonio Vivaldi",
+  "shortTitle": "Vivaldi",
+  "birthYear": 1710,
+  "deathYear": 1784,
+  "nationality": "Holy Roman Empire",
+  "birthPlace": "Weimar",
+  "era": "baroque",
+  "statistics": {
+    "lifespan": 74,
+    "activeYears": 56
+  },
+  "summary": "Antonio Lucio Vivaldi (4 March 1678 – 28 July 1741) was an Italian composer, virtuoso violinist and impresario of Baroque music. Regarded as one of the greatest Baroque composers, Vivaldi's influence during his lifetime was widespread across Europe, giving origin to many imitators and admirers. He pioneered many developments in orchestration, violin technique and programmatic music.",
+  "rank": 3,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm%20Friedeman%20Bach.png",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Antonio Vivaldi",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Antonio_Vivaldi",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q107277",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q107277",
+    "fetchedAt": "2026-01-03T12:14:56.627699Z"
+  }
+}

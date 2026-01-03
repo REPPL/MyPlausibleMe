@@ -1,0 +1,63 @@
+{
+  "id": "GGY",
+  "title": "Guernsey",
+  "officialName": "Bailiwick of Guernsey",
+  "capital": "St. Peter Port",
+  "region": "europe",
+  "subregion": "Northern Europe",
+  "languages": [
+    "English",
+    "French",
+    "Guernésiais"
+  ],
+  "currencies": [
+    "GBP",
+    "GGP"
+  ],
+  "geography": {
+    "area": 78.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 64781,
+    "density": 830.53
+  },
+  "independent": false,
+  "drivingSide": "left",
+  "callingCode": "+44",
+  "timezones": [
+    "UTC+00:00"
+  ],
+  "summary": "Guernsey is a country in Northern Europe. The capital is St. Peter Port. Population: 64,781. Area: 78 km².",
+  "rank": 207,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/gg.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "Flag of Guernsey",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Guernsey",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/guernsey/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.908101Z"
+  }
+}

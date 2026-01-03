@@ -1,0 +1,65 @@
+{
+  "id": "MYS",
+  "title": "Malaysia",
+  "officialName": "Malaysia",
+  "capital": "Kuala Lumpur",
+  "region": "asia",
+  "subregion": "South-Eastern Asia",
+  "languages": [
+    "English",
+    "Malay"
+  ],
+  "currencies": [
+    "MYR"
+  ],
+  "geography": {
+    "area": 330803.0,
+    "landlocked": false,
+    "borders": [
+      "BRN",
+      "IDN",
+      "THA"
+    ],
+    "neighbourCount": 3
+  },
+  "population": {
+    "total": 34231700,
+    "density": 103.48
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+60",
+  "timezones": [
+    "UTC+08:00"
+  ],
+  "summary": "Malaysia is a country in South-Eastern Asia. The capital is Kuala Lumpur. Population: 34.2 million. Area: 330,803 km².",
+  "rank": 44,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/my.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Malaysia is composed of fourteen equal horizontal bands of red alternating with white. A blue rectangle, bearing a fly-side facing yellow crescent and a fourteen-pointed yellow star placed just outside the crescent opening, is superimposed in the canton.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Malaysia",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/malaysia/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.881535Z"
+  }
+}

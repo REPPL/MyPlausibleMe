@@ -1,0 +1,46 @@
+{
+  "id": "stratego",
+  "title": "Stratego",
+  "year": 1957,
+  "designers": [
+    "Albert Lamorisse"
+  ],
+  "publishers": [
+    "Schmidt Spiele"
+  ],
+  "players": {
+    "min": 2,
+    "max": 6
+  },
+  "category": "abstract",
+  "summary": "board game",
+  "rank": 33,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Playing-risk.jpg",
+      "type": "photo",
+      "isPrimary": true,
+      "alt": "Stratego board game",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "varies",
+        "note": "Image from Wikimedia Commons. Check individual file for licence."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/181",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Stratego",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "181",
+    "fetchedAt": "2026-01-03T11:38:41.188379Z"
+  }
+}

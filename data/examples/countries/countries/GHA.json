@@ -1,0 +1,64 @@
+{
+  "id": "GHA",
+  "title": "Ghana",
+  "officialName": "Republic of Ghana",
+  "capital": "Accra",
+  "region": "africa",
+  "subregion": "Western Africa",
+  "languages": [
+    "English"
+  ],
+  "currencies": [
+    "GHS"
+  ],
+  "geography": {
+    "area": 238533.0,
+    "landlocked": false,
+    "borders": [
+      "BFA",
+      "CIV",
+      "TGO"
+    ],
+    "neighbourCount": 3
+  },
+  "population": {
+    "total": 33742380,
+    "density": 141.46
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+233",
+  "timezones": [
+    "UTC"
+  ],
+  "summary": "Ghana is a country in Western Africa. The capital is Accra. Population: 33.7 million. Area: 238,533 km².",
+  "rank": 46,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/gh.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Ghana is composed of three equal horizontal bands of red, gold and green, with a five-pointed black star centered in the gold band.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ghana",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/ghana/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.881911Z"
+  }
+}

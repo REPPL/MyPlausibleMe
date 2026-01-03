@@ -1,0 +1,61 @@
+{
+  "id": "MLT",
+  "title": "Malta",
+  "officialName": "Republic of Malta",
+  "capital": "Valletta",
+  "region": "europe",
+  "subregion": "Southern Europe",
+  "languages": [
+    "English",
+    "Maltese"
+  ],
+  "currencies": [
+    "EUR"
+  ],
+  "geography": {
+    "area": 316.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 574250,
+    "density": 1817.25
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+356",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "summary": "Malta is a country in Southern Europe. The capital is Valletta. Population: 574,250. Area: 316 km².",
+  "rank": 173,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/mt.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Malta is composed of two equal vertical bands of white and red. A representation of the George cross edged in red is situated on the upper hoist-side corner of the white band.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Malta",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/malta/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.903426Z"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "georg-philipp-telemann",
+  "title": "Georg Philipp Telemann",
+  "shortTitle": "Telemann",
+  "era": "baroque",
+  "summary": "Georg Philipp Telemann (German: [ˈɡeːɔʁk ˈfiːlɪp ˈteːləman]; 24 March [O.S. 14 March] 1681 – 25 June 1767) was a German Baroque composer and multi-instrumentalist. He is one of the most prolific composers in history, at least in terms of surviving works.",
+  "rank": 4,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ot-tver2005pl%2012.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Georg Philipp Telemann",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Georg_Philipp_Telemann",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q155836",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q155836",
+    "fetchedAt": "2026-01-03T12:15:30.304938Z"
+  }
+}

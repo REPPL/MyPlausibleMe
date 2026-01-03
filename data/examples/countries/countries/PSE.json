@@ -1,0 +1,66 @@
+{
+  "id": "PSE",
+  "title": "Palestine",
+  "officialName": "State of Palestine",
+  "capital": "Ramallah",
+  "region": "asia",
+  "subregion": "Western Asia",
+  "languages": [
+    "Arabic"
+  ],
+  "currencies": [
+    "EGP",
+    "ILS",
+    "JOD"
+  ],
+  "geography": {
+    "area": 6220.0,
+    "landlocked": false,
+    "borders": [
+      "ISR",
+      "EGY",
+      "JOR"
+    ],
+    "neighbourCount": 3
+  },
+  "population": {
+    "total": 5483450,
+    "density": 881.58
+  },
+  "independent": false,
+  "drivingSide": "right",
+  "callingCode": "+970",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "summary": "Palestine is a country in Western Asia. The capital is Ramallah. Population: 5.5 million. Area: 6,220 km².",
+  "rank": 120,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/ps.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "Flag of Palestine",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Palestine",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/palestine/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.895313Z"
+  }
+}

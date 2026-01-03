@@ -1,0 +1,70 @@
+{
+  "id": "DEU",
+  "title": "Germany",
+  "officialName": "Federal Republic of Germany",
+  "capital": "Berlin",
+  "region": "europe",
+  "subregion": "Western Europe",
+  "languages": [
+    "German"
+  ],
+  "currencies": [
+    "EUR"
+  ],
+  "geography": {
+    "area": 357114.0,
+    "landlocked": false,
+    "borders": [
+      "AUT",
+      "BEL",
+      "CZE",
+      "DNK",
+      "FRA",
+      "LUX",
+      "NLD",
+      "POL",
+      "CHE"
+    ],
+    "neighbourCount": 9
+  },
+  "population": {
+    "total": 83491249,
+    "density": 233.79
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+49",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "summary": "Germany is a country in Western Europe. The capital is Berlin. Population: 83.5 million. Area: 357,114 km².",
+  "rank": 19,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/de.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Germany is composed of three equal horizontal bands of black, red and gold.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Germany",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/germany/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.876031Z"
+  }
+}

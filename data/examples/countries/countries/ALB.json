@@ -1,0 +1,65 @@
+{
+  "id": "ALB",
+  "title": "Albania",
+  "officialName": "Republic of Albania",
+  "capital": "Tirana",
+  "region": "europe",
+  "subregion": "Southeast Europe",
+  "languages": [
+    "Albanian"
+  ],
+  "currencies": [
+    "ALL"
+  ],
+  "geography": {
+    "area": 28748.0,
+    "landlocked": false,
+    "borders": [
+      "MNE",
+      "GRC",
+      "MKD",
+      "UNK"
+    ],
+    "neighbourCount": 4
+  },
+  "population": {
+    "total": 2363314,
+    "density": 82.21
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+355",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "summary": "Albania is a country in Southeast Europe. The capital is Tirana. Population: 2.4 million. Area: 28,748 km².",
+  "rank": 145,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/al.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Albania features a silhouetted double-headed black eagle at the center of a red field.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Albania",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/albania/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.899180Z"
+  }
+}

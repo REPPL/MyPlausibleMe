@@ -1,0 +1,67 @@
+{
+  "id": "MOZ",
+  "title": "Mozambique",
+  "officialName": "Republic of Mozambique",
+  "capital": "Maputo",
+  "region": "africa",
+  "subregion": "Eastern Africa",
+  "languages": [
+    "Portuguese"
+  ],
+  "currencies": [
+    "MZN"
+  ],
+  "geography": {
+    "area": 801590.0,
+    "landlocked": false,
+    "borders": [
+      "MWI",
+      "ZAF",
+      "SWZ",
+      "TZA",
+      "ZMB",
+      "ZWE"
+    ],
+    "neighbourCount": 6
+  },
+  "population": {
+    "total": 34090466,
+    "density": 42.53
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+258",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "summary": "Mozambique is a country in Eastern Africa. The capital is Maputo. Population: 34.1 million. Area: 801,590 km².",
+  "rank": 45,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/mz.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Mozambique is composed of three equal horizontal bands of teal, black with white top and bottom edges, and yellow. A red isosceles triangle spanning about two-fifth the width of the field is superimposed on the hoist side with its base on the hoist end. This triangle bears a crossed rifle and hoe in black superimposed on an open white book which is superimposed on a five-pointed yellow star.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mozambique",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/mozambique/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.881725Z"
+  }
+}

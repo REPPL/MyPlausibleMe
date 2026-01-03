@@ -1,0 +1,63 @@
+{
+  "id": "BGD",
+  "title": "Bangladesh",
+  "officialName": "People's Republic of Bangladesh",
+  "capital": "Dhaka",
+  "region": "asia",
+  "subregion": "Southern Asia",
+  "languages": [
+    "Bengali"
+  ],
+  "currencies": [
+    "BDT"
+  ],
+  "geography": {
+    "area": 147570.0,
+    "landlocked": false,
+    "borders": [
+      "MMR",
+      "IND"
+    ],
+    "neighbourCount": 2
+  },
+  "population": {
+    "total": 169828911,
+    "density": 1150.84
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+880",
+  "timezones": [
+    "UTC+06:00"
+  ],
+  "summary": "Bangladesh is a country in Southern Asia. The capital is Dhaka. Population: 169.8 million. Area: 147,570 km².",
+  "rank": 8,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/bd.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Bangladesh has a dark green field bearing a large red circle that is offset slightly towards the hoist side of center.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Bangladesh",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/bangladesh/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.873543Z"
+  }
+}

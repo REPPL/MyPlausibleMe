@@ -1,0 +1,65 @@
+{
+  "id": "NGA",
+  "title": "Nigeria",
+  "officialName": "Federal Republic of Nigeria",
+  "capital": "Abuja",
+  "region": "africa",
+  "subregion": "Western Africa",
+  "languages": [
+    "English"
+  ],
+  "currencies": [
+    "NGN"
+  ],
+  "geography": {
+    "area": 923768.0,
+    "landlocked": false,
+    "borders": [
+      "BEN",
+      "CMR",
+      "TCD",
+      "NER"
+    ],
+    "neighbourCount": 4
+  },
+  "population": {
+    "total": 223800000,
+    "density": 242.27
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+234",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "summary": "Nigeria is a country in Western Africa. The capital is Abuja. Population: 223.8 million. Area: 923,768 km².",
+  "rank": 6,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/ng.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Nigeria is composed of three equal vertical bands of green, white and green.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Nigeria",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/nigeria/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.872380Z"
+  }
+}

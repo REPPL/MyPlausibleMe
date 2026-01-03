@@ -1,0 +1,64 @@
+{
+  "id": "SXM",
+  "title": "Sint Maarten",
+  "officialName": "Sint Maarten",
+  "capital": "Philipsburg",
+  "region": "americas",
+  "subregion": "Caribbean",
+  "languages": [
+    "English",
+    "French",
+    "Dutch"
+  ],
+  "currencies": [
+    "ANG"
+  ],
+  "geography": {
+    "area": 34.0,
+    "landlocked": false,
+    "borders": [
+      "MAF"
+    ],
+    "neighbourCount": 1
+  },
+  "population": {
+    "total": 41349,
+    "density": 1216.15
+  },
+  "independent": false,
+  "drivingSide": "right",
+  "callingCode": "+1721",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "summary": "Sint Maarten is a country in Caribbean. The capital is Philipsburg. Population: 41,349. Area: 34 km².",
+  "rank": 216,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/sx.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "Flag of Sint Maarten",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sint_Maarten",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/sint-maarten/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.909244Z"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "c-sar-franck",
+  "title": "César Franck",
+  "shortTitle": "Franck",
+  "era": "romantic",
+  "summary": "César Franck was a European romantic composer.",
+  "rank": 46,
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/César_Franck",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q151898",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q151898",
+    "fetchedAt": "2026-01-03T12:25:40.239743Z"
+  }
+}

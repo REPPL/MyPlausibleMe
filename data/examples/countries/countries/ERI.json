@@ -1,0 +1,66 @@
+{
+  "id": "ERI",
+  "title": "Eritrea",
+  "officialName": "State of Eritrea",
+  "capital": "Asmara",
+  "region": "africa",
+  "subregion": "Eastern Africa",
+  "languages": [
+    "Arabic",
+    "English",
+    "Tigrinya"
+  ],
+  "currencies": [
+    "ERN"
+  ],
+  "geography": {
+    "area": 117600.0,
+    "landlocked": false,
+    "borders": [
+      "DJI",
+      "ETH",
+      "SDN"
+    ],
+    "neighbourCount": 3
+  },
+  "population": {
+    "total": 3607000,
+    "density": 30.67
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+291",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "summary": "Eritrea is a country in Eastern Africa. The capital is Asmara. Population: 3.6 million. Area: 117,600 km².",
+  "rank": 132,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/er.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Eritrea comprises three triangles — a large red isosceles triangle with its base spanning the hoist end and its apex at the midpoint on the fly end, and a green and blue right-angled triangle above and beneath the red triangle. On the hoist side of the red triangle is a golden vertical olive branch encircled by a golden olive wreath.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Eritrea",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/eritrea/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.897198Z"
+  }
+}

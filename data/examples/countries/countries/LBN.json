@@ -1,0 +1,64 @@
+{
+  "id": "LBN",
+  "title": "Lebanon",
+  "officialName": "Lebanese Republic",
+  "capital": "Beirut",
+  "region": "asia",
+  "subregion": "Western Asia",
+  "languages": [
+    "Arabic",
+    "French"
+  ],
+  "currencies": [
+    "LBP"
+  ],
+  "geography": {
+    "area": 10452.0,
+    "landlocked": false,
+    "borders": [
+      "ISR",
+      "SYR"
+    ],
+    "neighbourCount": 2
+  },
+  "population": {
+    "total": 5490000,
+    "density": 525.26
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+961",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "summary": "Lebanon is a country in Western Asia. The capital is Beirut. Population: 5.5 million. Area: 10,452 km².",
+  "rank": 119,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/lb.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Lebanon is composed of three horizontal bands of red, white and red. The white band is twice the height of the red bands and bears a green Lebanese Cedar tree at its center.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Lebanon",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/lebanon/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.895162Z"
+  }
+}

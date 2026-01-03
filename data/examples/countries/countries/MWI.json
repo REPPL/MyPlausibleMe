@@ -1,0 +1,65 @@
+{
+  "id": "MWI",
+  "title": "Malawi",
+  "officialName": "Republic of Malawi",
+  "capital": "Lilongwe",
+  "region": "africa",
+  "subregion": "Eastern Africa",
+  "languages": [
+    "English",
+    "Chewa"
+  ],
+  "currencies": [
+    "MWK"
+  ],
+  "geography": {
+    "area": 118484.0,
+    "landlocked": true,
+    "borders": [
+      "MOZ",
+      "TZA",
+      "ZMB"
+    ],
+    "neighbourCount": 3
+  },
+  "population": {
+    "total": 20734262,
+    "density": 175.0
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+265",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "summary": "Malawi is a country in Eastern Africa. The capital is Lilongwe. Population: 20.7 million. Area: 118,484 km².",
+  "rank": 62,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/mw.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Malawi is composed of three equal horizontal bands of black, red and green. The top half of a red sun with thirty-one visible rays is centered in the black band.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Malawi",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/malawi/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.885014Z"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "COM",
+  "title": "Comoros",
+  "officialName": "Union of the Comoros",
+  "capital": "Moroni",
+  "region": "africa",
+  "subregion": "Eastern Africa",
+  "languages": [
+    "Arabic",
+    "French",
+    "Comorian"
+  ],
+  "currencies": [
+    "KMF"
+  ],
+  "geography": {
+    "area": 1862.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 919901,
+    "density": 494.04
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+269",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "summary": "Comoros is a country in Eastern Africa. The capital is Moroni. Population: 919,901. Area: 1,862 km².",
+  "rank": 162,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/km.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Comoros is composed of four equal horizontal bands of yellow, white, red and blue, with a green isosceles triangle superimposed on the hoist side of the field. This triangle has its base on the hoist end, spans about two-fifth the width of the field and bears a fly-side facing white crescent and four five-pointed white stars arranged in a vertical line along the opening of the crescent.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Comoros",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/comoros/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.901832Z"
+  }
+}

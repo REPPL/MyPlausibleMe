@@ -1,0 +1,11 @@
+{
+  "id": "americas",
+  "title": "Americas",
+  "summary": "The landmass comprising North America, Central America, South America, and the Caribbean.",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Americas",
+      "source": "Wikipedia"
+    }
+  ]
+}

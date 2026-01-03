@@ -1,0 +1,63 @@
+{
+  "id": "MDA",
+  "title": "Moldova",
+  "officialName": "Republic of Moldova",
+  "capital": "Chișinău",
+  "region": "europe",
+  "subregion": "Eastern Europe",
+  "languages": [
+    "Romanian"
+  ],
+  "currencies": [
+    "MDL"
+  ],
+  "geography": {
+    "area": 33847.0,
+    "landlocked": true,
+    "borders": [
+      "ROU",
+      "UKR"
+    ],
+    "neighbourCount": 2
+  },
+  "population": {
+    "total": 2749076,
+    "density": 81.22
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+373",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "summary": "Moldova is a country in Eastern Europe. The capital is Chișinău. Population: 2.7 million. Area: 33,847 km².",
+  "rank": 142,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/md.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Moldova is composed of three equal vertical bands of blue, yellow and red, with the national coat of arms centered in the yellow band.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Moldova",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/moldova/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.898720Z"
+  }
+}

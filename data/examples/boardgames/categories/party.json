@@ -1,0 +1,11 @@
+{
+  "id": "party",
+  "title": "Party",
+  "summary": "Social games designed for larger groups with emphasis on fun and interaction.",
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgamecategory",
+      "source": "BoardGameGeek"
+    }
+  ]
+}

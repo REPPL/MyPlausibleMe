@@ -1,0 +1,44 @@
+{
+  "id": "john-adams",
+  "title": "John Adams",
+  "shortTitle": "Adams",
+  "birthYear": 1920,
+  "deathYear": 2011,
+  "nationality": "United States",
+  "birthPlace": "Caracas",
+  "era": "modern",
+  "statistics": {
+    "lifespan": 91,
+    "activeYears": 73
+  },
+  "summary": "John Adams was a United States modern composer born in 1920 who lived until 2011.",
+  "rank": 85,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Baruj%20Benacerraf%201969.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of John Adams",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/John_Adams",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q234701",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q234701",
+    "fetchedAt": "2026-01-03T12:27:15.955239Z"
+  }
+}

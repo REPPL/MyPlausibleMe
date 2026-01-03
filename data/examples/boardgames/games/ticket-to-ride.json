@@ -1,0 +1,47 @@
+{
+  "id": "ticket-to-ride",
+  "title": "Ticket to Ride",
+  "year": 2004,
+  "designers": [
+    "Alan R. Moon"
+  ],
+  "publishers": [
+    "Days of Wonder"
+  ],
+  "players": {
+    "min": 2,
+    "max": 5
+  },
+  "playTime": 30,
+  "category": "family",
+  "summary": "2004 board game",
+  "rank": 22,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Deskohran%C3%AD%2008-09-27%20212.jpg",
+      "type": "photo",
+      "isPrimary": true,
+      "alt": "Ticket to Ride board game",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "varies",
+        "note": "Image from Wikimedia Commons. Check individual file for licence."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/9209",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ticket_to_Ride",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "9209",
+    "fetchedAt": "2026-01-03T11:38:10.452012Z"
+  }
+}

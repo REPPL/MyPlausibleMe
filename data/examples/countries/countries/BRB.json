@@ -1,0 +1,60 @@
+{
+  "id": "BRB",
+  "title": "Barbados",
+  "officialName": "Barbados",
+  "capital": "Bridgetown",
+  "region": "americas",
+  "subregion": "Caribbean",
+  "languages": [
+    "English"
+  ],
+  "currencies": [
+    "BBD"
+  ],
+  "geography": {
+    "area": 430.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 267800,
+    "density": 622.79
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+1246",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "summary": "Barbados is a country in Caribbean. The capital is Bridgetown. Population: 267,800. Area: 430 km².",
+  "rank": 186,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/bb.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Barbados is composed of three equal vertical bands of ultramarine, gold and ultramarine. The head of a black trident is centered in the gold band.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Barbados",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/barbados/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.905188Z"
+  }
+}

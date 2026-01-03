@@ -1,0 +1,52 @@
+{
+  "id": "ludwig-van-beethoven",
+  "title": "Ludwig van Beethoven",
+  "shortTitle": "van Beethoven",
+  "birthYear": 1770,
+  "deathYear": 1827,
+  "nationality": "Austrian Empire",
+  "birthPlace": "Bonn",
+  "era": "romantic",
+  "statistics": {
+    "totalWorks": 12,
+    "lifespan": 57,
+    "activeYears": 39
+  },
+  "notableWorks": [
+    "Symphony No. 3",
+    "Piano Sonata No. 23",
+    "Piano Sonata No. 21",
+    "Fidelio",
+    "Symphony No. 5"
+  ],
+  "summary": "Ludwig van Beethoven (baptised 17 December 1770 – 26 March 1827) was a German composer and pianist. One of the most revered figures in the history of Western music, his works rank among the most performed of the classical music repertoire and span the transition from the Classical period to the Romantic era. Beethoven's early period, during which he forged his craft, is typically considered to have lasted until 1802.",
+  "rank": 19,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Beethoven.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Ludwig van Beethoven",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q255",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q255",
+    "fetchedAt": "2026-01-03T12:24:03.636890Z"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "WSM",
+  "title": "Samoa",
+  "officialName": "Independent State of Samoa",
+  "capital": "Apia",
+  "region": "oceania",
+  "subregion": "Polynesia",
+  "languages": [
+    "English",
+    "Samoan"
+  ],
+  "currencies": [
+    "WST"
+  ],
+  "geography": {
+    "area": 2842.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 205557,
+    "density": 72.33
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+685",
+  "timezones": [
+    "UTC+13:00"
+  ],
+  "summary": "Samoa is a country in Polynesia. The capital is Apia. Population: 205,557. Area: 2,842 km².",
+  "rank": 189,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/ws.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Samoa has a red field. A blue rectangle, bearing a representation of the Southern Cross made up of five large and one smaller five-pointed white stars, is superimposed in the canton.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Samoa",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/samoa/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.905593Z"
+  }
+}

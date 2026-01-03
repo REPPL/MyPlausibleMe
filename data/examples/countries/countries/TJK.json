@@ -1,0 +1,66 @@
+{
+  "id": "TJK",
+  "title": "Tajikistan",
+  "officialName": "Republic of Tajikistan",
+  "capital": "Dushanbe",
+  "region": "asia",
+  "subregion": "Central Asia",
+  "languages": [
+    "Russian",
+    "Tajik"
+  ],
+  "currencies": [
+    "TJS"
+  ],
+  "geography": {
+    "area": 143100.0,
+    "landlocked": true,
+    "borders": [
+      "AFG",
+      "CHN",
+      "KGZ",
+      "UZB"
+    ],
+    "neighbourCount": 4
+  },
+  "population": {
+    "total": 10499000,
+    "density": 73.37
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+992",
+  "timezones": [
+    "UTC+05:00"
+  ],
+  "summary": "Tajikistan is a country in Central Asia. The capital is Dushanbe. Population: 10.5 million. Area: 143,100 km².",
+  "rank": 91,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/tj.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Tajikistan is composed of three horizontal bands of red, white and green in the ratio of 2:3:2. A golden-yellow crown surmounted by an arc of seven five-pointed golden-yellow stars is centered in the white band.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Tajikistan",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/tajikistan/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.890600Z"
+  }
+}

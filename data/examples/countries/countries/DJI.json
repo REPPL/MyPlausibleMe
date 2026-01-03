@@ -1,0 +1,65 @@
+{
+  "id": "DJI",
+  "title": "Djibouti",
+  "officialName": "Republic of Djibouti",
+  "capital": "Djibouti",
+  "region": "africa",
+  "subregion": "Eastern Africa",
+  "languages": [
+    "Arabic",
+    "French"
+  ],
+  "currencies": [
+    "DJF"
+  ],
+  "geography": {
+    "area": 23200.0,
+    "landlocked": false,
+    "borders": [
+      "ERI",
+      "ETH",
+      "SOM"
+    ],
+    "neighbourCount": 3
+  },
+  "population": {
+    "total": 1066809,
+    "density": 45.98
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+253",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "summary": "Djibouti is a country in Eastern Africa. The capital is Djibouti. Population: 1.1 million. Area: 23,200 km².",
+  "rank": 161,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/dj.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Djibouti is composed of two equal horizontal bands of light blue and light green, with a white isosceles triangle superimposed on the hoist side of the field. The triangle has its base on the hoist end, spans about two-fifth the width of the field and bears a red five-pointed star at its center.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Djibouti",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/djibouti/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.901674Z"
+  }
+}

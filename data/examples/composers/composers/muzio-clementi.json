@@ -1,0 +1,29 @@
+{
+  "id": "muzio-clementi",
+  "title": "Muzio Clementi",
+  "shortTitle": "Clementi",
+  "birthYear": 1971,
+  "nationality": "Slovenia",
+  "birthPlace": "Maribor",
+  "era": "classical",
+  "statistics": {
+    "activeYears": 36
+  },
+  "summary": "Muzio Filippo Vincenzo Francesco Saverio Clementi (23 January 1752 – 10 March 1832) was an Italian and British composer, virtuoso pianist, pedagogue, conductor, music publisher, editor, and piano manufacturer who was mostly active in England.\nEncouraged to study music by his father, he was sponsored as a young composer by Sir Peter Beckford, who took him to England to advance his studies. Later, he toured Europe numerous times from his long-standing base in London. It was on one of these occasions, in 1781, that he engaged in a piano competition with Wolfgang Amadeus Mozart.\nInfluenced by Domenico Scarlatti's harpsichord school and Joseph Haydn's classical school and by the stile Galante of Johann Christian Bach and Ignazio Cirri, Clementi developed a fluent and technical legato style, which he passed on to a generation of pianists, including John Field, Johann Baptist Cramer, Ignaz Moscheles, Giacomo Meyerbeer, Friedrich Kalkbrenner, Johann Nepomuk Hummel, and Carl Czerny.",
+  "rank": 17,
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Muzio_Clementi",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q207186",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q207186",
+    "fetchedAt": "2026-01-03T12:22:56.099803Z"
+  }
+}

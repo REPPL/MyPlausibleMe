@@ -1,0 +1,65 @@
+{
+  "id": "MAR",
+  "title": "Morocco",
+  "officialName": "Kingdom of Morocco",
+  "capital": "Rabat",
+  "region": "africa",
+  "subregion": "Northern Africa",
+  "languages": [
+    "Arabic",
+    "Berber"
+  ],
+  "currencies": [
+    "MAD"
+  ],
+  "geography": {
+    "area": 446550.0,
+    "landlocked": false,
+    "borders": [
+      "DZA",
+      "ESH",
+      "ESP"
+    ],
+    "neighbourCount": 3
+  },
+  "population": {
+    "total": 36828330,
+    "density": 82.47
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+212",
+  "timezones": [
+    "UTC"
+  ],
+  "summary": "Morocco is a country in Northern Africa. The capital is Rabat. Population: 36.8 million. Area: 446,550 km².",
+  "rank": 40,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/ma.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Morocco features a green pentagram — a five-pointed linear star — centered on a red field.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Morocco",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/morocco/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.880770Z"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "AIA",
+  "title": "Anguilla",
+  "officialName": "Anguilla",
+  "capital": "The Valley",
+  "region": "americas",
+  "subregion": "Caribbean",
+  "languages": [
+    "English"
+  ],
+  "currencies": [
+    "XCD"
+  ],
+  "geography": {
+    "area": 91.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 16010,
+    "density": 175.93
+  },
+  "independent": false,
+  "drivingSide": "left",
+  "callingCode": "+1264",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "summary": "Anguilla is a country in Caribbean. The capital is The Valley. Population: 16,010. Area: 91 km².",
+  "rank": 226,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/ai.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "Flag of Anguilla",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Anguilla",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/anguilla/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.910597Z"
+  }
+}

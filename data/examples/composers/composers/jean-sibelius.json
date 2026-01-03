@@ -1,0 +1,52 @@
+{
+  "id": "jean-sibelius",
+  "title": "Jean Sibelius",
+  "shortTitle": "Sibelius",
+  "birthYear": 1659,
+  "deathYear": 1695,
+  "nationality": "Kingdom of England",
+  "birthPlace": "Westminster",
+  "era": "romantic",
+  "statistics": {
+    "totalWorks": 7,
+    "lifespan": 36,
+    "activeYears": 18
+  },
+  "notableWorks": [
+    "Who can from joy refrain?",
+    "Thou knowest, Lord, the secrets of our hearts",
+    "I attempt from Love's sickness to fly",
+    "Hail, bright Cecilia",
+    "The Fairy-Queen"
+  ],
+  "summary": "Jean Sibelius was a Kingdom of England romantic composer born in 1659 who lived until 1695.",
+  "rank": 36,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Purcell%20by%20John%20Closterman.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Jean Sibelius",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Jean_Sibelius",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q9695",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q9695",
+    "fetchedAt": "2026-01-03T12:25:16.662995Z"
+  }
+}

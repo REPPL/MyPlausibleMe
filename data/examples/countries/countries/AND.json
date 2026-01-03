@@ -1,0 +1,63 @@
+{
+  "id": "AND",
+  "title": "Andorra",
+  "officialName": "Principality of Andorra",
+  "capital": "Andorra la Vella",
+  "region": "europe",
+  "subregion": "Southern Europe",
+  "languages": [
+    "Catalan"
+  ],
+  "currencies": [
+    "EUR"
+  ],
+  "geography": {
+    "area": 468.0,
+    "landlocked": true,
+    "borders": [
+      "FRA",
+      "ESP"
+    ],
+    "neighbourCount": 2
+  },
+  "population": {
+    "total": 88406,
+    "density": 188.9
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+376",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "summary": "Andorra is a country in Southern Europe. The capital is Andorra la Vella. Population: 88,406. Area: 468 km².",
+  "rank": 202,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/ad.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Andorra features three equal vertical bands of blue, yellow and red, with the coat of arms of Andorra centered in the yellow band.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Andorra",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/andorra/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.907363Z"
+  }
+}

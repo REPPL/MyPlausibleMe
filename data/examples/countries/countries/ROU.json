@@ -1,0 +1,66 @@
+{
+  "id": "ROU",
+  "title": "Romania",
+  "officialName": "Romania",
+  "capital": "Bucharest",
+  "region": "europe",
+  "subregion": "Southeast Europe",
+  "languages": [
+    "Romanian"
+  ],
+  "currencies": [
+    "RON"
+  ],
+  "geography": {
+    "area": 238391.0,
+    "landlocked": false,
+    "borders": [
+      "BGR",
+      "HUN",
+      "MDA",
+      "SRB",
+      "UKR"
+    ],
+    "neighbourCount": 5
+  },
+  "population": {
+    "total": 19036031,
+    "density": 79.85
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+40",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "summary": "Romania is a country in Southeast Europe. The capital is Bucharest. Population: 19.0 million. Area: 238,391 km².",
+  "rank": 68,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/ro.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Romania is composed of three equal vertical bands of navy blue, yellow and red.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Romania",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/romania/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.886222Z"
+  }
+}

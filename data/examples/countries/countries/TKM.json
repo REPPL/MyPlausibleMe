@@ -1,0 +1,66 @@
+{
+  "id": "TKM",
+  "title": "Turkmenistan",
+  "officialName": "Turkmenistan",
+  "capital": "Ashgabat",
+  "region": "asia",
+  "subregion": "Central Asia",
+  "languages": [
+    "Russian",
+    "Turkmen"
+  ],
+  "currencies": [
+    "TMT"
+  ],
+  "geography": {
+    "area": 488100.0,
+    "landlocked": true,
+    "borders": [
+      "AFG",
+      "IRN",
+      "KAZ",
+      "UZB"
+    ],
+    "neighbourCount": 4
+  },
+  "population": {
+    "total": 7057841,
+    "density": 14.46
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+993",
+  "timezones": [
+    "UTC+05:00"
+  ],
+  "summary": "Turkmenistan is a country in Central Asia. The capital is Ashgabat. Population: 7.1 million. Area: 488,100 km².",
+  "rank": 107,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/tm.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Turkmenistan has a green field. It features a red vertical band, bearing five carpet guls stacked above two crossed olive branches, near the hoist end of the field. Just to the fly side of the vertical band near the top edge of the field is a hoist-side facing white crescent and five small five-pointed white stars placed just outside the crescent opening.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/turkmenistan/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.893318Z"
+  }
+}

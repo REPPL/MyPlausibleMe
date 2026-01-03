@@ -1,0 +1,63 @@
+{
+  "id": "URY",
+  "title": "Uruguay",
+  "officialName": "Oriental Republic of Uruguay",
+  "capital": "Montevideo",
+  "region": "americas",
+  "subregion": "South America",
+  "languages": [
+    "Spanish"
+  ],
+  "currencies": [
+    "UYU"
+  ],
+  "geography": {
+    "area": 181034.0,
+    "landlocked": false,
+    "borders": [
+      "ARG",
+      "BRA"
+    ],
+    "neighbourCount": 2
+  },
+  "population": {
+    "total": 3499451,
+    "density": 19.33
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+598",
+  "timezones": [
+    "UTC-03:00"
+  ],
+  "summary": "Uruguay is a country in South America. The capital is Montevideo. Population: 3.5 million. Area: 181,034 km².",
+  "rank": 134,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/uy.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Uruguay is composed of nine equal horizontal bands of white alternating with blue, with a white square superimposed in the canton. In the white square is a yellow sun bearing a human face — the Sun of May — from which sixteen rays extend. The sun's rays alternate between triangular and wavy.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Uruguay",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/uruguay/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.897494Z"
+  }
+}

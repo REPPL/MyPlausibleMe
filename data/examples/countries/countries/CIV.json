@@ -1,0 +1,66 @@
+{
+  "id": "CIV",
+  "title": "Ivory Coast",
+  "officialName": "Republic of Côte d'Ivoire",
+  "capital": "Yamoussoukro",
+  "region": "africa",
+  "subregion": "Western Africa",
+  "languages": [
+    "French"
+  ],
+  "currencies": [
+    "XOF"
+  ],
+  "geography": {
+    "area": 322463.0,
+    "landlocked": false,
+    "borders": [
+      "BFA",
+      "GHA",
+      "GIN",
+      "LBR",
+      "MLI"
+    ],
+    "neighbourCount": 5
+  },
+  "population": {
+    "total": 31719275,
+    "density": 98.37
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+225",
+  "timezones": [
+    "UTC"
+  ],
+  "summary": "Ivory Coast is a country in Western Africa. The capital is Yamoussoukro. Population: 31.7 million. Area: 322,463 km².",
+  "rank": 50,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/ci.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Ivory Coast is composed of three equal vertical bands of orange, white and green.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ivory_Coast",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/ivory-coast/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.882653Z"
+  }
+}

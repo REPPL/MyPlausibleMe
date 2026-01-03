@@ -1,0 +1,65 @@
+{
+  "id": "FIN",
+  "title": "Finland",
+  "officialName": "Republic of Finland",
+  "capital": "Helsinki",
+  "region": "europe",
+  "subregion": "Northern Europe",
+  "languages": [
+    "Finnish",
+    "Swedish"
+  ],
+  "currencies": [
+    "EUR"
+  ],
+  "geography": {
+    "area": 338455.0,
+    "landlocked": false,
+    "borders": [
+      "NOR",
+      "SWE",
+      "RUS"
+    ],
+    "neighbourCount": 3
+  },
+  "population": {
+    "total": 5650325,
+    "density": 16.69
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+358",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "summary": "Finland is a country in Northern Europe. The capital is Helsinki. Population: 5.7 million. Area: 338,455 km².",
+  "rank": 117,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/fi.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Finland has a white field with a large blue cross that extend to the edges of the field. The vertical part of this cross is offset towards the hoist side.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Finland",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/finland/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.894857Z"
+  }
+}

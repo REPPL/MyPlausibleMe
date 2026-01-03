@@ -1,0 +1,68 @@
+{
+  "id": "HUN",
+  "title": "Hungary",
+  "officialName": "Hungary",
+  "capital": "Budapest",
+  "region": "europe",
+  "subregion": "Central Europe",
+  "languages": [
+    "Hungarian"
+  ],
+  "currencies": [
+    "HUF"
+  ],
+  "geography": {
+    "area": 93028.0,
+    "landlocked": true,
+    "borders": [
+      "AUT",
+      "HRV",
+      "ROU",
+      "SRB",
+      "SVK",
+      "SVN",
+      "UKR"
+    ],
+    "neighbourCount": 7
+  },
+  "population": {
+    "total": 9539502,
+    "density": 102.54
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+36",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "summary": "Hungary is a country in Central Europe. The capital is Budapest. Population: 9.5 million. Area: 93,028 km².",
+  "rank": 97,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/hu.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Hungary is composed of three equal horizontal bands of red, white and green.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Hungary",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/hungary/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.891602Z"
+  }
+}

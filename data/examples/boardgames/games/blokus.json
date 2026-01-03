@@ -1,0 +1,38 @@
+{
+  "id": "blokus",
+  "title": "Blokus",
+  "publishers": [
+    "Sekkoïa"
+  ],
+  "category": "abstract",
+  "summary": "2000 board game",
+  "rank": 25,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/GOADA%202008%20%28a%29%20123.jpg",
+      "type": "photo",
+      "isPrimary": true,
+      "alt": "Blokus board game",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "varies",
+        "note": "Image from Wikimedia Commons. Check individual file for licence."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/2453",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Blokus",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "2453",
+    "fetchedAt": "2026-01-03T11:38:10.452550Z"
+  }
+}

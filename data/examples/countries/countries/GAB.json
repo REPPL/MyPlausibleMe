@@ -1,0 +1,64 @@
+{
+  "id": "GAB",
+  "title": "Gabon",
+  "officialName": "Gabonese Republic",
+  "capital": "Libreville",
+  "region": "africa",
+  "subregion": "Middle Africa",
+  "languages": [
+    "French"
+  ],
+  "currencies": [
+    "XAF"
+  ],
+  "geography": {
+    "area": 267668.0,
+    "landlocked": false,
+    "borders": [
+      "CMR",
+      "COG",
+      "GNQ"
+    ],
+    "neighbourCount": 3
+  },
+  "population": {
+    "total": 2469296,
+    "density": 9.23
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+241",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "summary": "Gabon is a country in Middle Africa. The capital is Libreville. Population: 2.5 million. Area: 267,668 km².",
+  "rank": 143,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/ga.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Gabon is composed of three equal horizontal bands of green, yellow and blue.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Gabon",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/gabon/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.898879Z"
+  }
+}

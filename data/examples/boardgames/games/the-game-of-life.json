@@ -1,0 +1,43 @@
+{
+  "id": "the-game-of-life",
+  "title": "The Game of Life",
+  "year": 1971,
+  "publishers": [
+    "Mattel"
+  ],
+  "players": {
+    "min": 2,
+    "max": 10
+  },
+  "category": "family",
+  "summary": "Card game",
+  "rank": 39,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Baraja%20de%20UNO.JPG",
+      "type": "photo",
+      "isPrimary": true,
+      "alt": "The Game of Life board game",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "varies",
+        "note": "Image from Wikimedia Commons. Check individual file for licence."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/2223",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Game_of_Life",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "2223",
+    "fetchedAt": "2026-01-03T11:38:41.190018Z"
+  }
+}

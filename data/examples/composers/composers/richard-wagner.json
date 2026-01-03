@@ -1,0 +1,52 @@
+{
+  "id": "richard-wagner",
+  "title": "Richard Wagner",
+  "shortTitle": "Wagner",
+  "birthYear": 1813,
+  "deathYear": 1883,
+  "nationality": "Kingdom of Saxony",
+  "birthPlace": "Leipzig",
+  "era": "romantic",
+  "statistics": {
+    "totalWorks": 6,
+    "lifespan": 70,
+    "activeYears": 52
+  },
+  "notableWorks": [
+    "Tristan und Isolde",
+    "Tannhäuser",
+    "Der Ring des Nibelungen",
+    "The Flying Dutchman",
+    "Lohengrin"
+  ],
+  "summary": "Richard Wagner was a Kingdom of Saxony romantic composer born in 1813 who lived until 1883.",
+  "rank": 24,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/RichardWagner.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Richard Wagner",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Richard_Wagner",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q1511",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q1511",
+    "fetchedAt": "2026-01-03T12:24:47.770110Z"
+  }
+}

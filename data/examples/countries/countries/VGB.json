@@ -1,0 +1,60 @@
+{
+  "id": "VGB",
+  "title": "British Virgin Islands",
+  "officialName": "Virgin Islands",
+  "capital": "Road Town",
+  "region": "americas",
+  "subregion": "Caribbean",
+  "languages": [
+    "English"
+  ],
+  "currencies": [
+    "USD"
+  ],
+  "geography": {
+    "area": 151.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 39471,
+    "density": 261.4
+  },
+  "independent": false,
+  "drivingSide": "left",
+  "callingCode": "+1284",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "summary": "British Virgin Islands is a country in Caribbean. The capital is Road Town. Population: 39,471. Area: 151 km².",
+  "rank": 218,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/vg.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "Flag of British Virgin Islands",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/British_Virgin_Islands",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/british-virgin-islands/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.909501Z"
+  }
+}

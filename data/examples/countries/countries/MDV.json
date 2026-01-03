@@ -1,0 +1,60 @@
+{
+  "id": "MDV",
+  "title": "Maldives",
+  "officialName": "Republic of the Maldives",
+  "capital": "Malé",
+  "region": "asia",
+  "subregion": "Southern Asia",
+  "languages": [
+    "Maldivian"
+  ],
+  "currencies": [
+    "MVR"
+  ],
+  "geography": {
+    "area": 300.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 515132,
+    "density": 1717.11
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+960",
+  "timezones": [
+    "UTC+05:00"
+  ],
+  "summary": "Maldives is a country in Southern Asia. The capital is Malé. Population: 515,132. Area: 300 km².",
+  "rank": 174,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/mv.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Maldives has a red field, at the center of which is a large green rectangle bearing a fly-side facing white crescent.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Maldives",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/maldives/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.903562Z"
+  }
+}

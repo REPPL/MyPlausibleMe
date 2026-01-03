@@ -1,0 +1,12 @@
+{
+  "id": "modern",
+  "title": "Modern",
+  "period": "1900-present",
+  "summary": "Modern classical music encompasses diverse styles from impressionism to atonality and minimalism.",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Modern_music",
+      "source": "Wikipedia"
+    }
+  ]
+}

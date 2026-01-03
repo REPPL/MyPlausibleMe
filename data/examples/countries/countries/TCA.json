@@ -1,0 +1,60 @@
+{
+  "id": "TCA",
+  "title": "Turks and Caicos Islands",
+  "officialName": "Turks and Caicos Islands",
+  "capital": "Cockburn Town",
+  "region": "americas",
+  "subregion": "Caribbean",
+  "languages": [
+    "English"
+  ],
+  "currencies": [
+    "USD"
+  ],
+  "geography": {
+    "area": 948.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 50828,
+    "density": 53.62
+  },
+  "independent": false,
+  "drivingSide": "left",
+  "callingCode": "+1649",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "summary": "Turks and Caicos Islands is a country in Caribbean. The capital is Cockburn Town. Population: 50,828. Area: 948 km².",
+  "rank": 212,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/tc.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "Flag of Turks and Caicos Islands",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/turks-and-caicos-islands/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.908718Z"
+  }
+}

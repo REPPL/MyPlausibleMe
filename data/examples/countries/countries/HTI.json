@@ -1,0 +1,63 @@
+{
+  "id": "HTI",
+  "title": "Haiti",
+  "officialName": "Republic of Haiti",
+  "capital": "Port-au-Prince",
+  "region": "americas",
+  "subregion": "Caribbean",
+  "languages": [
+    "French",
+    "Haitian Creole"
+  ],
+  "currencies": [
+    "HTG"
+  ],
+  "geography": {
+    "area": 27750.0,
+    "landlocked": false,
+    "borders": [
+      "DOM"
+    ],
+    "neighbourCount": 1
+  },
+  "population": {
+    "total": 11867032,
+    "density": 427.64
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+509",
+  "timezones": [
+    "UTC-05:00"
+  ],
+  "summary": "Haiti is a country in Caribbean. The capital is Port-au-Prince. Population: 11.9 million. Area: 27,750 km².",
+  "rank": 81,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/ht.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Haiti is composed of two equal horizontal bands of blue and red. A white square bearing the national coat of arms is superimposed at the center of the field.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Haiti",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/haiti/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.888849Z"
+  }
+}

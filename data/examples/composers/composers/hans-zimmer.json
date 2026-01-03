@@ -1,0 +1,42 @@
+{
+  "id": "hans-zimmer",
+  "title": "Hans Zimmer",
+  "shortTitle": "Zimmer",
+  "birthYear": 1964,
+  "nationality": "Italy",
+  "birthPlace": "Turin",
+  "era": "modern",
+  "statistics": {
+    "activeYears": 43
+  },
+  "summary": "Hans Zimmer was a Italy modern composer born in 1964.",
+  "rank": 90,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Valeria%20Bruni%20Tedeschi%20at%20Berlinale%202022%20%28cropped%29.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Hans Zimmer",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Hans_Zimmer",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q232470",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q232470",
+    "fetchedAt": "2026-01-03T12:27:27.487688Z"
+  }
+}

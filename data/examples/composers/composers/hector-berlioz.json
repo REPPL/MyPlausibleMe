@@ -1,0 +1,23 @@
+{
+  "id": "hector-berlioz",
+  "title": "Hector Berlioz",
+  "shortTitle": "Berlioz",
+  "era": "romantic",
+  "summary": "Hector Berlioz was a European romantic composer.",
+  "rank": 29,
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Hector_Berlioz",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q7352",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q7352",
+    "fetchedAt": "2026-01-03T12:25:00.153229Z"
+  }
+}

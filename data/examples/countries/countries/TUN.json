@@ -1,0 +1,63 @@
+{
+  "id": "TUN",
+  "title": "Tunisia",
+  "officialName": "Tunisian Republic",
+  "capital": "Tunis",
+  "region": "africa",
+  "subregion": "Northern Africa",
+  "languages": [
+    "Arabic"
+  ],
+  "currencies": [
+    "TND"
+  ],
+  "geography": {
+    "area": 163610.0,
+    "landlocked": false,
+    "borders": [
+      "DZA",
+      "LBY"
+    ],
+    "neighbourCount": 2
+  },
+  "population": {
+    "total": 11972169,
+    "density": 73.18
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+216",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "summary": "Tunisia is a country in Northern Africa. The capital is Tunis. Population: 12.0 million. Area: 163,610 km².",
+  "rank": 80,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/tn.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Tunisia has a red field. A white circle bearing a five-pointed red star within a fly-side facing red crescent is situated at the center of the field.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Tunisia",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/tunisia/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.888663Z"
+  }
+}

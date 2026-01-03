@@ -1,0 +1,67 @@
+{
+  "id": "LBY",
+  "title": "Libya",
+  "officialName": "State of Libya",
+  "capital": "Tripoli",
+  "region": "africa",
+  "subregion": "Northern Africa",
+  "languages": [
+    "Arabic"
+  ],
+  "currencies": [
+    "LYD"
+  ],
+  "geography": {
+    "area": 1759540.0,
+    "landlocked": false,
+    "borders": [
+      "DZA",
+      "TCD",
+      "EGY",
+      "NER",
+      "SDN",
+      "TUN"
+    ],
+    "neighbourCount": 6
+  },
+  "population": {
+    "total": 7459000,
+    "density": 4.24
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+218",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "summary": "Libya is a country in Northern Africa. The capital is Tripoli. Population: 7.5 million. Area: 1,759,540 km².",
+  "rank": 105,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/ly.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Libya is composed of three horizontal bands of red, black and green, with the black band twice the height of the other two bands. At the center of the black band is a fly-side facing white crescent and a five-pointed white star placed just outside the crescent opening.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Libya",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/libya/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.892981Z"
+  }
+}

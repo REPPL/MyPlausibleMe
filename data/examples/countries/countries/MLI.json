@@ -1,0 +1,68 @@
+{
+  "id": "MLI",
+  "title": "Mali",
+  "officialName": "Republic of Mali",
+  "capital": "Bamako",
+  "region": "africa",
+  "subregion": "Western Africa",
+  "languages": [
+    "French"
+  ],
+  "currencies": [
+    "XOF"
+  ],
+  "geography": {
+    "area": 1240192.0,
+    "landlocked": true,
+    "borders": [
+      "DZA",
+      "BFA",
+      "GIN",
+      "CIV",
+      "MRT",
+      "NER",
+      "SEN"
+    ],
+    "neighbourCount": 7
+  },
+  "population": {
+    "total": 22395489,
+    "density": 18.06
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+223",
+  "timezones": [
+    "UTC"
+  ],
+  "summary": "Mali is a country in Western Africa. The capital is Bamako. Population: 22.4 million. Area: 1,240,192 km².",
+  "rank": 60,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/ml.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Mali is composed of three equal vertical bands of green, yellow and red.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mali",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/mali/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.884606Z"
+  }
+}

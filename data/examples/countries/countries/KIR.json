@@ -1,0 +1,64 @@
+{
+  "id": "KIR",
+  "title": "Kiribati",
+  "officialName": "Independent and Sovereign Republic of Kiribati",
+  "capital": "South Tarawa",
+  "region": "oceania",
+  "subregion": "Micronesia",
+  "languages": [
+    "English",
+    "Gilbertese"
+  ],
+  "currencies": [
+    "AUD",
+    "KID"
+  ],
+  "geography": {
+    "area": 811.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 120740,
+    "density": 148.88
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+686",
+  "timezones": [
+    "UTC+12:00",
+    "UTC+13:00",
+    "UTC+14:00"
+  ],
+  "summary": "Kiribati is a country in Micronesia. The capital is South Tarawa. Population: 120,740. Area: 811 km².",
+  "rank": 194,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/ki.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Kiribati is divided into two halves. While the upper half has a red field, at the center of which is a yellow frigate bird flying over the top half of a rising yellow sun with seventeen visible rays, the lower half is composed of six horizontal wavy bands of white alternating with blue to depict the ocean.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Kiribati",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/kiribati/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.906268Z"
+  }
+}

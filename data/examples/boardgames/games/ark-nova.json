@@ -1,0 +1,30 @@
+{
+  "id": "ark-nova",
+  "title": "Ark Nova",
+  "year": 2021,
+  "publishers": [
+    "Hobby World"
+  ],
+  "players": {
+    "min": 1,
+    "max": 4
+  },
+  "category": "strategy",
+  "summary": "Ark Nova is a strategic board game for up to four people. It was designed by game designer Mathias Wigge, and first published in 2021. In Ark Nova, players aim to score conservation and appeal points by building a zoo.",
+  "rank": 4,
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/342942",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ark_Nova",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "342942",
+    "fetchedAt": "2026-01-03T11:34:35.372532Z"
+  }
+}

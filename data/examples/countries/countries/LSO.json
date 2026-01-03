@@ -1,0 +1,64 @@
+{
+  "id": "LSO",
+  "title": "Lesotho",
+  "officialName": "Kingdom of Lesotho",
+  "capital": "Maseru",
+  "region": "africa",
+  "subregion": "Southern Africa",
+  "languages": [
+    "English",
+    "Sotho"
+  ],
+  "currencies": [
+    "LSL",
+    "ZAR"
+  ],
+  "geography": {
+    "area": 30355.0,
+    "landlocked": true,
+    "borders": [
+      "ZAF"
+    ],
+    "neighbourCount": 1
+  },
+  "population": {
+    "total": 2116427,
+    "density": 69.72
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+266",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "summary": "Lesotho is a country in Southern Africa. The capital is Maseru. Population: 2.1 million. Area: 30,355 km².",
+  "rank": 148,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/ls.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Lesotho is composed of three horizontal bands of blue, white and green in the ratio of 3:4:3. A black mokorotlo — a Basotho hat — is centered in the white band.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Lesotho",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/lesotho/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.899694Z"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "johann-christian-bach",
+  "title": "Johann Christian Bach",
+  "shortTitle": "Bach",
+  "birthYear": 1926,
+  "deathYear": 2016,
+  "nationality": "United Kingdom",
+  "birthPlace": "Highbury",
+  "era": "classical",
+  "statistics": {
+    "lifespan": 90,
+    "activeYears": 72
+  },
+  "summary": "Johann Christian Bach (5 September 1735 – 1 January 1782) was a German composer of the Classical era, the youngest son of Johann Sebastian Bach. He received his early musical training from his father, and later from his half-brother, Carl Philipp Emanuel Bach in Berlin. After his time in Berlin he made his way to Italy to study with famous Padre Martini in Bologna.",
+  "rank": 16,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Martin%20-%20backstage%20at%20LOVE.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Johann Christian Bach",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Johann_Christian_Bach",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q191819",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q191819",
+    "fetchedAt": "2026-01-03T12:22:22.434996Z"
+  }
+}

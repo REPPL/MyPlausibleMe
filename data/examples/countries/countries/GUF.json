@@ -1,0 +1,63 @@
+{
+  "id": "GUF",
+  "title": "French Guiana",
+  "officialName": "Guiana",
+  "capital": "Cayenne",
+  "region": "americas",
+  "subregion": "South America",
+  "languages": [
+    "French"
+  ],
+  "currencies": [
+    "EUR"
+  ],
+  "geography": {
+    "area": 83534.0,
+    "landlocked": false,
+    "borders": [
+      "BRA",
+      "SUR"
+    ],
+    "neighbourCount": 2
+  },
+  "population": {
+    "total": 292354,
+    "density": 3.5
+  },
+  "independent": false,
+  "drivingSide": "right",
+  "callingCode": "+594",
+  "timezones": [
+    "UTC-03:00"
+  ],
+  "summary": "French Guiana is a country in South America. The capital is Cayenne. Population: 292,354. Area: 83,534 km².",
+  "rank": 184,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/gf.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "Flag of French Guiana",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/French_Guiana",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/french-guiana/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.904913Z"
+  }
+}

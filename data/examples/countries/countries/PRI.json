@@ -1,0 +1,61 @@
+{
+  "id": "PRI",
+  "title": "Puerto Rico",
+  "officialName": "Commonwealth of Puerto Rico",
+  "capital": "San Juan",
+  "region": "americas",
+  "subregion": "Caribbean",
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "currencies": [
+    "USD"
+  ],
+  "geography": {
+    "area": 8870.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 3203295,
+    "density": 361.14
+  },
+  "independent": false,
+  "drivingSide": "right",
+  "callingCode": "+1787",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "summary": "Puerto Rico is a country in Caribbean. The capital is San Juan. Population: 3.2 million. Area: 8,870 km².",
+  "rank": 136,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/pr.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "Flag of Puerto Rico",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Puerto_Rico",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/puerto-rico/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.897818Z"
+  }
+}

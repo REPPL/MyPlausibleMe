@@ -1,0 +1,61 @@
+{
+  "id": "MDG",
+  "title": "Madagascar",
+  "officialName": "Republic of Madagascar",
+  "capital": "Antananarivo",
+  "region": "africa",
+  "subregion": "Eastern Africa",
+  "languages": [
+    "French",
+    "Malagasy"
+  ],
+  "currencies": [
+    "MGA"
+  ],
+  "geography": {
+    "area": 587041.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 31727042,
+    "density": 54.05
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+261",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "summary": "Madagascar is a country in Eastern Africa. The capital is Antananarivo. Population: 31.7 million. Area: 587,041 km².",
+  "rank": 49,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/mg.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Madagascar features a white vertical band on the hoist side that takes up about one-third the width of the field, and two equal horizontal bands of red and green adjoining the vertical band.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Madagascar",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/madagascar/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.882465Z"
+  }
+}

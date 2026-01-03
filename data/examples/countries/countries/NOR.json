@@ -1,0 +1,66 @@
+{
+  "id": "NOR",
+  "title": "Norway",
+  "officialName": "Kingdom of Norway",
+  "capital": "Oslo",
+  "region": "europe",
+  "subregion": "Northern Europe",
+  "languages": [
+    "Norwegian Nynorsk",
+    "Norwegian Bokmål",
+    "Sami"
+  ],
+  "currencies": [
+    "NOK"
+  ],
+  "geography": {
+    "area": 386224.0,
+    "landlocked": false,
+    "borders": [
+      "FIN",
+      "SWE",
+      "RUS"
+    ],
+    "neighbourCount": 3
+  },
+  "population": {
+    "total": 5606944,
+    "density": 14.52
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+47",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "summary": "Norway is a country in Northern Europe. The capital is Oslo. Population: 5.6 million. Area: 386,224 km².",
+  "rank": 118,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/no.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Norway has a red field with a large white-edged navy blue cross that extends to the edges of the field. The vertical part of this cross is offset towards the hoist side.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Norway",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/norway/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.895008Z"
+  }
+}

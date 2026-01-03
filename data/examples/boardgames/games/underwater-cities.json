@@ -1,0 +1,22 @@
+{
+  "id": "underwater-cities",
+  "title": "Underwater Cities",
+  "category": "strategy",
+  "summary": "board game",
+  "rank": 50,
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/247763",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Underwater_Cities",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "247763",
+    "fetchedAt": "2026-01-03T11:39:42.628104Z"
+  }
+}

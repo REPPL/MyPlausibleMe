@@ -1,0 +1,52 @@
+{
+  "id": "vincenzo-bellini",
+  "title": "Vincenzo Bellini",
+  "shortTitle": "Bellini",
+  "birthYear": 1858,
+  "deathYear": 1924,
+  "nationality": "Grand Duchy of Tuscany",
+  "birthPlace": "Lucca",
+  "era": "romantic",
+  "statistics": {
+    "totalWorks": 6,
+    "lifespan": 66,
+    "activeYears": 48
+  },
+  "notableWorks": [
+    "Gianni Schicchi",
+    "Turandot",
+    "Tosca",
+    "La bohème",
+    "Madama Butterfly"
+  ],
+  "summary": "Vincenzo Bellini was a Grand Duchy of Tuscany romantic composer born in 1858 who lived until 1924.",
+  "rank": 50,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/GiacomoPuccini.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Vincenzo Bellini",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Vincenzo_Bellini",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q7311",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q7311",
+    "fetchedAt": "2026-01-03T12:25:49.561150Z"
+  }
+}

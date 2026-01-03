@@ -1,0 +1,52 @@
+{
+  "id": "pyotr-ilyich-tchaikovsky",
+  "title": "Pyotr Ilyich Tchaikovsky",
+  "shortTitle": "Tchaikovsky",
+  "birthYear": 1840,
+  "deathYear": 1893,
+  "nationality": "Russian Empire",
+  "birthPlace": "Votkinsk",
+  "era": "romantic",
+  "statistics": {
+    "totalWorks": 9,
+    "lifespan": 53,
+    "activeYears": 35
+  },
+  "notableWorks": [
+    "The Sleeping Beauty",
+    "Violin Concerto",
+    "Symphony No. 6",
+    "The Nutcracker",
+    "Piano Concerto No. 1"
+  ],
+  "summary": "Pyotr Ilyich Tchaikovsky was a Russian Empire romantic composer born in 1840 who lived until 1893.",
+  "rank": 26,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portr%C3%A4t%20des%20Komponisten%20Pjotr%20I.%20Tschaikowski%20%281840-1893%29.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Pyotr Ilyich Tchaikovsky",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q7315",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q7315",
+    "fetchedAt": "2026-01-03T12:24:52.497214Z"
+  }
+}

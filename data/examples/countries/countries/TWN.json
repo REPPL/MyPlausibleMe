@@ -1,0 +1,60 @@
+{
+  "id": "TWN",
+  "title": "Taiwan",
+  "officialName": "Republic of China (Taiwan)",
+  "capital": "Taipei",
+  "region": "asia",
+  "subregion": "Eastern Asia",
+  "languages": [
+    "Chinese"
+  ],
+  "currencies": [
+    "TWD"
+  ],
+  "geography": {
+    "area": 36197.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 23317031,
+    "density": 644.17
+  },
+  "independent": false,
+  "drivingSide": "right",
+  "callingCode": "+886",
+  "timezones": [
+    "UTC+08:00"
+  ],
+  "summary": "Taiwan is a country in Eastern Asia. The capital is Taipei. Population: 23.3 million. Area: 36,197 km².",
+  "rank": 59,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/tw.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "Flag of Taiwan",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Taiwan",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/taiwan/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.884421Z"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "sergei-rachmaninoff",
+  "title": "Sergei Rachmaninoff",
+  "shortTitle": "Rachmaninoff",
+  "era": "romantic",
+  "summary": "Sergei Rachmaninoff was a European romantic composer.",
+  "rank": 33,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20102-10541%2C%20Weimar%2C%20Aufmarsch%20der%20Nationalsozialisten.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Sergei Rachmaninoff",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sergei_Rachmaninoff",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q7320",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q7320",
+    "fetchedAt": "2026-01-03T12:25:09.592955Z"
+  }
+}

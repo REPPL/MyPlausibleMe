@@ -1,0 +1,65 @@
+{
+  "id": "EGY",
+  "title": "Egypt",
+  "officialName": "Arab Republic of Egypt",
+  "capital": "Cairo",
+  "region": "africa",
+  "subregion": "Northern Africa",
+  "languages": [
+    "Arabic"
+  ],
+  "currencies": [
+    "EGP"
+  ],
+  "geography": {
+    "area": 1002450.0,
+    "landlocked": false,
+    "borders": [
+      "ISR",
+      "LBY",
+      "PSE",
+      "SDN"
+    ],
+    "neighbourCount": 4
+  },
+  "population": {
+    "total": 107271260,
+    "density": 107.01
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+20",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "summary": "Egypt is a country in Northern Africa. The capital is Cairo. Population: 107.3 million. Area: 1,002,450 km².",
+  "rank": 15,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/eg.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Egypt is composed of three equal horizontal bands of red, white and black, with Egypt's national emblem — a hoist-side facing gold eagle of Saladin — centered in the white band.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Egypt",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/egypt/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.875136Z"
+  }
+}

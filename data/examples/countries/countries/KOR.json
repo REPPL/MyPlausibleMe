@@ -1,0 +1,62 @@
+{
+  "id": "KOR",
+  "title": "South Korea",
+  "officialName": "Republic of Korea",
+  "capital": "Seoul",
+  "region": "asia",
+  "subregion": "Eastern Asia",
+  "languages": [
+    "Korean"
+  ],
+  "currencies": [
+    "KRW"
+  ],
+  "geography": {
+    "area": 100210.0,
+    "landlocked": false,
+    "borders": [
+      "PRK"
+    ],
+    "neighbourCount": 1
+  },
+  "population": {
+    "total": 51159889,
+    "density": 510.53
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+82",
+  "timezones": [
+    "UTC+09:00"
+  ],
+  "summary": "South Korea is a country in Eastern Asia. The capital is Seoul. Population: 51.2 million. Area: 100,210 km².",
+  "rank": 30,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/kr.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of South Korea has a white field, at the center of which is a red and blue Taegeuk circle surrounded by four black trigrams, one in each corner.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/South_Korea",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/south-korea/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.878554Z"
+  }
+}

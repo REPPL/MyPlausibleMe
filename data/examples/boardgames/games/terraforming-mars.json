@@ -1,0 +1,44 @@
+{
+  "id": "terraforming-mars",
+  "title": "Terraforming Mars",
+  "year": 2016,
+  "publishers": [
+    "Ghenos Games"
+  ],
+  "players": {
+    "min": 1,
+    "max": 5
+  },
+  "playTime": 120,
+  "category": "strategy",
+  "summary": "2016 board game",
+  "rank": 8,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Terraforming%20Mars.jpg",
+      "type": "photo",
+      "isPrimary": true,
+      "alt": "Terraforming Mars board game",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "varies",
+        "note": "Image from Wikimedia Commons. Check individual file for licence."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/167791",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Terraforming_Mars",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "167791",
+    "fetchedAt": "2026-01-03T11:36:38.215561Z"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "$schema": "https://itemdeck.app/schemas/v2/collection.json",
+  "id": "board-games",
+  "name": "Board Games",
+  "description": "Top-rated board games with player counts, play times, and complexity ratings. Sourced from Wikidata with BoardGameGeek references.",
+  "schemaVersion": "v2",
+  "version": "1.0.0",
+  "entityTypes": {
+    "game": {
+      "primary": true,
+      "label": "Board Game",
+      "labelPlural": "Board Games",
+      "description": "A tabletop game with rules and components.",
+      "fields": {
+        "id": { "type": "string", "description": "Slug identifier", "required": true },
+        "title": { "type": "string", "description": "Game name", "required": true },
+        "year": { "type": "number", "description": "Year published" },
+        "designers": { "type": "array", "description": "Game designers" },
+        "publishers": { "type": "array", "description": "Publishers" },
+        "players": {
+          "type": "object",
+          "description": "Player count range",
+          "properties": {
+            "min": { "type": "number", "description": "Minimum players" },
+            "max": { "type": "number", "description": "Maximum players" }
+          }
+        },
+        "playTime": { "type": "number", "description": "Average play time in minutes" },
+        "minAge": { "type": "number", "description": "Minimum recommended age" },
+        "complexity": { "type": "number", "description": "Complexity rating 1-5 scale" },
+        "category": { "type": "string", "ref": "category", "description": "Primary game category" },
+        "mechanics": { "type": "array", "description": "Game mechanics" },
+        "summary": { "type": "text", "description": "Game description", "required": true },
+        "statistics": {
+          "type": "object",
+          "description": "Game statistics",
+          "properties": {
+            "bggRating": { "type": "number", "description": "BGG bayesian average rating" },
+            "bggRank": { "type": "number", "description": "BGG overall rank" },
+            "usersRated": { "type": "number", "description": "Number of user ratings" }
+          }
+        },
+        "rank": { "type": "number", "description": "Rank in this collection" },
+        "images": { "type": "images" },
+        "detailUrls": { "type": "detailUrls", "required": true }
+      }
+    },
+    "category": {
+      "label": "Category",
+      "labelPlural": "Categories",
+      "description": "A board game category or genre.",
+      "fields": {
+        "title": { "type": "string", "required": true },
+        "summary": { "type": "text", "description": "Category description", "required": true },
+        "images": { "type": "images" },
+        "detailUrls": { "type": "detailUrls" }
+      }
+    }
+  },
+  "relationships": {
+    "game.category": {
+      "target": "category",
+      "cardinality": "many-to-one"
+    },
+    "game.rank": {
+      "type": "ordinal"
+    }
+  },
+  "display": {
+    "primaryEntity": "game",
+    "groupBy": "category",
+    "sortWithinGroup": ["rank", "asc"],
+    "card": {
+      "front": {
+        "title": "title",
+        "subtitle": "year",
+        "badge": "rank",
+        "footer": ["players.min", "players.max", "playTime"]
+      }
+    }
+  }
+}

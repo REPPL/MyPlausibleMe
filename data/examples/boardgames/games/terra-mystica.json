@@ -1,0 +1,44 @@
+{
+  "id": "terra-mystica",
+  "title": "Terra Mystica",
+  "year": 2012,
+  "publishers": [
+    "Feuerland Spiele"
+  ],
+  "players": {
+    "min": 2,
+    "max": 5
+  },
+  "playTime": 60,
+  "category": "strategy",
+  "summary": "Terra Mystica is a Euro-style board game for two to five players designed by Helge Ostertag and Jens Drögemüller. The game was first published by Feuerland Spiele in Germany in 2012, and was later published in English and French by Zman Games and Filosofia Édition in 2013. Feuerland Spiele released a second German edition of the game in 2013.\n\n.",
+  "rank": 20,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Terra%20Mystica%20-%20detail.jpg",
+      "type": "photo",
+      "isPrimary": true,
+      "alt": "Terra Mystica board game",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "varies",
+        "note": "Image from Wikimedia Commons. Check individual file for licence."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/120677",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Terra_Mystica",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "120677",
+    "fetchedAt": "2026-01-03T11:38:10.451260Z"
+  }
+}

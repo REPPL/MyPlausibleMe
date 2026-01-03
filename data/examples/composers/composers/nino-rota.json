@@ -1,0 +1,48 @@
+{
+  "id": "nino-rota",
+  "title": "Nino Rota",
+  "shortTitle": "Rota",
+  "birthYear": 1938,
+  "nationality": "United States",
+  "birthPlace": "Lockport",
+  "era": "modern",
+  "statistics": {
+    "totalWorks": 3,
+    "activeYears": 69
+  },
+  "notableWorks": [
+    "The Falls",
+    "Black Water",
+    "Blonde"
+  ],
+  "summary": "Nino Rota was a United States modern composer born in 1938.",
+  "rank": 92,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Joyce%20Carol%20Oates%2C%20Bokm%C3%A4ssan%202024%2C%20P1270511.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Nino Rota",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Nino_Rota",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q217557",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q217557",
+    "fetchedAt": "2026-01-03T12:27:32.062557Z"
+  }
+}

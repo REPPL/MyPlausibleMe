@@ -1,0 +1,62 @@
+{
+  "id": "QAT",
+  "title": "Qatar",
+  "officialName": "State of Qatar",
+  "capital": "Doha",
+  "region": "asia",
+  "subregion": "Western Asia",
+  "languages": [
+    "Arabic"
+  ],
+  "currencies": [
+    "QAR"
+  ],
+  "geography": {
+    "area": 11586.0,
+    "landlocked": false,
+    "borders": [
+      "SAU"
+    ],
+    "neighbourCount": 1
+  },
+  "population": {
+    "total": 3173024,
+    "density": 273.87
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+974",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "summary": "Qatar is a country in Western Asia. The capital is Doha. Population: 3.2 million. Area: 11,586 km².",
+  "rank": 137,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/qa.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Qatar has a maroon field, on the hoist side of which is a white vertical band that spans about one-third the width of the field and is separated from the rest of the field by nine adjoining fly-side pointing white isosceles triangles that serve as a serrated line.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Qatar",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/qatar/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.897963Z"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "NFK",
+  "title": "Norfolk Island",
+  "officialName": "Territory of Norfolk Island",
+  "capital": "Kingston",
+  "region": "oceania",
+  "subregion": "Australia and New Zealand",
+  "languages": [
+    "English",
+    "Norfuk"
+  ],
+  "currencies": [
+    "AUD"
+  ],
+  "geography": {
+    "area": 36.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 2188,
+    "density": 60.78
+  },
+  "independent": false,
+  "drivingSide": "left",
+  "callingCode": "+672",
+  "timezones": [
+    "UTC+11:30"
+  ],
+  "summary": "Norfolk Island is a country in Australia and New Zealand. The capital is Kingston. Population: 2,188. Area: 36 km².",
+  "rank": 238,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/nf.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "Flag of Norfolk Island",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Norfolk_Island",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/norfolk-island/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.912107Z"
+  }
+}

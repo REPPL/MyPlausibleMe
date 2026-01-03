@@ -1,0 +1,44 @@
+{
+  "id": "bed-ich-smetana",
+  "title": "Bedřich Smetana",
+  "shortTitle": "Smetana",
+  "birthYear": 1871,
+  "deathYear": 1938,
+  "nationality": "Kingdom of Prussia",
+  "birthPlace": "Berlin",
+  "era": "romantic",
+  "statistics": {
+    "lifespan": 67,
+    "activeYears": 49
+  },
+  "summary": "Bedřich Smetana was a Kingdom of Prussia romantic composer born in 1871 who lived until 1938.",
+  "rank": 37,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/WLStern.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Bedřich Smetana",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Bedřich_Smetana",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q57347",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q57347",
+    "fetchedAt": "2026-01-03T12:25:18.907048Z"
+  }
+}

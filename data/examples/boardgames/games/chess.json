@@ -1,0 +1,39 @@
+{
+  "id": "chess",
+  "title": "Chess",
+  "players": {
+    "min": 2,
+    "max": 2
+  },
+  "category": "abstract",
+  "summary": "strategy board game",
+  "rank": 35,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Chess%20game%20Staunton%20No.%206.jpg",
+      "type": "photo",
+      "isPrimary": true,
+      "alt": "Chess board game",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "varies",
+        "note": "Image from Wikimedia Commons. Check individual file for licence."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/171",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chess",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "171",
+    "fetchedAt": "2026-01-03T11:38:41.189068Z"
+  }
+}

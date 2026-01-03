@@ -1,0 +1,31 @@
+{
+  "id": "gloomhaven",
+  "title": "Gloomhaven",
+  "year": 2017,
+  "publishers": [
+    "Asmodee"
+  ],
+  "players": {
+    "min": 1,
+    "max": 4
+  },
+  "playTime": 60,
+  "category": "cooperative",
+  "summary": "Gloomhaven is a cooperative board game for one to four players designed by Isaac Childres and published by Cephalofair Games in 2017. It is a campaign-based dungeon crawl game including a narrative campaign, 95 unique playable scenarios, and 17 playable classes. Since its introduction the game has been acclaimed by reviewers, and has been described as one of the best board games ever made.\n\n.",
+  "rank": 1,
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/174430",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gloomhaven",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "174430",
+    "fetchedAt": "2026-01-03T11:33:03.202879Z"
+  }
+}

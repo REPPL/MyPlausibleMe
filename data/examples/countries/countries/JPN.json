@@ -1,0 +1,60 @@
+{
+  "id": "JPN",
+  "title": "Japan",
+  "officialName": "Japan",
+  "capital": "Tokyo",
+  "region": "asia",
+  "subregion": "Eastern Asia",
+  "languages": [
+    "Japanese"
+  ],
+  "currencies": [
+    "JPY"
+  ],
+  "geography": {
+    "area": 377930.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 123210000,
+    "density": 326.01
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+81",
+  "timezones": [
+    "UTC+09:00"
+  ],
+  "summary": "Japan is a country in Eastern Asia. The capital is Tokyo. Population: 123.2 million. Area: 377,930 km².",
+  "rank": 11,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/jp.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Japan features a crimson-red circle at the center of a white field.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Japan",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/japan/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.874231Z"
+  }
+}

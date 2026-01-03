@@ -1,0 +1,63 @@
+{
+  "id": "CRI",
+  "title": "Costa Rica",
+  "officialName": "Republic of Costa Rica",
+  "capital": "San José",
+  "region": "americas",
+  "subregion": "Central America",
+  "languages": [
+    "Spanish"
+  ],
+  "currencies": [
+    "CRC"
+  ],
+  "geography": {
+    "area": 51100.0,
+    "landlocked": false,
+    "borders": [
+      "NIC",
+      "PAN"
+    ],
+    "neighbourCount": 2
+  },
+  "population": {
+    "total": 5309625,
+    "density": 103.91
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+506",
+  "timezones": [
+    "UTC-06:00"
+  ],
+  "summary": "Costa Rica is a country in Central America. The capital is San José. Population: 5.3 million. Area: 51,100 km².",
+  "rank": 125,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/cr.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Costa Rica is composed of five horizontal bands of blue, white, red, white and blue. The central red band is twice the height of the other four bands.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Costa_Rica",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/costa-rica/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.896159Z"
+  }
+}

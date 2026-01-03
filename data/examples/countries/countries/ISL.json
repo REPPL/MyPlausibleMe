@@ -1,0 +1,60 @@
+{
+  "id": "ISL",
+  "title": "Iceland",
+  "officialName": "Iceland",
+  "capital": "Reykjavik",
+  "region": "europe",
+  "subregion": "Northern Europe",
+  "languages": [
+    "Icelandic"
+  ],
+  "currencies": [
+    "ISK"
+  ],
+  "geography": {
+    "area": 103000.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 391810,
+    "density": 3.8
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+354",
+  "timezones": [
+    "UTC"
+  ],
+  "summary": "Iceland is a country in Northern Europe. The capital is Reykjavik. Population: 391,810. Area: 103,000 km².",
+  "rank": 179,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/is.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Iceland has a blue field with a large white-edged red cross that extends to the edges of the field. The vertical part of this cross is offset towards the hoist side.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Iceland",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/iceland/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.904236Z"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "war-of-the-ring-second-edition",
+  "title": "War of the Ring: Second Edition",
+  "year": 2004,
+  "category": "war",
+  "summary": "board game (2004)",
+  "rank": 6,
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/115746",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/War_of_the_Ring:_Second_Edition",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "115746",
+    "fetchedAt": "2026-01-03T11:35:36.740660Z"
+  }
+}

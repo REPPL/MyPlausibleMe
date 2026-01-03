@@ -1,0 +1,64 @@
+{
+  "id": "GUY",
+  "title": "Guyana",
+  "officialName": "Co-operative Republic of Guyana",
+  "capital": "Georgetown",
+  "region": "americas",
+  "subregion": "South America",
+  "languages": [
+    "English"
+  ],
+  "currencies": [
+    "GYD"
+  ],
+  "geography": {
+    "area": 214969.0,
+    "landlocked": false,
+    "borders": [
+      "BRA",
+      "SUR",
+      "VEN"
+    ],
+    "neighbourCount": 3
+  },
+  "population": {
+    "total": 772975,
+    "density": 3.6
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+592",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "summary": "Guyana is a country in South America. The capital is Georgetown. Population: 772,975. Area: 214,969 km².",
+  "rank": 166,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/gy.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Guyana has a green field with two isosceles triangles which share a common base on the hoist end. The smaller black-edged red triangle spanning half the width of the field is superimposed on the larger white-edged yellow triangle which spans the full width of the field.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Guyana",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/guyana/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.902410Z"
+  }
+}

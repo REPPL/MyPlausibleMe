@@ -1,0 +1,52 @@
+{
+  "id": "george-frideric-handel",
+  "title": "George Frideric Handel",
+  "shortTitle": "Handel",
+  "birthYear": 1685,
+  "deathYear": 1759,
+  "nationality": "Holy Roman Empire",
+  "birthPlace": "Halle (Saale)",
+  "era": "baroque",
+  "statistics": {
+    "totalWorks": 7,
+    "lifespan": 74,
+    "activeYears": 56
+  },
+  "notableWorks": [
+    "Water Music",
+    "Alcina",
+    "Messiah",
+    "Music for the Royal Fireworks",
+    "Serse"
+  ],
+  "summary": "George Frideric (or Frederick) Handel ( HAN-dəl; baptised Georg Fried[e]rich Händel, German: [ˈɡeːɔʁk ˈfʁiːdʁɪç ˈhɛndl̩] ; 23 February 1685 – 14 April 1759) was a German-British Baroque composer well-known for his operas, oratorios, anthems, concerti grossi, and organ concerti.\nBorn in Halle, Handel spent his early life in Hamburg and Italy before settling in London in 1712, where he spent the bulk of his career and became a naturalised British subject in 1727. He was strongly influenced both by the middle-German polyphonic choral tradition and by composers of the Italian Baroque. In turn, Handel's music forms one of the peaks of the \"high baroque\" style, bringing Italian opera to its highest development, creating the genres of English oratorio and organ concerto, and introducing a new style into English church music.",
+  "rank": 2,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Frideric%20Handel%20by%20Balthasar%20Denner.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of George Frideric Handel",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/George_Frideric_Handel",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q7302",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q7302",
+    "fetchedAt": "2026-01-03T12:14:20.891054Z"
+  }
+}

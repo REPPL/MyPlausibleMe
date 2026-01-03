@@ -1,0 +1,62 @@
+{
+  "id": "MAF",
+  "title": "Saint Martin",
+  "officialName": "Saint Martin",
+  "capital": "Marigot",
+  "region": "americas",
+  "subregion": "Caribbean",
+  "languages": [
+    "French"
+  ],
+  "currencies": [
+    "EUR"
+  ],
+  "geography": {
+    "area": 53.0,
+    "landlocked": false,
+    "borders": [
+      "SXM"
+    ],
+    "neighbourCount": 1
+  },
+  "population": {
+    "total": 31496,
+    "density": 594.26
+  },
+  "independent": false,
+  "drivingSide": "right",
+  "callingCode": "+590",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "summary": "Saint Martin is a country in Caribbean. The capital is Marigot. Population: 31,496. Area: 53 km².",
+  "rank": 223,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/mf.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "Flag of Saint Martin",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Saint_Martin",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/saint-martin/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.910189Z"
+  }
+}

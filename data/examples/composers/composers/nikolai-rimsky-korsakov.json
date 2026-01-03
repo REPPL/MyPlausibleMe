@@ -1,0 +1,47 @@
+{
+  "id": "nikolai-rimsky-korsakov",
+  "title": "Nikolai Rimsky-Korsakov",
+  "shortTitle": "Rimsky-Korsakov",
+  "birthYear": 1942,
+  "nationality": "United Kingdom",
+  "birthPlace": "Garnant",
+  "era": "romantic",
+  "statistics": {
+    "totalWorks": 2,
+    "activeYears": 65
+  },
+  "notableWorks": [
+    "Paris 1919",
+    "Music for a New Society"
+  ],
+  "summary": "Nikolai Rimsky-Korsakov was a United Kingdom romantic composer born in 1942.",
+  "rank": 41,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/John-cale.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Nikolai Rimsky-Korsakov",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Nikolai_Rimsky-Korsakov",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q45909",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q45909",
+    "fetchedAt": "2026-01-03T12:25:28.254934Z"
+  }
+}

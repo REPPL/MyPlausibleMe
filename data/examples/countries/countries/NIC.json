@@ -1,0 +1,63 @@
+{
+  "id": "NIC",
+  "title": "Nicaragua",
+  "officialName": "Republic of Nicaragua",
+  "capital": "Managua",
+  "region": "americas",
+  "subregion": "Central America",
+  "languages": [
+    "Spanish"
+  ],
+  "currencies": [
+    "NIO"
+  ],
+  "geography": {
+    "area": 130373.0,
+    "landlocked": false,
+    "borders": [
+      "CRI",
+      "HND"
+    ],
+    "neighbourCount": 2
+  },
+  "population": {
+    "total": 6803886,
+    "density": 52.19
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+505",
+  "timezones": [
+    "UTC-06:00"
+  ],
+  "summary": "Nicaragua is a country in Central America. The capital is Managua. Population: 6.8 million. Area: 130,373 km².",
+  "rank": 108,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/ni.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Nicaragua is composed of three equal horizontal bands of blue, white and blue, with the national coat of arms centered in the white band.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Nicaragua",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/nicaragua/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.893478Z"
+  }
+}

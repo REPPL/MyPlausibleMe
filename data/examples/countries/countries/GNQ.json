@@ -1,0 +1,65 @@
+{
+  "id": "GNQ",
+  "title": "Equatorial Guinea",
+  "officialName": "Republic of Equatorial Guinea",
+  "capital": "Malabo",
+  "region": "africa",
+  "subregion": "Middle Africa",
+  "languages": [
+    "French",
+    "Portuguese",
+    "Spanish"
+  ],
+  "currencies": [
+    "XAF"
+  ],
+  "geography": {
+    "area": 28051.0,
+    "landlocked": false,
+    "borders": [
+      "CMR",
+      "GAB"
+    ],
+    "neighbourCount": 2
+  },
+  "population": {
+    "total": 1668768,
+    "density": 59.49
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+240",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "summary": "Equatorial Guinea is a country in Middle Africa. The capital is Malabo. Population: 1.7 million. Area: 28,051 km².",
+  "rank": 152,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/gq.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Equatorial Guinea is composed of three equal horizontal bands of green, white and red with the national coat of arms centered in the white band and an isosceles triangle superimposed on the hoist side of the field. The triangle is light blue, has its base on the hoist end and spans about one-fifth the width of the field.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Equatorial_Guinea",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/equatorial-guinea/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.900295Z"
+  }
+}

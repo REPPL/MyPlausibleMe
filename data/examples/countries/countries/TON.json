@@ -1,0 +1,61 @@
+{
+  "id": "TON",
+  "title": "Tonga",
+  "officialName": "Kingdom of Tonga",
+  "capital": "Nuku'alofa",
+  "region": "oceania",
+  "subregion": "Polynesia",
+  "languages": [
+    "English",
+    "Tongan"
+  ],
+  "currencies": [
+    "TOP"
+  ],
+  "geography": {
+    "area": 747.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 100179,
+    "density": 134.11
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+676",
+  "timezones": [
+    "UTC+13:00"
+  ],
+  "summary": "Tonga is a country in Polynesia. The capital is Nuku'alofa. Population: 100,179. Area: 747 km².",
+  "rank": 201,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/to.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Tonga has a red field. A white rectangle bearing a red Greek cross is superimposed in the canton.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Tonga",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/tonga/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.907235Z"
+  }
+}

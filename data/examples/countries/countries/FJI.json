@@ -1,0 +1,62 @@
+{
+  "id": "FJI",
+  "title": "Fiji",
+  "officialName": "Republic of Fiji",
+  "capital": "Suva",
+  "region": "oceania",
+  "subregion": "Melanesia",
+  "languages": [
+    "English",
+    "Fijian",
+    "Fiji Hindi"
+  ],
+  "currencies": [
+    "FJD"
+  ],
+  "geography": {
+    "area": 18272.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 900869,
+    "density": 49.3
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+679",
+  "timezones": [
+    "UTC+12:00"
+  ],
+  "summary": "Fiji is a country in Melanesia. The capital is Suva. Population: 900,869. Area: 18,272 km².",
+  "rank": 163,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/fj.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Fiji has a light blue field. It features the flag of the United Kingdom — the Union Jack — in the canton and the shield of the national coat of arms centered in the fly half.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Fiji",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/fiji/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.901979Z"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "sergei-prokofiev",
+  "title": "Sergei Prokofiev",
+  "shortTitle": "Prokofiev",
+  "era": "modern",
+  "summary": "Sergei Prokofiev was a European modern composer.",
+  "rank": 57,
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sergei_Prokofiev",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q7318",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q7318",
+    "fetchedAt": "2026-01-03T12:26:05.518958Z"
+  }
+}

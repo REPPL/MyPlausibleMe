@@ -1,0 +1,67 @@
+{
+  "id": "SSD",
+  "title": "South Sudan",
+  "officialName": "Republic of South Sudan",
+  "capital": "Juba",
+  "region": "africa",
+  "subregion": "Middle Africa",
+  "languages": [
+    "English"
+  ],
+  "currencies": [
+    "SSP"
+  ],
+  "geography": {
+    "area": 619745.0,
+    "landlocked": true,
+    "borders": [
+      "CAF",
+      "COD",
+      "ETH",
+      "KEN",
+      "SDN",
+      "UGA"
+    ],
+    "neighbourCount": 6
+  },
+  "population": {
+    "total": 15786898,
+    "density": 25.47
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+211",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "summary": "South Sudan is a country in Middle Africa. The capital is Juba. Population: 15.8 million. Area: 619,745 km².",
+  "rank": 75,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/ss.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of South Sudan is composed of three equal horizontal bands of black, red with white top and bottom edges, and green. A blue equilateral triangle which spans about two-fifth the width of the field is superimposed on the hoist side with its base on the hoist end of the field. At the center of this triangle is a five-pointed yellow star.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/South_Sudan",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/south-sudan/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.887689Z"
+  }
+}

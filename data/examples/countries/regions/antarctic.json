@@ -1,0 +1,11 @@
+{
+  "id": "antarctic",
+  "title": "Antarctic",
+  "summary": "The southernmost continent, largely uninhabited and governed by international treaty.",
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Antarctic",
+      "source": "Wikipedia"
+    }
+  ]
+}

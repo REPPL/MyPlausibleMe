@@ -1,0 +1,60 @@
+{
+  "id": "SLB",
+  "title": "Solomon Islands",
+  "officialName": "Solomon Islands",
+  "capital": "Honiara",
+  "region": "oceania",
+  "subregion": "Melanesia",
+  "languages": [
+    "English"
+  ],
+  "currencies": [
+    "SBD"
+  ],
+  "geography": {
+    "area": 28896.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 750325,
+    "density": 25.97
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+677",
+  "timezones": [
+    "UTC+11:00"
+  ],
+  "summary": "Solomon Islands is a country in Melanesia. The capital is Honiara. Population: 750,325. Area: 28,896 km².",
+  "rank": 167,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/sb.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Solomon Islands features a thin yellow diagonal band that extends from the lower hoist-side corner to the upper fly-side corner of the field. Above and beneath this band are a blue and green triangle respectively. Five white five-pointed stars arranged in an X shape are situated on the hoist side of the upper blue triangle.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Solomon_Islands",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/solomon-islands/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.902550Z"
+  }
+}

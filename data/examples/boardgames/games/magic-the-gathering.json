@@ -1,0 +1,43 @@
+{
+  "id": "magic-the-gathering",
+  "title": "Magic: The Gathering",
+  "year": 1993,
+  "publishers": [
+    "Wizards of the Coast"
+  ],
+  "players": {
+    "min": 2,
+    "max": 2
+  },
+  "category": "strategy",
+  "summary": "1993 collectible card game",
+  "rank": 36,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Magicgathering1.jpg",
+      "type": "photo",
+      "isPrimary": true,
+      "alt": "Magic: The Gathering board game",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "varies",
+        "note": "Image from Wikimedia Commons. Check individual file for licence."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/463",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Magic:_The_Gathering",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "463",
+    "fetchedAt": "2026-01-03T11:38:41.189322Z"
+  }
+}

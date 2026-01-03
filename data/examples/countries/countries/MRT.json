@@ -1,0 +1,65 @@
+{
+  "id": "MRT",
+  "title": "Mauritania",
+  "officialName": "Islamic Republic of Mauritania",
+  "capital": "Nouakchott",
+  "region": "africa",
+  "subregion": "Western Africa",
+  "languages": [
+    "Arabic"
+  ],
+  "currencies": [
+    "MRU"
+  ],
+  "geography": {
+    "area": 1030700.0,
+    "landlocked": false,
+    "borders": [
+      "DZA",
+      "MLI",
+      "SEN",
+      "ESH"
+    ],
+    "neighbourCount": 4
+  },
+  "population": {
+    "total": 4927532,
+    "density": 4.78
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+222",
+  "timezones": [
+    "UTC"
+  ],
+  "summary": "Mauritania is a country in Western Africa. The capital is Nouakchott. Population: 4.9 million. Area: 1,030,700 km².",
+  "rank": 127,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/mr.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Mauritania has a green field with a thin red horizontal band at the top and bottom of the field. At the center of the field is a five-pointed yellow star above an upward facing yellow crescent.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mauritania",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/mauritania/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.896459Z"
+  }
+}

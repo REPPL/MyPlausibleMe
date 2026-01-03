@@ -1,0 +1,66 @@
+{
+  "id": "BWA",
+  "title": "Botswana",
+  "officialName": "Republic of Botswana",
+  "capital": "Gaborone",
+  "region": "africa",
+  "subregion": "Southern Africa",
+  "languages": [
+    "English",
+    "Tswana"
+  ],
+  "currencies": [
+    "BWP"
+  ],
+  "geography": {
+    "area": 582000.0,
+    "landlocked": true,
+    "borders": [
+      "NAM",
+      "ZAF",
+      "ZMB",
+      "ZWE"
+    ],
+    "neighbourCount": 4
+  },
+  "population": {
+    "total": 2359609,
+    "density": 4.05
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+267",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "summary": "Botswana is a country in Southern Africa. The capital is Gaborone. Population: 2.4 million. Area: 582,000 km².",
+  "rank": 146,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/bw.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Botswana has a light blue field with a white-edged black horizontal band across its center.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Botswana",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/botswana/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.899334Z"
+  }
+}

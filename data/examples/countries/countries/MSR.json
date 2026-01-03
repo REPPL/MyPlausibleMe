@@ -1,0 +1,60 @@
+{
+  "id": "MSR",
+  "title": "Montserrat",
+  "officialName": "Montserrat",
+  "capital": "Plymouth",
+  "region": "americas",
+  "subregion": "Caribbean",
+  "languages": [
+    "English"
+  ],
+  "currencies": [
+    "XCD"
+  ],
+  "geography": {
+    "area": 102.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 4386,
+    "density": 43.0
+  },
+  "independent": false,
+  "drivingSide": "left",
+  "callingCode": "+1664",
+  "timezones": [
+    "UTC-04:00"
+  ],
+  "summary": "Montserrat is a country in Caribbean. The capital is Plymouth. Population: 4,386. Area: 102 km².",
+  "rank": 234,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/ms.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "Flag of Montserrat",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Montserrat",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/montserrat/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.911609Z"
+  }
+}

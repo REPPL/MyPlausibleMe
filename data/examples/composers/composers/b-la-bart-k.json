@@ -1,0 +1,36 @@
+{
+  "id": "b-la-bart-k",
+  "title": "Béla Bartók",
+  "shortTitle": "Bartók",
+  "era": "modern",
+  "summary": "Béla Bartók was a European modern composer.",
+  "rank": 59,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/GreatBarrierReef-EO.JPG",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Béla Bartók",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Béla_Bartók",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q7343",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q7343",
+    "fetchedAt": "2026-01-03T12:26:10.153705Z"
+  }
+}

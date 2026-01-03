@@ -1,0 +1,65 @@
+{
+  "id": "SOM",
+  "title": "Somalia",
+  "officialName": "Federal Republic of Somalia",
+  "capital": "Mogadishu",
+  "region": "africa",
+  "subregion": "Eastern Africa",
+  "languages": [
+    "Arabic",
+    "Somali"
+  ],
+  "currencies": [
+    "SOS"
+  ],
+  "geography": {
+    "area": 637657.0,
+    "landlocked": false,
+    "borders": [
+      "DJI",
+      "ETH",
+      "KEN"
+    ],
+    "neighbourCount": 3
+  },
+  "population": {
+    "total": 19655000,
+    "density": 30.82
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+252",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "summary": "Somalia is a country in Eastern Africa. The capital is Mogadishu. Population: 19.7 million. Area: 637,657 km².",
+  "rank": 66,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/so.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Somalia features a large five-pointed white star centered on a light blue field.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Somalia",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/somalia/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.885821Z"
+  }
+}

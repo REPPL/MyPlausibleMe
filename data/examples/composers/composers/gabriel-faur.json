@@ -1,0 +1,23 @@
+{
+  "id": "gabriel-faur",
+  "title": "Gabriel Fauré",
+  "shortTitle": "Fauré",
+  "era": "romantic",
+  "summary": "Gabriel Fauré was a European romantic composer.",
+  "rank": 47,
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Gabriel_Fauré",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q155837",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q155837",
+    "fetchedAt": "2026-01-03T12:25:42.499443Z"
+  }
+}

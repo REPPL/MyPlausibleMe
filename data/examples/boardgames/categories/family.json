@@ -1,0 +1,11 @@
+{
+  "id": "family",
+  "title": "Family",
+  "summary": "Games suitable for players of all ages with accessible rules.",
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgamecategory",
+      "source": "BoardGameGeek"
+    }
+  ]
+}

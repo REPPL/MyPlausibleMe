@@ -1,0 +1,11 @@
+{
+  "id": "other",
+  "title": "Other",
+  "summary": "Board games that don't fit into standard categories.",
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgamecategory",
+      "source": "BoardGameGeek"
+    }
+  ]
+}

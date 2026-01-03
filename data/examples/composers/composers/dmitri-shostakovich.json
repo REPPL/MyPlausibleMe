@@ -1,0 +1,44 @@
+{
+  "id": "dmitri-shostakovich",
+  "title": "Dmitri Shostakovich",
+  "shortTitle": "Shostakovich",
+  "birthYear": 1931,
+  "deathYear": 2024,
+  "nationality": "United States",
+  "birthPlace": "Brooklyn",
+  "era": "modern",
+  "statistics": {
+    "lifespan": 93,
+    "activeYears": 75
+  },
+  "summary": "Dmitri Shostakovich was a United States modern composer born in 1931 who lived until 2024.",
+  "rank": 58,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Nci-vol-8248-300%20maxine%20singer.jpg",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Dmitri Shostakovich",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Dmitri_Shostakovich",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q7309",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q7309",
+    "fetchedAt": "2026-01-03T12:26:07.798172Z"
+  }
+}

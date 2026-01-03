@@ -1,0 +1,39 @@
+{
+  "id": "acquire",
+  "title": "Acquire",
+  "year": 1962,
+  "publishers": [
+    "3M"
+  ],
+  "category": "economic",
+  "summary": "Acquire is a board game published by 3M in 1964 that involves multi-player mergers and acquisitions. It was one of the most popular games in the 3M Bookshelf games series published in the 1960s, and the only one still published in the United States..",
+  "rank": 40,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Acquire%20game.JPG",
+      "type": "photo",
+      "isPrimary": true,
+      "alt": "Acquire board game",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "varies",
+        "note": "Image from Wikimedia Commons. Check individual file for licence."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/5",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Acquire",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "5",
+    "fetchedAt": "2026-01-03T11:39:11.956281Z"
+  }
+}

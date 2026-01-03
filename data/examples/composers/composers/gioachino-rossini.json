@@ -1,0 +1,36 @@
+{
+  "id": "gioachino-rossini",
+  "title": "Gioachino Rossini",
+  "shortTitle": "Rossini",
+  "era": "romantic",
+  "summary": "Gioachino Rossini was a European romantic composer.",
+  "rank": 48,
+  "images": [
+    {
+      "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vue%20a%C3%A9rienne%20Bourail.JPG",
+      "type": "portrait",
+      "isPrimary": true,
+      "alt": "Portrait of Gioachino Rossini",
+      "attribution": {
+        "source": "Wikimedia Commons",
+        "licence": "public-domain",
+        "note": "Historical portrait, typically public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Gioachino_Rossini",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q9709",
+      "source": "Wikidata"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "wikidataId": "Q9709",
+    "fetchedAt": "2026-01-03T12:25:44.795879Z"
+  }
+}

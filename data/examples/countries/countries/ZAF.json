@@ -1,0 +1,77 @@
+{
+  "id": "ZAF",
+  "title": "South Africa",
+  "officialName": "Republic of South Africa",
+  "capital": "Pretoria",
+  "region": "africa",
+  "subregion": "Southern Africa",
+  "languages": [
+    "Afrikaans",
+    "English",
+    "Southern Ndebele",
+    "Northern Sotho",
+    "Southern Sotho",
+    "Swazi",
+    "Tswana",
+    "Tsonga",
+    "Venda",
+    "Xhosa",
+    "Zulu"
+  ],
+  "currencies": [
+    "ZAR"
+  ],
+  "geography": {
+    "area": 1221037.0,
+    "landlocked": false,
+    "borders": [
+      "BWA",
+      "LSO",
+      "MOZ",
+      "NAM",
+      "SWZ",
+      "ZWE"
+    ],
+    "neighbourCount": 6
+  },
+  "population": {
+    "total": 63100945,
+    "density": 51.68
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+27",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "summary": "South Africa is a country in Southern Africa. The capital is Pretoria. Population: 63.1 million. Area: 1,221,037 km².",
+  "rank": 24,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/za.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of South Africa is composed of two equal horizontal bands of red and blue, with a yellow-edged black isosceles triangle superimposed on the hoist side of the field. This triangle has its base centered on the hoist end, spans about two-fifth the width and two-third the height of the field, and is enclosed on its sides by the arms of a white-edged green horizontally oriented Y-shaped band which extends along the boundary of the red and blue bands to the fly end of the field.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/South_Africa",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/south-africa/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.877168Z"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "CAF",
+  "title": "Central African Republic",
+  "officialName": "Central African Republic",
+  "capital": "Bangui",
+  "region": "africa",
+  "subregion": "Middle Africa",
+  "languages": [
+    "French",
+    "Sango"
+  ],
+  "currencies": [
+    "XAF"
+  ],
+  "geography": {
+    "area": 622984.0,
+    "landlocked": true,
+    "borders": [
+      "CMR",
+      "TCD",
+      "COD",
+      "COG",
+      "SSD",
+      "SDN"
+    ],
+    "neighbourCount": 6
+  },
+  "population": {
+    "total": 6470307,
+    "density": 10.39
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+236",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "summary": "Central African Republic is a country in Middle Africa. The capital is Bangui. Population: 6.5 million. Area: 622,984 km².",
+  "rank": 110,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/cf.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Central African Republic is composed of four equal horizontal bands of blue, white, green and yellow intersected at the center by a vertical red band of equal size as the horizontal bands. A yellow five-pointed star is situated on the hoist side of the blue band.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Central_African_Republic",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/central-african-republic/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.893802Z"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "BEL",
+  "title": "Belgium",
+  "officialName": "Kingdom of Belgium",
+  "capital": "Brussels",
+  "region": "europe",
+  "subregion": "Western Europe",
+  "languages": [
+    "German",
+    "French",
+    "Dutch"
+  ],
+  "currencies": [
+    "EUR"
+  ],
+  "geography": {
+    "area": 30528.0,
+    "landlocked": false,
+    "borders": [
+      "FRA",
+      "DEU",
+      "LUX",
+      "NLD"
+    ],
+    "neighbourCount": 4
+  },
+  "population": {
+    "total": 11825551,
+    "density": 387.37
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+32",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "summary": "Belgium is a country in Western Europe. The capital is Brussels. Population: 11.8 million. Area: 30,528 km².",
+  "rank": 82,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/be.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Belgium is composed of three equal vertical bands of black, yellow and red.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Belgium",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/belgium/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.889033Z"
+  }
+}

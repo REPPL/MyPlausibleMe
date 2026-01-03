@@ -1,0 +1,77 @@
+{
+  "id": "CHN",
+  "title": "China",
+  "officialName": "People's Republic of China",
+  "capital": "Beijing",
+  "region": "asia",
+  "subregion": "Eastern Asia",
+  "languages": [
+    "Chinese"
+  ],
+  "currencies": [
+    "CNY"
+  ],
+  "geography": {
+    "area": 9706961.0,
+    "landlocked": false,
+    "borders": [
+      "AFG",
+      "BTN",
+      "MMR",
+      "HKG",
+      "IND",
+      "KAZ",
+      "NPL",
+      "PRK",
+      "KGZ",
+      "LAO",
+      "MAC",
+      "MNG",
+      "PAK",
+      "RUS",
+      "TJK",
+      "VNM"
+    ],
+    "neighbourCount": 16
+  },
+  "population": {
+    "total": 1408280000,
+    "density": 145.08
+  },
+  "independent": true,
+  "drivingSide": "right",
+  "callingCode": "+86",
+  "timezones": [
+    "UTC+08:00"
+  ],
+  "summary": "China is a country in Eastern Asia. The capital is Beijing. Population: 1408.3 million. Area: 9,706,961 km².",
+  "rank": 2,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/cn.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of China has a red field. In the canton are five yellow five-pointed stars — a large star and four smaller stars arranged in a vertical arc on the fly side of the large star.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/China",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/china/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.871218Z"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "five-tribes",
+  "title": "Five Tribes",
+  "publishers": [
+    "Days of Wonder"
+  ],
+  "category": "strategy",
+  "summary": "2014 board game",
+  "rank": 47,
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/157354",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Five_Tribes",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "157354",
+    "fetchedAt": "2026-01-03T11:39:11.957353Z"
+  }
+}

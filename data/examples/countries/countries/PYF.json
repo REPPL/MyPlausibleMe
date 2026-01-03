@@ -1,0 +1,62 @@
+{
+  "id": "PYF",
+  "title": "French Polynesia",
+  "officialName": "French Polynesia",
+  "capital": "Papeetē",
+  "region": "oceania",
+  "subregion": "Polynesia",
+  "languages": [
+    "French"
+  ],
+  "currencies": [
+    "XPF"
+  ],
+  "geography": {
+    "area": 4167.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 279500,
+    "density": 67.07
+  },
+  "independent": false,
+  "drivingSide": "right",
+  "callingCode": "+689",
+  "timezones": [
+    "UTC-10:00",
+    "UTC-09:30",
+    "UTC-09:00"
+  ],
+  "summary": "French Polynesia is a country in Polynesia. The capital is Papeetē. Population: 279,500. Area: 4,167 km².",
+  "rank": 185,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/pf.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "Flag of French Polynesia",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/French_Polynesia",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/french-polynesia/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.905055Z"
+  }
+}

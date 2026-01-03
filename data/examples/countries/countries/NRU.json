@@ -1,0 +1,61 @@
+{
+  "id": "NRU",
+  "title": "Nauru",
+  "officialName": "Republic of Nauru",
+  "capital": "Yaren",
+  "region": "oceania",
+  "subregion": "Micronesia",
+  "languages": [
+    "English",
+    "Nauru"
+  ],
+  "currencies": [
+    "AUD"
+  ],
+  "geography": {
+    "area": 21.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 11680,
+    "density": 556.19
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+674",
+  "timezones": [
+    "UTC+12:00"
+  ],
+  "summary": "Nauru is a country in Micronesia. The capital is Yaren. Population: 11,680. Area: 21 km².",
+  "rank": 228,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/nr.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Nauru has a dark blue field with a thin yellow horizontal band across the center and a large white twelve-pointed star beneath the horizontal band on the hoist side of the field.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Nauru",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/nauru/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.910853Z"
+  }
+}

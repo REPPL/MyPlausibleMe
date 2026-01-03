@@ -1,0 +1,66 @@
+{
+  "id": "NZL",
+  "title": "New Zealand",
+  "officialName": "New Zealand",
+  "capital": "Wellington",
+  "region": "oceania",
+  "subregion": "Australia and New Zealand",
+  "languages": [
+    "English",
+    "Māori",
+    "New Zealand Sign Language"
+  ],
+  "currencies": [
+    "NZD"
+  ],
+  "geography": {
+    "area": 268838.0,
+    "landlocked": false,
+    "borders": [],
+    "neighbourCount": 0
+  },
+  "population": {
+    "total": 5324700,
+    "density": 19.81
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+64",
+  "timezones": [
+    "UTC-11:00",
+    "UTC-10:00",
+    "UTC+12:00",
+    "UTC+12:45",
+    "UTC+13:00"
+  ],
+  "summary": "New Zealand is a country in Australia and New Zealand. The capital is Wellington. Population: 5.3 million. Area: 268,838 km².",
+  "rank": 124,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/nz.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of New Zealand has a dark blue field with the flag of the United Kingdom — the Union Jack — in the canton and a representation of the Southern Cross constellation, made up of four five-pointed white-edged red stars, on the fly side of the field.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/New_Zealand",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/new-zealand/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.896007Z"
+  }
+}

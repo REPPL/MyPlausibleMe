@@ -1,0 +1,79 @@
+{
+  "id": "ZWE",
+  "title": "Zimbabwe",
+  "officialName": "Republic of Zimbabwe",
+  "capital": "Harare",
+  "region": "africa",
+  "subregion": "Southern Africa",
+  "languages": [
+    "Chibarwe",
+    "English",
+    "Kalanga",
+    "Khoisan",
+    "Ndau",
+    "Northern Ndebele",
+    "Chewa",
+    "Shona",
+    "Sotho",
+    "Tonga",
+    "Tswana",
+    "Tsonga",
+    "Venda",
+    "Xhosa",
+    "Zimbabwean Sign Language"
+  ],
+  "currencies": [
+    "ZWL"
+  ],
+  "geography": {
+    "area": 390757.0,
+    "landlocked": true,
+    "borders": [
+      "BWA",
+      "MOZ",
+      "ZAF",
+      "ZMB"
+    ],
+    "neighbourCount": 4
+  },
+  "population": {
+    "total": 17073087,
+    "density": 43.69
+  },
+  "independent": true,
+  "drivingSide": "left",
+  "callingCode": "+263",
+  "timezones": [
+    "UTC+02:00"
+  ],
+  "summary": "Zimbabwe is a country in Southern Africa. The capital is Harare. Population: 17.1 million. Area: 390,757 km².",
+  "rank": 74,
+  "images": [
+    {
+      "url": "https://flagcdn.com/w320/zw.png",
+      "type": "flag",
+      "isPrimary": true,
+      "alt": "The flag of Zimbabwe is composed of seven equal horizontal bands of green, yellow, red, black, red, yellow and green, with a white isosceles triangle superimposed on the hoist side of the field. This triangle is edged in black, spans about one-fourth the width of the field and has its base on the hoist end. A yellow Zimbabwe bird superimposed on a five-pointed red star is centered in the triangle.",
+      "attribution": {
+        "source": "REST Countries / Flagpedia",
+        "licence": "public-domain",
+        "note": "National flags are in the public domain."
+      }
+    }
+  ],
+  "detailUrls": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Zimbabwe",
+      "source": "Wikipedia"
+    },
+    {
+      "url": "https://www.cia.gov/the-world-factbook/countries/zimbabwe/",
+      "source": "CIA Factbook"
+    }
+  ],
+  "_source": {
+    "api": "REST Countries",
+    "version": "v3.1",
+    "fetchedAt": "2026-01-03T11:09:38.887424Z"
+  }
+}

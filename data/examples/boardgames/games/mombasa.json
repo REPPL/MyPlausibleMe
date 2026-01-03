@@ -1,0 +1,30 @@
+{
+  "id": "mombasa",
+  "title": "Mombasa",
+  "year": 2015,
+  "designers": [
+    "Alexander Pfister"
+  ],
+  "players": {
+    "min": 2,
+    "max": 4
+  },
+  "category": "economic",
+  "summary": "board game",
+  "rank": 46,
+  "detailUrls": [
+    {
+      "url": "https://boardgamegeek.com/boardgame/172386",
+      "source": "BoardGameGeek"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mombasa",
+      "source": "Wikipedia"
+    }
+  ],
+  "_source": {
+    "api": "Wikidata SPARQL",
+    "bggId": "172386",
+    "fetchedAt": "2026-01-03T11:39:11.957252Z"
+  }
+}
